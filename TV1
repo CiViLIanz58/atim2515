@@ -449,3 +449,61 @@ http://cdn.adultiptv.net/gay.m3u8
 
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",ช่อง AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",ช่อง AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV1/header_webboard.png",ช่อง DLTV 1
+https://www.dltv.ac.th/streaming
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV2/header_webboard.png",ช่อง DLTV 2
+https://www.dltv.ac.th/streaming?ch=DLTV2
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV3/header_webboard.png",ช่อง DLTV 3
+https://www.dltv.ac.th/streaming?ch=DLTV3
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV4/header_webboard.png",ช่อง DLTV 4
+https://www.dltv.ac.th/streaming?ch=DLTV4
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV5/header_webboard.png",ช่อง DLTV 5
+https://www.dltv.ac.th/streaming?ch=DLTV5
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV6/header_webboard.png",ช่อง DLTV 6
+https://www.dltv.ac.th/streaming?ch=DLTV6
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV7/header_webboard.png",ช่อง DLTV 7
+https://www.dltv.ac.th/streaming?ch=DLTV7
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV8/header_webboard.png",ช่อง DLTV 8
+https://www.dltv.ac.th/streaming?ch=DLTV8
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV9/header_webboard.png",ช่อง DLTV 9
+https://www.dltv.ac.th/streaming?ch=DLTV9
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV10/header_webboard.png",ช่อง DLTV 10
+https://www.dltv.ac.th/streaming?ch=DLTV10
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV11/header_webboard.png",ช่อง DLTV 11
+https://www.dltv.ac.th/streaming?ch=DLTV11
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV12/header_webboard.png",ช่อง DLTV 12
+https://www.dltv.ac.th/streaming?ch=DLTV12
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV13/header_webboard.png",ช่อง DLTV 13
+https://www.dltv.ac.th/streaming?ch=DLTV13
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV14/header_webboard.png",ช่อง DLTV 14
+https://www.dltv.ac.th/streaming?ch=DLTV14
+
+#EXTINF:-1 group-title="LEARNING" tvg-logo="https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV15/header_webboard.png",ช่อง DLTV 15
+https://www.dltv.ac.th/streaming?ch=DLTV15
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",ช่อง Channel 8
+http://www.channel8thailand.com/
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg",ช่อง SUN MOVIE
+https://raw.githubusercontent.com/maxchanon/maxiptv/main/SUNCHANNEL.m3u8
+
+
+
+
