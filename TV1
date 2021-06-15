@@ -501,8 +501,7 @@ https://www.dltv.ac.th/streaming?ch=DLTV15
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://iptvthai.my.to/logo/Lakorn-Thai.png?rev=8",ช่อง ละครไทย
-https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+
 
 
 
