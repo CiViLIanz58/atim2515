@@ -501,6 +501,12 @@ https://www.dltv.ac.th/streaming?ch=DLTV15
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
 
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-thai-tv-shopping-2812.jpg",ช่อง LAO-THAI TV USA
+https://live-tv-channels.org/livetv/th-Thai-TV-Shopping-live-stream-Thailand-TV-channels.html
+
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://image.oshoppingtv.com/media/wysiwyg/faq/banner-1.jpg",ช่อง O Shopping
+https://www.oshoppingtv.com/
+
 
 
 
