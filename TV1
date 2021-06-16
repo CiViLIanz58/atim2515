@@ -594,11 +594,14 @@ https://toonee.tv/
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.pinimg.com/originals/11/6e/d8/116ed80f298c8ee40551e9291a2273f6.png",ช่อง Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://p.kindpng.com/picc/s/287-2873744_cinemax-logo-png-transparent-png.png",ช่อง Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.coolzaa.com/wp-content/uploads/2018/06/looktungnetwork.jpg",ช่อง ลูกทุ่งเน็ตเวิร์ก
+https://54c241893bf39.streamlock.net/looktungnetwork1/looktungnetwork1/chunklist_w9273485.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://p.kindpng.com/picc/s/287-2873744_cinemax-logo-png-transparent-png.png",ช่อง ลูกทุ่งทีวี
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ytimg.com/vi/kXpqaPiMAcc/maxresdefault_live.jpg",ช่อง ลูกทุ่ง TVHD
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist_Fuso_121120.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://vhx.imgix.net/hi-yahtv/assets/2d0cd40c-eaee-48cf-9ab3-b2cf69d6e110-9b300abc.png?auto=format%2Ccompress&fit=crop&h=720&w=1280",ช่อง Hi-Yah!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 
 
 
