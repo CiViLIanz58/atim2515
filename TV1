@@ -565,16 +565,16 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 http://www.etvthai.tv/stream/home.aspx
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ช่อง Astro Supersport
-https://www.livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",ช่อง Astro Supersport 2
-http://thaicable.myftp.org:8000/live/infosat/2020/8.ts
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711",ช่อง Astro Supersport 3
-http://thaicable.myftp.org:8000/live/infosat/2020/9.ts
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ช่อง Astro Supersport 4
-http://thaicable.myftp.org:8000/live/infosat/2020/10.ts
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 
 
