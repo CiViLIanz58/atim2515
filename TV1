@@ -627,8 +627,11 @@ http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEIjkXIwWP_bnQgKWtO8-IcOj0XlUW3l3pM8fFAAs8sMmPvnEi8Q9_0VcoptCebANoffI&usqp=CAU",ช่อง 澳視葡文
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/tpGuJODqyBzr0d5llyuN4rPu2LH-eW0ysJwfjdwWXzXNXLnKIrkWiwg0rmb9walG1VyDF25ijyZSjKGule12eRGtcnWpof4vj5M6_0nEBre6S_I-GqXx4w",ช่อง 澳視衛視
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/TJez1k2XOsQ6kfhcICRK4BsZR5Z1jB4-iIjVX8Fbst2iz7oBSJA8IvhnixCPbMzgZ75BESBLN94Fy0ZrKO26wvnq0nvW6lI8HLsA7R8fqgwBsC7H",ช่อง 澳視衛視
 http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/QqHLlcdgf9R3tqjkyRsV8RKS8Zw0nc1HucrMGFYj6J1WvDvsbtNrP0aORGx8LXc9JnFRnfDqb5mFJXIUkcs-tjhEZR0CNMWmrW1CfrL_N4z7TzEZyfAZi3k85UldOjGYG_kT",ช่อง 澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 
 
 
