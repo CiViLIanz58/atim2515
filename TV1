@@ -576,14 +576,14 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/profile_images/611838002206146560/UQS0dlPO.jpg",ช่อง THRILL
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.ilike-movie.com/uploads/png/MANGORN.png",ช่อง มังกร
-https://livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.ilike-movie.com/uploads/png/MANGORN.png",ช่อง Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXqpUcqYEs9LzRpVXCfzeHHQy1oN1K2Ke3cBeH4M1ryOHawKs&usqp=CAU",ช่อง พระเครื่อง อ.ไบร์
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0MZLi649n-VeTFyT-czq_vJPOq0b5_KlxkMxNEh675TiNHZMvgFEesv0GQ1so54bH0Y&usqp=CAU",ช่อง Brian TV
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://payload.cargocollective.com/1/4/142879/10317228/07_2000_c.jpg",ช่อง RED by HBO
-http://dootv.streaming-fast.com/hbogogo/RED.m3u8
+https://www.dropbox.com/s/1wmlsklnt5xcfie/REDX.m3u8?dl=1
 
 
 
