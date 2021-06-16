@@ -507,6 +507,60 @@ https://live-tv-channels.org/livetv/th-Thai-TV-Shopping-live-stream-Thailand-TV-
 #EXTINF:-1 group-title="SHOPPING" tvg-logo="https://image.oshoppingtv.com/media/wysiwyg/faq/banner-1.jpg",ช่อง O Shopping
 https://www.oshoppingtv.com/
 
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",ช่อง Astro AOD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",ช่อง Astro Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png",ช่อง Astro Awani
+http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://nationalpressclub.org.my/wp-content/uploads/2020/04/bernama-logo-png-4.png",ช่อง Astro Bernama
+http://185.180.221.194:8278/streams/d/Bernama/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://d3avoj45mekucs.cloudfront.net/astrogempak/media/articleasset/boohh.jpg?ext=.jpg",ช่อง Astro Boo
+http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png",ช่อง Astro Ceria
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest?cb=20201215114818",ช่อง Astro Citra
+http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://pbs.twimg.com/profile_images/560641520110301184/d8ShmTp5_400x400.png",ช่อง Astro Go Shop 2
+http://185.180.221.194:8278/streams/d/Goshop2/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Hello_TV.png/revision/latest?cb=20201116050226",ช่อง Astro Hello
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",ช่อง Astro Oasis
+http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png",ช่อง Astro Prima
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png",ช่อง Astro Warna
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png",ช่อง Astro Wah Lai Toi
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",ช่อง Astro Hua Hee Dai
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",ช่อง Astro Quan Jia
+http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png",ช่อง Astro Shuang Xing
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh0gL2Zd0zhRifTbQGKanrsL7DHgMNc9MDplJMv=s176-c-k-c0x00ffffff-no-rj-mo",ช่อง บุญนิยม ทีวี
+http://live.boonniyom.tv:1935/live/bntvhd/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png",ช่อง Astro Xiao Tai Yang
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
 
 
 
