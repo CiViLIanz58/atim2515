@@ -600,11 +600,17 @@ https://54c241893bf39.streamlock.net/looktungnetwork1/looktungnetwork1/chunklist
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ytimg.com/vi/kXpqaPiMAcc/maxresdefault_live.jpg",ช่อง ลูกทุ่ง TVHD
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist_Fuso_121120.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",ช่อง Cinema World
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://personalexcellence.co/files/channel-news-asia-logo.jpg",ช่อง Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Bloomberg-log%D0%BE.jpg",ช่อง BLOOMBERG
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.omnitv.ca/wp-content/uploads/2013/11/628_arirangkorea.jpg",ช่อง ARIRANG Korea
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429",ช่อง TVB翡翠台
+http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 
 
 
