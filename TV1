@@ -621,23 +621,14 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png",ช่อง now直播台
 http://livetv.dnsfor.me:80/channel.3.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",ช่อง 港台电视31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://www.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg",ช่อง 無綫新聞台
-http://livetv.dnsfor.me:80/channel.10.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://i0.wp.com/tw.fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg",ช่อง 無綫財經·資訊台
-http://livetv.dnsfor.me:80/channel.11.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/SmNx7JZ_WyEYAN81UvuAMh4E-mzdI3--kgHqMvtPzF5IOjwG79EP308l6BZ6Ma1RqEDVJ47KWbHtNuFRMaX1Y_joGniH",ช่อง 风凰资讯
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/200px-Phoenix_Movies.svg.png",ช่อง 凤凰电影
-https://www.fanmingming.cn/hls/fhdy.m3u8
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/qLB4pUsr174EcRZgixLSEIDozcNzy0eJ1Vi3hFdHJ8tTV1H1HBUKAMUhGvQRoCNRqSrjLFxxNCp4s5XckqRjQo8Bccg2DT0",ช่อง 凤凰资讯台
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png",ช่อง 澳亚卫视
+http://116.199.5.52:8114/00000000/index.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEIjkXIwWP_bnQgKWtO8-IcOj0XlUW3l3pM8fFAAs8sMmPvnEi8Q9_0VcoptCebANoffI&usqp=CAU",ช่อง 澳視葡文
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 
 
 
