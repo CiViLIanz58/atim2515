@@ -564,11 +564,11 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:-1 group-title="LEARNING" tvg-logo="http://www.etvthai.tv/images_new/logo.png",ช่อง ETV
 http://www.etvthai.tv/stream/home.aspx
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/K0LRPKS/Star-Sports-Select-1.jpg",ช่อง STAR SPORTS SELECT 1 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.ibb.co/K0LRPKS/Star-Sports-Select-1.jpg",ช่อง CINEMA WORLD
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/9bVR8nw/star-sports-select-hd-2.jpg",ช่อง STAR SPORTS SELECT 2 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.ibb.co/9bVR8nw/star-sports-select-hd-2.jpg",ช่อง MY CINEMA
+http://210.210.155.35/session/aefb538a-7c46-11ea-a7a4-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://1.bp.blogspot.com/-9ayiUNErHFg/WA2e3Uco0ZI/AAAAAAAAf08/wYPh3Biul8U5qULINsrgkmpZdfWUcEOuQCLcB/s1600/celestial-movie-tv-channel-logo.png",ช่อง Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
