@@ -564,8 +564,8 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:-1 group-title="LEARNING" tvg-logo="http://www.etvthai.tv/images_new/logo.png",ช่อง ETV
 http://www.etvthai.tv/stream/home.aspx
 
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLgJVagePi0AD68G1XgrCIcHX4CYrzKIFSdw&usqp=CAU",ช่อง Euit ANGEL
-http://185.238.242.136:20000/hls/play/id/462.m3u8
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://teevee-hd.com/img/Sky1.jpg",ช่อง live SKY1
+http://27.254.149.109:8081/tumlive/ipmskyworldhd1.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://1.bp.blogspot.com/-Vihs4DPTyWo/XxzNbv0Yy9I/AAAAAAAAp_o/Z05Zg7xTP_sbRFSW0Wc2x3mhT2LrKDP1gCLcBGAsYHQ/s1600/my-cinema-mandarin-channel-tv-logo.png",ช่อง MY CINEMA
 http://210.210.155.35/session/aefb538a-7c46-11ea-a7a4-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
