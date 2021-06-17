@@ -876,6 +876,9 @@ https://053155d1274848ed85106dbf20adc283.mediatailor.us-east-1.amazonaws.com/v1/
 EXTINF:-1 group-title="MUSIC" tvg-logo="https://mms.businesswire.com/media/20190404005486/en/714314/22/Loop_Logo.jpg",ช่อง Loop Electronica 
 https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
 
+EXTINF:-1 group-title="MUSIC" tvg-logo="https://mms.businesswire.com/media/20190404005486/en/714314/22/Loop_Logo.jpg",ช่อง Loop Hip-Hop 
+https://5580b04771d94e5eb245830c5975eb77.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHipHop/playlist.m3u8
+
 
 
 
