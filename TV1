@@ -633,6 +633,106 @@ http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/QqHLlcdgf9R3tqjkyRsV8RKS8Zw0nc1HucrMGFYj6J1WvDvsbtNrP0aORGx8LXc9JnFRnfDqb5mFJXIUkcs-tjhEZR0CNMWmrW1CfrL_N4z7TzEZyfAZi3k85UldOjGYG_kT",ช่อง 澳视澳门
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pbs.twimg.com/media/C7WZesmVAAErlVt.jpg",ช่อง アニマックス
+https://www.nettvpro.live/en/play.php?aid=6667
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F182C27024BDEC2533F",ช่อง Anibox TV
+https://www.nettvpro.live/en/play.php?aid=10554
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://newscast.jp/attachments/FdIJsDVcRrwUgl20FEzB.jpg",ช่อง BS朝日
+https://www.nettvpro.live/en/play.php?aid=7099
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png",ช่อง STAR 1
+https://www.nettvpro.live/en/play.php?aid=9125
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://japan-programcatalog.com/japacon/open/open-page!image?fid=9419",ช่อง BS12
+https://www.nettvpro.live/en/play.php?aid=10409
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.obc.co.jp/hubfs/casestudies/112/cs_kv01.jpg?aaa",ช่อง BSフジ
+https://www.nettvpro.live/en/play.php?aid=10408
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://av.watch.impress.co.jp/img/avw/docs/1145/556/1001bs02_s.jpg",ช่อง BSテレビ東京
+https://www.nettvpro.live/en/play.php?aid=8731
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.bs4.jp/assets/images/meta/ogp.png",ช่อง BS日テレ
+https://www.nettvpro.live/en/play.php?aid=10407
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png",ช่อง NHK BSプレミアム
+https://www.nettvpro.live/en/play.php?aid=8727
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20210123215055",ช่อง NHK BS1
+https://www.nettvpro.live/en/play.php?aid=8728
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-201-400x400.png",ช่อง STAR 2
+https://www.nettvpro.live/en/play.php?aid=9126
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",ช่อง J Sports 2
+https://www.nettvpro.live/en/play.php?aid=8741
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/38-JSPORT3-770x480.jpg",ช่อง J Sports 3
+https://www.nettvpro.live/en/play.php?aid=8742
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png",ช่อง BS-TBS
+https://www.nettvpro.live/en/play.php?aid=7098
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",ช่อง Disney Channel Japan
+https://www.nettvpro.live/en/play.php?aid=10381
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://seeklogo.com/images/S/shop-channel-logo-B05C72F34A-seeklogo.com.png",ช่อง Jupiter Shop Channel
+https://www.nettvpro.live/en/play.php?aid=1663
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png",ช่อง QVC Japan
+https://www.nettvpro.live/en/play.php?aid=1662
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/godzilla/images/0/07/Nippon_tv_logo_2014.png/revision/latest?cb=20140725194555",ช่อง Nippon TV
+https://www.nettvpro.live/en/play.php?aid=10194
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/04/tv-asahi-logo-vector.png",ช่อง テレビ朝日
+https://www.nettvpro.live/en/play.php?aid=5856
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/1-NHK-General-TV-1.jpg",ช่อง NHK General TV
+https://www.nettvpro.live/en/play.php?aid=9124
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",ช่อง NHK Eテレ
+https://www.nettvpro.live/en/play.php?aid=1659
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://japan-programcatalog.com/japacon/open/open-sales-company!image?tsid=128&imageNumber=1&id=2",ช่อง Hiroshima TV
+https://www.nettvpro.live/en/play.php?aid=10005
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://inboundnavi.jp/wp-content/uploads/2016/04/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93-%E3%83%AD%E3%82%B4.png",ช่อง フジテレビ
+https://www.nettvpro.live/en/play.php?aid=5544
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png",ช่อง Anime TV
+https://www.nettvpro.live/en/play.php?aid=9827
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://press.jal.co.jp/ja/items/uploads/a89741436e550f5d12646481975ad63fd075c490.png",ช่อง Weathernews
+https://www.nettvpro.live/en/play.php?aid=1658
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0a/NHK_Huayu_Shijie_Logo.jpg/400px-NHK_Huayu_Shijie_Logo.jpg",ช่อง NHK华语视界
+https://www.nettvpro.live/en/play.php?aid=6890
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.njpw1972.com/wp-content/uploads/2017/03/world.png",ช่อง NJPW World
+https://www.nettvpro.live/en/play.php?aid=10183
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png",ช่อง TV TOKYO
+https://www.nettvpro.live/en/play.php?aid=1664
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniT3i9Uj5qjy-LoWc0H17Rx9ds4iACSCq5NPVZC=s900-c-k-c0x00ffffff-no-rj",ช่อง NTV News 24
+https://www.nettvpro.live/en/play.php?aid=2903
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/jp-gstv-7333.jpg",ช่อง GSTV
+https://www.nettvpro.live/en/play.php?aid=1665
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.isid.co.jp/news/release/2018/t1kcm5000000qxe2-img/OGP.png",ช่อง エムキャス
+https://www.nettvpro.live/en/play.php?aid=8405
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/LOGO_%28GUNMA_TV%29.jpg/revision/latest?cb=20150508100755",ช่อง Gunma TV
+https://www.nettvpro.live/en/play.php?aid=9987
+
+
+
+
+
 
 
 
