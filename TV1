@@ -621,16 +621,16 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png",ช่อง now直播台
 http://livetv.dnsfor.me:80/channel.3.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/qLB4pUsr174EcRZgixLSEIDozcNzy0eJ1Vi3hFdHJ8tTV1H1HBUKAMUhGvQRoCNRqSrjLFxxNCp4s5XckqRjQo8Bccg2DT0",ช่อง 凤凰资讯台
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/4G7zvrF7zOjC_7viBw-88XiugFE7Ncr8r46OzBP-Aih0k0002fsuJrB36JU9Qsw3BkdkQ8mihnhCH9-Bt11NOUWHFyvPZ5U",ช่อง 凤凰资讯台
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEIjkXIwWP_bnQgKWtO8-IcOj0XlUW3l3pM8fFAAs8sMmPvnEi8Q9_0VcoptCebANoffI&usqp=CAU",ช่อง 澳視葡文
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/TJez1k2XOsQ6kfhcICRK4BsZR5Z1jB4-iIjVX8Fbst2iz7oBSJA8IvhnixCPbMzgZ75BESBLN94Fy0ZrKO26wvnq0nvW6lI8HLsA7R8fqgwBsC7H",ช่อง 澳視衛視
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://pic.iask.cn/fimg/65766214872.jpg",ช่อง 澳視衛視
 http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/QqHLlcdgf9R3tqjkyRsV8RKS8Zw0nc1HucrMGFYj6J1WvDvsbtNrP0aORGx8LXc9JnFRnfDqb5mFJXIUkcs-tjhEZR0CNMWmrW1CfrL_N4z7TzEZyfAZi3k85UldOjGYG_kT",ช่อง 澳视澳门
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.sports8.cc/cimg/1494.jpg",ช่อง 澳视澳门
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pbs.twimg.com/media/C7WZesmVAAErlVt.jpg",ช่อง アニマックス
