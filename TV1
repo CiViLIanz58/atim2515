@@ -939,11 +939,17 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://s3.spbtv.com/spbtv-world-production/51871e0498c3e562504b.png",ช่อง Jenny Live 2
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.qingmo.net/wp-content/uploads/2019/02/tvbfct.jpg",ช่อง 香港",無線電視翡翠台
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.qingmo.net/wp-content/uploads/2019/02/tvbfct.jpg",ช่อง 無線電視翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/TVB_News_Channel_2017.png",ช่อง 香港",無線電視J1台
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://i0.hdslb.com/bfs/archive/1839af777a6b82a1edc180b809d949100fe2bfcc.jpg",ช่อง 無線電視J1台
 https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.viu.tv/viutv_logo.png",ช่อง viuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",ช่อง RTHK31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 
 
 
