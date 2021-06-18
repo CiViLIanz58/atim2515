@@ -822,7 +822,7 @@ https://www.nettvpro.live/en/play.php?aid=1592
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live.nkt.tv/public/files/shows/0/1/635-640x360-000000.jpg",ช่อง LLBN Korean
 https://www.nettvpro.live/en/play.php?aid=5803
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/fJABa8TXxb3qOnjVVHFrSQpeUOtHklsy2PrlyUyJf1iWOLyI1uC6sgxaqw-lSIHmYPxH6oQhm5ZoJlPrvtg4DY-2HqRaInArcVcqIFwyP4zm4Nrgpg2Rhes",ช่อง 耀才財經台
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.bsgroup.com.hk/images/HK/home2/BSTV.jpg",ช่อง 耀才財經台
 https://www.nettvpro.live/en/play.php?aid=807
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://www.ctstvnet.com/uploads/image/20190904/1567573278176773.png",ช่อง 亞旅衛視
@@ -914,6 +914,32 @@ http://player.teleon.tv/us/channel/90210-us
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",ช่อง 90s Throwback 
 http://player.teleon.tv/us/channel/90s-throwback-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://p.kindpng.com/picc/s/287-2873744_cinemax-logo-png-transparent-png.png",ช่อง CINEMAX 
+https://nangfaiptv.online/tv-player/cinemax-hd.html
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://user-prod-theta-tv.imgix.net/usr5dkr799v7s8tf6td/stream_thumb/1600373503954.contvanimelive_CONtvAnime_WebMain_1900x850_v1.jpg?w=720",ช่อง CONtv Anime 
+http://player.teleon.tv/us/channel/contv-anime-us
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/kamenrider/images/3/37/TokuSHOUTsu_logo.png/revision/latest?cb=20200316163643",ช่อง TokuSHOUTsu 
+http://player.teleon.tv/us/channel/tokushoutsu-us
+
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://image.roku.com/developer_channels/prod/67c772bb9fce340d413ebc744e90bb590624c5c5335323e72b3400f3d8a3c152.png",ช่อง Cooking Panda 
+http://player.teleon.tv/us/channel/cooking-panda-us
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-miami-tv-life-3522.jpg",ช่อง Miami TV 
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://s3.spbtv.com/spbtv-world-production/6ed423305de6d86a25d0.png",ช่อง Miami TV Latino 
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://s3.spbtv.com/spbtv-world-production/51871e0498c3e562504b.png",ช่อง Jenny Live 
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://s3.spbtv.com/spbtv-world-production/51871e0498c3e562504b.png",ช่อง Jenny Live 2
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+
+
 
 
 
