@@ -939,8 +939,11 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://s3.spbtv.com/spbtv-world-production/51871e0498c3e562504b.png",ช่อง Jenny Live 2
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://thaishopdesign.com/wp-content/uploads/2018/02/Wellnessmarkshop.com_.png",ช่อง 香港",無線電視翡翠台
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.qingmo.net/wp-content/uploads/2019/02/tvbfct.jpg",ช่อง 香港",無線電視翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/01/TVB_News_Channel_2017.png",ช่อง 香港",無線互動新聞台
+http://livetv.dnsfor.me/channel.10.m3u8
 
 
 
