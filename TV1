@@ -864,6 +864,59 @@ https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://mms.businesswire.com/media/20190404005486/en/714314/22/Loop_Logo.jpg",ช่อง Loop Hip-Hop 
 https://5580b04771d94e5eb245830c5975eb77.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHipHop/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://a.jsrdn.com/hls/22907/24-hour-free-movies/poster_20200922_191828.jpg",ช่อง 24 Hour Free Movies 
+http://player.teleon.tv/us/channel/24-hour-free-movies-us
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://cdn.teleon.tv/logo/absolute-reality-us.png",ช่อง Absolute Reality 
+http://player.teleon.tv/us/channel/absolute-reality-us
+
+#EXTINF:-1 group-title="30A.TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-swLBlY2L.png",ช่อง 30A Answers That Count 
+http://player.teleon.tv/us/channel/30atv-answers-that-count
+
+#EXTINF:-1 group-title="30A.TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-swLBlY2L.png",ช่อง 30A Channel 
+http://player.teleon.tv/us/channel/30atv-channel
+
+#EXTINF:-1 group-title="30A.TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-swLBlY2L.png",ช่อง 30A Fishing Offshore 
+http://player.teleon.tv/us/channel/30atv-fishing-offshore
+
+#EXTINF:-1 group-title="30A.TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-swLBlY2L.png",ช่อง 30A Georgia Hollywood Review TV 
+http://player.teleon.tv/us/channel/30atv-georgia-hollywood-review-tv
+
+#EXTINF:-1 group-title="30A.TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-swLBlY2L.png",ช่อง 30A Investment Pitch News 
+http://player.teleon.tv/us/channel/30atv-investment-pitch-news
+
+#EXTINF:-1 group-title="30A.TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-swLBlY2L.png",ช่อง 30A Lionel Nation 
+http://player.teleon.tv/us/channel/30atv-lionel-nation
+
+#EXTINF:-1 group-title="30A.TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-swLBlY2L.png",ช่อง 30A Loomered TV 
+http://player.teleon.tv/us/channel/30atv-loomered-tv
+
+#EXTINF:-1 group-title="30A.TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-swLBlY2L.png",ช่อง 30A Music 
+http://player.teleon.tv/us/channel/30a-music-us
+
+#EXTINF:-1 group-title="30A.TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-swLBlY2L.png",ช่อง 30A Nothing Scripted TV 
+http://player.teleon.tv/us/channel/30atv-nothing-scripted-tv
+
+#EXTINF:-1 group-title="30A.TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-swLBlY2L.png",ช่อง 30A Sidewalks TV 
+http://player.teleon.tv/us/channel/30atv-sidewalks-tv
+
+#EXTINF:-1 group-title="30A.TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-swLBlY2L.png",ช่อง 30A The Beach Show 
+http://player.teleon.tv/us/channel/30atv-the-beach-show
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",ช่อง 70s Cinema 
+http://player.teleon.tv/us/channel/70s-cinema-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.pinimg.com/originals/61/8f/14/618f1405e5de6f552d3d02d550b74d37.png",ช่อง 80s Rewind 
+http://player.teleon.tv/us/channel/80s-rewind-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/Ejf7VrVU8AEJLDD.jpg",ช่อง 90210 
+http://player.teleon.tv/us/channel/90210-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",ช่อง 90s Throwback 
+http://player.teleon.tv/us/channel/90s-throwback-us
+
+
+
 
 
 
