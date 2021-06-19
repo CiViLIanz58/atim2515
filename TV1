@@ -1086,8 +1086,8 @@ http://player.teleon.tv/us/channel/atlanta-channel
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://a.jsrdn.com/hls/22866/awe-encore/thumbh_20210113_005834.jpg",ช่อง AWE Plus
 http://player.teleon.tv/us/channel/awe-plus-us
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F3c5d2b05aac47f7ed39a78b729399dc7a393956f908cb9cf83a1051ea1914d53.jpg",ช่อง Baeble Music
-http://player.teleon.tv/us/channel/baeble-music-us
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bellator.mtvnimages.com/images/shows/bellator/web-series/BellatorMMA_CBS_Announce_300dpi_1920x1080.jpg?quality=0.85&width=1029&height=581&crop=true",ช่อง Bellator MMA
+http://player.teleon.tv/us/channel/bellator-mma-us
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/EHb_-sMW4AItkwP.jpg",ช่อง Baywatch
 http://player.teleon.tv/us/channel/baywatch-us
@@ -1097,6 +1097,9 @@ http://player.teleon.tv/us/channel/bbc-home-us
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.xumo.com/v1/channels/channel/9999387/800x800.png?type=smartCast_channelTile",ช่อง beIN SPORTS XTRA
 http://player.teleon.tv/us/channel/bein-sports-xtra-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/BET_Her.svg/1200px-BET_Her.svg.png",ช่อง BET Her
+http://player.teleon.tv/us/channel/bet-her-us
 
 
 
