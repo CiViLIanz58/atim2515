@@ -1026,6 +1026,78 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://pbs.twimg.com/profile_images/1180803776/04_winter_profile_pic.jpg",ช่อง BBC Food
 http://player.teleon.tv/us/channel/bbc-food-us
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://3abn.org/img/logos/tv/3ABN.png",ช่อง 3ABN
+http://player.teleon.tv/us/channel/3abn-english
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png",ช่อง 7News (Boston)
+http://player.teleon.tv/us/channel/7news-boston-us
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://cdn.abcotvs.net/abcotv/assets/news/wpvi/images/logos/default_800x450.jpg",ช่อง ABC 6 Philadelphia
+http://player.teleon.tv/us/channel/abc-6-philadelphia
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/1200px-ABC_News_solid_black_logo.svg.png",ช่อง ABC News
+http://player.teleon.tv/us/channel/abc-news-hd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://d10bt0812qicot.cloudfront.net/img/7c/a9554a23bf43a28223ccc8e4e0dea2/720x405.jpg",ช่อง ACCDN
+http://player.teleon.tv/us/channel/accdn-us
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="http://cdn.teleon.tv/logo/adventure-tv-us.png",ช่อง Adventure TV
+http://player.teleon.tv/us/channel/adventure-tv-us
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://corporate.pluto.tv/wp-content/uploads/2016/06/after-school-cartoons-channel-feature.jpg",ช่อง After School Cartoons
+http://player.teleon.tv/us/channel/after-school-cartoons-us
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://cdn.teleon.tv/logo/afv-family-us.png",ช่อง AFV Family
+http://player.teleon.tv/us/channel/afv-family-us
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://cdn.teleon.tv/logo/afv-tv-us.png",ช่อง AFV TV
+http://player.teleon.tv/us/channel/afv-tv-us
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://cdn.teleon.tv/logo/all-reality-by-we-tv-us.png",ช่อง All Reality by WE tv
+http://player.teleon.tv/us/channel/all-reality-by-we-tv-us
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://cdn.teleon.tv/logo/all-weddings.png",ช่อง All Weddings by WE tv
+http://player.teleon.tv/us/channel/all-weddings
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjM0MjczNjJf?inline=1",ช่อง AMC Presents
+http://player.teleon.tv/us/channel/amc-presents-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i0.wp.com/www.nightmarishconjurings.com/wp-content/uploads/2020/05/STORIES_by_AMC_Channel_1440x1080_Promo.jpg?resize=640%2C480",ช่อง AMC Stories
+http://player.teleon.tv/us/channel/amc-stories-us
+
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2020/03/americas-test-kitchen-logo-vector.png",ช่อง America's Test Kitchen
+http://player.teleon.tv/us/channel/americas-test-kitchen-us
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://image.roku.com/developer_channels/prod/2bd7e2ab91767e23580b8d5bcbee3e4ddb124351f26a053c78bb4bdd74584b29.png",ช่อง America's Voice News
+http://player.teleon.tv/us/channel/americas-voice-us
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.top5.com/wp-content/uploads/2020/07/screen-shot-2020-07-15-at-11.46.27-am.png",ช่อง American Gladiators
+http://player.teleon.tv/us/channel/american-gladiators-us
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://static.wikia.nocookie.net/familyguyfanon/images/1/1c/Antique%27s_Roadshow.jpg/revision/latest?cb=20191215055245",ช่อง Antiques Roadshow UK
+http://player.teleon.tv/us/channel/antiques-roadshow-uk-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91uXC3hrLwL.png",ช่อง AsianCrush
+http://player.teleon.tv/us/channel/asiancrush-us
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://image.roku.com/developer_channels/prod/04108b0d177afdddd43e321db231eeeb22addc8e37665b2c29e15800ad3b69a1.png",ช่อง Atlanta Channel
+http://player.teleon.tv/us/channel/atlanta-channel
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://a.jsrdn.com/hls/22866/awe-encore/thumbh_20210113_005834.jpg",ช่อง AWE Plus
+http://player.teleon.tv/us/channel/awe-plus-us
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F3c5d2b05aac47f7ed39a78b729399dc7a393956f908cb9cf83a1051ea1914d53.jpg",ช่อง Baeble Music
+http://player.teleon.tv/us/channel/baeble-music-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/EHb_-sMW4AItkwP.jpg",ช่อง Baywatch
+http://player.teleon.tv/us/channel/baywatch-us
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://pbs.twimg.com/media/EsHAoO_VcAEQCMp.jpg",ช่อง BBC Home
+http://player.teleon.tv/us/channel/bbc-home-us
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.xumo.com/v1/channels/channel/9999387/800x800.png?type=smartCast_channelTile",ช่อง beIN SPORTS XTRA
+http://player.teleon.tv/us/channel/bein-sports-xtra-us
+
 
 
 
