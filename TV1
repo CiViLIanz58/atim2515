@@ -960,8 +960,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847111
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ytimg.com/vi/sLEVLbAn8wA/maxresdefault.jpg",ช่อง Retro Crush
 https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",ช่อง Retro Music TV
-http://player.teleon.tv/us/channel/retro-music-tv
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/media/EM1d5Y5U4AEX--z.jpg",ช่อง Pluto TV Celebrity
+http://player.teleon.tv/us/channel/pluto-tv-celebrity-us
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://simoneheng.com/wp-content/uploads/2019/10/Channel-V-International.jpg",ช่อง Channel V
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
