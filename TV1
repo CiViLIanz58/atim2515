@@ -951,20 +951,15 @@ https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",ช่อง RTHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV_International_2009.svg/1200px-MTV_International_2009.svg.png",ช่อง MTV
-https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.vippng.com/png/detail/47-478054_mtv-hits-2017-logo-mtv-video-music-awards.png",ช่อง MTV Hits Europe
-http://188.40.68.167/russia/mtv_hits/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.nydailynews.com/resizer/IctNeXI6M141Wg0FTH2slE1tZqo=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/Z7J6PDP5TVUJAOHH54VHQ5BVPI.jpg",ช่อง MTV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://pbs.twimg.com/profile_images/1115500483961950208/q3Wlk_Pt_400x400.png",ช่อง MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.musicpressasia.com/wp-content/uploads/2017/04/16-9.png",ช่อง MTVmix
-http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://deadline.com/wp-content/uploads/2019/08/pluto-007x.png",ช่อง Pluto TV James Bond 007
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pbs.twimg.com/profile_images/875521212432003073/jTDObCPJ_400x400.jpg",ช่อง MUSIC JAPAN
-http://122.155.180.8:5021/live/495
+
+
+
 
 
 
