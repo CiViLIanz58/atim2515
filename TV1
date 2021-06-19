@@ -963,10 +963,10 @@ https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",ช่อง Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrwRHnu9wjSQdGSYmunIBkJVfRubfqf9VPQ&usqp=CAU",ช่อง Retro Plus
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images.squarespace-cdn.com/content/5a70fa14e45a7c7dd2fadad0/1536190140313-DFSSZD8QSY3ENEFQD78G/bowie_tv_2_bnet_1080sq.jpg?content-type=image%2Fjpeg",ช่อง Bowie TV
+https://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://platcon.tv/img/p/1/1/8/118-thickbox_default.jpg",ช่อง Retro Plus 2
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrwRHnu9wjSQdGSYmunIBkJVfRubfqf9VPQ&usqp=CAU",ช่อง Retro Plus 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png",ช่อง Sexy Kpop TV
@@ -984,7 +984,7 @@ http://shoutfactory-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png",ช่อง Sky 1 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png",ช่อง Sky 2 Racing
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/0/1514269377/6411.png",ช่อง Sky 2 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/0/1482296522/6412.png",ช่อง Sky Thoroughbred Central
@@ -999,8 +999,8 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.vimeocdn.com/video/722791735_640",ช่อง Action Hollywood Movies
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854",ช่อง BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png",ช่อง BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png",ช่อง BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
@@ -1008,11 +1008,11 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",ช่อง Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",ช่อง Boomerang
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://pbs.twimg.com/profile_images/793150060917907456/jpJURr5n_400x400.jpg",ช่อง Battery Pop
+https://nrpus.bozztv.com/36bay2/gusa-batterypop/index.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0f/CCTV-1.png/revision/latest?cb=20200821151602",ช่อง CCTV1 综合
-http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
+http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
 
 
 
