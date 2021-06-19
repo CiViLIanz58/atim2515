@@ -1017,8 +1017,8 @@ http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1200px-Global_News.svg.png",ช่อง Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 
-#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ffoxlife_1200.png",ช่อง Fox Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://variety.com/wp-content/uploads/2018/03/fox-news-logo.jpg?w=681&h=383&crop=1",ช่อง Fox News
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
 
 
