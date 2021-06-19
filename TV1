@@ -954,11 +954,66 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://pbs.twimg.com/profile_images/1115500483961950208/q3Wlk_Pt_400x400.png",ช่อง MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://deadline.com/wp-content/uploads/2019/08/pluto-007x.png",ช่อง Pluto TV James Bond 007
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.4kfilme.de/wp-content/uploads/2021/02/MTV-Unplugged-324x160.jpg",ช่อง Pluto TV MTV Unplugged
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ytimg.com/vi/sLEVLbAn8wA/maxresdefault.jpg",ช่อง Retro Crush
+https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",ช่อง Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrwRHnu9wjSQdGSYmunIBkJVfRubfqf9VPQ&usqp=CAU",ช่อง Retro Plus
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://platcon.tv/img/p/1/1/8/118-thickbox_default.jpg",ช่อง Retro Plus 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png",ช่อง Sexy Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://thehorrorofbeingemily.com/wp-content/uploads/2018/02/Screamfest-logo-9-1-16-1.png",ช่อง Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/9999265/300x300.png?type=smartCast_channelTile",ช่อง Shout! Factory TV
+https://shoutfactory-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://pbs.twimg.com/media/EiXugDTX0AECnJz.jpg",ช่อง Shout! Factory TV
+http://shoutfactory-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png",ช่อง Sky 1 Racing
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png",ช่อง Sky 2 Racing
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/0/1482296522/6412.png",ช่อง Sky Thoroughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png",ช่อง Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://dekhobd.com/uploads/tv_image/a3-bikini-english.jpg",ช่อง A3BIKINI TV
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.vimeocdn.com/video/722791735_640",ช่อง Action Hollywood Movies
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854",ช่อง BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png",ช่อง BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",ช่อง Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",ช่อง Boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0f/CCTV-1.png/revision/latest?cb=20200821151602",ช่อง CCTV1 综合
+http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
+
 
 
 
