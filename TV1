@@ -1008,17 +1008,17 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",ช่อง Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://espnpressroom.com/us/files/2020/07/ESPNU-1.png",ช่อง ESPN U
-https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://image.roku.com/developer_channels/prod/98de6b5d6ae0e4caa4a60be5686d23f56632a857e6315cca0cb7a6387cda51e4.png",ช่อง FOX Soul
+http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0f/CCTV-1.png/revision/latest?cb=20200821151602",ช่อง CCTV1 综合
 http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://volpessportsbar.com/emmaus/wp-content/uploads/2020/11/espn-news-logo.webp",ช่อง ESPN News
-https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1200px-Global_News.svg.png",ช่อง Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.we-play.live/uploads/posters/-poster1602704510.jpeg",ช่อง FOX Crime
-https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ffoxlife_1200.png",ช่อง Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
 
 
