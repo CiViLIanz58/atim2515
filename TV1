@@ -963,7 +963,7 @@ https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",ช่อง Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.kindpng.com/picc/m/289-2894752_transparent-chanel-logo-png-channel-v-india-logo.png",ช่อง Channel [V]
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://simoneheng.com/wp-content/uploads/2019/10/Channel-V-International.jpg",ช่อง Channel V
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrwRHnu9wjSQdGSYmunIBkJVfRubfqf9VPQ&usqp=CAU",ช่อง Retro Plus 2
@@ -1008,17 +1008,17 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",ช่อง Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CHC1/CHC1_140x140.png",ช่อง CHC动作电影
-http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://espnpressroom.com/us/files/2020/07/ESPNU-1.png",ช่อง ESPN U
+https://gma2.blab.email/espnu.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0f/CCTV-1.png/revision/latest?cb=20200821151602",ช่อง CCTV1 综合
 http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj10l5j28XbI0b1jcUul9J8xYL9yfK64riRWHwqAfUAI5vatQ7kDmWyZa_Wjnf-eHgwoU&usqp=CAU",ช่อง CHC高清电影
-http://125.210.152.18:9090/live/CHCGQDY.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://volpessportsbar.com/emmaus/wp-content/uploads/2020/11/espn-news-logo.webp",ช่อง ESPN News
+https://gma2.blab.email/espnews.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWOGX-qsKZU9LaiZJIsDpCwKUsAJvSJyqy3ZCxHWiaLQasJn_6ZB0oqb_WxqrQumggY0&usqp=CAU",ช่อง CHC家庭影院
-http://125.210.152.18:9090/live/JTYYHD.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.we-play.live/uploads/posters/-poster1602704510.jpeg",ช่อง FOX Crime
+https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
 
 
 
