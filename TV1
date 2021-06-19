@@ -1032,8 +1032,8 @@ http://player.teleon.tv/us/channel/3abn-english
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png",ช่อง 7News (Boston)
 http://player.teleon.tv/us/channel/7news-boston-us
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://cdn.abcotvs.net/abcotv/assets/news/wpvi/images/logos/default_800x450.jpg",ช่อง ABC 6 Philadelphia
-http://player.teleon.tv/us/channel/abc-6-philadelphia
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://marcasmais.com.br/wp-content/uploads/2021/03/bet_plutotv.jpg",ช่อง BET Pluto TV
+http://player.teleon.tv/us/channel/bet-pluto-tv-us
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/1200px-ABC_News_solid_black_logo.svg.png",ช่อง ABC News
 http://player.teleon.tv/us/channel/abc-news-hd
@@ -1100,6 +1100,9 @@ http://player.teleon.tv/us/channel/bein-sports-xtra-us
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/BET_Her.svg/1200px-BET_Her.svg.png",ช่อง BET Her
 http://player.teleon.tv/us/channel/bet-her-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/Eo0i2pEWEAcAT4T.jpg:large",ช่อง Beverly Hillbillies
+http://player.teleon.tv/us/channel/beverly-hillbillies-us
 
 
 
