@@ -1020,6 +1020,9 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://variety.com/wp-content/uploads/2018/03/fox-news-logo.jpg?w=681&h=383&crop=1",ช่อง Fox News
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-travel-4381.jpg",ช่อง GEM Travel
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m3u8
+
 
 
 
