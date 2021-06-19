@@ -961,7 +961,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847111
 https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",ช่อง Retro Music TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+http://player.teleon.tv/us/channel/retro-music-tv
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://simoneheng.com/wp-content/uploads/2019/10/Channel-V-International.jpg",ช่อง Channel V
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
@@ -978,8 +978,8 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playl
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/9999265/300x300.png?type=smartCast_channelTile",ช่อง Shout! Factory TV
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://pbs.twimg.com/media/EiXugDTX0AECnJz.jpg",ช่อง Shout! Factory TV
-http://shoutfactory-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://pbs.twimg.com/media/DNF0_cvV4AAiVVv.jpg",ช่อง Anime All Day
+http://player.teleon.tv/us/channel/anime-all-day-us
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png",ช่อง Sky 1 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
@@ -1022,6 +1022,9 @@ https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-travel-4381.jpg",ช่อง GEM Travel
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m3u8
+
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://pbs.twimg.com/profile_images/1180803776/04_winter_profile_pic.jpg",ช่อง BBC Food
+http://player.teleon.tv/us/channel/bbc-food-us
 
 
 
