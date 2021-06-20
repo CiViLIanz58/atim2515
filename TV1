@@ -1104,6 +1104,56 @@ http://player.teleon.tv/us/channel/bet-her-us
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/Eo0i2pEWEAcAT4T.jpg:large",ช่อง Beverly Hillbillies
 http://player.teleon.tv/us/channel/beverly-hillbillies-us
 
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="http://cdn.teleon.tv/logo/big-life-tv-us.png",ช่อง Big Life TV
+http://player.teleon.tv/us/channel/big-life-tv-us
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://corporate.pluto.tv/wp-content/uploads/2017/11/BigSKY_Basketball_GENERAL_FALL_November_1920x1080-1400x788.png",ช่อง Big Sky Conference
+http://player.teleon.tv/us/channel/big-sky-conference-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://cdn.teleon.tv/logo/black-cinema-us.png",ช่อง Black Cinema
+http://player.teleon.tv/us/channel/black-cinema-us
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.newsobserver.com/latest-news/ktckf7/picture240585751/alternates/FREE_1140/BlackNewsChannelBNC.JPG",ช่อง Black News Channel
+http://player.teleon.tv/us/channel/black-news-channel-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Stirr_logo%2C_black_on_yellow.jpg",ช่อง Britcom
+http://player.teleon.tv/us/channel/britcom-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://cdn.teleon.tv/logo/british-tv-us.png",ช่อง British TV
+http://player.teleon.tv/us/channel/british-tv-us
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs/6e7cd334098350.56c4034e98063.jpg",ช่อง Buzzr
+http://player.teleon.tv/us/channel/buzzr-us
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.byutv.org/content/png-logos/byutv/app/square/1280x720.png",ช่อง BYU TV
+http://player.teleon.tv/us/channel/byu-tv-us
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://cdn.teleon.tv/logo/canela-tv-us.png",ช่อง Canela TV
+http://player.teleon.tv/us/channel/canela-tv-us
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png",ช่อง Catholic TV
+http://player.teleon.tv/us/channel/catholic-tv
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://corporate.pluto.tv/wp-content/uploads/2017/10/CATS_247_A_Facebook-1-960x502.jpg",ช่อง Cats 24/7
+http://player.teleon.tv/us/channel/cats-247-us
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://www.cbn.com/partners/video/img/cbn-partners-og.jpg?v=1",ช่อง CBN Family
+http://player.teleon.tv/us/channel/cbn-family-us
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/8647cb8a-7032-435c-a7f9-a00b3eb1c29b/thumbnail/1200x630/1a70218bd337830ec5ce34ab29abaf20/logo-cbsnla-1920x1080-new.jpg",ช่อง CBS News (Los Angeles)
+http://player.teleon.tv/us/channel/cbs-news-los-angeles-hd
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://newyork.cbslocal.com/wp-content/uploads/sites/14578484/2012/08/Combo-Logo-NEW-YORK.png?w=1500",ช่อง CBS News (New York)
+http://player.teleon.tv/us/channel/cbs-news-new-york-hd
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://ropercenter.cornell.edu/sites/default/files/styles/800x600/public/Images/CBS_News_logo8x6.png?h=4c305c5c&itok=01TKY9Ua",ช่อง CBS News
+http://player.teleon.tv/us/channel/cbs-news-hd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sportshub.cbsistatic.com/i/r/2021/02/09/0fcad52a-dc40-488f-9886-862dba29b030/thumbnail/640x360/154599f9eec1dd80f159276fb8210ee6/amanda-bmac-brady.jpg",ช่อง CBS Sports HQ
+http://player.teleon.tv/us/channel/cbs-sports-hq-us
+
+
+
 
 
 
