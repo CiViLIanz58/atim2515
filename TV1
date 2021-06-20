@@ -1149,8 +1149,18 @@ http://player.teleon.tv/us/channel/cbs-news-new-york-hd
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://ropercenter.cornell.edu/sites/default/files/styles/800x600/public/Images/CBS_News_logo8x6.png?h=4c305c5c&itok=01TKY9Ua",ช่อง CBS News
 http://player.teleon.tv/us/channel/cbs-news-hd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sportshub.cbsistatic.com/i/r/2021/02/09/0fcad52a-dc40-488f-9886-862dba29b030/thumbnail/640x360/154599f9eec1dd80f159276fb8210ee6/amanda-bmac-brady.jpg",ช่อง CBS Sports HQ
-http://player.teleon.tv/us/channel/cbs-sports-hq-us
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/11/14/7cf6438f-78da-4cc1-ae40-de2d9e043cb0/thumbnail/1920x1080/3ad3e0fc1222648f8175f45b4803688e/logo-cbsn-bayarea-1920x1080.jpg",ช่อง CBSN Bay Area
+http://player.teleon.tv/us/channel/cbsn-bay-area-us
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/24/0d50a028-008e-4bc3-b644-d37bad126c61/thumbnail/1920x1080/5546dfeb44539441b4b0aa46288312f6/logo-cbsn-boston-1920x1080.jpg",ช่อง CBSN Boston
+http://player.teleon.tv/us/channel/cbsn-boston-us
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2020/04/21/4337318a-ab06-4bf6-8463-c45831d93b47/thumbnail/1200x630/c49c4255118719c79d14cc3efe0316ab/logo-cbsn-chicago-1920x1080.jpg",ช่อง CBSN Chicago
+http://player.teleon.tv/us/channel/cbsn-chicago-us
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2020/05/13/dff3636b-3939-40e2-a150-116c45671250/thumbnail/1200x630/af97f23ac80c8d20d7ae4b83704c053f/logo-dallas-1920x1080.jpg",ช่อง CBSN Dallas
+http://player.teleon.tv/us/channel/cbsn-dallas-us
+
 
 
 
