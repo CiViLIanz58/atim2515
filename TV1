@@ -1170,8 +1170,8 @@ https://live.thaitvstream.com/play/chiangrai/index.m3u8
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",ช่อง Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",ช่อง TRUE MUSIC
-https://www.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",ช่อง Lakorn Thai
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="FASHION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",ช่อง FTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
