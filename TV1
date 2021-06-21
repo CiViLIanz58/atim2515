@@ -1161,47 +1161,37 @@ http://player.teleon.tv/us/channel/cbsn-chicago-us
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2020/05/13/dff3636b-3939-40e2-a150-116c45671250/thumbnail/1200x630/af97f23ac80c8d20d7ae4b83704c053f/logo-dallas-1920x1080.jpg",ช่อง CBSN Dallas
 http://player.teleon.tv/us/channel/cbsn-dallas-us
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pm1.narvii.com/6407/6e1e57d4050dbb922e177bf07f3ba9ef23ae497e_hq.jpg",ช่อง TBS
-https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_006/playlist.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2011221Q3340-L.jpg",ช่อง TOKYO MX 2
 https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://sun-tv.co.jp/wp-content/uploads/slide/box2021_slide.jpg",ช่อง SUNテレビ
-http://193.42.99.130:23455/2630/playlist.m3u8
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="http://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png",ช่อง 日テレニュース24
+https://www.news24.jp/livestream/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.mbs.jp/res/pc/img/common/mbs-logo_c.png",ช่อง MBS毎日放送
-http://193.42.99.130:23455/MBS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj10l5j28XbI0b1jcUul9J8xYL9yfK64riRWHwqAfUAI5vatQ7kDmWyZa_Wjnf-eHgwoU&usqp=CAU",ช่อง CHC 高清电影
+https://www.fanmingming.cn/hls/chchd.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.asahi.co.jp/img/gtop/facebook_ogp.png",ช่อง ABCテレビ
-http://193.42.99.130:23455/ABC/playlist.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.tv-osaka.co.jp/portal/201610/images/ogp.png",ช่อง テレビ大阪
-http://193.42.99.130:23455/2590/playlist.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://news.mynavi.jp/article/20180120-574112/images/001.jpg",ช่อง 関西テレビ
-http://193.42.99.130:23455/2610/playlist.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/1200px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ช่อง 読売テレビ
-http://193.42.99.130:23455/2600/playlist.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NHK_BS4K_logo_2020.png/480px-NHK_BS4K_logo_2020.png",ช่อง NHK BS 4K
-http://193.42.99.130:23455/NHKBS1/playlist.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.bs11.jp/img_BS11.png",ช่อง BS11イレブン
-http://193.42.99.130:23455/4110/playlist.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.twellv.co.jp/assets/common/img/ogp.jpg",ช่อง BS12トゥエルビ
-http://193.42.99.130:23455/4070/playlist.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334",ช่อง WOWOWプライム
-http://193.42.99.130:23455/3680/playlist.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://mysoapbox.zendesk.com/hc/user_images/ztLmRarXWukJAK63vXChAQ.png",ช่อง WOWOWライブ
-http://193.42.99.130:23455/3690/playlist.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://wod.wowow.co.jp/materials/images/simulcast/logo_cinema.png",ช่อง WOWOWシネマ
-http://193.42.99.130:23455/3700/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
