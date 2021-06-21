@@ -1294,16 +1294,34 @@ http://topwin-tv.my.id/2/master.m3u8?id=champion2
 http://qqtv.nl:8080/sword/sword/30657
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png",ช่อง Astro Super Sport 1 HD
-http://152.89.62.111:8080/james3/james3/241164
+http://tv.iptvstack.net:80/MathiasS12/nQH5Nh0843/23453
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png",ช่อง Astro Super Sport 2 HD
-http://152.89.62.111:8080/james3/james3/241165
+http://tv.iptvstack.net:80/MathiasS12/nQH5Nh0843/23452
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png",ช่อง Astro Super Sport 3 HD
-http://152.89.62.111:8080/james3/james3/287835
+http://tv.iptvstack.net:80/MathiasS12/nQH5Nh0843/23451
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png",ช่อง Astro Super Sport 4 HD
-http://152.89.62.111:8080/james3/james3/241166
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",ช่อง Astro Criket
+http://tv.iptvstack.net:80/MathiasS12/nQH5Nh0843/23450
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png",ช่อง Arena Sports 1
+http://tv.iptvstack.net:80/MathiasS12/nQH5Nh0843/19004
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_2.png",ช่อง Arena Sports 2
+http://tv.iptvstack.net:80/MathiasS12/nQH5Nh0843/17914
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.live/uploads/posters/arena-sport-3-poster1602801297.jpeg",ช่อง Arena Sports 3
+http://tv.iptvstack.net:80/MathiasS12/nQH5Nh0843/17916
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_4.png",ช่อง Arena Sports 4
+http://tv.iptvstack.net:80/MathiasS12/nQH5Nh0843/17915
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_5.png",ช่อง Arena Sports 5
+http://tv.iptvstack.net:80/MathiasS12/nQH5Nh0843/19005
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-6-Live-300x225.png",ช่อง Arena Sports 6
+http://tv.iptvstack.net:80/MathiasS12/nQH5Nh0843/13828
 
 
 
