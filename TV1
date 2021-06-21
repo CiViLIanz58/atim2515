@@ -1215,7 +1215,7 @@ http://player.teleon.tv/us/channel/pluto-tv-backcountry-us
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://pbs.twimg.com/media/EgW8aJYVAAMmBvo.jpg",ช่อง Pluto TV Best Life
 http://player.teleon.tv/us/channel/pluto-tv-best-life-us
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://lh3.googleusercontent.com/proxy/W5UxS5WxOsfUdIRCDaHbpL_Bb8sXREK95dPnKuJZJyDh3PgX81lgDCErImRHP0nO7r25uLsLIIxAg-SWY0-MHfXiR2evty66geZCgOQRJUUsx1yjGK-ZqH7GK6MngFjIfuNG8Edu67c4Pp2C",ช่อง Pluto TV Biography
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://pbs.twimg.com/media/EUImmB2XgAMsUy1.jpg",ช่อง Pluto TV Biography
 http://player.teleon.tv/us/channel/pluto-tv-biography-uk
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/media/EtPLWQfUYAEKfNG.jpg",ช่อง Pluto TV Boxing
@@ -1262,6 +1262,48 @@ https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true",ช่อง Harley Davidson TV
 https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.useetv.com/pimages/tvposter/k+.png",ช่อง K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://gearjunkie.com/legacy/images/3249.jpg",ช่อง OUTSIDE
+https://outsidetv-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png",ช่อง Rakuten Action Movies
+http://player.teleon.tv/us/channel/rakuten-action-movies-uk
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png",ช่อง Rakuten Comedy Movies
+http://player.teleon.tv/us/channel/rakuten-comedy-movies-uk
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png",ช่อง Rakuten Drama
+http://player.teleon.tv/us/channel/rakuten-drama-uk
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png",ช่อง Rakuten Family Movies
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png",ช่อง Rakuten Spotlight
+https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mantul.org/logo/champions1.png",ช่อง Champions TV 1
+http://topwin-tv.my.id/2/master.m3u8?id=champion1
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mantul.org/logo/champions2.png",ช่อง Champions TV 2
+http://topwin-tv.my.id/2/master.m3u8?id=champion2
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/600x315/9f/83/e4/9f83e40ac80ec1d5432f24e0d056b2ea.jpg",ช่อง SONY SIX HD
+http://qqtv.nl:8080/sword/sword/30657
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png",ช่อง Astro Super Sport 1 HD
+http://152.89.62.111:8080/james3/james3/241164
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png",ช่อง Astro Super Sport 2 HD
+http://152.89.62.111:8080/james3/james3/241165
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png",ช่อง Astro Super Sport 3 HD
+http://152.89.62.111:8080/james3/james3/287835
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png",ช่อง Astro Super Sport 4 HD
+http://152.89.62.111:8080/james3/james3/241166
 
 
 
