@@ -1209,13 +1209,13 @@ http://player.teleon.tv/us/channel/pluto-tv-action-sports-us
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://pbs.twimg.com/media/ElhFU6zUYAAm-tS.jpg:large",ช่อง Pluto TV Animals
 http://player.teleon.tv/us/channel/pluto-tv-animals-us
 
-#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="http://cdn.teleon.tv/logo/pluto-tv-backcountry-us.png",ช่อง Pluto TV Backcountry
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",ช่อง Pluto TV Backcountry
 http://player.teleon.tv/us/channel/pluto-tv-backcountry-us
 
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://pbs.twimg.com/media/EgW8aJYVAAMmBvo.jpg",ช่อง Pluto TV Best Life
 http://player.teleon.tv/us/channel/pluto-tv-best-life-us
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://cdn.teleon.tv/logo/pluto-tv-biography-uk.png",ช่อง Pluto TV Biography
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://lh3.googleusercontent.com/proxy/W5UxS5WxOsfUdIRCDaHbpL_Bb8sXREK95dPnKuJZJyDh3PgX81lgDCErImRHP0nO7r25uLsLIIxAg-SWY0-MHfXiR2evty66geZCgOQRJUUsx1yjGK-ZqH7GK6MngFjIfuNG8Edu67c4Pp2C",ช่อง Pluto TV Biography
 http://player.teleon.tv/us/channel/pluto-tv-biography-uk
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/media/EtPLWQfUYAEKfNG.jpg",ช่อง Pluto TV Boxing
@@ -1232,6 +1232,28 @@ http://player.teleon.tv/us/channel/pluto-tv-cine-accion-us
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/Eo6sdnRU0AEn7qu.jpg",ช่อง Pluto TV Cine Estelar
 http://player.teleon.tv/us/channel/pluto-tv-cine-estelar-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.midnightpulp.com/channels/mp/channel-banner.png",ช่อง Midnight Pulp TV
+https://midnightpulp-samsung.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true",ช่อง Dark Matter TV
+https://dmtv-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png",ช่อง MovieSphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://vhx.imgix.net/thedesignnetwork1/assets/e1435809-0f59-4777-9a60-9b9353bfab74-26f68a54.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280",ช่อง The Design Network
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Kaloopy_340x340.png?raw=true",ช่อง Kaloopy
+https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png",ช่อง FTV Midnight Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+
+
+
+
 
 
 
