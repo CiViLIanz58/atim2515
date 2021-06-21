@@ -1188,6 +1188,54 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://seeklogo.com/images/O/outdoor-channel-logo-60FA601E68-seeklogo.com.png",ช่อง Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://comedycentral.mtvnimages.com/uri/mgid:arc:content:comedycentral.com:767b059b-6663-4cd7-a158-b3dffca0616f?quality=0.7",ช่อง CC Pluto TV
+http://player.teleon.tv/us/channel/cc-pluto-tv-at
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png",ช่อง CMT Pluto TV
+http://player.teleon.tv/us/channel/cmt-pluto-tv-us
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://cdn.teleon.tv/logo/logo-pluto-tv-us.png",ช่อง Logo Pluto TV
+http://player.teleon.tv/us/channel/logo-pluto-tv-us
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://rivevideo.com/wp-content/uploads/2019/11/featuredImage-1-900x400.jpg",ช่อง MTV Pluto TV
+http://player.teleon.tv/us/channel/mtv-pluto-tv-de
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/08/featuredimage-5-1024x576.jpg",ช่อง Pluto TV Action
+http://player.teleon.tv/us/channel/pluto-tv-action-us
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/media/Eh91nHMXsAEpGAV.jpg",ช่อง Pluto TV Action Sports
+http://player.teleon.tv/us/channel/pluto-tv-action-sports-us
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://pbs.twimg.com/media/ElhFU6zUYAAm-tS.jpg:large",ช่อง Pluto TV Animals
+http://player.teleon.tv/us/channel/pluto-tv-animals-us
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="http://cdn.teleon.tv/logo/pluto-tv-backcountry-us.png",ช่อง Pluto TV Backcountry
+http://player.teleon.tv/us/channel/pluto-tv-backcountry-us
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://pbs.twimg.com/media/EgW8aJYVAAMmBvo.jpg",ช่อง Pluto TV Best Life
+http://player.teleon.tv/us/channel/pluto-tv-best-life-us
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://cdn.teleon.tv/logo/pluto-tv-biography-uk.png",ช่อง Pluto TV Biography
+http://player.teleon.tv/us/channel/pluto-tv-biography-uk
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/media/EtPLWQfUYAEKfNG.jpg",ช่อง Pluto TV Boxing
+http://player.teleon.tv/us/channel/pluto-tv-boxing-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images.pluto.tv/channels/5e1edac394e0e80009b2416a/colorLogoPNG.png",ช่อง Pluto TV Britpocalypse
+http://player.teleon.tv/us/channel/pluto-tv-britpocalypse-uk
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://cdn.teleon.tv/logo/pluto-tv-cine-us.png",ช่อง Pluto TV Cine
+http://player.teleon.tv/us/channel/pluto-tv-cine-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.vimeocdn.com/video/925285725_1280x720.jpg",ช่อง Pluto TV Cine Acción
+http://player.teleon.tv/us/channel/pluto-tv-cine-accion-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/Eo6sdnRU0AEn7qu.jpg",ช่อง Pluto TV Cine Estelar
+http://player.teleon.tv/us/channel/pluto-tv-cine-estelar-us
+
+
+
+
 
 
 
