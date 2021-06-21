@@ -1173,7 +1173,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTobqdb6IPI0TKlLSCqu_G6tP-T3jmFUKzP64TXJRlWYSsueVATffgiruKIznxi_lIUYEI&usqp=CAU",ช่อง ISTV
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="FASHION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",ช่อง FTV
+#EXTINF:-1 group-title="FASHION" tvg-logo="https://i.ytimg.com/vi/Riqzi2D5xzY/hqdefault.jpg",ช่อง FTV MIDNIGHT HAUTE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.chang55.com/movie/upload/movie_img/AMAZING-HI-SHOW-CH1_Thumb.png",ช่อง Amazing Hi Show
@@ -1188,8 +1188,7 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://seeklogo.com/images/O/outdoor-channel-logo-60FA601E68-seeklogo.com.png",ช่อง Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",ช่อง DMAX
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+
 
 
 
