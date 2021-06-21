@@ -1164,11 +1164,26 @@ http://player.teleon.tv/us/channel/cbsn-dallas-us
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2011221Q3340-L.jpg",ช่อง TOKYO MX 2
 https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="http://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png",ช่อง 日テレニュース24
-https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603632362127_movie_image.jpg",ช่อง เชียงราย แชลแนล
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj10l5j28XbI0b1jcUul9J8xYL9yfK64riRWHwqAfUAI5vatQ7kDmWyZa_Wjnf-eHgwoU&usqp=CAU",ช่อง CHC 高清电影
-https://www.fanmingming.cn/hls/chchd.m3u8
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",ช่อง Asian Food Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",ช่อง TRUE MUSIC
+https://www.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",ช่อง FTV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.chang55.com/movie/upload/movie_img/AMAZING-HI-SHOW-CH1_Thumb.png",ช่อง Amazing Hi Show
+http://203.154.243.89:1214/
+
+
+
+
+
+
 
 
 
