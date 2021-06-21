@@ -1260,8 +1260,8 @@ https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playl
 #EXTINF:-1 group-title="GAMES" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ESR24x7_180x180.png?raw=true",ช่อง eSports Revolution
 https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="GAMES" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Mobcrush_400x400.png",ช่อง Mobcrush
-https://ott.mobcrush.com/hls/0/ott.m3u8
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true",ช่อง Harley Davidson TV
+https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
 
 
 
