@@ -1380,11 +1380,17 @@ http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91LRFA6-1BL.jpg",ช่อง Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="http://fltaradio.com/upload/2018/09/ntv-news24.jpg",ช่อง NTV News24
-http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpAYVAX-jMGuiPtvYeH4i_JPiHD0XWSquv0ZTG-VncdJ2QsGyn9G7-cB7Lr7BFPllWz50&usqp=CAU",ช่อง CGNTV 日本
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://freemovies2play.com/uploads/tv_image/antena-cook-and-play.png",ช่อง Antena Cook and PLay
 http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/36-JSPORT1-600x400.jpg",ช่อง J Sports 1
+http://redlabmcdn.s.llnwi.net/jp01/bs15/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://cn.gundam.info/content/dam/gundam/gundaminfo/old/cn/image/2011/8/23/20110823022904-11711.jpg?_=3fd6181aa5fddbe2939ad04d64ff8a67",ช่อง BS Animax
+http://redlabmcdn.s.llnwi.net/jp01/bs14/index.m3u8
 
 
 
