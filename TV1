@@ -1309,10 +1309,10 @@ https://siamtv88.co/index.php?a=live_details&channel_code=th-thaifilm
 https://tv.trueid.net/embed/true-inside-hd?autoplay=yes&nopageview=yes
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/MANGORN.png",ช่อง มังกร
-https://tv.trueid.net/embed/Mangorn?autoplay=yes&nopageview=yes
+https://tv.trueid.net/embed/Mangorn?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_320.png",ช่อง แอท ทีวี
-https://tv.trueid.net/embed/ATTV?autoplay=yes&nopageview=yes
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/MANGORN.png",ช่อง มังกร
+https://tv.trueid.net/embed/Mangorn?autoplay=yes&nopageview=yes
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",ช่อง KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
