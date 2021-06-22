@@ -1305,15 +1305,6 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w193628251
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",ช่อง TRUE THAI FILM
 https://siamtv88.co/index.php?a=live_details&channel_code=th-thaifilm
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",ช่อง TRUE INSIDE
-https://tv.trueid.net/embed/true-inside-hd?autoplay=yes
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/MANGORN.png",ช่อง มังกร
-https://tv.trueid.net/embed/Mangorn?autoplay=yes
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_320.png",ช่อง แอท ทีวี
-https://tv.trueid.net/embed/ATTV?autoplay=yes
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",ช่อง KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
