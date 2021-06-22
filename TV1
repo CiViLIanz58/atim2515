@@ -1287,6 +1287,39 @@ http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b10000
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/36-JSPORT1-600x400.jpg",ช่อง J Sports 1
 http://redlabmcdn.s.llnwi.net/jp01/bs15/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",ช่อง UNIVERSAL
+http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1aqn7wuhhtqjQfwxPt72j0TVZtR9B02EE",ช่อง MOVIES 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklis.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1atg1RUwBhOgSHs3aOms7Lh15Wc3a6Lxh",ช่อง MOVIES 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklis.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1b6_mKoOQ6cX5a8uQcExkwrbAwMpKoEzP",ช่อง SERIES จีน
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist_w1310036100.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1bRkAY3dR742h-UuUSd9cGnAFhFWXxkFN",ช่อง SERIES เกาหลี
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w1936282519.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png",ช่อง TRUE THAI FILM
+https://siamtv88.co/index.php?a=live_details&channel_code=th-thaifilm
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",ช่อง TRUE INSIDE
+https://tv.trueid.net/embed/true-inside-hd?autoplay=yes&nopageview=yes
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/MANGORN.png",ช่อง มังกร
+https://tv.trueid.net/embed/Mangorn?autoplay=yes&nopageview=yes
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_320.png",ช่อง แอท ทีวี
+https://tv.trueid.net/embed/ATTV?autoplay=yes&nopageview=yes
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",ช่อง KIX
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.crimeandinvestigationnetwork.com/assets/images/crimeandinvestigation/generic-thumb.jpg",ช่อง CRIME + INVESTIGATION
+http://203.154.243.31:15001
+
 
 
 
