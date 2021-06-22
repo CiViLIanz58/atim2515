@@ -1380,8 +1380,8 @@ http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91LRFA6-1BL.jpg",ช่อง Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://img.paravi.jp/files/5/j/r/0/e4c594f6-3687-40d8-b8b7-af85a0378c97.png?w=800&h=800",ช่อง WOWOWシネマ
-http://203.162.235.41:16916
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="http://fltaradio.com/upload/2018/09/ntv-news24.jpg",ช่อง NTV News24
+http://www.news24.jp/livestream/index.m3u8
 
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://freemovies2play.com/uploads/tv_image/antena-cook-and-play.png",ช่อง Antena Cook and PLay
 http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
