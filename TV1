@@ -1059,7 +1059,7 @@ http://player.teleon.tv/us/channel/cbsn-chicago-us
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2020/05/13/dff3636b-3939-40e2-a150-116c45671250/thumbnail/1200x630/af97f23ac80c8d20d7ae4b83704c053f/logo-dallas-1920x1080.jpg",ช่อง CBSN Dallas
 http://player.teleon.tv/us/channel/cbsn-dallas-us
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2011221Q3340-L.jpg",ช่อง TOKYO MX 2
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAHhB3ldEkCyYlHcbXez55MT0SmZ5kL9W-w&usqp=CAU",ช่อง TOKYO MX 2
 https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603632362127_movie_image.jpg",ช่อง เชียงราย แชลแนล
