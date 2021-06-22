@@ -649,7 +649,7 @@ http://redlabmcdn.s.llnwi.net/jp01/bs09/index.m3u8
 http://redlabmcdn.s.llnwi.net/jp01/bs08/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.obc.co.jp/hubfs/casestudies/112/cs_kv01.jpg?aaa",ช่อง BSフジ
-http://redlabmcdn.s.llnwi.net/jp01/bs07 /index.m3u8
+https://redlabmcdn.s.llnwi.net/jp01/bs07/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://av.watch.impress.co.jp/img/avw/docs/1145/556/1001bs02_s.jpg",ช่อง BSテレビ東京
 http://redlabmcdn.s.llnwi.net/jp01/bs06/index.m3u8
