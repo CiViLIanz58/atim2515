@@ -1371,7 +1371,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/styles/large/public/stingray-karaoke_metaimage_1200x628_v02.png?itok=1MLjbOZk",ช่อง Stingray Karaoke
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ytimg.com/vi/eUm7mEOGWHQ/maxresdefault.jpg",ช่อง Stingray Naturescape
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.ytimg.com/vi/eUm7mEOGWHQ/maxresdefault.jpg",ช่อง Stingray Naturescape
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
 
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/x61ex5w9-720.jpg",ช่อง Beach TV
@@ -1389,8 +1389,7 @@ http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b10000
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/36-JSPORT1-600x400.jpg",ช่อง J Sports 1
 http://redlabmcdn.s.llnwi.net/jp01/bs15/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://cn.gundam.info/content/dam/gundam/gundaminfo/old/cn/image/2011/8/23/20110823022904-11711.jpg?_=3fd6181aa5fddbe2939ad04d64ff8a67",ช่อง BS Animax
-https://www.wellnessmarkshop.com/stemming-tv
+
 
 
 
