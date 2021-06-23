@@ -1347,8 +1347,8 @@ https://siamtv88.co/index.php?a=live_details&channel_code=sd-bbclifestyle
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_virgin_radio_tv.png",ช่อง VIRGIN RADIO TV
 http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png",ช่อง UNIVERSAL KID
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/57/40/fa/5740fa83ddf4228fbf7932a090721aed.gif",ช่อง TV OKIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.pinimg.com/736x/c2/91/df/c291df9ede68bf0b7cc53c8d68cce2b4.jpg",ช่อง ROCK LAND
 https://livestream.com/accounts/22300522/events/6680139/player?autoPlay=true
