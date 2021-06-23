@@ -1401,13 +1401,13 @@ http://27.254.130.62/feed/LC2/index.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png",ช่อง BoxFilm
 http://27.254.130.62/feed/LC52/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.dropbox.com/s/qxorrx43wt302c0/lVgd2n.png?dl=1",ช่อง SANOOK
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f.ptcdn.info/741/071/000/qkd0au4553rHw6R3s3sR-o.jpg",ช่อง SANOOK
 http://27.254.130.62/feed/LC53/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1CESyG6cfFw3sgDixf768mwRnKJXf0CtD",ช่อง MOVIES WORLD
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1CESyG6cfFw3sgDixf768mwRnKJXf0CtD",ช่อง MOVIES WORLD 1
 http://27.254.130.62/feed/LC11/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1BvPiQkRkhw1-PIyUJP1JPEvNmKrMbYpC",ช่อง MOVIE SAT
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1BvPiQkRkhw1-PIyUJP1JPEvNmKrMbYpC",ช่อง MOVIE SAT ASIA
 http://116.204.181.238:9981/stream/service/a092196252017c8f3264d71ceb6acd59
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1kX0ilsQDMRbifTTEGfcfggvBV04LWUco",ช่อง LIVE SKY 2
