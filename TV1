@@ -1338,17 +1338,17 @@ https://siamtv88.co/index.php?a=live_details&channel_code=th-expsci
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png&w=320&h=240",ช่อง TRUE EXPLORE LIFE
 https://siamtv88.co/index.php?a=live_details&channel_code=th-explife
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.overv.eu/wp-content/uploads/2017/11/bbc.png",ช่อง BBC EARTH
-https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/1024px-LEGO_logo.svg.png",ช่อง LEGO
+http://gg.gg/uewnw
 
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png",ช่อง BBC LIFESTYLE
 https://siamtv88.co/index.php?a=live_details&channel_code=sd-bbclifestyle
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.pikpng.com/pngl/m/52-525342_logo-virgin-radio-tv-virgin-radio-tv-clipart.png",ช่อง VIRGIN RADIO TV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_virgin_radio_tv.png",ช่อง VIRGIN RADIO TV
 http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",ช่อง RETRO MUSIC
-http://stream.mediawork.cz/retrotv/retrotv2.smil/.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png",ช่อง UNIVERSAL KID
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.pinimg.com/736x/c2/91/df/c291df9ede68bf0b7cc53c8d68cce2b4.jpg",ช่อง ROCK LAND
 https://livestream.com/accounts/22300522/events/6680139/player?autoPlay=true
@@ -1371,8 +1371,8 @@ https://siamtv88.co/index.php?a=live_details&channel_code=th-sparkjump
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/f9/6d/1d/f96d1d0ec92f736189b230d2b3091beb.png",ช่อง NICKELODEON
 https://siamtv88.co/index.php?a=live_details&channel_code=th-nickelodeon
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",ช่อง NICK JR
-https://siamtv88.co/index.php?a=live_details&channel_code=th-nickjr
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png",ช่อง ZOOMOO
+http://gg.gg/uewzu
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png",ช่อง DISNEY JUNIOR
 https://adictosalatele.com/TV/infantiles/disneyjunior/
