@@ -1383,6 +1383,28 @@ https://adictosalatele.com/TV/infantiles/disneyxd/
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png",ช่อง DAVINCI
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://img2.pngio.com/select-fox-crime-sd-fox-crime-png-800_450.png",ช่อง FOX CRIME
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/South_Korea_film_clapperboard.svg/480px-South_Korea_film_clapperboard.svg.png",ช่อง New K-Movies
+https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",ช่อง ONE
+http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Ffebce46e-fb05-41d9-b294-08ecb3f1d1e6.png&w=320&h=240",ช่อง CCM
+http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-s.jpg",ช่อง SUN
+http://27.254.130.62/feed/LC1/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f.ptcdn.info/741/071/000/qkd09u11hsoYgyO0be6c-o.jpg",ช่อง SAMURAI
+http://27.254.130.62/feed/LC2/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png",ช่อง BoxFilm
+http://27.254.130.62/feed/LC52/index.m3u8
+
+
 
 
 
