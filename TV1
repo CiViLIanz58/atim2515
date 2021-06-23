@@ -1311,6 +1311,29 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.crimeandinvestigationnetwork.com/assets/images/crimeandinvestigation/generic-thumb.jpg",ช่อง CRIME + INVESTIGATION
 http://203.154.243.31:15001
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png",ช่อง SBS
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://kmug.co.kr/data/file/design/data_design_%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2015_04_29_%EC%98%A4%ED%9B%84_4.45.20.png",ช่อง SBS PLUS
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png",ช่อง SBS STAR
+https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://w.namu.la/s/fc9d4c82c1482dcfac17636a2fc66da6c3d5a97a80f566414e40ca8224c9db4f6968c83d77edbe840af4e2c4ab156d48df2363d11d2715255bac7523c792567863310bca120cb035e31359375e12e8c5043336df8fada7fd879eff55d57d6925",ช่อง EBS 1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/1200px-EBS_2TV_Logo.svg.png",ช่อง EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_03.png",ช่อง EBSE
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png",ช่อง POP
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png",ช่อง TRUE EXPLORE WILD
+"https://tv.trueid.net/embed/true-explore-wild?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
 
 
