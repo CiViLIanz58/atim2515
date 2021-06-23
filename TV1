@@ -1392,9 +1392,6 @@ https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",ช่อง ONE
 http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Ffebce46e-fb05-41d9-b294-08ecb3f1d1e6.png&w=320&h=240",ช่อง CCM
-http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-s.jpg",ช่อง SUN
 http://27.254.130.62/feed/LC1/index.m3u8
 
