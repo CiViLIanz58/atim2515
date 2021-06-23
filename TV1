@@ -1333,7 +1333,7 @@ http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png",ช่อง TRUE EXPLORE WILD
-"https://tv.trueid.net/embed/true-explore-wild?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+https://tv.trueid.net/embed/true-explore-wild?autoplay=yes&nopageview=yes
 
 
 
