@@ -1563,9 +1563,6 @@ http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISOeJrgP4jxRYfVQ3IW86GqhMur86Q9Ycy0mjowOTBoEFAG1vHdzLvwYSGfhu8NJ5V98&usqp=CAU",ช่อง MTV UK
 https://ustvgo.tv/mtv
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nz-mtv-music-australia-new-zealand-2418.jpg",ช่อง MTV Norway
-https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/MTV_Block_Party.svg/revision/latest/scale-to-width-down/300?cb=20200825033438",ช่อง MTV Block Party
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
