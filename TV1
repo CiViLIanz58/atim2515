@@ -1320,7 +1320,7 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png",ช่อง SBS STAR
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://w.namu.la/s/fc9d4c82c1482dcfac17636a2fc66da6c3d5a97a80f566414e40ca8224c9db4f6968c83d77edbe840af4e2c4ab156d48df2363d11d2715255bac7523c792567863310bca120cb035e31359375e12e8c5043336df8fada7fd879eff55d57d6925",ช่อง EBS 1
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9HHrrqn52ZKV8Okr2EeRfQE_V7O9nuynP4etxLFJdnB89U4VRBCTJCdpbyMUJeStxSLw&usqp=CAU",ช่อง EBS 1
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/1200px-EBS_2TV_Logo.svg.png",ช่อง EBS 2
@@ -1577,6 +1577,9 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/04/Channel-V-Asia.jpg",ช่อง CH V ASIA
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://zixi.com/wp-content/uploads/2021/03/MC_LogoBlack.png",ช่อง Today's Country
+https://photocall.tv/gl6a/mc?ch=todayscountry
 
 
 
