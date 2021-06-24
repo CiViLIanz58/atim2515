@@ -1425,6 +1425,59 @@ http://116.204.181.238:9981/stream/service/6eac3a193c6f3dea40394c92aa81322b
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1kzL_lAgaKMsccJxMpyUCK1bANQ3PtxUL",ช่อง I MOVIE HD
 http://116.204.181.238:9981/stream/service/fc4f8361f0a8886faec73e28c8e85efb
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/09_Celestial_Classic_Movies.png",ช่อง CCM (THAI)
+https://siamtv88.co/index.php?a=live_details&channel_code=th-celestial
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/09_Celestial_Classic_Movies.png",ช่อง CCM (CHINESE)
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg",ช่อง LOTUS MACAU
+http://27.254.130.62/feed/LC41/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png/revision/latest/scale-to-width-down/250?cb=20130503215946",ช่อง MOVIE MIX
+https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/9999399/300x300.png?type=smartCast_channelTile",ช่อง CINE LIFE
+https://magselect-stirr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/EUwMjZxXQAAEzVM.jpg",ช่อง WOW
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://scontent.fbkk2-8.fna.fbcdn.net/v/t1.6435-9/s960x960/48962116_2279955192066757_5223125499785510912_n.png?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=aZ38WxX26I8AX-wAkb_&_nc_ht=scontent.fbkk2-8.fna&tp=30&oh=5ef9dea0569909fc8fbdf7ce98955d06&oe=60D81CD4",ช่อง ANIME ALL AGES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5be4c6311843b56328bce619&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/64/bd/c8/64bdc845164291d63354a6af537209b1.jpg",ช่อง TELETUBBIES
+https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-gem-kids-1346.jpg",ช่อง GEM KIDS
+https://www.gemonline.tv/en-US/Live/Index?channelname=gemkids
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-junior-9025.jpg",ช่อง GEM JUNIOR
+https://www.gemonline.tv/en-US/Live/Index?channelname=gemjunior
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i1.wp.com/www-animeherald-com.exactdn.com/wp-content/uploads/2019/11/Naruto-Pluto-TV-Visual-001-20191117.jpg?resize=810%2C456&ssl=1",ช่อง NARUTO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=836&deviceId=5da0c85bd2c9c10009370984&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://simkl.in/fanart/28/2841520bcec61706b_w.jpg",ช่อง MONICA GANG
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=719&deviceId=5f997e44949bc70007a6941e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Kurikos.png/revision/latest?cb=20180801205146",ช่อง KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://detector.media/doc/images/news/archive/2016/120771/i75_ArticleImage_120771.jpg?t=1479733783",ช่อง LALE
+http://stream.atr.ua/lale//live/index.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",ช่อง SPACE TOON
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/santiago/images/1/16/Bftvlogo2019.png/revision/latest?cb=20201104211713",ช่อง BABYFIRST
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wixstatic.com/media/b2b4bd_bdae9e12f77a43ea85763e1628387d8a~mv2_d_3120_1756_s_2.jpg/v1/fit/w_177,h_100,q_90/b2b4bd_bdae9e12f77a43ea85763e1628387d8a~mv2_d_3120_1756_s_2.jpg",ช่อง Mario vs Sonic TV 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f706cc00-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f353fea4-88e6-403f-bea8-499065e8bdfd&userId=&serverSideAds=true
+
+
+
 
 
 
