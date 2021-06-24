@@ -1477,7 +1477,7 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f706cc00-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f353fea4-88e6-403f-bea8-499065e8bdfd&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://zixi.com/wp-content/uploads/2021/03/MC_LogoBlack.png",ช่อง Country Hits
-https://photocall.tv/gl6a/mc?ch=countryhits
+https://photocall.tv/gl6a/mc?ch=countryhits,referer: http://photocall.tv/
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://zixi.com/wp-content/uploads/2021/03/MC_LogoBlack.png",ช่อง POP Latino
 https://photocall.tv/gl6a/mc?ch=poplatino
