@@ -1477,7 +1477,7 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f706cc00-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f353fea4-88e6-403f-bea8-499065e8bdfd&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://zixi.com/wp-content/uploads/2021/03/MC_LogoBlack.png",ช่อง Country Hits
-https://photocall.tv/gl6a/mc?ch=countryhits,referer: http://photocall.tv/
+https://photocall.tv/gl6a/mc?ch=countryhits
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://zixi.com/wp-content/uploads/2021/03/MC_LogoBlack.png",ช่อง POP Latino
 https://photocall.tv/gl6a/mc?ch=poplatino
@@ -1560,14 +1560,8 @@ https://photocall.tv/gl6a/mc?ch=toddlertunes
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhC0xGBjU4XwDGXTtLRNZYGcs1Avx1EvQkj-9AxTWD7mtpwpfBcIxw-0i3w_M8h-nmQVA&usqp=CAU",ช่อง Hit Music
 http://hitmusic.hu/hitmusic.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.go-rtv.nl/uploads/GO-TV%20logo%20mail.png",ช่อง GO TV
-https://593aed234297b.streamlock.net/gotvsjoerd/.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Mtv_logo_before_1994.png",ช่อง MTV USA
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISOeJrgP4jxRYfVQ3IW86GqhMur86Q9Ycy0mjowOTBoEFAG1vHdzLvwYSGfhu8NJ5V98&usqp=CAU",ช่อง MTV UK
 https://ustvgo.tv/mtv
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/AMTV.png",ช่อง AMTV
-http://yoursports.stream/ing/mtv
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nz-mtv-music-australia-new-zealand-2418.jpg",ช่อง MTV Norway
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
