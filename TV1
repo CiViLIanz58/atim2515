@@ -1533,9 +1533,6 @@ http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F216B893F52240FE01C",ช่อง 국방 TV
 https://www.nettvpro.live/en/play.php?aid=9986
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-gcn-korea-6860.jpg",ช่อง GCN TV
-https://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
-
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://cdn.kstarlive.com/cover/2020/03/10/recommend_164f2a237645dd731c0a61f4b57dc204a3bd8290.jpeg",ช่อง New K-ID
 https://www.nettvpro.live/en/play.php?aid=10184
 
@@ -1580,9 +1577,6 @@ https://www.nettvpro.live/en/play.php?aid=4815
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",ช่อง KBS WORLD
 https://www.nettvpro.live/en/play.php?aid=4812
-
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image.happymoney.co.kr/extimage/usestore/20210310094929.jpg",ช่อง 현대Hmall
-https://123.111.139.103:1935/live/ngrp:hmall.stream_mobile/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image.ajunews.com/content/image/2020/05/07/20200507105021909945.jpg",ช่อง NS홈쇼핑
 http://livestream.nsmall.com:1935/IPHONE/nsmallMobile.m3u8
