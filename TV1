@@ -685,7 +685,7 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/godzilla/images/0/07/Nippon_tv_logo_2014.png/revision/latest?cb=20140725194555",ช่อง Nippon TV
-http://203.162.235.41:16905
+https://www.nettvpro.live/en/play.php?aid=10194
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/04/tv-asahi-logo-vector.png",ช่อง テレビ朝日
 https://redlabmcdn.s.llnwi.net/jp01/ryowa4/tracks-v1a1/mono.m3u8
@@ -715,7 +715,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png",ช่อง TV TOKYO
-http://203.162.235.41:16908
+https://www.nettvpro.live/en/play.php?aid=1664
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg",ช่อง TOKYO MX1
 https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
@@ -1494,9 +1494,113 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/04/Channel-V-Asia.jpg",ช่อง CH V ASIA
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://zixi.com/wp-content/uploads/2021/03/MC_LogoBlack.png",ช่อง KBS Story
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://padmin.static.kbs.co.kr/live/2021/3/29/1617003417235_233283.jpg",ช่อง KBS Story
 https://www.nettvpro.live/en/play.php?aid=10353
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1280px-KBS_1_logo.svg.png",ช่อง KBS1
+https://www.nettvpro.live/en/play.php?aid=4813
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-kbs-2-tv-5685-300x225.jpg",ช่อง KBS2
+https://www.nettvpro.live/en/play.php?aid=1294
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.jcntv.co.kr/img/logo768.png",ช่อง JCN 울산중앙방
+https://www.nettvpro.live/en/play.php?aid=10358
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://www.slist.kr/news/photo/201906/88004_175164_547.jpg",ช่อง 아름방송
+https://www.nettvpro.live/en/play.php?aid=10356
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8%EB%B0%A9%EC%86%A1_BI.png",ช่อง 소상공인방송
+https://www.nettvpro.live/en/play.php?aid=10354
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://www.iconsumer.or.kr/news/photo/201904/8939_11278_5726.png",ช่อง 롯데홈쇼핑
+https://www.nettvpro.live/en/play.php?aid=1555
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.pinimg.com/736x/a1/66/82/a1668233436e93df84f2dc0493215c8a.jpg",ช่อง YTN Korean TV
+https://www.nettvpro.live/en/play.php?aid=1367
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-dmb-4300.jpg",ช่อง YTN DMB
+https://www.nettvpro.live/en/play.php?aid=5282
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://news.nateimg.co.kr/orgImg/yt/2021/02/22/AKR20210222035000005_01_i.jpg",ช่อง YTN2
+https://www.nettvpro.live/en/play.php?aid=10352
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://tvtolive.com/wp-content/uploads/NBS-tvtolive.com_.jpg",ช่อง NBS TV
+https://www.nettvpro.live/en/play.php?aid=10182
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkBO3gUez97Cuv3Q14b_P779A1sWSmRdvQ-mZpjNq8v0DU9AG9EV8Gbk9ou9jsw0Qye4&usqp=CAU",ช่อง MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F216B893F52240FE01C",ช่อง 국방 TV
+https://www.nettvpro.live/en/play.php?aid=9986
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-gcn-korea-6860.jpg",ช่อง GCN TV
+https://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://cdn.kstarlive.com/cover/2020/03/10/recommend_164f2a237645dd731c0a61f4b57dc204a3bd8290.jpeg",ช่อง New K-ID
+https://www.nettvpro.live/en/play.php?aid=10184
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.rapidtvnews.com/images/2017/11/mbc_logo_-_14_nov_2017.jpg",ช่อง MBC
+https://www.nettvpro.live/en/play.php?aid=5503
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/TBS_%EB%A1%9C%EA%B3%A0.png",ช่อง TBS
+https://www.nettvpro.live/en/play.php?aid=2663
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-gs-my-shop-8127.jpg",ช่อง GS SHOP
+https://www.nettvpro.live/en/play.php?aid=1558
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://www.newsworks.co.kr/news/thumbnail/201603/42676_9851_2722_v150.jpg",ช่อง GS My Shop TV
+https://www.nettvpro.live/en/play.php?aid=5801
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ftv_logo.svg/1280px-Ftv_logo.svg.png",ช่อง FISHING TV
+http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://pbs.twimg.com/profile_images/499382475479465984/C5SQzdu8_400x400.jpeg",ช่อง EBS i
+https://www.nettvpro.live/en/play.php?aid=1579
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/EBS_kids.svg/revision/latest/scale-to-width-down/250?cb=20201221111923",ช่อง EBS Kids
+https://www.nettvpro.live/en/play.php?aid=1360
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://obj-sg.thewiki.kr/data/4542532b322e706e67.png",ช่อง EBS Plus 2
+https://www.nettvpro.live/en/play.php?aid=1362
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F35prt%2FbtqDVffwjT7%2FALKKmtKlH6XvyTdG7OK4w0%2Fimg.jpg",ช่อง KBS Kids
+https://www.nettvpro.live/en/play.php?aid=4820
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbeqG3Q%2FbtqDUR6RlMm%2F0k4kOUCbEZdwbBwesUqz91%2Fimg.jpg",ช่อง KBS Joy
+https://www.nettvpro.live/en/play.php?aid=4819
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcS6Dpk%2FbtqDY1fcf1E%2F9kMP8wkoJwKtxWPuM9YTi1%2Fimg.jpg",ช่อง KBS Drama
+https://www.nettvpro.live/en/play.php?aid=4817
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/KBS_N_Life_logo_%282016-present%29.svg/revision/latest/scale-to-width-down/250?cb=20200910210754",ช่อง KBSN LIFE
+https://www.nettvpro.live/en/play.php?aid=4816
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Ya4gWRiYUjW1AXZseD1_mRoW5tBZCWbucTx3kdGlSPzkzXvlF89Bdmz4v4FunRJI_wM&usqp=CAU",ช่อง KBS 24
+https://www.nettvpro.live/en/play.php?aid=4815
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",ช่อง KBS WORLD
+https://www.nettvpro.live/en/play.php?aid=4812
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image.happymoney.co.kr/extimage/usestore/20210310094929.jpg",ช่อง 현대Hmall
+https://123.111.139.103:1935/live/ngrp:hmall.stream_mobile/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://image.ajunews.com/content/image/2020/05/07/20200507105021909945.jpg",ช่อง NS홈쇼핑
+http://livestream.nsmall.com:1935/IPHONE/nsmallMobile.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CTS%EA%B8%B0%EB%8F%85%EA%B5%90TV.png",ช่อง CTS기독교TV
+https://www.nettvpro.live/en/play.php?aid=1592
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live.nkt.tv/public/files/shows/0/1/635-640x360-000000.jpg",ช่อง LLBN Korean
+https://www.nettvpro.live/en/play.php?aid=5803
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://www.nettvpro.live/uploads/allimg/19/1-1Z206200F40-L.jpg",ช่อง BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-2106142046360-L.jpg",ช่อง Anibox TV
+https://www.nettvpro.live/en/play.php?aid=10554
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20181226/c3df2d6f08094e8da980d7a935f0fa10.jpeg",ช่อง NHK华语视界
+https://www.nettvpro.live/en/play.php?aid=6890
 
 
 
