@@ -1596,6 +1596,88 @@ https://www.nettvpro.live/en/play.php?aid=10554
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20181226/c3df2d6f08094e8da980d7a935f0fa10.jpeg",ช่อง NHK华语视界
 https://www.nettvpro.live/en/play.php?aid=6890
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/06/homepage.jpg",ช่อง Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://hhy.rotoruabodu.pw/img/5c59aa02ce5c20b955a12548c4551233.jpg",ช่อง Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/Network_Fashion_Lifestyle_1280x720-520x293.jpg",ช่อง HD Fashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.ytimg.com/vi/RIc7-hRffLM/maxresdefault.jpg",ช่อง Hollywood Classics
+https://vitor-hollywoodclassics-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU3DLWabqoF0wXxYD_PUF0-XUBX0iG2VDG82NDISLQmPWN6TLxi6kE9XA_JVprTvBrtZ0&usqp=CAU",ช่อง HBO PREMIUM
+https://s.vdo.ai/vhs/1.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://horseandcountry.tv/wp-content/themes/hctv/img/hctv_logo.png",ช่อง Horse and Country
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJuioA8VXYFnDkFNG5VaVeJyNAuLFclQAL9928Vz3Zu6hRyEyCtAn1-4Klq_LWm0HLiQ&usqp=CAU",ช่อง Lao Champa TV
+https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://zasstv.com/wp-content/uploads/2020/08/Lao-Champa-TV2.jpg",ช่อง Lao Champa TV 2
+https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="LAO TV" tvg-logo="https://aetlive.s3-us-west-2.amazonaws.com/assets/img/2018/03/03231638/newLaoChampa3.jpg",ช่อง Lao Champa TV 3
+https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2021/06/banner2.jpg",ช่อง My time Movies Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/8f/94/47/8f944798-8d0f-8568-75f7-c5a1b694c583/source/512x512bb.jpg",ช่อง PopStar! TV
+https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-17-at-1.57.09-PM.png",ช่อง Redbox 1: Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-17-at-1.57.09-PM.png",ช่อง Redbox 2: Comedy
+https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-17-at-1.57.09-PM.png",ช่อง Redbox 3: Rush
+https://rush-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="food" tvg-logo="https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-17-at-1.57.09-PM.png",ช่อง Redbox | Tastemade
+https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/NQpxt8FzNkc/maxresdefault.jpg",ช่อง Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",ช่อง Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png",ช่อง Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rewind_TV.svg/1280px-Rewind_TV.svg.png",ช่อง Rewind
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.sexjokesrock.com/wp-content/uploads/2019/08/media-PLUTO_3e119010-6f4c-49ed-bd4b-6a6b8dfe6e32.jpg",ช่อง The Asylum
+http://asylum-stirr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22706/the-boat-show/poster_20200129_002936.jpg",ช่อง The Boat Show
+https://vitor-theboatshow-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cinedigm.com/wp-content/uploads/2021/01/FilmDetectiveLogo-300x169.png",ช่อง The Film Detective
+https://filmdetective-stirr.amagi.tv/index.m3u8
+
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://www.24-7pressrelease.com/assets/attachments/036/press_release_distribution_0369661_72584.png",ช่อง The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://diy.sndimg.com/content/dam/images/diy/editorial/shows/this-old-house/ThisOldHouse_4x3.jpg.rend.hgtvcom.616.462.suffix/1602872159468.jpeg",ช่อง This Old House
+https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://resources.stuff.co.nz/content/dam/images/1/v/c/6/a/3/image.related.StuffLandscapeSixteenByNine.1420x800.1vb65y.png/1559172563863.jpg",ช่อง Tiny House Nation
+https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://i.pinimg.com/originals/9e/16/d6/9e16d65e11c04f4ce6bae05428ff14c5.jpg",ช่อง Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://pbs.twimg.com/profile_images/727414680801710080/suh81uar.jpg",ช่อง Visit-X TV
+http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+
+
 
 
 
