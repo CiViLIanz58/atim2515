@@ -1623,7 +1623,7 @@ https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2021/06/banner2.jpg",ช่อง My time Movies Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/8f/94/47/8f944798-8d0f-8568-75f7-c5a1b694c583/source/512x512bb.jpg",ช่อง PopStar! TV
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/8f/94/47/8f944798-8d0f-8568-75f7-c5a1b694c583/source/512x512bb.jpg",ช่อง PopStar! TV
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-17-at-1.57.09-PM.png",ช่อง Redbox 1: Spotlight
