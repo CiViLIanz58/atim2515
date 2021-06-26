@@ -1716,6 +1716,15 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b3
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/EEAwv8z.jpeg",ช่อง Bloomberg TV Asia Live Event
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
 
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/DORCEL_TV_2012.png/revision/latest?cb=20191026080934",ช่อง Dorcel TV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87419
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://pbs.twimg.com/media/ETBPhbwUYAEGg15.jpg",ช่อง Evil Angel 1
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87420
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://pbs.twimg.com/media/ETBPhbwUYAEGg15.jpg",ช่อง Evil Angel 2
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/87421
+
 
 
 
