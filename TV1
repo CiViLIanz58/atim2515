@@ -1729,7 +1729,7 @@ https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.shejihz.com/2020/05/d7a970468c72179986480226e53e3eaa.jpg",ช่อง CCTV2 财经
-http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
+http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",ช่อง CCTV3 综艺
 http://183.207.248.71:80/cntv/live1/CCTV-3/cctv-3
@@ -1739,6 +1739,9 @@ http://183.207.248.71:80/cntv/live1/CCTV-4/cctv-4
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://gtswiki.gt-beginners.net/decal/png/04/83/90/6053418456424908304_1.png",ช่อง CCTV5 体育
 http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",ช่อง CCTV-5+ 体育赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 
 
 
