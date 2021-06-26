@@ -1728,6 +1728,9 @@ https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png",ช่อง Newsmax TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Blue_hustler.png",ช่อง Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
 
 
 
