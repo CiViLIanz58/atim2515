@@ -1674,7 +1674,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Stadium_logo_2017.png",ช่อง Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ewsat.com/img/EDGE_SPORT.png",ช่อง EDGE SPORT HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2.bp.blogspot.com/-TQRWs_aELy0/WvQAA7hjllI/AAAAAAAAADg/-QAXY1XY2Xgx03UuMfzU8g2oMPIQHn4sACLcBGAs/s1600/edgesports.png",ช่อง EDGE SPORT HD
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/FreeSports_2nd_logo_alternate.jpg/revision/latest?cb=20180717203545",ช่อง Free Sports TV
