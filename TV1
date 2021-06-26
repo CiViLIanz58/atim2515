@@ -1741,7 +1741,10 @@ http://183.207.248.71:80/cntv/live1/CCTV-4/cctv-4
 http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",ช่อง CCTV-5+ 体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/360px-CCTV-6_Logo.png",ช่อง CCTV6 电影
+http://183.207.248.71:80/cntv/live1/CCTV-6/cctv-6
 
 
 
