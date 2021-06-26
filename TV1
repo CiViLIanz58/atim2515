@@ -1719,14 +1719,10 @@ https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/The_Adult_Channel_%281992-2003%29.png/revision/latest?cb=20200521221518",ช่อง Xlive 8
 http://185.96.176.139:8080/superone/index.m3u8
 
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://i.ytimg.com/vi/4Nlw0y8DsbA/hqdefault_live.jpg",ช่อง BRAZZERS
-http://tv1.cs10.tv:80/leopoldo/leopoldo/3717
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/The_Adult_Channel_%281992-2003%29.png/revision/latest?cb=20200521221518",ช่อง BLUE HUSTLER
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
 
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://i.ytimg.com/vi/4Nlw0y8DsbA/hqdefault_live.jpg",ช่อง BRAZZERS 2
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11985
 
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://i.ytimg.com/vi/4Nlw0y8DsbA/hqdefault_live.jpg",ช่อง BRAZZERS 3
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11986
 
 
 
