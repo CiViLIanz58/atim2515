@@ -1729,7 +1729,7 @@ https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.shejihz.com/2020/05/d7a970468c72179986480226e53e3eaa.jpg",ช่อง CCTV2财经
-http://183.207.248.71:80/cntv/live1/CCTV-2/cctv-2
+http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",ช่อง CCTV3综艺
 http://183.207.248.71:80/cntv/live1/CCTV-3/cctv-3
