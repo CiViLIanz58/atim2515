@@ -1821,7 +1821,7 @@ http://player.teleon.tv/us/channel/classic-tv-comedy-us
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/EgYJ_TSXkAA6pmk.jpg",ช่อง Classic TV Drama
 http://player.teleon.tv/us/channel/classic-tv-drama-us
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://cdn.teleon.tv/logo/classica-us.png",ช่อง Classica
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://cdn.teleon.tv/logo/classica-us.png",ช่อง Classica
 http://player.teleon.tv/us/channel/classica-us
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.esplanade.com/-/media/images/festival/classics-logo.jpg?mw=1200&w=1200&hash=34F9BCE545F4FF636A378B0846C8D4857782BACA",ช่อง Classics Channel
@@ -1836,7 +1836,7 @@ http://player.teleon.tv/us/channel/comedy-central-animation-us
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://www.robolink.com/wp-content/uploads/2016/08/cnet.png",ช่อง CNET
 http://player.teleon.tv/us/channel/cnet-us
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://d.newsweek.com/en/full/1638942/cold-case-files-classic-netflix.jpg",ช่อง Cold Case Files
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Coldcasefiles.jpg",ช่อง Cold Case Files
 http://player.teleon.tv/us/channel/cold-case-files-us
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3xmUryK6612jeWTw7IEFtL964pxcHKAkkC3ssnIjqqmRDX6taiZnSOIji-naoL57wRk&usqp=CAU",ช่อง Combate World
@@ -1847,9 +1847,6 @@ http://player.teleon.tv/us/channel/comedy-dynamics-us
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://comettv.s3.amazonaws.com/uploads/2017/03/Splash.jpg",ช่อง Comet TV
 http://player.teleon.tv/us/channel/comet-tv-us
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2019/04/CONtv_Logo_Blue_2018_v1-2.jpg",ช่อง ConTV
-http://player.teleon.tv/us/channel/contv-us
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/415vru3E7pL.png",ช่อง Coronavirus.gov
 http://player.teleon.tv/us/channel/coronavirus-gov-us
