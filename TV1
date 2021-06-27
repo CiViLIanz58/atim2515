@@ -1443,7 +1443,7 @@ https://magselect-stirr.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/EUwMjZxXQAAEzVM.jpg",ช่อง WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://scontent.fbkk2-8.fna.fbcdn.net/v/t1.6435-9/s960x960/48962116_2279955192066757_5223125499785510912_n.png?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=aZ38WxX26I8AX-wAkb_&_nc_ht=scontent.fbkk2-8.fna&tp=30&oh=5ef9dea0569909fc8fbdf7ce98955d06&oe=60D81CD4",ช่อง ANIME ALL AGES
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ytimg.com/vi/IG2xdMBkFMU/maxresdefault.jpg",ช่อง ANIME ALL AGES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5be4c6311843b56328bce619&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/64/bd/c8/64bdc845164291d63354a6af537209b1.jpg",ช่อง TELETUBBIES
@@ -1778,6 +1778,98 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/TBN_logo_2015.jpg",ช่อง TBN Asia
 http://59c3ec70cfde0.streamlock.net/channel_4/channel4/chunklist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1280px-Charge%21_Logo_2020.svg.png",ช่อง Charge!
+http://player.teleon.tv/us/channel/%D1%81harge-tv-us
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/media/DlI6g4vU0AEpwtm.jpg",ช่อง Chassy
+http://player.teleon.tv/us/channel/chassy-us
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://cdn.teleon.tv/logo/cbsn-denver-us.png",ช่อง CBSN Denver
+http://player.teleon.tv/us/channel/cbsn-denver-us
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://cdn.teleon.tv/logo/cbsn-los-angeles-us.png",ช่อง CBSN Los Angeles
+http://player.teleon.tv/us/channel/cbsn-los-angeles-us
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://cdn.teleon.tv/logo/cbsn-minnesota-us.png",ช่อง CBSN Minnesota
+http://player.teleon.tv/us/channel/cbsn-minnesota-us
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://cdn.teleon.tv/logo/cbsn-philly-us.png",ช่อง CBSN Philly
+http://player.teleon.tv/us/channel/cbsn-philly-us
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://cdn.teleon.tv/logo/cbsn-pittsburgh-us.png",ช่อง CBSN Pittsburgh
+http://player.teleon.tv/us/channel/cbsn-pittsburgh-us
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://cheddar-production.s3.amazonaws.com/assets/cheddar_news_share.png",ช่อง Cheddar News
+http://player.teleon.tv/us/channel/cheddar-news-us
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://image.roku.com/developer_channels/prod/44e5aee167dc4b57d7c8a83b97c240a4b46ef1358781e42508f366f6aa122689.png",ช่อง Choppertown
+http://player.teleon.tv/us/channel/choppertown-us
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://lacannabisnews.com/prod/wp-content/uploads/2019/01/download-8.jpeg",ช่อง Civilized
+http://player.teleon.tv/us/channel/civilized-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.cablefax.com/wp-content/uploads/2020/03/pluto_tv_logo_1920x1080.png",ช่อง Classic Movies Channel
+http://player.teleon.tv/us/channel/classic-movies-channel-us
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDyW_IE_I1eOfOQ9ANBQ1YuKNtjQPG2YPWgi5zJyyXxFskfreF6dsckrueP3DAGHAf2ho&usqp=CAU",ช่อง Classic Toons TV
+http://player.teleon.tv/us/channel/classic-toons-tv-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/EgdhLG3X0AAdtjq.jpg",ช่อง Classic TV Comedy
+http://player.teleon.tv/us/channel/classic-tv-comedy-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/EgYJ_TSXkAA6pmk.jpg",ช่อง Classic TV Drama
+http://player.teleon.tv/us/channel/classic-tv-drama-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://cdn.teleon.tv/logo/classica-us.png",ช่อง Classica
+http://player.teleon.tv/us/channel/classica-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.esplanade.com/-/media/images/festival/classics-logo.jpg?mw=1200&w=1200&hash=34F9BCE545F4FF636A378B0846C8D4857782BACA",ช่อง Classics Channel
+http://player.teleon.tv/us/channel/classics-channel-us
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.cmtequalplay.com/wp-content/uploads/2020/02/fb-og-image.jpg",ช่อง CMT Equal Play
+http://player.teleon.tv/us/channel/cmt-equal-play-us
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/Screenshot-2020-12-17-at-7.01.40-PM.png",ช่อง Comedy Central Animation
+http://player.teleon.tv/us/channel/comedy-central-animation-us
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://www.robolink.com/wp-content/uploads/2016/08/cnet.png",ช่อง CNET
+http://player.teleon.tv/us/channel/cnet-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://d.newsweek.com/en/full/1638942/cold-case-files-classic-netflix.jpg",ช่อง Cold Case Files
+http://player.teleon.tv/us/channel/cold-case-files-us
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3xmUryK6612jeWTw7IEFtL964pxcHKAkkC3ssnIjqqmRDX6taiZnSOIji-naoL57wRk&usqp=CAU",ช่อง Combate World
+http://player.teleon.tv/us/channel/combate-world-us
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i1.wp.com/www.rokuki.com/wp-content/uploads/2019/09/comedy-dynamics.jpg?fit=700%2C394&ssl=1",ช่อง Comedy Dynamics
+http://player.teleon.tv/us/channel/comedy-dynamics-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://comettv.s3.amazonaws.com/uploads/2017/03/Splash.jpg",ช่อง Comet TV
+http://player.teleon.tv/us/channel/comet-tv-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2019/04/CONtv_Logo_Blue_2018_v1-2.jpg",ช่อง ConTV
+http://player.teleon.tv/us/channel/contv-us
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/415vru3E7pL.png",ช่อง Coronavirus.gov
+http://player.teleon.tv/us/channel/coronavirus-gov-us
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",ช่อง Court TV
+http://player.teleon.tv/us/channel/court-tv-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images.latintimes.com/sites/latintimes.com/files/styles/full/public/2015/07/28/crackle.jpg",ช่อง Crackle
+http://player.teleon.tv/us/channel/crackle-us
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://pbs.twimg.com/media/Ek8w8-KUYAAhciV.jpg",ช่อง Crime 360
+http://player.teleon.tv/us/channel/crime-360-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/Ec6y88JXsAIesoq.png:large",ช่อง CSI
+http://player.teleon.tv/us/channel/csi-us
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/DablTVlogo.jpg",ช่อง Dabl
+http://player.teleon.tv/us/channel/dabl-us
+
+
 
 
 
