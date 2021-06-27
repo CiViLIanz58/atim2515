@@ -1752,6 +1752,38 @@ https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png",ช่อง ANTV
 http://210.210.155.35/session/751485fe-aee3-11ea-934d-b82a72d63267/qwr9ew/s/s07/02.m3u8
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png",ช่อง Indosiar
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",ช่อง SCTV
+http://210.210.155.35/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://p.kindpng.com/picc/s/335-3354311_logo-tvone-vector-cdr-png-hd-tv-one.png",ช่อง TV One
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://thumbs.gfycat.com/BelatedSickCavy-size_restricted.gif",ช่อง JIBS SBS
+http://123.140.197.22/stream/1/play.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.pinimg.com/originals/08/32/9c/08329c12f37cd67e04dfbbc7d7698b8a.jpg",ช่อง JTBC
+http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjqfz1KbznHYILoRRHanesCW-XJqEezlOgk7EXCopF3i_oWTicgdt_RIRE2YmVfKebN4&usqp=CAU",ช่อง KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png",ช่อง M Net
+http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://m.ytn.co.kr/img/program/channel_logo_S.png",ช่อง YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/TBN_logo_2015.jpg",ช่อง TBN Asia
+http://59c3ec70cfde0.streamlock.net/channel_4/channel4/chunklist.m3u8
+
+
+
+
+
+
 
 
 
