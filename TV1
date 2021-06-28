@@ -2031,8 +2031,8 @@ http://player.teleon.tv/us/channel/judge-faith-us
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Judge_Karen.jpg/revision/latest?cb=20150109000720",ช่อง Judge Karen's Court
 http://player.teleon.tv/us/channel/judge-karens-court-us
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://www.pngkey.com/png/detail/200-2006981_57e-divorce-court-logo.png",ช่อง Divorce Court
-http://player.teleon.tv/us/channel/judge-nosey-us
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://image.roku.com/developer_channels/prod/d307578f55088038cca8e20a76bddb91537fb00e0a5494bf9646d7f752cd9004.png",ช่อง Maggelan TV
+http://player.teleon.tv/us/channel/maggelan-tv-us
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2019/03/438115ef-kh-lol_slider_2560x1060.jpg",ช่อง Kevin Hart Laugh Out Loud Network
 http://player.teleon.tv/us/channel/laughoutloud-us
@@ -2105,6 +2105,12 @@ https://radio.tvjaa.com/mcotfm1005
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/geZgfjMRxE.jpg",ช่อง MELLOW 97.5 ดีต่อคุณ ดีต่อใจ
 https://radio.tvjaa.com/mellow975
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/master-builders-logo.png",ช่อง Master Builders
+http://player.teleon.tv/us/channel/master-builders-us
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/media/Ecljrx9WkAMCkmX.jpg",ช่อง MAV TV Select
+http://player.teleon.tv/us/channel/mav-tv-select-us
 
 
 
