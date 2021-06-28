@@ -894,8 +894,8 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://dekhobd.com/uploads/tv_image/a3-bikini-english.jpg",ช่อง A3BIKINI TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.vimeocdn.com/video/722791735_640",ช่อง Action Hollywood Movies
-https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.ytimg.com/vi/Sun6pPr4Wtg/maxresdefault.jpg",ช่อง Bizzarro Movies
+https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png",ช่อง BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
@@ -2114,6 +2114,12 @@ http://player.teleon.tv/us/channel/maverick-black-cinema-us
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://thebritishtvplace.com/wp-content/uploads/2019/05/Midsomer-Murders-on-Pluto-TV.png",ช่อง Midsomer Murders
 http://player.teleon.tv/us/channel/midsomer-murders-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Bloody_Disgusting.PNG",ช่อง Bloody Disgusting
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
+
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://cdn.shopify.com/s/files/1/0035/2508/3181/files/BON_001_Shopify_logo_r3_x300.gif?v=1565812544",ช่อง Bon Appetit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
 
 
