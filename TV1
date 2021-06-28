@@ -1950,7 +1950,7 @@ http://player.teleon.tv/us/channel/flicks-of-fury-us
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://corporate.pluto.tv/wp-content/uploads/2017/04/FoodTV_blog_facebook-960x502.jpg",ช่อง Food TV
 http://player.teleon.tv/us/channel/food-tv-us
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://img2.hulu.com/user/v3/artwork/0d3f89ab-3879-4c2c-975b-aab579e0e471?base_image_bucket_name=image_manager&base_image=81dc80ca-a8fe-43f7-ac80-9ab335cf8383&size=1200x630&format=jpeg",ช่อง Forensic Files
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://img2.hulu.com/user/v3/artwork/0d3f89ab-3879-4c2c-975b-aab579e0e471?base_image_bucket_name=image_manager&base_image=81dc80ca-a8fe-43f7-ac80-9ab335cf8383&size=1200x630&format=jpeg",ช่อง Forensic Files
 http://player.teleon.tv/us/channel/forensic-files-us
 
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://scx2.b-cdn.net/gfx/news/hires/2011/423palminrainforestcrop(main).jpg",ช่อง Forests Live
@@ -1995,8 +1995,7 @@ http://player.teleon.tv/us/channel/glewed-tv-us
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://pbs.twimg.com/media/Dm10nZ_W4AAzuFM.jpg",ช่อง Gordon Ramsay's Hell's Kitchen
 http://player.teleon.tv/us/channel/gordon-ramsays-hells-kitchen-us
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://aphrodite.gmanetwork.com/entertainment/articles/900_675_23__20200918104035.jpg",ช่อง Hallypop TV
-http://player.teleon.tv/us/channel/hallypop-tv-us
+
 
 
 
