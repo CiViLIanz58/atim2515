@@ -2004,9 +2004,6 @@ http://player.teleon.tv/us/channel/holly-wire-us
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/3277d3fd58ab9699b04e86f6742d628c224deebca78373314977b2fed5c62f42.png",ช่อง Hollywood Classics
 http://player.teleon.tv/us/channel/hollywood-classics-us
 
-#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://allvectorlogo.com/img/2016/06/home-shopping-network-hsn-logo.png",ช่อง HSN
-http://player.teleon.tv/us/channel/hsn-us
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.vimeocdn.com/channel/31411_980?mh=250",ช่อง Humor Mill
 http://player.teleon.tv/us/channel/humor-mill-us
 
@@ -2100,7 +2097,7 @@ https://radio.tvjaa.com/fm99activeradio
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://thinkingradio.mcot.net/static/img/fm-965-logo.png",ช่อง FM 96.5 คลื่นความคิด เข้มทุกสาระ ข้นทุกความคิด
 https://radio.tvjaa.com/965fm
 
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.ytimg.com/vi/5owk5w8yT4s/hqdefault.jpg",ช่อง MCOT News Network คลื่นข่าว FM 100.5
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/kZfaeWupWQ.jpeg",ช่อง MCOT News Network คลื่นข่าว FM 100.5
 https://radio.tvjaa.com/mcotfm1005
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/geZgfjMRxE.jpg",ช่อง MELLOW 97.5 ดีต่อคุณ ดีต่อใจ
@@ -2111,6 +2108,12 @@ http://player.teleon.tv/us/channel/master-builders-us
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/media/Ecljrx9WkAMCkmX.jpg",ช่อง MAV TV Select
 http://player.teleon.tv/us/channel/mav-tv-select-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://mma.prnewswire.com/media/1282852/Maverick_Black_Cinema.jpg?p=publish",ช่อง Maverick Black Cinema
+http://player.teleon.tv/us/channel/maverick-black-cinema-us
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://thebritishtvplace.com/wp-content/uploads/2019/05/Midsomer-Murders-on-Pluto-TV.png",ช่อง Midsomer Murders
+http://player.teleon.tv/us/channel/midsomer-murders-us
 
 
 
