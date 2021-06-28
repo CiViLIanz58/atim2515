@@ -1959,8 +1959,8 @@ http://player.teleon.tv/us/channel/forests-live-us
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wixstatic.com/media/9b449a_4dd1465383f248bea8441ede9a000313~mv2.png/v1/fill/w_520,h_290,al_c,q_85,usm_0.66_1.00_0.01/logo-22.webp",ช่อง Freebie TV
 http://player.teleon.tv/us/channel/freebie-tv-us
 
-#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://images.pluto.tv/channels/5938888cd045ffce74cf9048/colorLogoPNG.png",ช่อง FrontDoor
-http://player.teleon.tv/us/channel/frontdoor-us
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://cdn.teleon.tv/logo/happy-days-us.png",ช่อง Happy Days
+http://player.teleon.tv/us/channel/happy-days-us
 
 #EXTINF:-1 group-title="GAMES" tvg-logo="https://image.roku.com/developer_channels/prod/d010dca54c5e53fc19969953b342a36303c5ed225ce6bec2822af246ddf985cf.png",ช่อง Fun Zone
 http://player.teleon.tv/us/channel/fun-zone-us
@@ -1994,6 +1994,9 @@ http://player.teleon.tv/us/channel/glewed-tv-us
 
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://pbs.twimg.com/media/Dm10nZ_W4AAzuFM.jpg",ช่อง Gordon Ramsay's Hell's Kitchen
 http://player.teleon.tv/us/channel/gordon-ramsays-hells-kitchen-us
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://image.roku.com/developer_channels/prod/44feaee7a149a1d83b3ab6c904c0acba7ff6bf9528feff7872274926b07f5aad.png",ช่อง High Times TV
+http://player.teleon.tv/us/channel/high-times-tv-us
 
 
 
