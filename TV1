@@ -1878,7 +1878,7 @@ http://player.teleon.tv/us/channel/demand-africa-us
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://www.pngkey.com/png/detail/200-2006981_57e-divorce-court-logo.png",ช่อง Divorce Court
 http://player.teleon.tv/us/channel/divorce-court-us
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_auto,w_820/v1490294263/content-items/001/905/392/cool_docs_2-original.jpg?1490294263",ช่อง Docs Channel
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://image.roku.com/developer_channels/prod/37e07bd99ce064e4927f75ae22de3a6b9d2189374624cdded839ba5976e25931.png",ช่อง IndieFlix
 http://player.teleon.tv/us/channel/docs-channel-us
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://variety.com/wp-content/uploads/2019/06/doctor-who-classic.jpg",ช่อง Doctor Who Classic
