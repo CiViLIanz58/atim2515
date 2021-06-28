@@ -1998,9 +1998,6 @@ http://player.teleon.tv/us/channel/gordon-ramsays-hells-kitchen-us
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://image.roku.com/developer_channels/prod/44feaee7a149a1d83b3ab6c904c0acba7ff6bf9528feff7872274926b07f5aad.png",ช่อง High Times TV
 http://player.teleon.tv/us/channel/high-times-tv-us
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Hillsong_Channel_Logo.png",ช่อง Hillsong Channel
-http://player.teleon.tv/us/channel/hillsong-channel-us
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://s2.dmcdn.net/v/P8zub1S6jX9fujzP2/x240",ช่อง Holly Wire
 http://player.teleon.tv/us/channel/holly-wire-us
 
@@ -2019,9 +2016,6 @@ http://player.teleon.tv/us/channel/impact-wrestling-channel-us
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/02/Insight-TV-Global-Rebrand.jpg?fit=1200%2C800&ssl=1",ช่อง Insight TV
 http://player.teleon.tv/us/channel/insight-tv-us
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png",ช่อง INtrouble TV
-http://player.teleon.tv/us/channel/introuble-tv-us
-
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://image.roku.com/developer_channels/prod/b712935c55532b0248adc571e0b284180e7c7738e1604abadd74dd22733d0aec.png",ช่อง Jerry Springer
 http://player.teleon.tv/us/channel/jerry-springer-us
 
@@ -2037,7 +2031,7 @@ http://player.teleon.tv/us/channel/judge-faith-us
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Judge_Karen.jpg/revision/latest?cb=20150109000720",ช่อง Judge Karen's Court
 http://player.teleon.tv/us/channel/judge-karens-court-us
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://pbs.twimg.com/media/Ede2EiVXgAUF51S.png:large",ช่อง Judge Nosey
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://www.pngkey.com/png/detail/200-2006981_57e-divorce-court-logo.png",ช่อง Divorce Court
 http://player.teleon.tv/us/channel/judge-nosey-us
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2019/03/438115ef-kh-lol_slider_2560x1060.jpg",ช่อง Kevin Hart Laugh Out Loud Network
@@ -2099,6 +2093,18 @@ https://radio.tvjaa.com/greenwave
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.met107.fm/data/media/3735/C3A3ED5D-5C3C-475F-9E3F-0B059CC91766.jpeg",ช่อง MET 107 FM
 https://radio.tvjaa.com/met107
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2019/09/1508902881993-960x0.jpg",ช่อง Active FM 99 คลื่นเมืองไทยแข็งแรง
+https://radio.tvjaa.com/fm99activeradio
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://thinkingradio.mcot.net/static/img/fm-965-logo.png",ช่อง FM 96.5 คลื่นความคิด เข้มทุกสาระ ข้นทุกความคิด
+https://radio.tvjaa.com/965fm
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.ytimg.com/vi/5owk5w8yT4s/hqdefault.jpg",ช่อง MCOT News Network คลื่นข่าว FM 100.5
+https://radio.tvjaa.com/mcotfm1005
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/geZgfjMRxE.jpg",ช่อง MELLOW 97.5 ดีต่อคุณ ดีต่อใจ
+https://radio.tvjaa.com/mellow975
 
 
 
