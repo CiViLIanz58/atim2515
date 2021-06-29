@@ -2202,6 +2202,101 @@ https://radio.tvjaa.com/98eds
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/fat93radio.png",ช่อง FAT93 RADIO THAILAND
 https://radio.tvjaa.com/fat93fm
 
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/QVC_logo_2019.svg/1200px-QVC_logo_2019.svg.png",ช่อง QVC
+https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/media/EnSDnuQW4AIy0_L.png",ช่อง Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/media/EnSDnuQW4AIy0_L.png",ช่อง Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.cdn.adultswim.com/uploads/20190912/199121118311-blackjesus3_mobileHero_2f9fa6.png",ช่อง Black Jesus Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Brat_TV_logo.png",ช่อง Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://previews.123rf.com/images/vastard/vastard1902/vastard190200010/117631078-ghost-logo-vector-icon-illustration.jpg",ช่อง C-Ghost
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.tvchinese.net/uploads/tv/chchd.jpg",ช่อง CHC
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://hilltimescareers.ca/wp-content/uploads/2020/02/CPAC_logo_black_color.png",ช่อง CPAC
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F58681613c950715c12779bf6f9cb4e5634e612e386ae5542c044b5a3d6040836.png",ช่อง Bang Showbiz
+https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://www.chefchampion.com/resources/Ace%20Champion.png",ช่อง Chef Champion
+https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
+
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://www.glewed.tv/wp-content/uploads/2021/03/TheChefRocShowPoster-300x450.jpg",ช่อง Chef Roc Show
+https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://tv.mobistream.co.za/uploads/jpg/8e8c8b33b401c1504ebace128dbeaa83.jpg",ช่อง Cinevault 80s
+https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/bbf0830919bc5531b6e58b6767a1d885/images/titan/assets/aHR0cHM6Ly9ka2kwMXExbDd5bjN5LmNsb3VkZnJvbnQubmV0L3RodW1ibmFpbHMtcGxhdGZvcm0tcHJvZC9hc3NldHMvY3M6OmNvbnRlbnQ6OmNoYW5uZWxzLzAtMjA0OC9DSU5FVkFVTFQtLVdlc3Rlcm5zLVJva3UtVGh1bWJuYWlsX3YyLmpwZw.jpg",ช่อง Cinevault Westerns
+https://gsn-cinevault-westerns-2.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://ftp.igh.cnrs.fr/pub/xbmc/xbmc/addons/leia/plugin.video.classiccinema/icon.png",ช่อง Classic Cinema
+https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classiqueTV_site.png",ช่อง Classique TV
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://www.filepicker.io/api/file/6httwkITEWKOM2MdSgmA",ช่อง Crime Time
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Watch-DD-Sports-TV-Live-Online.jpeg/revision/latest?cb=20160805130411",ช่อง DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/9999292/300x300.png?type=smartCast_channelTile",ช่อง DUST
+https://dust-samsung-uk-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://variety.com/wp-content/uploads/2018/08/dustx-logo.jpg",ช่อง DUSTx
+https://dust.samsung.wurl.com/manifest/1200.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/87/a6/f7/87a6f7a17a1e9a95e4b28c3822568b48.png",ช่อง DW English
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/starradio9525.png",ช่อง Star Radio FM 95.25 Chiangmai
+https://radio.tvjaa.com/starradio9525
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/xfmnetwork.png",ช่อง XFM Chiangmai FM 94.5 MHz
+https://radio.tvjaa.com/xfmnetwork
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/munforward.png",ช่อง MUN 93 FM สถานีวิทยุอันดับ1 ของคนวัยมันส์
+https://radio.tvjaa.com/munfm
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/bluewave97fm.png",ช่อง BlueWave FM 97
+https://radio.tvjaa.com/bluewave97fm
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/895pattaya.png",ช่อง Phuket Live Radio 89.5 FM
+https://radio.tvjaa.com/895pattaya
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/modern9875.png",ช่อง ดนตรีสีสัน Modern9875
+https://radio.tvjaa.com/modern9875
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/smile9525.png",ช่อง Smile Radio FM 95.25
+https://radio.tvjaa.com/smile9525
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/smile101.png",ช่อง Smile Radio FM 101 สไมล์ลูกทุ่ง
+https://radio.tvjaa.com/smile101
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/10475radio.png",ช่อง คลื่นเพื่อการอนุลักษณ์ 104.75 FM อนุรักษ์เรดิโอ
+https://radio.tvjaa.com/10475radio
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://www.looktung.net/_nuxt/img/2b7e5ae.png",ช่อง ลูกทุ่งเน็ตเวิร์ก
+http://www.looktung.net/play
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://www.isanfm.com/images/Cover20210315.jpg",ช่อง อีสาน เอฟ.เอ็ม.
+http://www.isanfm.com/
+
+
+
 
 
 
