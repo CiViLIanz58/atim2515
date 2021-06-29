@@ -2163,6 +2163,54 @@ https://arcade-cloud.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/7aJwpfsWIJo/maxresdefault.jpg",ช่อง Bahrain Sports TV
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
 
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.pinimg.com/originals/90/e3/27/90e32721c941540ebf6eaab473ef97ba.jpg",ช่อง FM95 ลูกทุ่งมหานคร
+https://radio.tvjaa.com/fm95
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.flexstation.net/uploads/16134634950.jpg",ช่อง Flex 104.5
+https://radio.tvjaa.com/flex1045
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vBjbAq89jv.png",ช่อง City Radio Pattaya 90.25 FM
+https://radio.tvjaa.com/cityradio
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/great93fm.png",ช่อง GREAT 93
+https://radio.tvjaa.com/great93
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://pbs.twimg.com/profile_images/1252083860151521280/6e3F3_gu.jpg",ช่อง FM ONE 103.5
+https://radio.tvjaa.com/fmone1035
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/F4Hy4ef.png",ช่อง MUSICBOX MAXIMUM MUSIC STATION
+https://radio.tvjaa.com/maximummusicbox
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/ircradio.png",ช่อง IRC Radio
+https://radio.tvjaa.com/ircradio
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/fm101.png",ช่อง FM 101 Radio Report One
+https://radio.tvjaa.com/fm101
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/like103fm.png",ช่อง 103 Like Station Happy Station
+https://radio.tvjaa.com/like103fm
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/js100.png",ช่อง จส.100
+https://radio.tvjaa.com/js100
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/fm91.png",ช่อง สวพ. FM 91
+https://radio.tvjaa.com/fm91
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/qualitynewsstation.png",ช่อง Quality News Station สวท.FM 97 MHz
+https://radio.tvjaa.com/qualitynewsstation
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/sunshine.png",ช่อง Sunshine Radio Pattaya 107.75MHz Good life good music
+https://radio.tvjaa.com/sunshine
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/goodtime985fm.png",ช่อง Goodtime Radio FM 98.5 เพลงดี ข่าวเด่น บันเทิงโดน
+https://radio.tvjaa.com/goodtime985
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/98eds.png",ช่อง E-D-S FM98 EVERYDAY STATION
+https://radio.tvjaa.com/98eds
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/fat93radio.png",ช่อง FAT93 RADIO THAILAND
+https://radio.tvjaa.com/fat93fm
+
 
 
 
