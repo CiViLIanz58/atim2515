@@ -2121,6 +2121,48 @@ https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://cdn.shopify.com/s/files/1/0035/2508/3181/files/BON_001_Shopify_logo_r3_x300.gif?v=1565812544",ช่อง Bon Appetit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://deadline.com/wp-content/uploads/2020/06/ifc-films.jpg?w=1000",ช่อง IFC Film Picks
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.hedex.tv/uploads/images/clip_1462_1621191696_poster.png",ช่อง Rush by AMC
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://media.wired.com/photos/593251a94dc9b45ccec5d343/master/w_1600%2Cc_limit/ifc-10.jpg",ช่อง Slightly Off by IFC
+https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-182-400x400.png",ช่อง AT-X
+https://sub2.neetball.net/live/neet.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b/200",ช่อง Adrenaline Rush
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mensjournal.com/wp-content/uploads/2018/03/ASN-1.jpg?w=1200&h=630&crop=1&quality=86&strip=all",ช่อง Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://axadledirect.com/uploads/tv_image/axadle-afrobeats-tv.jpg",ช่อง Afrobeats 247
+https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Stirr_logo%2C_black_on_yellow.jpg",ช่อง Alabama Birmingham STIRR
+https://dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://image.roku.com/developer_channels/prod/b8d753f4a78f057b6fcf7f92cefc25ed76423cf46caf5056ae0e8e8b4194068b.png",ช่อง American Classics
+https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://blog.lcotiv.com/i/90235226002.png",ช่อง Amuse Animation
+https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2016/09/26/AquaTeenHungerForce.png",ช่อง Aqua Teen Hunger Force from Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://play-lh.googleusercontent.com/b29M_qcSe8f3r8Bz-uAfpMxqlb-EpPAxoKlg4zToijBGCQdzyfZt9HRnz8ku6QzVADE",ช่อง Australia Channel 
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+
+#EXTINF:-1 group-title="GAMES" tvg-logo="https://images.squarespace-cdn.com/content/5d3e6d54c58ed10001c5a235/1567635275059-VW8BLQFPS5Y163UWDLJT/BCCSquarespaceLogo.png?format=1500w&content-type=image%2Fpng",ช่อง BCC Gaming
+https://arcade-cloud.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/7aJwpfsWIJo/maxresdefault.jpg",ช่อง Bahrain Sports TV
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
+
 
 
 
