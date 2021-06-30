@@ -2325,17 +2325,11 @@ https://tv.artcom-venture.de/dmf/tv_720.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://play-lh.googleusercontent.com/Z5YSBzoAXVeBY4DsMSOM8HrIZmssN9SjQIWZubUwSkzX8k-6gtsDdLk_e-DAAWkgDkQ=h500",ช่อง DocuBay TV
 https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.greenappleent.com/wp-content/uploads/2017/07/Dove-Channel-logo.png",ช่อง Dove Channel
-https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://4.bp.blogspot.com/-3sdAhgLWxIg/WgWtgecbQEI/AAAAAAAALs0/DVtMuIBx73YHiy9F8SW1L5dBiGy73RcEACLcBGAs/s1600/dubai%2Bracing.png",ช่อง Dubai Racing
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-racing-2-3859.jpg",ช่อง Dubai Racing 2
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.nettv.live/uploads/allimg/21/1-210402193U50-L.jpg",ช่อง Dubai Racing 3
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/ERT_SPORTS_HD_LOGO.png",ช่อง ERT SPORTS
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
