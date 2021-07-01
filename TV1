@@ -2397,6 +2397,80 @@ https://www.nettvpro.live/en/play.php?aid=9119
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20191204/ca3c0e32211d4966a70946e50c94f4e3.png",ช่อง 中国供销频道
 https://www.nettvpro.live/en/play.php?aid=6507
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/profile_images/930901445171433472/uLZWlxVM.jpg",ช่อง Flix Fling Now
+https://flixfling-flixflingnow-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/WNBW-DT_Logo.png/220px-WNBW-DT_Logo.png",ช่อง Florida Gainesville
+https://dai.google.com/linear/hls/event/Ybz6nJKqSS2fcQYflsmpRw/master.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/WEAR-TV_logo.png",ช่อง Florida Pensacola
+https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/027c883/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fa9%2F3c%2F9f6b133f451482c4fb7d56b6f94c%2Fwptv-geographic-locator-600x200.png",ช่อง Florida West Palm Beach
+https://dai.google.com/linear/hls/event/ji4LMCwtRCOw3TrRUKlQMQ/master.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.pinimg.com/originals/2d/a5/bb/2da5bb30d6ed67323d2068ee014aea7c.jpg",ช่อง Folk TV
+https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1786741766.m3u8
+
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3SiRr8fU5uDfNu-rGR8uC4NH81cw6fBrZlg&usqp=CAU",ช่อง HUNGRY
+https://food.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-food52-9500.jpg",ช่อง Food 52
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",ช่อง France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_old_900.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2020/06/FUELTVthumbok.jpg",ช่อง Fuel TV
+https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1200px-GB_News_Logo.svg.png",ช่อง GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-fit-2728.jpg",ช่อง GEM Fit
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist_960x540_2000k.m3u8
+
+#EXTINF:-1 group-title="FOOD" tvg-logo="https://www.gemonline.net/Assets/channels-box/gem_food.png?14",ช่อง GEM Food
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist_960x540_2000k.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.parsatv.com/index_files/channels/gemonyx.jpg",ช่อง GEM Onyx
+https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_960x540_2000k.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://gemtravel.gr/wp-content/uploads/2017/01/logo_tr_medium.png",ช่อง GEM Travel
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-good-life-45.jpg",ช่อง GOOD LIFE 45
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png",ช่อง Grit
+https://bozztv.com/teleyupp/teleup-grit/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://infopelis.com/wp-content/uploads/2021/04/HqM-Hip-Hop.png",ช่อง HQM Hip Hop
+https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://hqm.es/wp-content/uploads/jazz-hqm-300x180.jpg",ช่อง HQM Jazz
+https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.coolstreaming.us/img/ch/image41349504609.jpg",ช่อง HQM Remember
+https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://www.pinclipart.com/picdir/middle/39-391259_hse24-logo-hse-24-clipart.png",ช่อง HSE24
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/de-hse-24-extra-7220.jpg",ช่อง HSE24 Extra
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/de-hse-24-trend-9151.jpg",ช่อง HSE24 Trend
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://www.logolynx.com/images/logolynx/b6/b629f76a5e511e43e08d1e08597c1fd2.jpeg",ช่อง HSN
+https://lshsn1usott-lh.akamaihd.net/i/lshsn1usott_01@838842/index_1600_av-b.m3u8?sd=10&dw=60&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on
+
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Hsn2.jpg/revision/latest?cb=20140319104458",ช่อง HSN 2
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8?b=728,1128
+
+
+
 
 
 
