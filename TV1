@@ -2391,6 +2391,12 @@ https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/media/EWaKCEdWoAAbi14.jpg",ช่อง Fite
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_360/chunks.m3u8
 
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://img3.zhanqi.tv/live/20210320/302569_1616180766_small.jpg",ช่อง imode TV时尚频道
+https://www.nettvpro.live/en/play.php?aid=9119
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20191204/ca3c0e32211d4966a70946e50c94f4e3.png",ช่อง 中国供销频道
+https://www.nettvpro.live/en/play.php?aid=6507
+
 
 
 
