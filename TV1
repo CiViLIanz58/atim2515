@@ -2451,6 +2451,9 @@ https://lshsn1usott-lh.akamaihd.net/i/lshsn1usott_01@838842/index_1600_av-b.m3u8
 #EXTINF:-1 group-title="SHOPPING" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Hsn2.jpg/revision/latest?cb=20140319104458",ช่อง HSN 2
 https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8?b=728,1128
 
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052011/pattaya_people.ai_.png?itok=iPXgqYBw",ช่อง Pattaya People
+http://pattayapeople.com/live-tv/
+
 
 
 
