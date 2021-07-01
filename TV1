@@ -2400,15 +2400,6 @@ https://www.nettvpro.live/en/play.php?aid=6507
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/profile_images/930901445171433472/uLZWlxVM.jpg",ช่อง Flix Fling Now
 https://flixfling-flixflingnow-1.vizio.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/WNBW-DT_Logo.png/220px-WNBW-DT_Logo.png",ช่อง Florida Gainesville
-https://dai.google.com/linear/hls/event/Ybz6nJKqSS2fcQYflsmpRw/master.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/WEAR-TV_logo.png",ช่อง Florida Pensacola
-https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8
-
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/027c883/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fa9%2F3c%2F9f6b133f451482c4fb7d56b6f94c%2Fwptv-geographic-locator-600x200.png",ช่อง Florida West Palm Beach
-https://dai.google.com/linear/hls/event/ji4LMCwtRCOw3TrRUKlQMQ/master.m3u8
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.pinimg.com/originals/2d/a5/bb/2da5bb30d6ed67323d2068ee014aea7c.jpg",ช่อง Folk TV
 https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1786741766.m3u8
 
@@ -2445,16 +2436,7 @@ http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png",ช่อง Grit
 https://bozztv.com/teleyupp/teleup-grit/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://infopelis.com/wp-content/uploads/2021/04/HqM-Hip-Hop.png",ช่อง HQM Hip Hop
-https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://hqm.es/wp-content/uploads/jazz-hqm-300x180.jpg",ช่อง HQM Jazz
-https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.coolstreaming.us/img/ch/image41349504609.jpg",ช่อง HQM Remember
-https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
-
-#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://www.pinclipart.com/picdir/middle/39-391259_hse24-logo-hse-24-clipart.png",ช่อง HSE24
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://www.tivu.tv/_common/images/cover-canali/hse24.jpg",ช่อง HSE24
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 
 #EXTINF:-1 group-title="SHOPPING" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/de-hse-24-extra-7220.jpg",ช่อง HSE24 Extra
