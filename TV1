@@ -2538,8 +2538,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playli
 #EXTINF:-1 group-title="UKRAINE TV" tvg-logo="https://rci-c.com/wp-content/uploads/2018/04/125.jpg",ช่อง K1
 https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/70/43/e6/7043e648-fd85-dcef-c37a-87ce58a78cc4/mza_13285552218070967175.jpg/640x640bb.jpg",ช่อง KBP SPORTS
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://snagfilms-a.akamaihd.net/0000014c-edbe-da12-a1fc-fdbe2f120000/images/4c/ae/b8725d004554822bffb1a7f8b779/1519835956947_lsn_logo_red_16x9Images.png",ช่อง Lax Sports Network TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/KOFY_TV_20_San_Francisco_2016.png/170px-KOFY_TV_20_San_Francisco_2016.png",ช่อง KOFY-TV
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kofy-dt1.m3u8
@@ -2561,6 +2561,9 @@ https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/KTNV-TV_Logo.png",ช่อง Las Vegas - 13 Action News
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2019/02/07/laststreamleft_Header_2.png",ช่อง Last Stream On The Left Adult Swim 24/7
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
 
 
 
