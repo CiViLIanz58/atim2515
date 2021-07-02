@@ -1723,7 +1723,7 @@ http://185.96.176.139:8080/superone/index.m3u8
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://prensario.tv/images/galleries/4180/916c3ab98d686f3db20a5049d118363d_750x400.jpg?v=1567616695",ช่อง Gusto TV
-https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
+https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png",ช่อง Newsmax TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
@@ -2489,6 +2489,80 @@ https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/08/humanity_base.png?resize=300%2C194&ssl=1",ช่อง Humanity
 https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-logo="https://pbs.twimg.com/media/CJAK_65UYAArET5.jpg",ช่อง ID Fashion
+https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png",ช่อง ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://i.ytimg.com/vi/k9MyH_YJp-0/maxresdefault.jpg",ช่อง India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.inkhabar.com/wp-content/uploads/2018/02/India-News-Live.png",ช่อง India News
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://www.livetvmesh.com/wp-content/uploads/2018/09/India-Today-273x300.jpg",ช่อง India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhtHWmdjGQO5n3GL00u-DXB0bYvW-sAERf03bnmlQ=s900-c-k-c0x00ffffff-no-rj",ช่อง Indonesia Channel 
+http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/12/09/Infomercials.png",ช่อง Infomercials Adult Swim 24/7 
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png",ช่อง Introuble TV 
+https://introuble-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png",ช่อง Inwild TV 
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png",ช่อง Inwonder TV 
+https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/JTV_Logo.png",ช่อง JTV 
+https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/ccddaf02_1_1728/chunklist.m3u8
+
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/JewelleryMaker_new_logo.jpg",ช่อง Jewellery Maker
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Jiangsu_Broadcasting_Corporation_Logo.png",ช่อง Jiangsu Television
+http://ivi.bupt.edu.cn/hls/jstv.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.themusic.co.nz/images/57144/juicetv.jpg",ช่อง Juice TV
+https://i.mjh.nz/nz/tv.juice.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Just_for_Laughs_Gags_Logo.png",ช่อง Just for Laughs Gags
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="UKRAINE TV" tvg-logo="https://rci-c.com/wp-content/uploads/2018/04/125.jpg",ช่อง K1
+https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/70/43/e6/7043e648-fd85-dcef-c37a-87ce58a78cc4/mza_13285552218070967175.jpg/640x640bb.jpg",ช่อง KBP SPORTS
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/KOFY_TV_20_San_Francisco_2016.png/170px-KOFY_TV_20_San_Francisco_2016.png",ช่อง KOFY-TV
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kofy-dt1.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://st.mvs.wtf/uploads/image/5f06d21f5d8f436f62351f34/maxres.png",ช่อง KOK Fights
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Fox23-logo.jpg",ช่อง KOKI-TV FOX 23 Tulsa
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSarHMzO_9rZtFj8c1-6oP01TtSs_UaCwtyR75rl_XPwYUlvMumnRvQNpFsaSmwImYjvZI&usqp=CAU",ช่อง Kiss TV
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.kooltv-mn.com/images/KOOL-TV_Logo-small.png",ช่อง Kool TV
+http://209.182.219.50:1935/roku/roku/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.roku.com/developer_channels/prod/b4e8385b18098ab1a09bb81760ef44835c59464fb807e0a27c926acc5003fa71.png",ช่อง LOCAL NOW Sports
+https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/KTNV-TV_Logo.png",ช่อง Las Vegas - 13 Action News
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
+
+
 
 
 
