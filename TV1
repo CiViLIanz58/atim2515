@@ -1723,7 +1723,7 @@ http://185.96.176.139:8080/superone/index.m3u8
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://prensario.tv/images/galleries/4180/916c3ab98d686f3db20a5049d118363d_750x400.jpg?v=1567616695",ช่อง Gusto TV
-https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
+https://gustotv-samsung-in.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png",ช่อง Newsmax TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
