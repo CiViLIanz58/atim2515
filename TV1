@@ -2407,7 +2407,7 @@ https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1786741766.
 https://food.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-food52-9500.jpg",ช่อง Food 52
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",ช่อง France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_old_900.m3u8
