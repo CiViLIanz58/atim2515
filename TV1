@@ -2619,6 +2619,62 @@ https://ustvgo.tv/motortrend/
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://variety.com/wp-content/uploads/2014/05/msnbc_logo.jpg?crop=118px%2C56px%2C798px%2C444px&resize=681%2C383",ช่อง MSNBC
 https://ustvgo.tv/msnbc/
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nicktoons_UK_logo_2005.svg/703px-Nicktoons_UK_logo_2005.svg.png",ช่อง Nicktoons
+https://ustvgo.tv/nicktoons/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://i.iheart.com/v3/re/new_assets/5faefbc04b2d2470f40bf614",ช่อง One America News Network
+https://ustvgo.tv/one-america-news-network/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1200px-OWN_2011_logo.svg.png",ช่อง OWN
+https://ustvgo.tv/own/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",ช่อง Olympic Channel
+https://ustvgo.tv/olympic-channel/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1200px-Oxygen_TV_%282017_Logo%29.svg.png",ช่อง Oxygen
+https://ustvgo.tv/oxygen/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1200px-PBS_logo.svg.png",ช่อง PBS
+https://ustvgo.tv/pbs-live/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png",ช่อง TBS
+https://ustvgo.tv/tbs-channel-live-free/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://www.seekpng.com/png/detail/43-432213_rbti-05-jun-2017-science-channel-logo-2016.png",ช่อง Science
+https://ustvgo.tv/science/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",ช่อง SEC Network
+https://ustvgo.tv/sec-network/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://i.pinimg.com/originals/69/0d/b1/690db11732f5ea5792cda8969b640ce6.png",ช่อง Starz
+https://ustvgo.tv/starz-channel-live/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SundanceTV.svg/1280px-SundanceTV.svg.png",ช่อง Sundance TV
+https://ustvgo.tv/sundance-tv/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Syfy-Logo-2009.png",ช่อง Syfy
+https://ustvgo.tv/syfy-channel-live/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png",ช่อง Travel
+https://ustvgo.tv/travel-channel-live-free/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png",ช่อง TruTV
+https://ustvgo.tv/trutv/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png",ช่อง TV Land
+https://ustvgo.tv/tv-land-live-free/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png",ช่อง The Weather Channel
+https://ustvgo.tv/the-weather-channel-live-streaming-free/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/1200px-We_TV_logo_2014.svg.png",ช่อง We TV
+https://ustvgo.tv/we-tv/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thestandard.com.hk/images/instant_news/20190830/20190830100903contentPhoto1.jpg",ช่อง YES Network
+https://ustvgo.tv/yes-network/
+
+
+
 
 
 
