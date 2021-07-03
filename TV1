@@ -2592,6 +2592,27 @@ https://ustvgo.tv/diy/
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg",ช่อง E!
 https://ustvgo.tv/eonline/
 
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-business/og/og-fox-business.png",ช่อง Fox Business
+https://ustvgo.tv/fox-business-live-streaming-free/
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/1200px-Freeform_2018.svg.png",ช่อง Freeform
+https://ustvgo.tv/freeform-channel-live-free/
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.pinimg.com/originals/b8/ed/e8/b8ede872f580ca6021c4b10f7894c78d.jpg",ช่อง FX
+https://ustvgo.tv/fx-channel-live/
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png",ช่อง FXM
+https://ustvgo.tv/fxm/
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://download.logo.wine/logo/FXX_(Canadian_TV_channel)/FXX_(Canadian_TV_channel)-Logo.wine.png",ช่อง FXX
+https://ustvgo.tv/fxx/
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1200px-Hallmark_Channel.svg.png",ช่อง Hallmark Channel
+https://ustvgo.tv/hallmark-channel-live-streaming-free/
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png",ช่อง Hallmark Movies & Mysteries
+https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/
+
 
 
 
