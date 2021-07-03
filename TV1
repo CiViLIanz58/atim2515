@@ -2496,7 +2496,7 @@ https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 group-title="UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png",ช่อง ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
 
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://i.ytimg.com/vi/k9MyH_YJp-0/maxresdefault.jpg",ช่อง India TV
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/04/24/indiatv.jpg?itok=KlEq3Jz7",ช่อง India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.inkhabar.com/wp-content/uploads/2018/02/India-News-Live.png",ช่อง India News
@@ -2612,6 +2612,12 @@ https://ustvgo.tv/hallmark-channel-live-streaming-free/
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png",ช่อง Hallmark Movies & Mysteries
 https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://download.logo.wine/logo/Motor_Trend/Motor_Trend-Logo.wine.png",ช่อง MotorTrend
+https://ustvgo.tv/motortrend/
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://variety.com/wp-content/uploads/2014/05/msnbc_logo.jpg?crop=118px%2C56px%2C798px%2C444px&resize=681%2C383",ช่อง MotorTrend
+https://ustvgo.tv/msnbc/
 
 
 
