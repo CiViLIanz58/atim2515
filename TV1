@@ -2673,6 +2673,43 @@ https://ustvgo.tv/we-tv/
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thestandard.com.hk/images/instant_news/20190830/20190830100903contentPhoto1.jpg",ช่อง YES Network
 https://ustvgo.tv/yes-network/
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png",ช่อง VEVO 2K 
+https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png",ช่อง VEVO Country 
+https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png",ช่อง VEVO Hip Hop 
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png",ช่อง VEVO Latino 
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png",ช่อง VEVO R&B
+https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/VHS_logo.svg/1200px-VHS_logo.svg.png",ช่อง VHS 90s
+https://v2.catcast.tv/content/37925/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png",ช่อง Vevo 80s
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png",ช่อง Vevo Holiday
+https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png",ช่อง Vevo Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png",ช่อง Vevo Pop England
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+
+#EXTINF:-1 group-title="VIDEO" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_.jpg",ช่อง Raiders of the Lost Ark 
+https://www.doomovie-hd.com/?r=movie_view&id=16802
+
+
+
+
+
 
 
 
