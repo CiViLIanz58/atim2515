@@ -2139,7 +2139,7 @@ https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mensjournal.com/wp-content/uploads/2018/03/ASN-1.jpg?w=1200&h=630&crop=1&quality=86&strip=all",ช่อง Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://axadledirect.com/uploads/tv_image/axadle-afrobeats-tv.jpg",ช่อง Afrobeats 247
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://tv2club.com/wp-content/uploads/2020/10/wp-1493061837818.jpg",ช่อง Afrobeats 24/7
 https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://blog.lcotiv.com/i/90235226002.png",ช่อง Amuse Animation
@@ -2704,7 +2704,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=re
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
 #EXTINF:-1 group-title="VIDEO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Nobody_2021_Film_Poster.jpeg",เรื่อง Nobody
-https://fwiptv.tv/Nobody-2021-%E0%B8%84%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B8%B5%E0%B9%88
+https://037moviefree.com/Nobody-2021-%E0%B8%84%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B8%B5%E0%B9%88
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.golfchannel.co.th/wp-content/uploads/2021/03/GCT2.jpg",ช่อง Golf Channel Thailand 2
 https://www.we-play.live/watching/tv/golf-channel-thailand-hd2
@@ -2722,7 +2722,7 @@ https://www.we-play.live/watching/tv/true-tennis
 https://www.we-play.live/watching/tv/true-sports-hd-2
 
 #EXTINF:-1 group-title="VIDEO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/TheMarksmanPoster.jpeg/220px-TheMarksmanPoster.jpeg",เรื่อง The Marksman
-https://fwiptv.tv/The-Marksman-2021-%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B8
+https://037moviefree.com/The-Marksman-2021-%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B8
 
 #EXTINF:-1 group-title="VIDEO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Raiders_of_the_Lost_Ark_Theatrical_Poster.jpg/220px-Raiders_of_the_Lost_Ark_Theatrical_Poster.jpg",เรื่อง Raiders of the Lost Ark
 https://037-hd.com/Indiana-Jones-and-the-Raiders-of-the-Lost-Ark-%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%9F%E0%B9%89%E0%B8%B2
@@ -2772,10 +2772,17 @@ https://037moviefree.com/THE-GHOUL-HORROR-AT-THE-HOWLING-FIELD--2020-%E0%B8%AB%E
 #EXTINF:-1 group-title="VIDEO" tvg-logo="https://037moviefree.com/images/movie/haMy71Tg143e5k5uwgCAeZEdWFgz2hP.jpg",เรื่อง The Misfits
 https://037moviefree.com/The-Misfits-2021-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81
 
+#EXTINF:-1 group-title="VIDEO" tvg-logo="https://037moviefree.com/images/movie/BsdaON0fEwgMpeg5N9aGRYYjw8FZrYh.jpg",เรื่อง Mortal Kombat
+https://037moviefree.com/Mortal-Kombat-2021-%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B1%E0%B8%A5-%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B9%81%E0%B8%9A%E0%B8%97
 
+#EXTINF:-1 group-title="VIDEO" tvg-logo="https://037moviefree.com/images/movie/TSU0hWus22KTBFty2uPcPcwMZdWfcjO.jpg",เรื่อง Seobok
+https://037moviefree.com/Seobok-2021-%E0%B8%8B%E0%B8%AD-%E0%B8%9A%E0%B8%81-%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0
 
+#EXTINF:-1 group-title="VIDEO" tvg-logo="https://037moviefree.com/images/movie/9WurlQkgtN6OcJnSTe9RhUtDHmODeWO.jpg",เรื่อง มนต์รักดอกผักบุ้ง เลิกคุยทั้งอำเภอ
+https://037moviefree.com/Mon-Ruk-Dok-Pak-Bung-2021-%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B8%B8%E0%B9%89%E0%B8%87-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%84%E0%B8%B8%E0%B8%A2%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD
 
-
+#EXTINF:-1 group-title="VIDEO" tvg-logo="https://037moviefree.com/images/movie/dUnQvXIvI21Jacec85JU7CHuZNivlRb1.jpg",เรื่อง Zack Snyders Justice League
+https://037moviefree.com/Zack-Snyders-Justice-League-2021-%E0%B8%88%E0%B8%B1%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%A5%E0%B8%B5%E0%B8%81%E0%B8%84%E0%B9%8C-2021
 
 
 
