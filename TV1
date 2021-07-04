@@ -2707,31 +2707,34 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 https://037-hd.com/Indiana-Jones-and-the-Raiders-of-the-Lost-Ark-%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%9F%E0%B9%89%E0%B8%B2
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-1.png",ช่อง True Premier Football HD 1
-blob:https://embed-dev.blackboxsys.net/87e25a45-71bc-4080-8df8-9b73b08e67c2
+https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-2.png",ช่อง True Premier Football HD 2
-blob:https://embed-dev.blackboxsys.net/1db90ead-b17c-40c2-b832-0e0d5a3d7fa3
+https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=hmcb4rf66f
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-3.png",ช่อง True Premier Football HD 3
-blob:https://embed-dev.blackboxsys.net/cfc917cd-cbfd-402e-b6d9-34a94b5da0fb
+https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=hmcb4rf66f
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-4.png",ช่อง True Premier Football HD 4
-blob:https://embed-dev.blackboxsys.net/68ae5477-aef8-4381-9499-65be707ea542
+https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=hmcb4rf66f
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/16_True-Tennis-HD.jpg",ช่อง True Tennis HD
-blob:https://embed-dev.blackboxsys.net/76499570-3997-43dc-aed1-2ad1fd1b8880
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",ช่อง True Premier Football HD 5
+https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tsports.png",ช่อง T SPORTS
-blob:https://embed-dev.blackboxsys.net/6b7b35b3-530b-414a-a18a-a401cc467ecc
+https://embed-dev.blackboxsys.net/player.php?channel=sd-tsports&api_key=hmcb4rf66f
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png",ช่อง beIN SPORTS 1
-blob:https://embed-dev.blackboxsys.net/4cc3c166-9fac-4375-a260-9075f1ace150
+https://wwww.lineballsod.com/doball/live-ch7a/
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png",ช่อง beIN SPORTS 2
-blob:https://embed-dev.blackboxsys.net/aab79b7d-eec5-46ab-a0f6-9bc93ccb65ba
+https://www.lineballsod.com/doball/live-ch8/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/16_True-Tennis-HD.jpg",ช่อง True Tennis HD
+https://www.we-play.live/watching/tv/true-tennis
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport2.png",ช่อง True Sports HD 2
-blob:https://embed-dev.blackboxsys.net/40984488-988c-41a5-a685-c273e99dc223
+https://www.we-play.live/watching/tv/true-sports-hd-2
 
 
 
