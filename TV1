@@ -2703,8 +2703,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=re
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png",ช่อง Vevo Pop England
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
-#EXTINF:-1 group-title="VIDEO" tvg-logo="https://cy.lnwfile.com/3zt0p7.jpg",เรื่อง Raiders of the Lost Ark
-https://037-hd.com/Indiana-Jones-and-the-Raiders-of-the-Lost-Ark-%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%9F%E0%B9%89%E0%B8%B2
+#EXTINF:-1 group-title="VIDEO" tvg-logo="https://i.pinimg.com/originals/79/23/24/792324ef24e66c11e62c7db221240cc4.jpg",เรื่อง Iron Man
+https://www.moviecr7.com/iron-man-2008-%e0%b9%84%e0%b8%ad%e0%b8%a3%e0%b8%ad%e0%b8%99-%e0%b9%81%e0%b8%a1%e0%b8%99-%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%a5%e0%b8%b1%e0%b8%a2%e0%b8%84%e0%b8%99%e0%b9%80/
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.golfchannel.co.th/wp-content/uploads/2021/03/GCT2.jpg",ช่อง Golf Channel Thailand 2
 https://www.we-play.live/watching/tv/golf-channel-thailand-hd2
@@ -2720,6 +2720,12 @@ https://www.we-play.live/watching/tv/true-tennis
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport2.png",ช่อง True Sports HD 2
 https://www.we-play.live/watching/tv/true-sports-hd-2
+
+#EXTINF:-1 group-title="VIDEO" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ed/Iron_Man_2_poster.jpg",เรื่อง Iron Man 2
+https://www.moviecr7.com/iron-man-2-2010-%e0%b9%84%e0%b8%ad%e0%b8%a3%e0%b8%ad%e0%b8%99-%e0%b9%81%e0%b8%a1%e0%b8%99-2/
+
+#EXTINF:-1 group-title="VIDEO" tvg-logo="https://www.siamzone.com/movie/pic/2013/ironman3/poster1.jpg",เรื่อง Iron Man 3
+https://www.moviecr7.com/iron-man-3-2013-%e0%b9%84%e0%b8%ad%e0%b8%a3%e0%b8%ad%e0%b8%99-%e0%b9%81%e0%b8%a1%e0%b8%99-3/
 
 
 
