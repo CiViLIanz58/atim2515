@@ -2301,7 +2301,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAM TV" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/788942-DN2.png",ช่อง Da Nang TV2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.swigappmanager.com/uploads/stream_images/1598460060_797eaf3_dance_star.png",ช่อง DanceStar TV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.pngkey.com/png/full/172-1720484_dancestar-tv-is-pure-electronic-dance-music-culture.png",ช่อง DanceStar TV
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://i.ytimg.com/vi/xnzjnLIz-5c/maxresdefault.jpg",ช่อง Danger TV
@@ -2703,8 +2703,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=re
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png",ช่อง Vevo Pop England
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
-#EXTINF:-1 group-title="VIDEO" tvg-logo="https://i.pinimg.com/originals/79/23/24/792324ef24e66c11e62c7db221240cc4.jpg",เรื่อง Iron Man
-https://www.fw-iptv.com/movies/%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87-god-bless-the-trainees-too-2021-%e0%b8%ab%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b9%80%e0%b8%9b%e0%b9%89%e0%b8%87%e0%b8%88%e0%b9%8b%e0%b8%b2-%e0%b8%ad/
+#EXTINF:-1 group-title="VIDEO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Nobody_2021_Film_Poster.jpeg",เรื่อง Nobody
+https://fwiptv.tv/Nobody-2021-%E0%B8%84%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B8%B5%E0%B9%88
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.golfchannel.co.th/wp-content/uploads/2021/03/GCT2.jpg",ช่อง Golf Channel Thailand 2
 https://www.we-play.live/watching/tv/golf-channel-thailand-hd2
@@ -2720,6 +2720,17 @@ https://www.we-play.live/watching/tv/true-tennis
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tsport2.png",ช่อง True Sports HD 2
 https://www.we-play.live/watching/tv/true-sports-hd-2
+
+#EXTINF:-1 group-title="VIDEO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/TheMarksmanPoster.jpeg/220px-TheMarksmanPoster.jpeg",เรื่อง The Marksman
+https://fwiptv.tv/The-Marksman-2021-%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B8
+
+#EXTINF:-1 group-title="VIDEO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Seo_Bok_poster.jpg/220px-Seo_Bok_poster.jpg",เรื่อง Seobok
+https://fwiptv.tv/Seobok-2021-%E0%B8%8B%E0%B8%AD%E0%B8%9A%E0%B8%81-%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0
+
+#EXTINF:-1 group-title="VIDEO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Seo_Bok_poster.jpg/220px-Seo_Bok_poster.jpg",เรื่อง The Great Magician
+https://fwiptv.tv/The-Great-Magician-2011-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5
+
+
 
 
 
