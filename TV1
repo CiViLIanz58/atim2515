@@ -2883,6 +2883,9 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png",ช่อง MBC Plus Drama 
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/featuredImage.jpg?auto=format&fill=blur&fit=fill&ixlib=react-9.0.3&h=562&w=1024",ช่อง MLS 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=712&deviceId=5cb626cfcaf83414128f439c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 
 
 
