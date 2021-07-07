@@ -2886,6 +2886,36 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/featuredImage.jpg?auto=format&fill=blur&fit=fill&ixlib=react-9.0.3&h=562&w=1024",ช่อง MLS 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=712&deviceId=5cb626cfcaf83414128f439c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",ช่อง TRUE PREMIER FOOTBALL HD 1 
+https://nangfaiptv.online/tv-player/true-premuim-1-vkd80p04jvr0.html
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",ช่อง TRUE PREMIER FOOTBALL HD 2 
+https://nangfaiptv.online/tv-player/true-premuim-2-iyrpacvc8lk1.html
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",ช่อง TRUE PREMIER FOOTBALL HD 3 
+https://nangfaiptv.online/tv-player/true-premuim-3.html
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Logo.png?U2t5IFNwb3J0cyBGb290YmFsbA==",ช่อง Sky Sports Football 
+https://fifa55u.com/ballsod/ch083/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ewsat.com/img/BT_SPORT_1.png",ช่อง BT Sport 1 HD
+https://fifa55u.com/ballsod/ch088/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ewsat.com/img/BT_SPORT_2.png",ช่อง BT Sport 2 HD
+https://fifa55u.com/ballsod/ch089/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ia800809.us.archive.org/7/items/BtSport3Hd/bt%20sport%203%20hd.png",ช่อง BT Sport 3 HD
+https://fifa55u.com/ballsod/ch090/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ia800809.us.archive.org/7/items/BtSport3Hd/bt%20sport%203%20hd.png",ช่อง BT Sport 3 HD
+https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87skynetsporthd/
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="http://4.bp.blogspot.com/-E9xlLJb4lxU/Xgrx4q2lGcI/AAAAAAAAXpk/VOZAHE7Y1uYrLEmp9LA-a-HMWqkL_Gh9ACK4BGAYYCw/s1600/Logo-13-SiamThai.png",ช่อง 13 สยามไทย
+https://www.13livetv.com/
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://th-test-11.slatic.net/shop/77cacd8ba0c894fb5720895b09888491.jpeg_200x200.jpg",ช่อง Wellness Mark TV
+https://www.wellnessmarkshop.com/
+
 
 
 
