@@ -1341,8 +1341,8 @@ https://siamtv88.co/index.php?a=live_details&channel_code=th-explife
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/1024px-LEGO_logo.svg.png",ช่อง LEGO
 http://gg.gg/uewnw
 
-#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png",ช่อง BBC LIFESTYLE
-https://siamtv88.co/index.php?a=live_details&channel_code=sd-bbclifestyle
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://scitechinstitute.org/wp-content/uploads/2020/04/bbc-earth.jpg",ช่อง BBC Earth
+https://siamtv88.co/index.php?a=live_details&channel_code=sd-bbcearth
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_virgin_radio_tv.png",ช่อง VIRGIN RADIO TV
 http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
@@ -2910,11 +2910,31 @@ https://fifa55u.com/ballsod/ch090/
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="http://4.bp.blogspot.com/-E9xlLJb4lxU/Xgrx4q2lGcI/AAAAAAAAXpk/VOZAHE7Y1uYrLEmp9LA-a-HMWqkL_Gh9ACK4BGAYYCw/s1600/Logo-13-SiamThai.png",ช่อง 13 สยามไทย
 https://www.13livetv.com/
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://th-test-11.slatic.net/shop/77cacd8ba0c894fb5720895b09888491.jpeg_200x200.jpg",ช่อง Wellness Mark TV
-https://www.wellnessmarkshop.com/stemming-tv/
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",ช่อง True Inside HD
+https://siamtv88.co/index.php?a=live_details&channel_code=th-inside
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://th-test-11.slatic.net/shop/77cacd8ba0c894fb5720895b09888491.jpeg_200x200.jpg",ช่อง Wellness Mark TV
-https://www.wellnessmarkshop.com/stemming-tv/
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",ช่อง True Xzyte HD
+https://siamtv88.co/index.php?a=live_details&channel_code=hd-xzyte
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",ช่อง DMAX
+https://siamtv88.co/index.php?a=live_details&channel_code=uk-dmax
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png",ช่อง H2
+https://siamtv88.co/index.php?a=live_details&channel_code=th-history2
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://f.ptcdn.info/334/056/000/p4ow9vaci97tTpCwuD0-o.png",ช่อง True Explore Wild
+https://siamtv88.co/index.php?a=live_details&channel_code=th-natgeowild
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.eurocupbasketball.com/rs/29753/7dd1e5a9-6d1e-44ba-805c-0858188b732f/9bc/filename/eurosport-2.png",ช่อง Eurosport 2
+https://siamtv88.co/index.php?a=live_details&channel_code=uk-eurosport2
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-pod9UBc08z8/Xrlu40dJlfI/AAAAAAAAC04/sxtCnFk11fkYB-2IKzdl5rlMkCbUscBpwCLcBGAsYHQ/s640/premier%2Bsports%2B1.jpg",ช่อง Premier Sports 1
+https://siamtv88.co/index.php?a=live_details&channel_code=uk-premiersports
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.sportsnet.ca/wp-content/uploads/2013/06/sportsnet360.png",ช่อง Sportsnet 360
+https://siamtv88.co/index.php?a=live_details&channel_code=ca-sportsnet360
+
+
 
 
 
