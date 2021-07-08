@@ -2943,9 +2943,6 @@ http://player.teleon.tv/us/channel/minecraftv-us
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/ErQNdV9UYAIRHal.jpg",ช่อง Mission Impossible
 http://player.teleon.tv/us/channel/mission-impossible-us
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/ErQNdV9UYAIRHal.jpg",ช่อง Mission Impossible
-http://player.teleon.tv/us/channel/mission-impossible-us
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://image.roku.com/developer_channels/prod/0a85e89c3f3773d288a137ef68eda6909978b7260f98f5fcdc0728741ddc270d.png",ช่อง Motorcyclist
 http://player.teleon.tv/us/channel/motorcyclist-us
 
