@@ -361,7 +361,7 @@ https://www.adintrend.tv/hd/ch28?t=live
 https://we-play.live/watching/tv/cnn
  
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/NHK-Logo.png",ช่อง NHK WORLD JAPAN
-https://we-play.live/watching/tv/nhk-world
+https://www.nettvpro.live/en/play.php?aid=1373
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.inwiptv.com/postor/20200208001241%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg",ช่อง ถิ่นใต้
 http://freelive.inwstream.com:1935/freelive-edge/the_battle.stream/playlist.m3u8
@@ -2990,6 +2990,38 @@ http://player.teleon.tv/us/channel/outdoor-america-us
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg?auto=format&fill=blur&fit=fill&ixlib=react-9.0.3&h=562&w=1024",ช่อง Paramount+ Picks
 http://player.teleon.tv/us/channel/paramount-us
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbq_5sbRBagR5pNzKGN1dH4YyZQSFMtyte_-vAWLbBEIBE07jcTZphIBsNTEEyWssn2TE&usqp=CAU",ช่อง 耀才財經台
+https://www.nettvpro.live/en/play.php?aid=807
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3a/HKIBC_logo.png",ช่อง 香港國際財經台
+https://www.nettvpro.live/en/play.php?aid=391
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/3SNZqF7uqxQqLuWuDtLU2UxXIECMxoFQU5diR924BmEydRBlmiBMwSpfAXP3jybOt4EFmv8Rb6NpMwXndIDLz0sSx0ifRDI0NT8gohdcqIUB4b6lmCv6I0OFjQTynUCtLdGMkw",ช่อง 香港創世電視
+https://www.nettvpro.live/en/play.php?aid=1651
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.ctstvnet.com%2F%3Fwid%3D12%26id%3D7&psig=AOvVaw012pNZ3fi7hpHkIZV_U-CS&ust=1625876188860000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPCvhvja1PECFQAAAAAdAAAAABAD",ช่อง 亞旅衛視
+https://www.nettvpro.live/en/play.php?aid=6725
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png",ช่อง 鳳凰衛視香港台
+https://www.nettvpro.live/en/play.php?aid=3106
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/mXlmSrU8TdYZI652PmLJJI16M9DLPE_k5XFjy85gezE_8hVH6ip9FIrl2Yw0VtWIiLoq91V-FC5pQwEp_7DypQrxBp29BtHq-JHNf1xjpdOsH-QX8qDvSg",ช่อง 鳳凰衛視中文台
+https://www.nettvpro.live/en/play.php?aid=147
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 香港電台
+https://www.nettvpro.live/en/play.php?aid=9217
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.passiontimes.hk/images/logo.jpg",ช่อง 熱血時報
+https://www.nettvpro.live/en/play.php?aid=9495
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.flex.co.jp/wp-content/uploads/logo-ann-e1595837294310.png",ช่อง ANN NEWS
+https://www.nettvpro.live/en/play.php?aid=6068
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://alchetron.com/cdn/korean-central-television-6cb3b1b4-609c-40a9-8f85-93c56eca61f-resize-750.jpeg",ช่อง Korean Central TV
+https://www.nettvpro.live/en/play.php?aid=5501
+
+
 
 
 
