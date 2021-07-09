@@ -3021,6 +3021,54 @@ https://www.nettvpro.live/en/play.php?aid=5501
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/ac/Titv_logo.png",ช่อง 熱血時報
 https://www.nettvpro.live/en/play.php?aid=11
 
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://twg.skyking.com.tw/skyking/uploaded/42d34024b6b742f6a98a32dc02fefa76.png",ช่อง 世界電視台
+https://www.nettvpro.live/en/play.php?aid=9122
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.suchaoren.com/2021/01/3cc7f4219c83f84883bf54a23c3a5ed0.jpeg",ช่อง 大愛二臺
+https://www.nettvpro.live/en/play.php?aid=4063
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://s3.hicloud.net.tw/daaiapp/images/ch1.jpg",ช่อง 大愛一臺
+https://www.nettvpro.live/en/play.php?aid=4062
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.daai.tv/images/og-channel.jpg",ช่อง 大愛海外頻道
+https://www.nettvpro.live/en/play.php?aid=4064
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.daai.tv/images/og-channel.jpg",ช่อง 大愛海外頻道
+https://www.nettvpro.live/en/play.php?aid=4064
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://liveq.tv/liveq.tv/img/tw-CH47_%E7%89%A7%E8%80%85%E9%A0%BB%E9%81%93.jpg",ช่อง CH47牧者頻道
+https://www.nettvpro.live/en/play.php?aid=5454
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://liveq.tv/liveq.tv/img/tw-CH45_%E5%8D%A1%E9%80%9A.jpg",ช่อง CH45卡通
+https://www.nettvpro.live/en/play.php?aid=5487
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://cn.heytv.org/wp-content/uploads/2018/12/1-1Q1042012120-L.jpg",ช่อง CH44烤箱讀書會
+https://www.nettvpro.live/en/play.php?aid=5486
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://liveq.tv/liveq.tv/img/tw-CH40_%E8%BD%89%E8%BD%89%E7%99%BC%E7%8F%BE%E6%84%9B.jpg",ช่อง CH40轉轉發現愛
+https://www.nettvpro.live/en/play.php?aid=5484
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://cn.heytv.org/wp-content/uploads/2018/12/1-1Q1042006200-L.jpg",ช่อง CH38特會系列：
+https://www.nettvpro.live/en/play.php?aid=5483
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://sg.heytv.org/wp-content/uploads/2018/12/1-1Q1042004340-L.jpg",ช่อง CH37特會系列：
+https://www.nettvpro.live/en/play.php?aid=5482
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH36特會系列：
+https://www.nettvpro.live/en/play.php?aid=5481
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://mcshowblog.files.wordpress.com/2019/08/tennis-channel-logo.png?w=640",ช่อง Tennis Channel
+https://www.nettvpro.live/en/play.php?aid=10472
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://s3-us-west-1.amazonaws.com/jukinmedia-web-resources/images/press/petcollectivearticle.jpg",ช่อง the pet collective
+https://www.nettvpro.live/en/play.php?aid=5084
+
+#EXTINF:-1 group-title="GAMES" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/gametoon_HD_MGC.png",ช่อง Gametoon TV
+https://www.nettvpro.live/en/play.php?aid=10366
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://recuerdosretro.com/radio/wp-content/uploads/2019/09/cropped-logo_new_web10.png",ช่อง Recuerdos Retro
+https://www.nettvpro.live/en/play.php?aid=10703
+
 
 
 
