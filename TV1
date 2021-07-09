@@ -3000,7 +3000,7 @@ https://www.nettvpro.live/en/play.php?aid=391
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/3SNZqF7uqxQqLuWuDtLU2UxXIECMxoFQU5diR924BmEydRBlmiBMwSpfAXP3jybOt4EFmv8Rb6NpMwXndIDLz0sSx0ifRDI0NT8gohdcqIUB4b6lmCv6I0OFjQTynUCtLdGMkw",ช่อง 香港創世電視
 https://www.nettvpro.live/en/play.php?aid=1651
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.ctstvnet.com%2F%3Fwid%3D12%26id%3D7&psig=AOvVaw012pNZ3fi7hpHkIZV_U-CS&ust=1625876188860000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPCvhvja1PECFQAAAAAdAAAAABAD",ช่อง 亞旅衛視
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://www.ctstvnet.com/uploads/image/20190904/1567573278176773.png",ช่อง 亞旅衛視
 https://www.nettvpro.live/en/play.php?aid=6725
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png",ช่อง 鳳凰衛視香港台
@@ -3016,10 +3016,13 @@ https://www.nettvpro.live/en/play.php?aid=9217
 https://www.nettvpro.live/en/play.php?aid=9495
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.flex.co.jp/wp-content/uploads/logo-ann-e1595837294310.png",ช่อง ANN NEWS
-https://www.nettvpro.live/en/play.php?aid=6068
+https://wwitv.com/tv_channels/b4501.htm
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://alchetron.com/cdn/korean-central-television-6cb3b1b4-609c-40a9-8f85-93c56eca61f-resize-750.jpeg",ช่อง Korean Central TV
 https://www.nettvpro.live/en/play.php?aid=5501
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.flex.co.jp/wp-content/uploads/logo-ann-e1595837294310.png",ช่อง ANN NEWS
+https://wwitv.com/tv_channels/b7345-HTB-News.htm
 
 
 
