@@ -2997,7 +2997,7 @@ https://www.nettvpro.live/en/play.php?aid=807
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3a/HKIBC_logo.png",ช่อง 香港國際財經台
 https://www.nettvpro.live/en/play.php?aid=391
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/3SNZqF7uqxQqLuWuDtLU2UxXIECMxoFQU5diR924BmEydRBlmiBMwSpfAXP3jybOt4EFmv8Rb6NpMwXndIDLz0sSx0ifRDI0NT8gohdcqIUB4b6lmCv6I0OFjQTynUCtLdGMkw",ช่อง 香港創世電視
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/91/Creation-tv_logo.png",ช่อง 香港創世電視
 https://www.nettvpro.live/en/play.php?aid=1651
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://www.ctstvnet.com/uploads/image/20190904/1567573278176773.png",ช่อง 亞旅衛視
@@ -3006,7 +3006,7 @@ https://www.nettvpro.live/en/play.php?aid=6725
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png",ช่อง 鳳凰衛視香港台
 https://www.nettvpro.live/en/play.php?aid=3106
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://lh3.googleusercontent.com/proxy/mXlmSrU8TdYZI652PmLJJI16M9DLPE_k5XFjy85gezE_8hVH6ip9FIrl2Yw0VtWIiLoq91V-FC5pQwEp_7DypQrxBp29BtHq-JHNf1xjpdOsH-QX8qDvSg",ช่อง 鳳凰衛視中文台
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbp9_rZ76z1by66fVli9_8Xs2uLpxmgZrfIlXkc-JwfJ-eUOKVz3sTLwTVolsasJhSlRg&usqp=CAU",ช่อง 鳳凰衛視中文台
 https://www.nettvpro.live/en/play.php?aid=147
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png",ช่อง 香港電台
@@ -3033,25 +3033,22 @@ https://www.nettvpro.live/en/play.php?aid=4062
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.daai.tv/images/og-channel.jpg",ช่อง 大愛海外頻道
 https://www.nettvpro.live/en/play.php?aid=4064
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.daai.tv/images/og-channel.jpg",ช่อง 大愛海外頻道
-https://www.nettvpro.live/en/play.php?aid=4064
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://liveq.tv/liveq.tv/img/tw-CH47_%E7%89%A7%E8%80%85%E9%A0%BB%E9%81%93.jpg",ช่อง CH47牧者頻道
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH47牧者頻道
 https://www.nettvpro.live/en/play.php?aid=5454
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://liveq.tv/liveq.tv/img/tw-CH45_%E5%8D%A1%E9%80%9A.jpg",ช่อง CH45卡通
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH45卡通
 https://www.nettvpro.live/en/play.php?aid=5487
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://cn.heytv.org/wp-content/uploads/2018/12/1-1Q1042012120-L.jpg",ช่อง CH44烤箱讀書會
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH44烤箱讀書會
 https://www.nettvpro.live/en/play.php?aid=5486
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://liveq.tv/liveq.tv/img/tw-CH40_%E8%BD%89%E8%BD%89%E7%99%BC%E7%8F%BE%E6%84%9B.jpg",ช่อง CH40轉轉發現愛
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH40轉轉發現愛
 https://www.nettvpro.live/en/play.php?aid=5484
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://cn.heytv.org/wp-content/uploads/2018/12/1-1Q1042006200-L.jpg",ช่อง CH38特會系列：
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH38特會系列：
 https://www.nettvpro.live/en/play.php?aid=5483
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="http://sg.heytv.org/wp-content/uploads/2018/12/1-1Q1042004340-L.jpg",ช่อง CH37特會系列：
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH37特會系列：
 https://www.nettvpro.live/en/play.php?aid=5482
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH36特會系列：
