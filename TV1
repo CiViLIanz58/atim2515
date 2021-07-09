@@ -3066,6 +3066,9 @@ https://www.nettvpro.live/en/play.php?aid=10366
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://recuerdosretro.com/radio/wp-content/uploads/2019/09/cropped-logo_new_web10.png",ช่อง Recuerdos Retro
 https://www.nettvpro.live/en/play.php?aid=10703
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/hkstv.jpg",ช่อง HKS TV
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
 
 
 
