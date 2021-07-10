@@ -3186,6 +3186,9 @@ http://www.watchyour.tv/dvr.php?id=849
 #EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/.png",ช่อง TVS Western Movie
 http://www.watchyour.tv/dvr.php?id=821
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Shaw_Brothers_Logo.jpg",ช่อง Shaw Brothers
+http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
+
 
 
 
