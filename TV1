@@ -3190,7 +3190,13 @@ http://www.watchyour.tv/dvr.php?id=821
 http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Shaw_Brothers_Logo.jpg",ช่อง Shaw Brothers
-https://pornercdns.com/hls/0054000/54000/fullhd/fullhd.m3u8
+https://www.ast.tv/stream/1/ultra.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Shaw_Brothers_Logo.jpg",ช่อง Shaw Brothers
+https://www.ast.tv/stream/2/ultra.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Shaw_Brothers_Logo.jpg",ช่อง Shaw Brothers
+https://sc.id-tv.kz/Astana.m3u8
 
 
 
