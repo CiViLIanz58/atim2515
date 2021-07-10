@@ -3189,11 +3189,14 @@ http://www.watchyour.tv/dvr.php?id=821
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Shaw_Brothers_Logo.jpg",ช่อง Shaw Brothers
 http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Shaw_Brothers_Logo.jpg",ช่อง Shaw Brothers
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://dash.tvzinos.com/assets/images/channel/79925.jpg",ช่อง LADYBOY TV 1
 https://www.ast.tv/stream/1/ultra.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Shaw_Brothers_Logo.jpg",ช่อง Shaw Brothers
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://dash.tvzinos.com/assets/images/channel/79925.jpg",ช่อง LADYBOY TV 2
 http://www.ast.tv/stream/2/master.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/MANGORN.png",ช่อง มังกร
+https://edge6a.v2h-cdn.com/v2h/V2H12.stream_360p/chunklist_w959940228.m3u8
 
 
 
