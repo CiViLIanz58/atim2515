@@ -3069,6 +3069,123 @@ https://www.nettvpro.live/en/play.php?aid=10703
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/hkstv.jpg",ช่อง HKS TV
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-classic-sports.jpg",ช่อง TVS Classic Sports
+http://www.watchyour.tv/dvr.php?id=735
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-boxing-network.jpg",ช่อง TVS Boxing Network
+http://www.watchyour.tv/dvr.php?id=786
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-turbo-network.jpg",ช่อง TVS Turbo Network
+http://www.watchyour.tv/dvr.php?id=793
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-tavern-tv.jpg",ช่อง TVS Tavern TV
+http://www.watchyour.tv/dvr.php?id=795
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-sports-network.jpg",ช่อง TVS Sports Network
+http://www.watchyour.tv/dvr.php?id=796
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-women-s-sports-network.jpg",ช่อง TVS Women's Sports Network
+http://www.watchyour.tv/dvr.php?id=798
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-main-street.jpg",ช่อง TVS Main Street
+http://www.watchyour.tv/dvr.php?id=799
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-frontier.jpg",ช่อง TVS Buckboard Network
+http://www.watchyour.tv/dvr.php?id=802
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-nostalgia.jpg",ช่อง TVS Nostalgia
+http://www.watchyour.tv/dvr.php?id=797
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-flashback-network.jpg",ช่อง TVS Flashback Network
+http://www.watchyour.tv/dvr.php?id=815
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/pet-parade-network.jpg",ช่อง Pet Parade Network
+http://www.watchyour.tv/dvr.php?id=834
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/rare-collectibles-televison.jpg",ช่อง Rare Collectibles Televison
+http://www.watchyour.tv/dvr.php?id=831
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bazaar-of-all-nations.jpg",ช่อง TVS Bazaar of All Nations
+http://www.watchyour.tv/dvr.php?id=848
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-mystery-network.jpg",ช่อง TVS Cipher Network
+http://www.watchyour.tv/dvr.php?id=843
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-classic-movies.png",ช่อง TVS Classic Movies
+http://www.watchyour.tv/dvr.php?id=820
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/.jpg",ช่อง TVS Consumer Direct
+http://www.watchyour.tv/dvr.php?id=840
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-drive-in-movie.jpg",ช่อง TVS Drive In Movie
+http://www.watchyour.tv/dvr.php?id=819
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-film-noir-network.jpg",ช่อง TVS Film Noir Network
+http://www.watchyour.tv/dvr.php?id=842
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-front-page-detective-.jpg",ช่อง TVS Front Page Detective
+http://www.watchyour.tv/dvr.php?id=844
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-hi-tops.jpg",ช่อง TVS Hi Tops
+http://www.watchyour.tv/dvr.php?id=816
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-hollywood-history.jpg",ช่อง TVS Hollywood History
+http://www.watchyour.tv/dvr.php?id=823
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-horror.jpg",ช่อง TVS Horror
+http://www.watchyour.tv/dvr.php?id=825
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-inspirational-network.jpg",ช่อง TVS Inspirational Network
+http://www.watchyour.tv/dvr.php?id=839
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-family-channel.jpg",ช่อง TVS Light Network
+http://www.watchyour.tv/dvr.php?id=817
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-nostalgia-movies.jpg",ช่อง TVS Nostalgia Movie Network
+http://www.watchyour.tv/dvr.php?id=822
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-music-network.jpg",ช่อง TVS Opus Network
+http://www.watchyour.tv/dvr.php?id=845
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-cartoon-network.jpg",ช่อง TVS Pinball Network
+http://www.watchyour.tv/dvr.php?id=837
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-travel-network.jpg",ช่อง TVS Port O Call
+http://www.watchyour.tv/dvr.php?id=824
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-game-show-network.jpg",ช่อง TVS Quiz Show Network
+http://www.watchyour.tv/dvr.php?id=830
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-select-network.jpg",ช่อง TVS Select Network
+http://www.watchyour.tv/dvr.php?id=827
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-silo-discount-network.png",ช่อง TVS Silo Discount Network
+http://www.watchyour.tv/dvr.php?id=847
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-comedy-channel.jpg",ช่อง TVS Sitcom
+http://www.watchyour.tv/dvr.php?id=829
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-sports-bureau.jpg",ช่อง TVS Sports Bureau
+http://www.watchyour.tv/dvr.php?id=832
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-talk-network.png",ช่อง TVS Talk Network
+http://www.watchyour.tv/dvr.php?id=846
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-tally-ho.jpg",ช่อง TVS Tally Ho
+http://www.watchyour.tv/dvr.php?id=826
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-television-network.jpg",ช่อง TVS Television Network
+http://www.watchyour.tv/dvr.php?id=818
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-today-home-entertainment-network.jpg",ช่อง TVS Today Home Entertainment Network
+http://www.watchyour.tv/dvr.php?id=841
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-vintage-network.jpg",ช่อง TVS Vintage Network
+http://www.watchyour.tv/dvr.php?id=849
+
+#EXTINF:-1 group-title="TVS TV" tvg-logo="https://www.watchyour.tv/channels/logo/.png",ช่อง TVS Western Movie
+http://www.watchyour.tv/dvr.php?id=821
+
 
 
 
