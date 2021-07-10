@@ -3198,10 +3198,7 @@ http://www.ast.tv/stream/2/master.m3u8
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-net-tv-4.0.jpg",ช่อง NET TV
 http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",ช่อง HBO 2
-http://210.210.155.35/uq2663/h/h05/01.m3u8
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",ช่อง HBO 2
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://1.bp.blogspot.com/-oEi93fv5TjA/Vx9WuXm3e8I/AAAAAAAAAGI/IG_HgHhE5vcZK4ijIpCDcJd7f58xhTa3ACLcB/s1600/kompas-tv.png",ช่อง Kompas TV
 http://210.210.155.35:80/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
 
 
