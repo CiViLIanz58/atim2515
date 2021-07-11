@@ -3204,6 +3204,32 @@ http://210.210.155.35:80/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.rajawali.com/wp-content/uploads/2017/04/Rajawali-Televisi.png",ช่อง RTV
 http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6717ff1156940d3862e29f75324adbb9.webp",ช่อง Underground TV
+https://www.cxtvlive.com/live-tv/underground-tv
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/fighttvplus.png",ช่อง FightTVplus
+https://spbtv.online/channels/fight-tv-plus.html#autoplay
+
+#EXTINF:-1 group-title="GAMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png",ช่อง World Poker Tour
+https://www.distro.tv/live/world-poker-tour
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://a.jsrdn.com/hls/22956/classic-reruns-tv/thumbv_20210407_045846.jpg",ช่อง Classic Reruns TV
+https://www.distro.tv/live/classic-reruns-tv
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22789/chivetv/thumbv_20200717_232723.jpg",ช่อง ChiveTV
+https://www.distro.tv/live/chivetv
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22769/real-vision-1/thumbv_20200717_232723.jpg",ช่อง Real Vision
+https://www.distro.tv/live/real-vision-1
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://a.jsrdn.com/hls/22915/business-rockstars/thumbv_20201029_010329.jpg",ช่อง Business Rockstars
+https://www.distro.tv/live/business-rockstars
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://a.jsrdn.com/hls/22851/elevator-pitch-1/thumbv_20200610_163709.jpg",ช่อง Entrepreneur
+https://www.distro.tv/live/entrepreneur-1
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://a.jsrdn.com/hls/22927/black-enterprise/thumbv_20210113_193911.jpg",ช่อง Black Enterprise
+https://www.distro.tv/live/black-enterprise
 
 
 
