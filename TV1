@@ -3204,9 +3204,6 @@ http://210.210.155.35:80/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.rajawali.com/wp-content/uploads/2017/04/Rajawali-Televisi.png",ช่อง RTV
 http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6717ff1156940d3862e29f75324adbb9.webp",ช่อง Underground TV
-https://www.cxtvlive.com/live-tv/underground-tv
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/fighttvplus.png",ช่อง FightTVplus
 https://spbtv.online/channels/fight-tv-plus.html#autoplay
 
