@@ -3228,6 +3228,68 @@ https://www.distro.tv/live/entrepreneur-1
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://a.jsrdn.com/hls/22927/black-enterprise/thumbv_20210113_193911.jpg",ช่อง Black Enterprise
 https://www.distro.tv/live/black-enterprise
 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/a/a0/News12017.png/500px-News12017.png",ช่อง NEWS1
+https://server1.streamssl.com/stream/news1_hi.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i2.wp.com/www.nextsteptv.com/wp-content/uploads/2017/11/cropped-Untitled-1-01-1-4.png",ช่อง สำรวจโลก
+http://27.254.130.62/feed/LC8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://a.jsrdn.com/hls/22915/galxy-tv/thumbv_20201029_013655.jpg",ช่อง Galxy TV
+https://www.distro.tv/live/galxy-tv
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://a.jsrdn.com/hls/22759/the-film-detective-2/thumbv_20200602_061207.jpg",ช่อง Lone Star
+https://www.distro.tv/live/lone-star
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://a.jsrdn.com/hls/22882/christmas-classics/thumbv_20201215_013923.jpg",ช่อง Christmas Classics
+https://www.distro.tv/live/christmas-classics
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://a.jsrdn.com/hls/22915/cinepride/thumbv_20201029_010625.jpg",ช่อง Cinepride
+https://www.distro.tv/live/cinepride
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://a.jsrdn.com/hls/22919/revry-2/thumbv_20210529_004849.jpg",ช่อง Revry
+https://www.distro.tv/live/revry-2
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://a.jsrdn.com/hls/22919/oml-on-revry/thumbv_20210312_090439.jpg",ช่อง OML on Revry
+https://www.distro.tv/live/oml-on-revry
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://a.jsrdn.com/hls/22915/watchit-scream/thumbv_20201029_015603.jpg",ช่อง Watchit Scream!
+https://www.distro.tv/live/watchit-scream
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://a.jsrdn.com/hls/22915/frightflix/thumbv_20201029_013120.jpg",ช่อง Frightflix
+https://www.distro.tv/live/frightflix
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://a.jsrdn.com/hls/22886/the-grid/thumbv_20200811_062716.jpg",ช่อง The Grid
+https://www.distro.tv/live/the-grid
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22728/monarch/thumbv_20200717_232723.jpg",ช่อง Monarch
+https://www.distro.tv/live/monarch
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://a.jsrdn.com/hls/22870/kwelitv/thumbv_20200812_053207.jpg",ช่อง KweliTV
+https://www.distro.tv/live/kwelitv
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://a.jsrdn.com/hls/22888/plymouth-rock-tv/thumbv_20200903_234213.jpg",ช่อง Plymouth Rock TV
+https://www.distro.tv/live/plymouth-rock-tv
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://a.jsrdn.com/hls/22886/cjc-television-network/thumbv_20200811_060403.jpg",ช่อง CJC Television Network
+https://www.distro.tv/live/cjc-television-network
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://a.jsrdn.com/hls/22914/homme/thumbv_20210413_230435.jpg",ช่อง fw.tv by Firework
+https://www.distro.tv/live/fwtv
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://a.jsrdn.com/hls/22912/trontv/thumbv_20201016_172928.jpg",ช่อง TronTV
+https://www.distro.tv/live/trontv
+
+#EXTINF:-1 group-title="GAMES" tvg-logo="https://a.jsrdn.com/hls/22904/dot-esports/thumbv_20200917_065551.jpg",ช่อง Dot Esports
+https://www.distro.tv/live/dot-esports
+
+#EXTINF:-1 group-title="GAMES" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/thumbv_20210622_195955.png",ช่อง Billiard TV
+https://www.distro.tv/live/billiard-tv
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://a.jsrdn.com/hls/22964/fido-tv/thumbv_20210622_200416.png",ช่อง Fido TV
+https://www.distro.tv/live/fido-tv
+
+#EXTINF:-1 group-title="GAMES" tvg-logo="https://a.jsrdn.com/hls/22915/dungeon-tv/thumbv_20201029_011653.jpg",ช่อง Dungeon TV
+https://www.distro.tv/live/dungeon-tv
 
 
 
