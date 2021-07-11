@@ -3291,6 +3291,15 @@ https://www.distro.tv/live/fido-tv
 #EXTINF:-1 group-title="GAMES" tvg-logo="https://a.jsrdn.com/hls/22915/dungeon-tv/thumbv_20201029_011653.jpg",ช่อง Dungeon TV
 https://www.distro.tv/live/dungeon-tv
 
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://store-images.s-microsoft.com/image/apps.1196.14521799904887438.e92bdbd2-ded2-40ec-be53-e17ec538c250.9a9dfe46-310d-4d98-a909-aa70ff629837?mode=scale&q=90&h=1080&w=1920",ช่อง Waypoint TV
+https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F0a2a9b78ab4298f895e43d5e4e71b4ad5fe80bc52a1e9f427978ea8514a5d0cf.jpg",ช่อง PursuitUP
+https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F0a2a9b78ab4298f895e43d5e4e71b4ad5fe80bc52a1e9f427978ea8514a5d0cf.jpg",ช่อง PursuitUP
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+
 
 
 
