@@ -3459,8 +3459,8 @@ http://infoua.biz/en/tvchannels/music/420
 #EXTINF:-1 group-title="FASHION" tvg-logo="https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg",ช่อง World Fashion Russia
 https://www.parsatv.com/name=World-Fashion-Russia#fashion
 
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/brazzers.png",ช่อง Brazzers TV
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_BRAZZERSTV/variant.m3u8?version=2
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/4017b91b585fca313d9300498e3f80255fcb4bfba40840ade41b5a2009eb239c.png",ช่อง Monster Movies
+https://wownow-monstermovies-1.vizio.wurl.com/manifest/playlist.m3u8
 
 
 
