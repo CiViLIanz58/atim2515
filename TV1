@@ -2391,7 +2391,7 @@ https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/media/EWaKCEdWoAAbi14.jpg",ช่อง Fite
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_360/chunks.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://img3.zhanqi.tv/live/20210320/302569_1616180766_small.jpg",ช่อง imode TV时尚频道
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.nettv.live/uploads/21/1-2106011I049144.jpg",ช่อง imode TV时尚频道
 https://www.nettvpro.live/en/play.php?aid=9119
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20191204/ca3c0e32211d4966a70946e50c94f4e3.png",ช่อง 中国供销频道
@@ -3297,8 +3297,119 @@ https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F0a2a9b78ab4298f895e43d5e4e71b4ad5fe80bc52a1e9f427978ea8514a5d0cf.jpg",ช่อง PursuitUP
 https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F0a2a9b78ab4298f895e43d5e4e71b4ad5fe80bc52a1e9f427978ea8514a5d0cf.jpg",ช่อง PursuitUP
-https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/74/32/bc/7432bc45-778b-f625-2825-c68625882e7f/mzl.vzxhsxcj.png/0x0ss-85.jpg",ช่อง BesTV超级HD
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/sdetv.jpg",ช่อง SDETV
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs2.jpg",ช่อง TVS2
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://img.isuper.tv/live-tv/cn-tv/ahtv-live.jpg",ช่อง 安徽卫视
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://a.jsrdn.com/hls/22869/whistle-sports/thumbv_20200727_234430.jpg",ช่อง Whistle TV
+https://www.distro.tv/live/whistle-sports
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://a.jsrdn.com/hls/22883/flo-sports/thumbv_20200923_224802.jpg",ช่อง FloSports
+https://www.distro.tv/live/flo-sports
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/thumbv_20201117_210341.jpg",ช่อง SportsGrid
+https://www.distro.tv/live/sportsgrid
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22723/world-of-free-sports-tv/thumbv_20191205_011236.jpg",ช่อง World Of Free Sports TV
+https://www.distro.tv/live/world-of-free-sports-tv
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://a.jsrdn.com/hls/22882/channel-fight/thumbv_20200930_055750.jpg",ช่อง Channel Fight
+https://www.distro.tv/live/channel-fight
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://a.jsrdn.com/hls/22952/pro-football-focus/thumbv_20210412_083443.jpg",ช่อง Pro Football Focus
+https://www.distro.tv/live/pro-football-focus
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/thumbv_20210524_235219.jpg",ช่อง MotorRacing
+https://www.distro.tv/live/motorracing
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://a.jsrdn.com/hls/22915/xfc-tv/thumbv_20210325_232008.jpg",ช่อง XFC TV
+https://www.distro.tv/live/xfc-tv
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://a.jsrdn.com/hls/22883/flo-high-impact/thumbv_20201106_225200.jpg",ช่อง FloSports High Impact
+https://www.distro.tv/live/flo-high-impact
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22814/mma-junkie/thumbv_20200717_232723.jpg",ช่อง MMA Junkie
+https://www.distro.tv/live/mma-junkie
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22697/sportskool-tv/thumbv_20191205_011236.jpg",ช่อง Sportskool TV
+https://www.distro.tv/live/sportskool-tv
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-yoga/thumbv_20200917_223145.jpg",ช่อง GlewedTV Yoga & Fitness
+https://www.distro.tv/live/glewedtv-yoga
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://a.jsrdn.com/hls/22930/wired2fish-tv/thumbv_20210401_232043.jpg",ช่อง Wired2fish TV
+https://www.distro.tv/live/wired2fish-tv
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://a.jsrdn.com/hls/22915/ski-tv/thumbv_20210308_214708.jpg",ช่อง Slopes TV
+https://www.distro.tv/live/ski-tv
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://a.jsrdn.com/hls/22932/operation-repo-1/thumbv_20210203_192420.jpg",ช่อง Operation Repo
+https://www.distro.tv/live/operation-repo-1
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/thumbv_20210316_230445.jpg",ช่อง Documentary+
+https://www.distro.tv/live/documentary
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22751/idg/thumbv_20191217_230247.jpg",ช่อง IDG
+https://www.distro.tv/live/idg
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/thumbv_20200717_232723.jpg",ช่อง Titanic TV
+https://www.distro.tv/live/titanic-tv
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22808/sword-1/thumbv_20200714_212032.jpg",ช่อง Sword & Shield
+https://www.distro.tv/live/sword-1
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://a.jsrdn.com/hls/22930/sightline/thumbv_20210113_003937.jpg",ช่อง Sightline
+https://www.distro.tv/live/sightline
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://a.jsrdn.com/hls/22950/us-weekly-tv/thumbv_20210323_165633.jpg",ช่อง Us Weekly TV
+https://www.distro.tv/live/us-weekly-tv
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22823/young-hollywood/thumbv_20200330_221710.jpg",ช่อง Young Hollywood
+https://www.distro.tv/live/young-hollywood
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://a.jsrdn.com/hls/22882/the-love-destination/thumbv_20200930_053808.jpg",ช่อง The Love Destination
+https://www.distro.tv/live/the-love-destination
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://a.jsrdn.com/hls/22863/right-now-tv/thumbv_20200612_050947.jpg",ช่อง Right Now Tv
+https://www.distro.tv/live/right-now-tv
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://a.jsrdn.com/hls/22960/wisecrack/thumbv_20210524_230050.jpg",ช่อง Wisecrack
+https://www.distro.tv/live/wisecrack
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://a.jsrdn.com/hls/22915/el-conflicto-tv/thumbv_20201029_012435.jpg",ช่อง El Conflicto TV
+https://www.distro.tv/live/el-conflicto-tv
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/thumbv_20210706_165835.jpg",ช่อง Mastiii - India’s No.1 Music and Youth Channel
+https://www.distro.tv/live/mastiii
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22693/britasia-live/thumbv_20200717_232723.jpg",ช่อง BritAsia Live
+https://www.distro.tv/live/britasia-live
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22677/matv-live/thumbv_20200717_232723.jpg",ช่อง MATV Live
+https://www.distro.tv/live/matv-live
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22679/channel-s-live/thumbv_20200717_232723.jpg",ช่อง Channel-S Live
+https://www.distro.tv/live/channel-s-live
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://a.jsrdn.com/hls/22930/quietude-4k/thumbv_20210330_005020.jpg",ช่อง Quietude 4K
+https://www.distro.tv/live/quietude-4k
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/relaxing-rain/thumbv_20200717_232723.jpg",ช่อง Relaxing Rain
+https://www.distro.tv/live/relaxing-rain
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/island-escape/thumbv_20200717_232723.jpg",ช่อง Island Escape
+https://www.distro.tv/live/island-escape
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/tranquil-thunderstorms/thumbv_20200717_232723.jpg",ช่อง Tranquil Thunderstorms
+https://www.distro.tv/live/tranquil-thunderstorms
 
 
 
