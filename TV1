@@ -3405,6 +3405,9 @@ https://www.distro.tv/live/island-escape
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/tranquil-thunderstorms/thumbv_20200717_232723.jpg",ช่อง Tranquil Thunderstorms
 https://www.distro.tv/live/tranquil-thunderstorms
 
+#EXTINF:-1 group-title="UK TV" tvg-logo="https://www.seenit.co.uk/wp-content/uploads/itv2_logo_new_2015-1.jpg",ช่อง ITV2
+http://okteve.com/itv2-live/
+
 
 
 
