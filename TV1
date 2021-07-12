@@ -3405,8 +3405,59 @@ https://www.distro.tv/live/island-escape
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/tranquil-thunderstorms/thumbv_20200717_232723.jpg",ช่อง Tranquil Thunderstorms
 https://www.distro.tv/live/tranquil-thunderstorms
 
-#EXTINF:-1 group-title="UK TV" tvg-logo="https://www.seenit.co.uk/wp-content/uploads/itv2_logo_new_2015-1.jpg",ช่อง ITV2
-http://okteve.com/itv2-live/
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/VIVA_Germany_logo.jpg",ช่อง VIVA
+http://infoua.biz/en/tvchannels/music/735
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/eab8f822017729.5630b43dde9e3.jpg",ช่อง RU TV
+http://infoua.biz/en/tvchannels/music/411
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cz-ocko-star-6827.jpg",ช่อง OCKO STAR TV
+http://infoua.biz/en/tvchannels/music/43
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://www.portalfoxmix.cl/radioenvivo/images/recta-pfm-tv.png",ช่อง PORTAL FOXMIX
+http://infoua.biz/en/tvchannels/music/166
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://it.live-tv-channels.org/pt-data/uploads/logo/ru-1hd-music-6104.jpg",ช่อง 1HD MUSIC TELEVISION
+http://infoua.biz/en/tvchannels/music/352
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://t.x-tk.ru/st/4/tv-kanal-aiva.gif",ช่อง AIVA
+http://infoua.biz/en/tvchannels/music/786
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/bd/5f/bb/bd5fbb5a-c3c7-c004-1fb3-6d399b479900/source/200x200bb.jpg",ช่อง Страна FM
+http://infoua.biz/en/tvchannels/music/566
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPR9e8-pxURlzo5QXOHN_U6MaMFSbbxc_ZeviRexpfSd8KRSvYpoS9-n0ZZT-bB1swXw&usqp=CAU",ช่อง HITS 360 HD
+http://infoua.biz/en/tvchannels/music/546
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png",ช่อง CALIFORNIA MUSIC CHANNEL
+http://infoua.biz/en/tvchannels/music/325
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/M2.jpg/revision/latest?cb=20150808200635",ช่อง M2
+http://infoua.biz/en/tvchannels/music/318
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.emerce.nl/content/uploads/2017/07/348381ad-5f5d-4203-8192-e9e2e60c24d4.jpg",ช่อง XITE
+http://infoua.biz/en/tvchannels/music/476
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/65/UTV_%282008-.n.v.%29.png/revision/latest?cb=20180919162054",ช่อง U TV
+http://infoua.biz/en/tvchannels/music/416
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%93%C4%8Dko_logo_2012.png",ช่อง OCKO TV
+http://infoua.biz/en/tvchannels/music/33
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cz-ocko-expres-6319.jpg",ช่อง OCKO EXPRES TV
+http://infoua.biz/en/tvchannels/music/42
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://cdn-profiles.tunein.com/s10227/images/logog.png",ช่อง CONTACT VISION
+http://infoua.biz/en/tvchannels/music/486
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png",ช่อง M2O TV
+http://infoua.biz/en/tvchannels/music/516
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.capital.it/wp-content/themes/network-capital/img/logo_capital_1024x1024.png",ช่อง RADIO CAPITAL TV
+http://infoua.biz/en/tvchannels/music/420
+
+#EXTINF:-1 group-title="FASHION" tvg-logo="https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg",ช่อง World Fashion Russia
+https://www.parsatv.com/name=World-Fashion-Russia#fashion
 
 
 
