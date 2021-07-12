@@ -3375,9 +3375,6 @@ https://www.distro.tv/live/us-weekly-tv
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22823/young-hollywood/thumbv_20200330_221710.jpg",ช่อง Young Hollywood
 https://www.distro.tv/live/young-hollywood
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://a.jsrdn.com/hls/22882/the-love-destination/thumbv_20200930_053808.jpg",ช่อง The Love Destination
-https://www.distro.tv/live/the-love-destination
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://a.jsrdn.com/hls/22863/right-now-tv/thumbv_20200612_050947.jpg",ช่อง Right Now Tv
 https://www.distro.tv/live/right-now-tv
 
@@ -3389,9 +3386,6 @@ https://www.distro.tv/live/el-conflicto-tv
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/thumbv_20210706_165835.jpg",ช่อง Mastiii - India’s No.1 Music and Youth Channel
 https://www.distro.tv/live/mastiii
-
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22693/britasia-live/thumbv_20200717_232723.jpg",ช่อง BritAsia Live
-https://www.distro.tv/live/britasia-live
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22677/matv-live/thumbv_20200717_232723.jpg",ช่อง MATV Live
 https://www.distro.tv/live/matv-live
