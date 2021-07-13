@@ -3462,9 +3462,22 @@ https://www.parsatv.com/name=World-Fashion-Russia#fashion
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/4017b91b585fca313d9300498e3f80255fcb4bfba40840ade41b5a2009eb239c.png",ช่อง Monster Movies
 https://wownow-monstermovies-1.vizio.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Stingray_Djazz.png",ช่อง Stingray Djazz
+https://stirr.ott-channels.stingray.com/djazz/master.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",ช่อง The COUNTRY Network
+https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TCN-RAD/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2021-02/country-music-entertainment-255px.jpg?itok=YGTfos8x",ช่อง COUNTRY MUSIC ENTERTAINMENT
+https://www.countrymusicentertainment.com/watch-live
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-love.png",ช่อง MTV Love
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=8ad1&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Today's Country
+https://photocall.tv/od4g/mc?ch=todayscountry
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
 
 
 
