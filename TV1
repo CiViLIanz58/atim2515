@@ -3482,6 +3482,15 @@ https://photocall.tv/od4g/mc?ch=todayscountry
 #EXTINF:-1 group-title="Latina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png",ช่อง TVE 1
 https://adictosalatele.com/TV/espana/tve1/
 
+#EXTINF:-1 group-title="Latina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/250px-Logo_TVE-2.svg.png",ช่อง TVE 2
+https://adictosalatele.com/TV/espana/tve2/
+
+#EXTINF:-1 group-title="Latina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/250px-Antena_3_%282017%29.svg.png",ช่อง Antena 3
+https://adictosalatele.com/TV/espana/antena3/
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://i.pinimg.com/originals/3b/18/c6/3b18c6c8756dcec653e34087d329ce89.jpg",ช่อง VENUS
+https://adictosalatele.com/venus-en-vivo-online-gratis/
+
 
 
 
