@@ -3479,18 +3479,86 @@ https://photocall.tv/od4g/mc?ch=todayscountry
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
 
-#EXTINF:-1 group-title="Latina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png",ช่อง TVE 1
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png",ช่อง TVE 1
 https://adictosalatele.com/TV/espana/tve1/
 
-#EXTINF:-1 group-title="Latina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/250px-Logo_TVE-2.svg.png",ช่อง TVE 2
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/250px-Logo_TVE-2.svg.png",ช่อง TVE 2
 https://adictosalatele.com/TV/espana/tve2/
 
-#EXTINF:-1 group-title="Latina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/250px-Antena_3_%282017%29.svg.png",ช่อง Antena 3
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/250px-Antena_3_%282017%29.svg.png",ช่อง Antena 3
 https://adictosalatele.com/TV/espana/antena3/
 
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://i.pinimg.com/originals/3b/18/c6/3b18c6c8756dcec653e34087d329ce89.jpg",ช่อง VENUS
 https://adictosalatele.com/venus-en-vivo-online-gratis/
 
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/la4.png",ช่อง LA CUATRO
+https://adictosalatele.com/la-cuatro-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/la5.png",ช่อง TELECINCO
+https://adictosalatele.com/telecinco-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/la6.png",ช่อง LA SEXTA
+https://adictosalatele.com/la-sexta-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/mega.png",ช่อง MEGA
+https://adictosalatele.com/mega-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/fdf.png",ช่อง FDF
+https://adictosalatele.com/fdf-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/telemadrid.png",ช่อง TELEMADRID
+https://adictosalatele.com/telemadrid-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/canal0.png",ช่อง canal #0 PLUS
+https://adictosalatele.com/canal-0-plus-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/movistarestrenos.png",ช่อง movistar ESTRENOS
+https://adictosalatele.com/movistar-estrenos-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/movistaraccion.png",ช่อง movistar ACCION
+https://adictosalatele.com/movistar-accion-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/movistardrama.png",ช่อง movistar DRAMA
+https://adictosalatele.com/movistar-drama-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/movistarcomedia.png",ช่อง movistar COMEDIA
+https://adictosalatele.com/movistar-comedia-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/dcinen.png",ช่อง DCINE Ñ online y
+https://adictosalatele.com/dcine-n-online-y-en-directo-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/movistarseries.png",ช่อง movistar SERIES
+https://adictosalatele.com/movistar-series-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/seriesmania.png",ช่อง movistar Series Mania
+https://adictosalatele.com/movistar-series-mania-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/toros.png",ช่อง TOROS
+https://adictosalatele.com/canal-toros-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/fox.png",ช่อง FOX
+https://adictosalatele.com/fox-espana-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/axn.png",ช่อง AXN
+https://adictosalatele.com/axn-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/tnt.png",ช่อง TNT
+https://adictosalatele.com/tnt-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/amc.png",ช่อง AMC
+https://adictosalatele.com/amc-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/syfy.png",ช่อง SYFY
+https://adictosalatele.com/syfy-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/40tv.png",ช่อง DARK
+https://adictosalatele.com/syfy-en-directo-online-gratis/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/telefe.png",ช่อง TELEFE
+https://adictosalatele.com/telefe-en-vivo-online/
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/DORCEL_TV_2012.png/revision/latest?cb=20191026080934",ช่อง DORCEL TV
+http://ero-tv.org/dorceltv_live/
 
 
 
