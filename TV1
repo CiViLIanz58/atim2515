@@ -3556,7 +3556,11 @@ https://adictosalatele.com/america-2-tv-en-vivo-online/
 https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.img.in.th/images/c0ddb7842beff9ee003e4f56b1c1f802.png",ช่อง TRUE MUSIC HD
-https://tv.trueid.net/embed/true-music-channel-hd?autoplay=yes&nopageview=yes
+https://tv.trueid.net/embed/true-music-channel-hd?autoplay=yes&nopageview=yes,"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/06/68be8520-500f-11eb-8d28-4b8e3f30b51b_original.png",ช่อง ZING
+https://tv.trueid.net/embed/zing?autoplay=yes&nopageview=yes,"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+
 
 
 
