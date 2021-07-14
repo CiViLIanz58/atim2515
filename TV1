@@ -145,7 +145,7 @@ https://nangfaiptv.online/tv-player/fox-sport-2-qz895jp3nrhk.html
 https://nangfaiptv.online/tv-player/fox-sport-3-74017pxbo9zf.html
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg/social",ช่อง FIGHT SPORTS
-https://nangfaiptv.online/tv-player/fight-sport.html
+http://27.254.130.62/feed/LC36/index.m3u8
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",ช่อง NBA
 https://nangfaiptv.online/tv-player/nba-hd.html
@@ -3554,6 +3554,9 @@ https://adictosalatele.com/america-2-tv-en-vivo-online/
 
 #EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/ar-canal-10-tv-publica.jpg",ช่อง TV PUBLICA argentina
 https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.img.in.th/images/c0ddb7842beff9ee003e4f56b1c1f802.png",ช่อง TRUE MUSIC HD
+https://tv.trueid.net/embed/true-music-channel-hd?autoplay=yes&nopageview=yes
 
 
 
