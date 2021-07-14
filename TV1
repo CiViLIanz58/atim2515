@@ -3482,9 +3482,6 @@ https://photocall.tv/od4g/mc?ch=todayscountry
 #EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png",ช่อง TVE 1
 https://adictosalatele.com/TV/espana/tve1/
 
-#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/250px-Logo_TVE-2.svg.png",ช่อง TVE 2
-https://adictosalatele.com/TV/espana/tve2/
-
 #EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/250px-Antena_3_%282017%29.svg.png",ช่อง Antena 3
 https://adictosalatele.com/TV/espana/antena3/
 
@@ -3530,9 +3527,6 @@ https://adictosalatele.com/dcine-n-online-y-en-directo-gratis/
 #EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/movistarseries.png",ช่อง movistar SERIES
 https://adictosalatele.com/movistar-series-en-directo-online-gratis/
 
-#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/seriesmania.png",ช่อง movistar Series Mania
-https://adictosalatele.com/movistar-series-mania-en-directo-online-gratis/
-
 #EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/toros.png",ช่อง TOROS
 https://adictosalatele.com/canal-toros-en-directo-online-gratis/
 
@@ -3551,14 +3545,20 @@ https://adictosalatele.com/amc-en-directo-online-gratis/
 #EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/syfy.png",ช่อง SYFY
 https://adictosalatele.com/syfy-en-directo-online-gratis/
 
-#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/40tv.png",ช่อง DARK
-https://adictosalatele.com/syfy-en-directo-online-gratis/
-
 #EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/telefe.png",ช่อง TELEFE
 https://adictosalatele.com/telefe-en-vivo-online/
 
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/DORCEL_TV_2012.png/revision/latest?cb=20191026080934",ช่อง DORCEL TV
 http://ero-tv.org/dorceltv_live/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/eltrece.png",ช่อง EL TRECE
+https://adictosalatele.com/el-trece-argentina-en-vivo-online/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/america2.png",ช่อง AMERICA TV
+https://adictosalatele.com/america-2-tv-en-vivo-online/
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/tvpublica.png",ช่อง TV PUBLICA argentina
+https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 
 
 
