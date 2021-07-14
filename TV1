@@ -1354,7 +1354,7 @@ https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://livestream.com/accounts/22300522/events/6680139/player?autoPlay=true
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.pinimg.com/736x/31/cc/58/31cc58c2d919bfb3a61ce92ae87c934a.jpg",ช่อง SPORTLIGHT
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/.m3u8
+http://player.teleon.tv/us/channel/spotlight-tv-uk
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://pbs.twimg.com/media/EgIJQzeWkAMT4F0.jpg",ช่อง MTV BIGGEST POP
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
@@ -1597,7 +1597,7 @@ https://www.nettvpro.live/en/play.php?aid=10554
 https://www.nettvpro.live/en/play.php?aid=6890
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/06/homepage.jpg",ช่อง Hard Knocks
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+http://player.teleon.tv/us/channel/st-tv-hard-knocks-uk
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d6u22qyv3ngwz.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-small-2.jpg",ช่อง Tennis Plus
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
@@ -3559,6 +3559,87 @@ https://adictosalatele.com/america-2-tv-en-vivo-online/
 
 #EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/ar-canal-10-tv-publica.jpg",ช่อง TV PUBLICA argentina
 https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Country Hits
+https://photocall.tv/od4g/mc?ch=countryhits
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Pop Latino
+https://photocall.tv/od4g/mc?ch=poplatino
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Musica Urbana
+https://photocall.tv/od4g/mc?ch=musicaurbana
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Tropicales
+https://photocall.tv/od4g/mc?ch=tropicales
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Mexicana
+https://photocall.tv/od4g/mc?ch=mexicana
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Alternative
+https://photocall.tv/od4g/mc?ch=alternative
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Indie
+https://photocall.tv/od4g/mc?ch=indie
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Hit List
+https://photocall.tv/od4g/mc?ch=hitlist
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Pop Hits
+https://photocall.tv/od4g/mc?ch=pophits
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Pop & Country
+https://photocall.tv/od4g/mc?ch=popncountry
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Teen Beats
+https://photocall.tv/od4g/mc?ch=teenbeats
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Music Choice Max
+https://photocall.tv/od4g/mc?ch=mc_max
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Dance/EDM
+https://photocall.tv/od4g/mc?ch=dance
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง Y2K
+https://photocall.tv/od4g/mc?ch=y2k
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง 90s
+https://photocall.tv/od4g/mc?ch=90s
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",ช่อง 80s
+https://photocall.tv/od4g/mc?ch=80s
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36"
+
 
 
 
