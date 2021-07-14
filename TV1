@@ -3557,7 +3557,17 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc",ช่อง Today's Country
 https://photocall.tv/od2g/mc?ch=todayscountry
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"info": "xxx",
+"playInNatPlayer": "true"
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc",ช่อง Country Hits
+https://photocall.tv/od2g/mc?ch=countryhits
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"info": "xxx",
+"playInNatPlayer": "true"
 
 
 
