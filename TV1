@@ -3555,6 +3555,7 @@ https://adictosalatele.com/america-2-tv-en-vivo-online/
 #EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/ar-canal-10-tv-publica.jpg",ช่อง TV PUBLICA argentina
 https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 
+#EXTINF:-1 group-title="MUSIC"
 {
 "name": "Today's Country",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3564,6 +3565,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Country Hits",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3573,6 +3575,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Pop Latino",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3582,6 +3585,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Musica Urbana",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3591,6 +3595,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Tropicales",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3600,6 +3605,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Mexicana",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3609,6 +3615,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Alternative",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3618,6 +3625,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Indie",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3627,6 +3635,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Hit List",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3636,6 +3645,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 }, 
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Pop Hits",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3645,6 +3655,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },  
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Pop & Country",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3654,6 +3665,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 }, 
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Teen Beats",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3663,6 +3675,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 }, 
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Music Choice Max",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3672,6 +3685,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 }, 
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Dance/EDM",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3681,6 +3695,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Y2K",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3690,6 +3705,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "90s",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3699,6 +3715,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 }, 
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "80s",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3708,6 +3725,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 }, 
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Soft Rock",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3717,6 +3735,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 }, 
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Brits+Hits",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3726,6 +3745,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 }, 
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Hiphop-R&B",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3735,6 +3755,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 }, 
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "RAB",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3744,6 +3765,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 }, 
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "R&B Soul",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3753,6 +3775,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 }, 
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Throwback Jamz",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3762,6 +3785,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 }, 
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "RAB2K",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3771,6 +3795,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Rock",
 "image":"https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3780,6 +3805,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Metal",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3789,6 +3815,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Kidz Only",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3798,6 +3825,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 },
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "KIDZ BOP",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
@@ -3807,6 +3835,7 @@ https://adictosalatele.com/tv-publica-argentina-en-vivo-online/
 "info": "แอนดรอยด์แอพฟรี",
 "playInNatPlayer": "true"
 }, 
+#EXTINF:-1 group-title="TVS TV"
 {
 "name": "Toddler Tunes",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
