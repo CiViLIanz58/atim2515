@@ -1224,8 +1224,8 @@ https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/American-Horrors-1280x720-1.jpg",ช่อง American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png",ช่อง FightBox
-http://ott-cdn.ucom.am/s86/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/media/EbX-5_-XgAEqiOn.jpg",ช่อง Surf Now TV
+http://www.dealood.com/video/822
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qx7Nuz-mrSd1vEjIjoDpPlmY2cMDfbIwSS9smxQWLTihqfbcz6U26XC9OaysENj5FZ0&usqp=CAU",ช่อง Fighting Spirit
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
@@ -2887,13 +2887,13 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=712&deviceId=5cb626cfcaf83414128f439c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",ช่อง TRUE PREMIER FOOTBALL HD 1 
-https://nangfaiptv.online/tv-player/true-premuim-1-vkd80p04jvr0.html
+https://siamtv88.co/index.php?a=live_details&channel_code=epl-1
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",ช่อง TRUE PREMIER FOOTBALL HD 2 
-https://nangfaiptv.online/tv-player/true-premuim-2-iyrpacvc8lk1.html
+https://siamtv88.co/index.php?a=live_details&channel_code=epl-2
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",ช่อง TRUE PREMIER FOOTBALL HD 3 
-https://nangfaiptv.online/tv-player/true-premuim-3.html
+https://siamtv88.co/index.php?a=live_details&channel_code=epl-3
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Logo.png?U2t5IFNwb3J0cyBGb290YmFsbA==",ช่อง Sky Sports Football 
 https://fifa55u.com/ballsod/ch083/
@@ -3567,7 +3567,125 @@ https://livexlive2.akamaized.net/hls/live/2013184/linear_1/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.cptv.org/wp-content/uploads/2018/11/logo-spirit1.png",ช่อง SPIRIT
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://d26llhfthmuw63.cloudfront.net/stocks/live_video_image/big_15180109192208_thumb.jpg",ช่อง KUNLUN FIGHT TV
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.hedex.tv/uploads/images/clip_366_1586609354_poster.png",ช่อง Racing.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-512.png",ช่อง ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://assets.espn.go.com/i/golf/pga11/hogan_288.png",ช่อง PGA TOUR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.glorykickboxing.com/assets/logo-glory-circle-fb8987eea88e9aea88370894c85a1f6fb6090cb59ee754cc4cd5a161fbc5adf4.png",ช่อง GLORY KICKBOXING
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f7021110-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bcf4dd47-d730-4323-ac64-9d85f8a8f4de&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2021/02/24/ounjiy.png",ช่อง MAV TV
+https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/ca-tsn1.png",ช่อง TSN 1
+https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn1
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/ca-tsn3.png",ช่อง TSN 3
+https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn3
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/ca-tsn4.png",ช่อง TSN 4
+https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn4
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/arena1.png",ช่อง ARENA SPORT 1
+https://we-play.tv/watching/tv/arena-sport-1
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/arena2.png",ช่อง ARENA SPORT 2
+https://we-play.tv/watching/tv/arena-sport-2
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/arena3.png",ช่อง ARENA SPORT 3
+https://we-play.tv/watching/tv/arena-sport-3
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/arena4.png",ช่อง ARENA SPORT 4
+https://we-play.tv/watching/tv/arena-sport-4
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/SPORTTV1.png",ช่อง SPORT TV 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/SPORTTV2.png",ช่อง SPORT TV 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/SPORTTV3.png",ช่อง SPORT TV 3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/SPORTTV4.png",ช่อง SPORT TV 4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/SPORTTV5.png",ช่อง SPORT TV 5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png",ช่อง FOX SPORTS PREMIUM
+https://adictosalatele.com/TV/latinos/fox-sports-premium/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dropbox.com/s/hpdgrfojohrlwk5/lX65Ff.png?dl=1",ช่อง TRUE PREMIER FOOTBALL HD 4
+https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dropbox.com/s/cf8cwzbzsg2279r/lX6AH0.png?dl=1",ช่อง TRUE PREMIER FOOTBALL HD 5
+https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",ช่อง beIN SPORTS 1 PREMIUM
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/06/beIN-Sports-World-Cup.gif?resize=700%2C366&ssl=1",ช่อง beIN SPORTS 1 4K
+https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein1
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/474x/bf/f1/88/bff1882c73a871b67cb89ffe50fac8bc.jpg",ช่อง beIN SPORTS 2
+https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein2
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dropbox.com/s/gcspcnlpmxukp2t/la0Bf2.png?dl=1",ช่อง beIN SPORTS 3
+https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein3
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dropbox.com/s/mn316nk31eejjxd/la0f51.png?dl=1",ช่อง beIN SPORTS 4
+https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein4
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sv1.picz.in.th/images/2021/04/05/DMC9ZV.png",ช่อง beIN SPORTS 5
+https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein5
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dropbox.com/s/p25tj3z08251wgy/la0ZJq.png?dl=1",ช่อง beIN SPORTS 6
+https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein6
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dropbox.com/s/rk8543ekw569cu1/la09i9.png?dl=1",ช่อง beIN SPORTS 7
+https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein7
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/236x/c7/f7/b5/c7f7b5dee3302a7ed337ed005843aa75.jpg",ช่อง beIN SPORTS 2 PREMIUM
+https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein9
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",ช่อง beIN SPORTS MAX
+https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein10
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i0.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein2.png",ช่อง beIN SPORTS 2 ENGLISH
+https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein12
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw2048_sh1152_sx0_sy0_sr16x9_nu0/picture/original/2020/05/sky-bundesliga-welcome-back-aktion-26-27-spieltag-276459.jpeg",ช่อง Sky Bundesliga
+https://siamtv88.co/index.php?a=live_details&channel_code=de-skybundesliga
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ia800806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png",ช่อง Sky Sports Action
+https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-action
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ia800809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png",ช่อง Sky Sports Cricket
+https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-cricket
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e0.365dm.com/20/06/2048x1152/skysports-f1-2020-promo_5021841.png",ช่อง Sky Sports F1
+https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-f1
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-hIGqX_8I7PU/XsPbU2jcPRI/AAAAAAAADBI/XpO7N-FHbSA2Hjq4tKcqhbi3ma93cd8cACLcBGAsYHQ/s640/Sky%2BSports%2BFootball.jpg",ช่อง Sky Sports Football
+https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-football
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e1.365dm.com/16/05/2048x1152/sky-sports-the-open-open-on-sky_3476525.jpg",ช่อง Sky Sports The Open
+https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-golf
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",ช่อง Sky Sports Main Event
+https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-mainevent
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e3.365dm.com/13/04/768x432/SSNimage_2923165.jpg?20130410182930",ช่อง Sky Sports News
+https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-news
 
 
 
