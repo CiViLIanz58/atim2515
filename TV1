@@ -3693,11 +3693,8 @@ http://27.254.130.62/feed/LC25/index.m3u8
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://www.cableman.ru/sites/default/files/russkaya_noch_obychnyy_0.png",ช่อง Russian Night TV
 http://ero-tv.org/russian_night_online/
 
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://pbs.twimg.com/profile_images/769175859169206272/ugxmAzTp.jpg",ช่อง BabeStation 24
-http://ero-tv.org/babestation_24_online/
 
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://en.kingofsat.net/jpg/eurotic.jpg",ช่อง EUROTIC TV
-http://ero-tv.org/eurotic_tv_online/
+
 
 
 
