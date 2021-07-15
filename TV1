@@ -3064,7 +3064,7 @@ https://www.nettvpro.live/en/play.php?aid=5084
 https://www.nettvpro.live/en/play.php?aid=10366
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://recuerdosretro.com/radio/wp-content/uploads/2019/09/cropped-logo_new_web10.png",ช่อง Recuerdos Retro
-https://www.nettvpro.live/en/play.php?aid=10703
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/hkstv.jpg",ช่อง HKS TV
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -3701,6 +3701,9 @@ http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://sv1.picz.in.th/images/2021/03/20/DE526E.jpg",ช่อง Movies 2
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/812nsBDmueL.png",ช่อง Wu Tang Collection
+http://player.teleon.tv/us/channel/wu-tang-collection-us
 
 
 
