@@ -652,7 +652,7 @@ http://redlabmcdn.s.llnwi.net/jp01/bs08/index.m3u8
 https://redlabmcdn.s.llnwi.net/jp01/bs07/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://av.watch.impress.co.jp/img/avw/docs/1145/556/1001bs02_s.jpg",ช่อง BSテレビ東京
-http://redlabmcdn.s.llnwi.net/jp01/bs06/index.m3u8
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.bs4.jp/assets/images/meta/ogp.png",ช่อง BS日テレ
 http://redlabmcdn.s.llnwi.net/jp01/bs03/index.m3u8
@@ -691,7 +691,7 @@ https://www.nettvpro.live/en/play.php?aid=10194
 https://redlabmcdn.s.llnwi.net/jp01/ryowa4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/1-NHK-General-TV-1.jpg",ช่อง NHK General TV
-https://redlabmcdn.s.llnwi.net/jp01/ryowa2/tracks-v1a1/mono.m3u8
+https://nhk.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",ช่อง NHK Eテレ
 https://redlabmcdn.s.llnwi.net/jp01/ryowa1/tracks-v1a1/mono.m3u8
@@ -3695,6 +3695,12 @@ http://ero-tv.org/russian_night_online/
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://cf.shopee.ph/file/26c1b3b728a655c1f1fe8e7e0f92c215_tn",ช่อง Anime Zone TV
 https://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://sv1.picz.in.th/images/2021/03/20/DE5uWN.jpg",ช่อง Movies 1
+http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://sv1.picz.in.th/images/2021/03/20/DE526E.jpg",ช่อง Movies 2
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 
 
 
