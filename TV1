@@ -361,7 +361,7 @@ https://www.adintrend.tv/hd/ch28?t=live
 https://we-play.live/watching/tv/cnn
  
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/NHK-Logo.png",ช่อง NHK WORLD JAPAN
-https://www.nettvpro.live/en/play.php?aid=1373
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.inwiptv.com/postor/20200208001241%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg",ช่อง ถิ่นใต้
 http://freelive.inwstream.com:1935/freelive-edge/the_battle.stream/playlist.m3u8
@@ -634,7 +634,7 @@ http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pbs.twimg.com/media/C7WZesmVAAErlVt.jpg",ช่อง アニマックス
-http://redlabmcdn.s.llnwi.net/jp01/bs14/index.m3u8
+http://27.254.130.62/feed/LC38/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_n03.png",ช่อง Nippon TV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -697,7 +697,7 @@ https://redlabmcdn.s.llnwi.net/jp01/ryowa2/tracks-v1a1/mono.m3u8
 https://redlabmcdn.s.llnwi.net/jp01/ryowa1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://japan-programcatalog.com/japacon/open/open-sales-company!image?tsid=128&imageNumber=1&id=2",ช่อง Hiroshima TV
-https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hls-live/1/hiroshima-tv-live/live/chunklist.m3u8
+https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://inboundnavi.jp/wp-content/uploads/2016/04/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93-%E3%83%AD%E3%82%B4.png",ช่อง フジテレビ
 https://redlabmcdn.s.llnwi.net/jp01/ryowa7/tracks-v1a1/mono.m3u8
@@ -1591,10 +1591,10 @@ https://www.nettvpro.live/en/play.php?aid=5803
 https://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-2106142046360-L.jpg",ช่อง Anibox TV
-https://www.nettvpro.live/en/play.php?aid=10554
+https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20181226/c3df2d6f08094e8da980d7a935f0fa10.jpeg",ช่อง NHK华语视界
-https://www.nettvpro.live/en/play.php?aid=6890
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://hardknocksfighting.com/wp-content/uploads/2016/06/homepage.jpg",ช่อง Hard Knocks
 http://player.teleon.tv/us/channel/st-tv-hard-knocks-uk
@@ -3692,6 +3692,9 @@ http://27.254.130.62/feed/LC25/index.m3u8
 
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://www.cableman.ru/sites/default/files/russkaya_noch_obychnyy_0.png",ช่อง Russian Night TV
 http://ero-tv.org/russian_night_online/
+
+#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://cf.shopee.ph/file/26c1b3b728a655c1f1fe8e7e0f92c215_tn",ช่อง Anime Zone TV
+https://azxtv.com/hls/stream.m3u8
 
 
 
