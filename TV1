@@ -1224,8 +1224,8 @@ https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/American-Horrors-1280x720-1.jpg",ช่อง American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/mqordpxhesno3gfy6qnw",ช่อง SportsGrid
-http://player.teleon.tv/us/channel/st-tv-sportsgrid-uk
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.234.in.th/images/2021/03/04/a88.png",ช่อง EURO SPORT 1 UK
+https://siamtv88.co/index.php?a=live_details&channel_code=uk-eurosport
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qx7Nuz-mrSd1vEjIjoDpPlmY2cMDfbIwSS9smxQWLTihqfbcz6U26XC9OaysENj5FZ0&usqp=CAU",ช่อง Fighting Spirit
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
@@ -3567,8 +3567,8 @@ https://livexlive2.akamaized.net/hls/live/2013184/linear_1/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.cptv.org/wp-content/uploads/2018/11/logo-spirit1.png",ช่อง SPIRIT
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://d26llhfthmuw63.cloudfront.net/stocks/live_video_image/big_15180109192208_thumb.jpg",ช่อง KUNLUN FIGHT TV
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.234.in.th/images/2021/03/04/a89.png",ช่อง EURO SPORT 2 UK
+https://siamtv88.co/index.php?a=live_details&channel_code=uk-eurosport2
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.hedex.tv/uploads/images/clip_366_1586609354_poster.png",ช่อง Racing.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
@@ -3684,6 +3684,11 @@ https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-golf
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://e3.365dm.com/13/04/768x432/SSNimage_2923165.jpg?20130410182930",ช่อง Sky Sports News
 https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-news
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdp.azureedge.net/products-private/prod/92cc7880-69c6-41f6-a2ce-14554d8adaf9/93ef44dd-b1a2-486a-bed4-aaf800e99433/B000000001.png",ช่อง ACTION SPORTS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f7032281-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc61c0a4-d86f-49a4-a4d3-0aa52fc06a59&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://sv1.picz.in.th/images/2021/03/23/Dsk151.png",ช่อง STYLE
+http://27.254.130.62/feed/LC25/index.m3u8
 
 
 
