@@ -3711,8 +3711,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ebs-plus-1-9807.jpg",ช่อง EBS Plus 1
 http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png/revision/latest/scale-to-width-down/200?cb=20200910235424",ช่อง SBS Plus
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/c5n.png",ช่อง C5N
+https://adictosalatele.com/canal-c5n-argentina-en-vivo-online/
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg",ช่อง CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
@@ -3725,6 +3725,9 @@ http://210.210.155.35/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-obs-w.jpg",ช่อง OBS W
 https://www.nettvpro.live/en/play.php?aid=5790
+
+#EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/canalnueve.png",ช่อง el NUEVE
+https://adictosalatele.com/canal-9-argentina-en-vivo-online/
 
 
 
