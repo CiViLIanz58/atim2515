@@ -3720,7 +3720,7 @@ http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/SQI9PAz.png",ช่อง CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=_ej4SuF_",ช่อง GEM 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=_ej4SuF_",ช่อง GEM 
 http://210.210.155.35/uq2663/h/h19/01.m3u8
 
 
