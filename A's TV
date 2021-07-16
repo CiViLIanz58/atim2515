@@ -3705,6 +3705,9 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/812nsBDmueL.png",ช่อง Wu Tang Collection
 http://player.teleon.tv/us/channel/wu-tang-collection-us
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://sv1.picz.in.th/images/2021/03/20/DE561V.jpg",ช่อง Movies 3
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 
 
 
