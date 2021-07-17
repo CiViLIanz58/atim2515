@@ -3729,6 +3729,54 @@ https://www.nettvpro.live/en/play.php?aid=5790
 #EXTINF:-1 group-title="ESPAÑA+LATINA TV" tvg-logo="https://adictosalatele.com/logos/canalnueve.png",ช่อง el NUEVE
 https://adictosalatele.com/canal-9-argentina-en-vivo-online/
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/VH1_2020.png",ช่อง VH1
+https://www.nettvpro.live/en/play.php?aid=4933
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/09/Happy-Kids-TV.png",ช่อง Happy Kids Junior
+https://www.nettvpro.live/en/play.php?aid=10365
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/09/Happy-Kids-TV.png",ช่อง Happy Kids TV
+https://www.nettvpro.live/en/play.php?aid=10364
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/09/Happy-Kids-TV.png",ช่อง Extrema TV
+https://www.nettvpro.live/en/play.php?aid=5876
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://www.aftvnews.com/content/products/20181213/B00E5NGYVM.png",ช่อง A&E
+https://www.nettvpro.live/en/play.php?aid=9603
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/440_1920x1080_HTV.png",ช่อง PeopleTV
+https://www.nettvpro.live/en/play.php?aid=9552
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://d2v9ipibika81v.cloudfront.net/uploads/sites/210/voa-750.jpg",ช่อง VOA English
+https://www.nettvpro.live/en/play.php?aid=1643
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://tastytradepublicmedia.s3.amazonaws.com/assets/logos/tt-logo-original-05e5dd25021223dff0203915ecdc9375.png",ช่อง TastyTrade TV
+https://www.nettvpro.live/en/play.php?aid=7854
+
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/715ECbAcTLL.jpg",ช่อง Gem Shopping
+https://www.nettvpro.live/en/play.php?aid=2191
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://www.thebrandusa.com/sites/default/files/news/images/gousa-tv%20.jpg",ช่อง GoUSA TV
+https://www.nettvpro.live/en/play.php?aid=9971
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://www.marathonventures.com/images/portfolio/escape_i.jpg",ช่อง Court TV Mystery
+https://www.nettvpro.live/en/play.php?aid=9851
+
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zlivingtv.png",ช่อง Z Living
+https://www.nettvpro.live/en/play.php?aid=7866
+
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://image.roku.com/developer_channels/prod/9d551cbe828bfe9f105dc74f047b40a350fee64c4dc8996e38a26c78c633d17e.png",ช่อง ShopHQ TV
+https://www.nettvpro.live/en/play.php?aid=9264
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://tv-online.cl/zapping-music-en-vivo.jpg?210107074116",ช่อง Zapping Music
+https://www.nettvpro.live/en/play.php?aid=10624
+
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://www.chicmagazine.com.mx/bundles/appcamusassets/images/chic_monograma.jpg",ช่อง Chic Magazine TV
+https://www.nettvpro.live/en/play.php?aid=10616
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://pbs.twimg.com/media/Ej0BNqIU4Asscf9.jpg",ช่อง XTV Music
+https://www.nettvpro.live/en/play.php?aid=10560
+
 
 
 
