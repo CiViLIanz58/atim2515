@@ -3778,16 +3778,22 @@ https://www.nettvpro.live/en/play.php?aid=10616
 https://www.nettvpro.live/en/play.php?aid=10560
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_320.png",ช่อง แอททีวี
-https://www.doonee.com/live/4
+https://www.dailymotion.com/embed/video/x80po5h?autoplay=1
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",ช่อง มังกร
-https://www.doonee.com/live/9
+https://www.dailymotion.com/embed/video/x80wbgj?autoplay=1
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://mango.dooneetv.com/files/2021/1618819970_release.jpg",ช่อง ดูนี่ทีวี
-https://www.doonee.com/live/16
+https://www.dailymotion.com/embed/video/x80po78?autoplay=1
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://oet.stou.ac.th/stouchannel/wp-content/uploads/sites/18/2019/06/cropped-stouchannel_color.png",ช่อง STOU Channel
 https://music-tv.in/index.php?threads/stou-channel-live.1129/
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://lh3.googleusercontent.com/aMZwnYfDz6mBllL1OU7xFiFxDU6xApPb9I8ql00jfWKJLl4eADn2rHrJF2vGarBYBe8",ช่อง Gongyoung Shopping Live
+https://www.gongyoungshop.kr/tvshopping/selectIndex.do?dispCatNoHeader=&dispCatNmHeader=&eventNumHeader=&uprDispCatNoHeader=
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://lh3.googleusercontent.com/aMZwnYfDz6mBllL1OU7xFiFxDU6xApPb9I8ql00jfWKJLl4eADn2rHrJF2vGarBYBe8",ช่อง Gongyoung Shopping Live
+https://www.hmall.com/p/pda/itemPtc.do?sectId=1003&slitmCd=2128091969&bfmtNo=202107183023&brodDt=20210718&brodStrtDtm=04:05&brodType=P
 
 
 
