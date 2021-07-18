@@ -276,7 +276,7 @@ https://www.mvtv.co.th/channel/ramachannel
 #EXTINF:-1 group-title="SHOPPING" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/tukdee.png",ช่อง ถูกดี ทีวี
 https://www.mvtv.co.th/channel/sanook-tv
  
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://scontent.fbkk2-8.fna.fbcdn.net/v/t1.6435-9/209340806_4438482292851045_5493773785238138048_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=973b4a&_nc_ohc=WeVCmAwWkBQAX-bnnfg&_nc_ht=scontent.fbkk2-8.fna&oh=517b80afcd8eb6e063ec162de2d3b94f&oe=60F3F4C5",ช่อง จอมยุทธ์
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://s2.dmcdn.net/v/StXKv1WVIjy5ZeW2u/x1080",ช่อง จอมยุทธ์
 https://www.mvtv.co.th/channel/tvd10
  
 #EXTINF:-1 group-title="SHOPPING" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/TVD2.png",ช่อง TVD 2
@@ -1014,7 +1014,7 @@ http://player.teleon.tv/us/channel/black-cinema-us
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.newsobserver.com/latest-news/ktckf7/picture240585751/alternates/FREE_1140/BlackNewsChannelBNC.JPG",ช่อง Black News Channel
 http://player.teleon.tv/us/channel/black-news-channel-us
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Stirr_logo%2C_black_on_yellow.jpg",ช่อง Britcom
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.mynewser.in/wp-content/uploads/2021/06/ch-lfm-tv.jpg",ช่อง Britcom
 http://player.teleon.tv/us/channel/britcom-us
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://cdn.teleon.tv/logo/british-tv-us.png",ช่อง British TV
@@ -3792,8 +3792,14 @@ https://music-tv.in/index.php?threads/stou-channel-live.1129/
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://lh3.googleusercontent.com/aMZwnYfDz6mBllL1OU7xFiFxDU6xApPb9I8ql00jfWKJLl4eADn2rHrJF2vGarBYBe8",ช่อง Gongyoung Shopping Live
 https://www.gongyoungshop.kr/tvshopping/selectIndex.do?dispCatNoHeader=&dispCatNmHeader=&eventNumHeader=&uprDispCatNoHeader=
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://lh3.googleusercontent.com/aMZwnYfDz6mBllL1OU7xFiFxDU6xApPb9I8ql00jfWKJLl4eADn2rHrJF2vGarBYBe8",ช่อง Gongyoung Shopping Live
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-hyundai-hmall-3963.jpg",ช่อง Hyundai Hmall
 https://www.hmall.com/p/pda/itemPtc.do?sectId=1003&slitmCd=2128091969&bfmtNo=202107183023&brodDt=20210718&brodStrtDtm=04:05&brodType=P
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-hyundai-hmall-3963.jpg",ช่อง Hyundai Hmall Plus
+https://www.hmall.com/p/pda/itemPtc.do?sectId=1003&slitmCd=2108251654&bfmtNo=202107185023&brodDt=20210718&brodStrtDtm=03:40&brodType=P
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://img.discogs.com/e2xrTZ252SwHykQt3yNRhfLPwzM=/fit-in/600x478/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/L-760860-1416055901-2641.jpeg.jpg",ช่อง ท็อปไลน์ทีวี
+http://toplinetv.com/
 
 
 
