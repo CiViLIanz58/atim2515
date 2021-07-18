@@ -3793,13 +3793,16 @@ https://music-tv.in/index.php?threads/stou-channel-live.1129/
 https://www.gongyoungshop.kr/tvshopping/selectIndex.do?dispCatNoHeader=&dispCatNmHeader=&eventNumHeader=&uprDispCatNoHeader=
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-hyundai-hmall-3963.jpg",ช่อง Hyundai Hmall
-https://www.hmall.com/p/pda/itemPtc.do?sectId=1003&slitmCd=2128091969&bfmtNo=202107183023&brodDt=20210718&brodStrtDtm=04:05&brodType=P
+https://www.hmall.com/p/pda/itemPtc.do?sectId=1003&slitmCd=2128845319&bfmtNo=202107183018&brodDt=20210718&brodStrtDtm=04:45&brodType=P
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-hyundai-hmall-3963.jpg",ช่อง Hyundai Hmall Plus
-https://www.hmall.com/p/pda/itemPtc.do?sectId=1003&slitmCd=2108251654&bfmtNo=202107185023&brodDt=20210718&brodStrtDtm=03:40&brodType=P
+https://www.hmall.com/p/pda/itemPtc.do?sectId=1003&slitmCd=2129087045&bfmtNo=202107185025&brodDt=20210718&brodStrtDtm=05:00&brodType=P
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://img.discogs.com/e2xrTZ252SwHykQt3yNRhfLPwzM=/fit-in/600x478/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/L-760860-1416055901-2641.jpeg.jpg",ช่อง ท็อปไลน์ทีวี
 http://toplinetv.com/
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Zee_Mundo_2018.png",ช่อง Zee Mundo
+https://bx-tv.com/zee-mundo-india-tv/
 
 
 
