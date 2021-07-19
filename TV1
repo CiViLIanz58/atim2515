@@ -3841,6 +3841,9 @@ http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
 #rtmp://59.124.75.130/sat/hk042
 rtmp://161.202.204.248:1935/sat/hk042
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg",ช่อง TVB Finance & Information
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+
 
 
 
