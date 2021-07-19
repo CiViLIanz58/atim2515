@@ -3827,6 +3827,9 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 #http://61.238.6.49:8000/bysid/96
 https://cdn.hkdtmb.com/hls/96/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/225px-RTHK_TV_33.svg.png" group-title="HONG KONG TV", RTHK33
+https://cdn.hkdtmb.com/hls/33/index.m3u8
+
 
 
 
