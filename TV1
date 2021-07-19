@@ -3823,6 +3823,10 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 #http://61.238.6.49:8001/bysid/2
 https://cdn.hkdtmb.com/hls/84/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/400px-ViuTVsix-logo.svg.png" group-title="HONG KONG TV", ViuTVsix
+#http://61.238.6.49:8000/bysid/96
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+
 
 
 
