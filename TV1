@@ -3830,7 +3830,12 @@ https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/225px-RTHK_TV_33.svg.png" group-title="HONG KONG TV", RTHK33
 https://cdn.hkdtmb.com/hls/33/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="HONG KONG TV",Now新聞
+#http://teslagram.com/live/channel_332.m3u8
+http://livetv.dnsfor.me:80/channel.4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PtG4GsH.jpg" group-title="HONG KONG TV",C+頻道
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
 
 
 
