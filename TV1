@@ -3818,7 +3818,11 @@ rtmp://ivi.bupt.edu.cn/livetv/fhdy
 #https://www.fanmingming.cn/hls/startv.m3u8
 rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 #http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
- 
+
+#EXTINF:-1 tvg-logo="http://images2.wikia.nocookie.net/__cb20120913123458/evchk/images/d/d2/TVB_Pearl.png" group-title="HONG KONG TV", TVB Pearl
+#http://m.567it.com/Pearl.m3u8
+#http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 
 
 
