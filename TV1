@@ -3811,7 +3811,10 @@ https://bx-tv.com/popcornflix-action/
 http://www.gcntv.org/KO/Media/Viewer/Live24File.asp?live=KO_W01_24H
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg",ช่อง 香港电影台
-http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+https://www.fanmingming.cn/hls/fhdy.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.sports8.cc/cimg/2102.jpg",ช่อง 星空卫视
+https://www.fanmingming.cn/hls/startv.m3u8
 
 
 
