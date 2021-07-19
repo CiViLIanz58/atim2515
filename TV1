@@ -3811,10 +3811,13 @@ https://bx-tv.com/popcornflix-action/
 http://www.gcntv.org/KO/Media/Viewer/Live24File.asp?live=KO_W01_24H
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://d3avoj45mekucs.cloudfront.net/xuan/files/bf/bf6d1523-03e8-46ab-a4e5-1a0b8c642464.png",ช่อง TVB News
-http://livetv.dnsfor.me:80/channel.10.m3u8
+https://cdn.hkdtmb.com/hls/83/index.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://tw.fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg",ช่อง TVB Finance & Infomation
-http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg",ช่อง TVB Finance & Infomation
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-j2.jpg",ช่อง TVB J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
 
 
 
