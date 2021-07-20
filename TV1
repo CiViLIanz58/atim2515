@@ -3850,6 +3850,42 @@ https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://www.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg",ช่อง TVB News
 https://cdn.hkdtmb.com/hls/83/index.m3u8
 
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://blog.kakaocdn.net/dn/bpKQvB/btqD1q0BJj0/w3Vv2BKKJr8KAx031PuvOk/img.jpg",ช่อง KBC 광주방송
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://pbs.twimg.com/profile_images/1252098467/TBC_400x400.png",ช่อง TBC 대구
+http://221.157.125.239:1935/live/psike/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://kmug.co.kr/data/file/design/data_design_CJB.png",ช่อง CJB청주방송
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/KNN_logo.jpg",ช่อง KNN SBS
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist_w1445879965.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/%ED%95%9C%EA%B5%AD%EC%84%A0%EA%B1%B0%EB%B0%A9%EC%86%A1ci.jpg",ช่อง 한국선거방송
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.kctv.co.kr/img/index/top_logo.png",ช่อง KCTV 광주 CH05
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.kctv.co.kr/img/index/top_logo.png",ช่อง KCTV 광주 CH21
+http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://thesegye.com/news/data/20210423/p1065590368263738_719_thum.png",ช่อง 가요TV
+http://gayotv.net:1935/live/gayotv/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://tvimage.edaily.co.kr/images/edailyTV.png",ช่อง 이데일리TV
+http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://pbs.twimg.com/profile_images/883196509982011392/l7yA_yVP_400x400.jpg",ช่อง 국악방송
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-tv-work-net-8165.jpg",ช่อง TVWorkNet
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://m.cpbc.co.kr/images/main_logo.png",ช่อง CPBC
+https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
+
 
 
 
