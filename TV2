@@ -609,615 +609,328 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225737/index.m3u8
 #http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/shandongjy/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/SCTV-1_logo.png/225px-SCTV-1_logo.png" group-title="CHINA", 康巴卫视
 #http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/kamba-tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 吉林 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 四川 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 安徽 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 山东 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 广东 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 江西 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 云南
-http://39.134.66.66/PLTV/88888888/224/3221225773/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 东北热剧 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225498/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 东北热剧 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 中国功夫
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 农业致富 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 惊悚悬疑
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 搏击
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 欢乐剧场 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 潮妈辣婆 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 炫舞未来 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 爱情喜剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 精品纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 超级体育 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 超级电影 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 超级电视剧 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 超级综艺 
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 金牌综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 明星大片
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 海外剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 动作电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 家庭剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 精品大剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 军事评论
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 军旅剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 古装剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 怡伴健康
-http://ottrrs.hl.chinamobile.com/PLTV/88
+CCTV13HD,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
+翡翠台FLV,https://flv3948069e.live.126.net/live/a78791a6b4580e7ecbe25006285ebf19.flv
+翡翠台cdn,https://cdn.hkdtmb.com/hls/81/index.m3u8
+TVB J2 FLV,https://flv3948069e.live.126.net/live/1e0f299a40b1c0e433a216256c21befd.flv
+TVB J2cdn,https://cdn.hkdtmb.com/hls/82/index.m3u8
+TVB 明珠,https://cdn.hkdtmb.com/hls/84/index.m3u8
+TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TVB 新闻FLV,https://flv3948069e.live.126.net/live/056fd0bb2bed50cc5c21fac466ea16ec.flv
+TVB 新闻cdn,https://cdn.hkdtmb.com/hls/83/index.m3u8
+TVB 无线财经,https://cdn.hkdtmb.com/hls/85/index.m3u8
+有线新闻,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
+有线新闻2,https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-c0a864cc-1623978960-1623980040-16b41b36277039f6d0ef2cb67a6d7483-8d9323a1bec4d4e_807-03/freehd209_h.live/playlist.m3u8
+港台电视31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+港台电视32,https://cdn.hkdtmb.com/hls/32/index.m3u8
+ViuTV FLV,https://flv3948069e.live.126.net/live/e59d62bc4ea8470ec0c8198d90a2c2cf.flv
+ViuTV cdn,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV 6,https://cdn.hkdtmb.com/hls/96/index.m3u8
+开电视,https://flv3948069e.live.126.net/live/f983788f2726cd4c0b61aa7c8dc0cdbb.flv
+天映电影,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+天映电影2,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Music",MTV LIVE HD
-http://forsat.men:8888/merpatistream/merpati99/9110
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV" tvg-logo="https://fimgs.net/images/dizajneri/o.2508.jpg" group-title="Music",MTV
-http://forsat.men:8888/merpatistream/merpati99/281
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Music" tvg-logo="https://2.bp.blogspot.com/-bqsxJ-eLvss/VxU5ap-tOwI/AAAAAAAABcM/hlkUmYXTa-4Y3IA_-fx0uuGHIwJrs0ekQCLcB/s1600/U35f_aGI.png" group-title="Music",MTV Music
-http://forsat.men:8888/merpatistream/merpati99/286
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Hits" tvg-logo="https://pbs.twimg.com/profile_images/937527078093811712/f81yQzER_400x400.jpg" group-title="Music",MTV Hits
-http://forsat.men:8888/merpatistream/merpati99/287
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/MTV_Dance_2017_logo_Australia.svg/1200px-MTV_Dance_2017_logo_Australia.svg.png" group-title="Music",MTV Dance
-http://forsat.men:8888/merpatistream/merpati99/288
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="Music",MTV Classic
-http://forsat.men:8888/merpatistream/merpati99/289
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Base" tvg-logo="https://pbs.twimg.com/profile_images/902409324022128640/9vbFe5yn_400x400.jpg" group-title="Music",MTV Base
-http://forsat.men:8888/merpatistream/merpati99/291
-#EXTINF:-1 tvg-id="" tvg-name="Trace Naija" tvg-logo="https://pbs.twimg.com/profile_images/809695962256052225/Ayc3Rv9A_400x400.jpg" group-title="Music",Trace Naija
-http://forsat.men:8888/merpatistream/merpati99/113
-#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="http://i2.wp.com/footprint2africa.com/wp-content/uploads/2017/03/Trace-Urban-Logo.jpg?fit=564%2C423" group-title="Music",Trace Urban
-http://forsat.men:8888/merpatistream/merpati99/106
-#EXTINF:-1 tvg-id="" tvg-name="Trace Mizki" tvg-logo="https://pbs.twimg.com/profile_images/764931661947600897/PMysWXwp_400x400.jpg" group-title="Music",Trace Mizki
-http://forsat.men:8888/merpatistream/merpati99/109
-#EXTINF:-1 tvg-id="" tvg-name="Trace Africa" tvg-logo="http://originators.tv/views/img/clients/trace-africa.gif" group-title="Music",Trace Africa
-http://forsat.men:8888/merpatistream/merpati99/108
-#EXTINF:-1 tvg-id="" tvg-name="Trace Tropical" tvg-logo="http://mx.trace.tv/img/TraceTrop/trace-tropical.jpg" group-title="Music",Trace Tropical
-http://forsat.men:8888/merpatistream/merpati99/112
-#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="https://pbs.twimg.com/profile_images/786944696505475073/7gO9m6Io_400x400.jpg" group-title="Music",Trace Toca
-http://forsat.men:8888/merpatistream/merpati99/111
-#EXTINF:-1 tvg-id="TLC.id" tvg-name="TLC HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Variety",TLC HD
-http://forsat.men:8888/merpatistream/merpati99/352
-#EXTINF:-1 tvg-id="" tvg-name="TLC English" tvg-logo="https://i.imgur.com/VuFFsjk.png" group-title="Variety",TLC English
-http://forsat.men:8888/merpatistream/merpati99/351
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel FHD" tvg-logo="https://imgbbb.com/images/2019/04/30/golfchannel.png" group-title="Sports",Golf Channel FHD
-http://forsat.men:8888/merpatistream/merpati99/561
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Max HD Malaysia" tvg-logo="" group-title="Sports",BeIN Max HD Malaysia
-http://forsat.men:8888/merpatistream/merpati99/4272
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Max HD Malaysia 50fps" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/819_300.png" group-title="Sports",BeIN Max HD Malaysia 50fps
-http://forsat.men:8888/merpatistream/merpati99/6003
-#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD" tvg-logo="" group-title="Sports",Astro Cricket HD
-http://forsat.men:8888/merpatistream/merpati99/4237
-#EXTINF:-1 tvg-id="FOXSports1.my" tvg-name="Fox Sports 1" tvg-logo="https://imgbbb.com/images/2019/04/30/foxsports.png" group-title="Sports",Fox Sports 1
-http://forsat.men:8888/merpatistream/merpati99/51
-#EXTINF:-1 tvg-id="FOXSports1.my" tvg-name="Fox Sports 1 HD Backup" tvg-logo="https://imgbbb.com/images/2019/04/30/foxsports.png" group-title="Sports",Fox Sports 1 HD Backup
-http://forsat.men:8888/merpatistream/merpati99/1475
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="Sports",Fox Sports 1 SD
-http://forsat.men:8888/merpatistream/merpati99/26628
-#EXTINF:-1 tvg-id="FOXSports2.my" tvg-name="Fox Sports 2" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png" group-title="Sports",Fox Sports 2
-http://forsat.men:8888/merpatistream/merpati99/102
-#EXTINF:-1 tvg-id="FOXSports2.my" tvg-name="Fox Sports 2 HD Backup" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png" group-title="Sports",Fox Sports 2 HD Backup
-http://forsat.men:8888/merpatistream/merpati99/1476
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SD" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png" group-title="Sports",Fox Sports 2 SD
-http://forsat.men:8888/merpatistream/merpati99/26633
-#EXTINF:-1 tvg-id="FOXSports3.my" tvg-name="Fox Sports 3" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" group-title="Sports",Fox Sports 3
-http://forsat.men:8888/merpatistream/merpati99/101
-#EXTINF:-1 tvg-id="FOXSports3.my" tvg-name="Fox Sports 3 HD Backup" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" group-title="Sports",Fox Sports 3 HD Backup
-http://forsat.men:8888/merpatistream/merpati99/1477
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 SD" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" group-title="Sports",Fox Sports 3 SD
-http://forsat.men:8888/merpatistream/merpati99/26634
-#EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png" group-title="Sports",UFC FHD
-http://forsat.men:8888/merpatistream/merpati99/2401
-#EXTINF:-1 tvg-id="" tvg-name="Golf HD" tvg-logo="https://imgbbb.com/images/2019/04/30/golf-hd.jpg" group-title="Sports",Golf HD
-http://forsat.men:8888/merpatistream/merpati99/864
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://imgbbb.com/images/2019/04/30/FightSportsLogo2x.png" group-title="Sports",Fight Sports
-http://forsat.men:8888/merpatistream/merpati99/784
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwAM7tsGvgCbbv30YAXs2-QDPNkU4TNiQuQ7zAgrtcCA94ZWjd" group-title="Sports",FIGHT BOX
-http://forsat.men:8888/merpatistream/merpati99/501
-#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="Box Nation" tvg-logo="http://www.media15.tv/wp-content/uploads/2015/07/square-box-nation.jpg" group-title="Sports",Box Nation
-http://forsat.men:8888/merpatistream/merpati99/499
-#EXTINF:-1 tvg-id="US: AE" tvg-name="WWE Network" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" group-title="Sports",WWE Network
-http://forsat.men:8888/merpatistream/merpati99/299
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://i2.cdscdn.com/pdt2/8/8/0/1/700x700/auc3663439084880/rw/sticker-autocollant-foot-real-madrid-dimensions.jpg" group-title="Sports",Real Madrid TV
-http://forsat.men:8888/merpatistream/merpati99/244
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Variety",Blue Ant Entertainment FHD
-http://forsat.men:8888/merpatistream/merpati99/1506
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png" group-title="Sports",NBA TV HD
-http://forsat.men:8888/merpatistream/merpati99/3099
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD US" tvg-logo="http://static1.squarespace.com/static/57d836b1c534a5e4e6e7bf6f/57e0489e440243c6a9a6445c/5991a1df03596e7caf6a2028/1502722826069/2017+NBA+TV+Logo.jpg?format=1000w" group-title="Sports",NBA TV HD US
-http://forsat.men:8888/merpatistream/merpati99/243
-#EXTINF:-1 tvg-id="SonyTENGOLF.in" tvg-name="Ten Golf HD" tvg-logo="https://imgbbb.com/images/2019/04/30/TEN_GOLF_HD_1.png" group-title="Sports",Ten Golf HD
-http://forsat.men:8888/merpatistream/merpati99/224
-#EXTINF:-1 tvg-id="" tvg-name="MY: Paramount Channel" tvg-logo="" group-title="Astro Malaysia",MY: Paramount Channel
-http://forsat.men:8888/merpatistream/merpati99/2363
-#EXTINF:-1 tvg-id="" tvg-name="Adithya TV" tvg-logo="" group-title="Astro Malaysia",Adithya TV
-http://forsat.men:8888/merpatistream/merpati99/4256
-#EXTINF:-1 tvg-id="" tvg-name="Astro AEC HD" tvg-logo="" group-title="Astro Malaysia",Astro AEC HD
-http://forsat.men:8888/merpatistream/merpati99/4257
-#EXTINF:-1 tvg-id="" tvg-name="MY AFC HD" tvg-logo="" group-title="Astro Malaysia",MY AFC HD
-http://forsat.men:8888/merpatistream/merpati99/4258
-#EXTINF:-1 tvg-id="" tvg-name="MY Animal Planet HD" tvg-logo="" group-title="Astro Malaysia",MY Animal Planet HD
-http://forsat.men:8888/merpatistream/merpati99/4259
-#EXTINF:-1 tvg-id="" tvg-name="MY Aniplus HD" tvg-logo="" group-title="Astro Malaysia",MY Aniplus HD
-http://forsat.men:8888/merpatistream/merpati99/4260
-#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 351" tvg-logo="" group-title="Astro Malaysia",Astro AOD 351
-http://forsat.men:8888/merpatistream/merpati99/4262
-#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 352" tvg-logo="" group-title="Astro Malaysia",Astro AOD 352
-http://forsat.men:8888/merpatistream/merpati99/4263
-#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 353" tvg-logo="" group-title="Astro Malaysia",Astro AOD 353
-http://forsat.men:8888/merpatistream/merpati99/4264
-#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 362" tvg-logo="" group-title="Astro Malaysia",Astro AOD 362
-http://forsat.men:8888/merpatistream/merpati99/4266
-#EXTINF:-1 tvg-id="" tvg-name="Astro AOD HD 363" tvg-logo="" group-title="Astro Malaysia",Astro AOD HD 363
-http://forsat.men:8888/merpatistream/merpati99/4267
-#EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="" group-title="Astro Malaysia",Astro Awani
-http://forsat.men:8888/merpatistream/merpati99/4269
-#EXTINF:-1 tvg-id="" tvg-name="MY AXN HD" tvg-logo="" group-title="Astro Malaysia",MY AXN HD
-http://forsat.men:8888/merpatistream/merpati99/4270
-#EXTINF:-1 tvg-id="" tvg-name="MY beIN SPORTS" tvg-logo="" group-title="Astro Malaysia",MY beIN SPORTS
-http://forsat.men:8888/merpatistream/merpati99/4274
-#EXTINF:-1 tvg-id="" tvg-name="MY BNC" tvg-logo="" group-title="Astro Malaysia",MY BNC
-http://forsat.men:8888/merpatistream/merpati99/4276
-#EXTINF:-1 tvg-id="" tvg-name="Astro Bollyone HD" tvg-logo="" group-title="Astro Malaysia",Astro Bollyone HD
-http://forsat.men:8888/merpatistream/merpati99/4277
-#EXTINF:-1 tvg-id="" tvg-name="MY Cartoon Network" tvg-logo="" group-title="Astro Malaysia",MY Cartoon Network
-http://forsat.men:8888/merpatistream/merpati99/4278
-#EXTINF:-1 tvg-id="" tvg-name="MY CCM" tvg-logo="" group-title="Astro Malaysia",MY CCM
-http://forsat.men:8888/merpatistream/merpati99/4279
-#EXTINF:-1 tvg-id="" tvg-name="MY CCTV4" tvg-logo="" group-title="Astro Malaysia",MY CCTV4
-http://forsat.men:8888/merpatistream/merpati99/4280
-#EXTINF:-1 tvg-id="" tvg-name="MY CELESTIAL HD" tvg-logo="" group-title="Astro Malaysia",MY CELESTIAL HD
-http://forsat.men:8888/merpatistream/merpati99/4281
-#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="" group-title="Astro Malaysia",Astro Ceria
-http://forsat.men:8888/merpatistream/merpati99/4282
-#EXTINF:-1 tvg-id="" tvg-name="MY CHUTTI TV" tvg-logo="" group-title="Astro Malaysia",MY CHUTTI TV
-http://forsat.men:8888/merpatistream/merpati99/4284
-#EXTINF:-1 tvg-id="" tvg-name="MY Crime Investigation HD" tvg-logo="" group-title="Astro Malaysia",MY Crime Investigation HD
-http://forsat.men:8888/merpatistream/merpati99/4285
-#EXTINF:-1 tvg-id="" tvg-name="MY CINEMAX HD" tvg-logo="" group-title="Astro Malaysia",MY CINEMAX HD
-http://forsat.men:8888/merpatistream/merpati99/4286
-#EXTINF:-1 tvg-id="" tvg-name="MY CNBC" tvg-logo="" group-title="Astro Malaysia",MY CNBC
-http://forsat.men:8888/merpatistream/merpati99/4288
-#EXTINF:-1 tvg-id="" tvg-name="MY CNN HD" tvg-logo="" group-title="Astro Malaysia",MY CNN HD
-http://forsat.men:8888/merpatistream/merpati99/4289
-#EXTINF:-1 tvg-id="" tvg-name="MY COLORS HD" tvg-logo="" group-title="Astro Malaysia",MY COLORS HD
-http://forsat.men:8888/merpatistream/merpati99/4290
-#EXTINF:-1 tvg-id="" tvg-name="MY CTI ASIA" tvg-logo="" group-title="Astro Malaysia",MY CTI ASIA
-http://forsat.men:8888/merpatistream/merpati99/4291
-#EXTINF:-1 tvg-id="" tvg-name="MY Discovery Science HD" tvg-logo="" group-title="Astro Malaysia",MY Discovery Science HD
-http://forsat.men:8888/merpatistream/merpati99/4292
-#EXTINF:-1 tvg-id="" tvg-name="MY Discovery Asia" tvg-logo="" group-title="Astro Malaysia",MY Discovery Asia
-http://forsat.men:8888/merpatistream/merpati99/4293
-#EXTINF:-1 tvg-id="" tvg-name="MY Discovery HD" tvg-logo="" group-title="Astro Malaysia",MY Discovery HD
-http://forsat.men:8888/merpatistream/merpati99/4294
-#EXTINF:-1 tvg-id="" tvg-name="MY Disney Channel" tvg-logo="" group-title="Astro Malaysia",MY Disney Channel
-http://forsat.men:8888/merpatistream/merpati99/4295
-#EXTINF:-1 tvg-id="" tvg-name="MY Disney Junior" tvg-logo="" group-title="Astro Malaysia",MY Disney Junior
-http://forsat.men:8888/merpatistream/merpati99/4296
-#EXTINF:-1 tvg-id="" tvg-name="MY Disney XD HD" tvg-logo="" group-title="Astro Malaysia",MY Disney XD HD
-http://forsat.men:8888/merpatistream/merpati99/4297
-#EXTINF:-1 tvg-id="" tvg-name="MY DMAX HD" tvg-logo="" group-title="Astro Malaysia",MY DMAX HD
-http://forsat.men:8888/merpatistream/merpati99/4299
-#EXTINF:-1 tvg-id="" tvg-name="MY eGG Network" tvg-logo="" group-title="Astro Malaysia",MY eGG Network
-http://forsat.men:8888/merpatistream/merpati99/4301
-#EXTINF:-1 tvg-id="" tvg-name="MY EUROSPORT HD" tvg-logo="" group-title="Astro Malaysia",MY EUROSPORT HD
-http://forsat.men:8888/merpatistream/merpati99/4302
-#EXTINF:-1 tvg-id="" tvg-name="MY Food Network HD" tvg-logo="" group-title="Astro Malaysia",MY Food Network HD
-http://forsat.men:8888/merpatistream/merpati99/4303
-#EXTINF:-1 tvg-id="" tvg-name="Astro Go Shop 2" tvg-logo="" group-title="Astro Malaysia",Astro Go Shop 2
-http://forsat.men:8888/merpatistream/merpati99/4304
-#EXTINF:-1 tvg-id="" tvg-name="Astro Go Shop" tvg-logo="" group-title="Astro Malaysia",Astro Go Shop
-http://forsat.men:8888/merpatistream/merpati99/4305
-#EXTINF:-1 tvg-id="" tvg-name="Astro Go Shop 3" tvg-logo="" group-title="Astro Malaysia",Astro Go Shop 3
-http://forsat.men:8888/merpatistream/merpati99/4306
-#EXTINF:-1 tvg-id="" tvg-name="MY Golf Channel HD" tvg-logo="" group-title="Astro Malaysia",MY Golf Channel HD
-http://forsat.men:8888/merpatistream/merpati99/4307
-#EXTINF:-1 tvg-id="" tvg-name="MY HBO HD" tvg-logo="" group-title="Astro Malaysia",MY HBO HD
-http://forsat.men:8888/merpatistream/merpati99/4308
-#EXTINF:-1 tvg-id="" tvg-name="MY HELLO" tvg-logo="" group-title="Astro Malaysia",MY HELLO
-http://forsat.men:8888/merpatistream/merpati99/4309
-#EXTINF:-1 tvg-id="" tvg-name="MY HGTV HD" tvg-logo="" group-title="Astro Malaysia",MY HGTV HD
-http://forsat.men:8888/merpatistream/merpati99/4310
-#EXTINF:-1 tvg-id="" tvg-name="MY HISTORY HD" tvg-logo="" group-title="Astro Malaysia",MY HISTORY HD
-http://forsat.men:8888/merpatistream/merpati99/4311
-#EXTINF:-1 tvg-id="" tvg-name="MY HITS HD" tvg-logo="" group-title="Astro Malaysia",MY HITS HD
-http://forsat.men:8888/merpatistream/merpati99/4312
-#EXTINF:-1 tvg-id="" tvg-name="Astro HUA HEE DAI HD" tvg-logo="" group-title="Astro Malaysia",Astro HUA HEE DAI HD
-http://forsat.men:8888/merpatistream/merpati99/4313
-#EXTINF:-1 tvg-id="" tvg-name="MY JAYA TV" tvg-logo="" group-title="Astro Malaysia",MY JAYA TV
-http://forsat.men:8888/merpatistream/merpati99/4315
-#EXTINF:-1 tvg-id="" tvg-name="MY KALAIGNAR" tvg-logo="" group-title="Astro Malaysia",MY KALAIGNAR
-http://forsat.men:8888/merpatistream/merpati99/4316
-#EXTINF:-1 tvg-id="" tvg-name="MY KBS WORLD HD" tvg-logo="" group-title="Astro Malaysia",MY KBS WORLD HD
-http://forsat.men:8888/merpatistream/merpati99/4317
-#EXTINF:-1 tvg-id="" tvg-name="MY KIX HD" tvg-logo="" group-title="Astro Malaysia",MY KIX HD
-http://forsat.men:8888/merpatistream/merpati99/4318
-#EXTINF:-1 tvg-id="" tvg-name="MY KPLUS HD" tvg-logo="" group-title="Astro Malaysia",MY KPLUS HD
-http://forsat.men:8888/merpatistream/merpati99/4319
-#EXTINF:-1 tvg-id="" tvg-name="MY MAKKAL TV" tvg-logo="" group-title="Astro Malaysia",MY MAKKAL TV
-http://forsat.men:8888/merpatistream/merpati99/4320
-#EXTINF:-1 tvg-id="" tvg-name="MY NAURA" tvg-logo="" group-title="Astro Malaysia",MY NAURA
-http://forsat.men:8888/merpatistream/merpati99/4321
-#EXTINF:-1 tvg-id="" tvg-name="MY NICKELODEON" tvg-logo="" group-title="Astro Malaysia",MY NICKELODEON
-http://forsat.men:8888/merpatistream/merpati99/4322
-#EXTINF:-1 tvg-id="" tvg-name="Astro OASIS HD" tvg-logo="" group-title="Astro Malaysia",Astro OASIS HD
-http://forsat.men:8888/merpatistream/merpati99/4323
-#EXTINF:-1 tvg-id="" tvg-name="MY Oh!K HD" tvg-logo="" group-title="Astro Malaysia",MY Oh!K HD
-http://forsat.men:8888/merpatistream/merpati99/4324
-#EXTINF:-1 tvg-id="" tvg-name="MY ONE HD" tvg-logo="" group-title="Astro Malaysia",MY ONE HD
-http://forsat.men:8888/merpatistream/merpati99/4325
-#EXTINF:-1 tvg-id="" tvg-name="Astro Prima HD" tvg-logo="" group-title="Astro Malaysia",Astro Prima HD
-http://forsat.men:8888/merpatistream/merpati99/4326
-#EXTINF:-1 tvg-id="" tvg-name="Astro QUAN JIA HD" tvg-logo="" group-title="Astro Malaysia",Astro QUAN JIA HD
-http://forsat.men:8888/merpatistream/merpati99/4327
-#EXTINF:-1 tvg-id="" tvg-name="MY RAJ TV" tvg-logo="" group-title="Astro Malaysia",MY RAJ TV
-http://forsat.men:8888/merpatistream/merpati99/4328
-#EXTINF:-1 tvg-id="" tvg-name="Astro Ria HD" tvg-logo="" group-title="Astro Malaysia",Astro Ria HD
-http://forsat.men:8888/merpatistream/merpati99/4329
-#EXTINF:-1 tvg-id="" tvg-name="MY SETANTA SPORTS" tvg-logo="" group-title="Astro Malaysia",MY SETANTA SPORTS
-http://forsat.men:8888/merpatistream/merpati99/4330
-#EXTINF:-1 tvg-id="" tvg-name="Astro SHUANG XING HD" tvg-logo="" group-title="Astro Malaysia",Astro SHUANG XING HD
-http://forsat.men:8888/merpatistream/merpati99/4331
-#EXTINF:-1 tvg-id="" tvg-name="Astro STAR VIJAY HD" tvg-logo="" group-title="Astro Malaysia",Astro STAR VIJAY HD
-http://forsat.men:8888/merpatistream/merpati99/4332
-#EXTINF:-1 tvg-id="" tvg-name="MY SUN MUSIC" tvg-logo="" group-title="Astro Malaysia",MY SUN MUSIC
-http://forsat.men:8888/merpatistream/merpati99/4333
-#EXTINF:-1 tvg-id="" tvg-name="MY SUN TV HD" tvg-logo="" group-title="Astro Malaysia",MY SUN TV HD
-http://forsat.men:8888/merpatistream/merpati99/4334
-#EXTINF:-1 tvg-id="" tvg-name="MY TLC HD" tvg-logo="" group-title="Astro Malaysia",MY TLC HD
-http://forsat.men:8888/merpatistream/merpati99/4335
-#EXTINF:-1 tvg-id="" tvg-name="Astro TUTOR TV PT3" tvg-logo="" group-title="Astro Malaysia",Astro TUTOR TV PT3
-http://forsat.men:8888/merpatistream/merpati99/4336
-#EXTINF:-1 tvg-id="" tvg-name="Astro TUTOR TV SPM" tvg-logo="" group-title="Astro Malaysia",Astro TUTOR TV SPM
-http://forsat.men:8888/merpatistream/merpati99/4337
-#EXTINF:-1 tvg-id="" tvg-name="Astro TUTOR TV UPSR" tvg-logo="" group-title="Astro Malaysia",Astro TUTOR TV UPSR
-http://forsat.men:8888/merpatistream/merpati99/4338
-#EXTINF:-1 tvg-id="" tvg-name="MY TVB CLASSIC" tvg-logo="" group-title="Astro Malaysia",MY TVB CLASSIC
-http://forsat.men:8888/merpatistream/merpati99/4339
-#EXTINF:-1 tvg-id="" tvg-name="MY TVB E-NEWS" tvg-logo="" group-title="Astro Malaysia",MY TVB E-NEWS
-http://forsat.men:8888/merpatistream/merpati99/4340
-#EXTINF:-1 tvg-id="" tvg-name="MY TVB JADE" tvg-logo="" group-title="Astro Malaysia",MY TVB JADE
-http://forsat.men:8888/merpatistream/merpati99/4341
-#EXTINF:-1 tvg-id="" tvg-name="MY TVB XING HE" tvg-logo="" group-title="Astro Malaysia",MY TVB XING HE
-http://forsat.men:8888/merpatistream/merpati99/4342
-#EXTINF:-1 tvg-id="" tvg-name="MY TVBS ASIA" tvg-logo="" group-title="Astro Malaysia",MY TVBS ASIA
-http://forsat.men:8888/merpatistream/merpati99/4343
-#EXTINF:-1 tvg-id="" tvg-name="MY iQIYI HD" tvg-logo="" group-title="Astro Malaysia",MY iQIYI HD
-http://forsat.men:8888/merpatistream/merpati99/4314
-#EXTINF:-1 tvg-id="" tvg-name="Astro TVIQ" tvg-logo="" group-title="Astro Malaysia",Astro TVIQ
-http://forsat.men:8888/merpatistream/merpati99/4344
-#EXTINF:-1 tvg-id="" tvg-name="Astro VAANAVIL" tvg-logo="" group-title="Astro Malaysia",Astro VAANAVIL
-http://forsat.men:8888/merpatistream/merpati99/4345
-#EXTINF:-1 tvg-id="" tvg-name="Astro VINMEEN HD" tvg-logo="" group-title="Astro Malaysia",Astro VINMEEN HD
-http://forsat.men:8888/merpatistream/merpati99/4346
-#EXTINF:-1 tvg-id="" tvg-name="TVB Jade" tvg-logo="" group-title="Astro Malaysia",TVB Jade
-http://forsat.men:8888/merpatistream/merpati99/4347
-#EXTINF:-1 tvg-id="" tvg-name="Astro WARNA HD" tvg-logo="" group-title="Astro Malaysia",Astro WARNA HD
-http://forsat.men:8888/merpatistream/merpati99/4348
-#EXTINF:-1 tvg-id="" tvg-name="MY WWE NETWORK" tvg-logo="" group-title="Astro Malaysia",MY WWE NETWORK
-http://forsat.men:8888/merpatistream/merpati99/4349
-#EXTINF:-1 tvg-id="" tvg-name="Astro XIAO TAI YANG" tvg-logo="" group-title="Astro Malaysia",Astro XIAO TAI YANG
-http://forsat.men:8888/merpatistream/merpati99/4350
-#EXTINF:-1 tvg-id="" tvg-name="MY ABC AUSTRALIA" tvg-logo="" group-title="Astro Malaysia",MY ABC AUSTRALIA
-http://forsat.men:8888/merpatistream/merpati99/4358
-#EXTINF:-1 tvg-id="" tvg-name="MY AL JAZEERA HD" tvg-logo="" group-title="Astro Malaysia",MY AL JAZEERA HD
-http://forsat.men:8888/merpatistream/merpati99/4359
-#EXTINF:-1 tvg-id="" tvg-name="MY ANIMAX" tvg-logo="" group-title="Astro Malaysia",MY ANIMAX
-http://forsat.men:8888/merpatistream/merpati99/4360
-#EXTINF:-1 tvg-id="" tvg-name="MY BBC WORLD NEWS HD" tvg-logo="" group-title="Astro Malaysia",MY BBC WORLD NEWS HD
-http://forsat.men:8888/merpatistream/merpati99/4361
-#EXTINF:-1 tvg-id="" tvg-name="MY CNA HD" tvg-logo="" group-title="Astro Malaysia",MY CNA HD
-http://forsat.men:8888/merpatistream/merpati99/4362
-#EXTINF:-1 tvg-id="" tvg-name="MY COLORS TAMIL" tvg-logo="" group-title="Astro Malaysia",MY COLORS TAMIL
-http://forsat.men:8888/merpatistream/merpati99/4363
-#EXTINF:-1 tvg-id="" tvg-name="MY COMEDY CENTRAL HD" tvg-logo="" group-title="Astro Malaysia",MY COMEDY CENTRAL HD
-http://forsat.men:8888/merpatistream/merpati99/4364
-#EXTINF:-1 tvg-id="" tvg-name="MY DW HD" tvg-logo="" group-title="Astro Malaysia",MY DW HD
-http://forsat.men:8888/merpatistream/merpati99/4365
-#EXTINF:-1 tvg-id="" tvg-name="MY FOX SPORTS 2 HD" tvg-logo="" group-title="Astro Malaysia",MY FOX SPORTS 2 HD
-http://forsat.men:8888/merpatistream/merpati99/4366
-#EXTINF:-1 tvg-id="" tvg-name="MY FOX SPORTS 3 HD" tvg-logo="" group-title="Astro Malaysia",MY FOX SPORTS 3 HD
-http://forsat.men:8888/merpatistream/merpati99/4367
-#EXTINF:-1 tvg-id="" tvg-name="MY FOX SPORTS HD" tvg-logo="" group-title="Astro Malaysia",MY FOX SPORTS HD
-http://forsat.men:8888/merpatistream/merpati99/4368
-#EXTINF:-1 tvg-id="" tvg-name="MY MTV" tvg-logo="" group-title="Astro Malaysia",MY MTV
-http://forsat.men:8888/merpatistream/merpati99/4370
-#EXTINF:-1 tvg-id="" tvg-name="MY Nat Geo Wild HD" tvg-logo="" group-title="Astro Malaysia",MY Nat Geo Wild HD
-http://forsat.men:8888/merpatistream/merpati99/4371
-#EXTINF:-1 tvg-id="" tvg-name="MY tvN Movies" tvg-logo="" group-title="Astro Malaysia",MY tvN Movies
-http://forsat.men:8888/merpatistream/merpati99/4375
-#EXTINF:-1 tvg-id="" tvg-name="MY WARNER TV" tvg-logo="" group-title="Astro Malaysia",MY WARNER TV
-http://forsat.men:8888/merpatistream/merpati99/4376
-#EXTINF:-1 tvg-id="" tvg-name="MY Fox Life HD" tvg-logo="" group-title="Astro Malaysia",MY Fox Life HD
-http://forsat.men:8888/merpatistream/merpati99/4379
-#EXTINF:-1 tvg-id="" tvg-name="MY Celestial Movies" tvg-logo="" group-title="Astro Malaysia",MY Celestial Movies
-http://forsat.men:8888/merpatistream/merpati99/4386
-#EXTINF:-1 tvg-id="" tvg-name="MY Fox Movies HD" tvg-logo="" group-title="Astro Malaysia",MY Fox Movies HD
-http://forsat.men:8888/merpatistream/merpati99/4390
-#EXTINF:-1 tvg-id="" tvg-name="MY Fox Action HD" tvg-logo="" group-title="Astro Malaysia",MY Fox Action HD
-http://forsat.men:8888/merpatistream/merpati99/4391
-#EXTINF:-1 tvg-id="" tvg-name="MY Fox Movies Family HD" tvg-logo="" group-title="Astro Malaysia",MY Fox Movies Family HD
-http://forsat.men:8888/merpatistream/merpati99/4392
-#EXTINF:-1 tvg-id="" tvg-name="MY FOX HD" tvg-logo="" group-title="Astro Malaysia",MY FOX HD
-http://forsat.men:8888/merpatistream/merpati99/4393
+天映经典2,http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+天映电影,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+凤凰卫视,http://stream.guihet.com/t/ifeng2.php?id=2
+凤凰卫视高清,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1
+凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3
+凤凰香港蓝光,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+Star Sports:rtmp://58.200.131.2:1935/livetv/starsports
+Channel[V]:rtmp://58.200.131.2:1935/livetv/channelv
+探索频道:rtmp://58.200.131.2:1935/livetv/discovery
+国家地理频道:rtmp://58.200.131.2:1935/livetv/natlgeo
 
-#EXTINF:-1,siesta
-http://194.190.78.91/siesta/index.m3u8
-#EXTINF:-1,pskov
-http://194.190.78.91/pskov/index.m3u8
-#EXTINF:-1,mcm
-http://194.190.78.91/mcm/index.m3u8
-#EXTINF:-1,aivaya
-http://194.190.78.91/aivaya/index.m3u8
-#EXTINF:-1,松視1
-http://154.90.1.74/ub.php?id=402
-#EXTINF:-1,松視2
-http://154.90.1.74/ub.php?id=403
-#EXTINF:-1,松視3
-http://154.90.1.74/ub.php?id=404
-#EXTINF:-1,香蕉台
-http://154.90.1.74/ub.php?id=408
-#EXTINF:-1,潘朵拉完美
-http://154.90.1.74/ub.php?id=410
-#EXTINF:-1,潘朵拉粉紅
-http://154.90.1.74/ub.php?id=411
-#EXTINF:-1,彩虹電影
-http://154.90.1.74/ub.php?id=413
-#EXTINF:-1,彩虹K
-http://154.90.1.74/ub.php?id=406
-#EXTINF:-1,彩虹E
-http://154.90.1.74/ub.php?id=405
-#EXTINF:-1,一本道
-http://154.90.1.74/ub.php?id=414
-#EXTINF:-1,二本道
-http://154.90.1.74/ub.php?id=415
-#EXTINF:-1,東京熱
-http://154.90.1.74/ub.php?id=416
-#EXTINF:-1,HOT
-http://154.90.1.74/ub.php?id=407
-#EXTINF:-1,happy
-http://154.90.1.74/ub.php?id=412
-#EXTINF:-1,驚豔台
-http://154.90.1.74/ub.php?id=409
-#EXTINF:-1,Erox HD
-http://154.90.1.74/ub.php?id=456
-#EXTINF:-1,Dorcel HD
-http://154.90.1.74/ub.php?id=454
-#EXTINF:-1,Babes TV HD
-http://154.90.1.74/ub.php?id=458
-#EXTINF:-1,Hustler HD
-http://154.90.1.74/ub.php?id=451
-#EXTINF:-1,SCT Classic
-http://154.90.1.74/ub.php?id=462
-#EXTINF:-1,Redlight HD
-http://154.90.1.74/ub.php?id=452
-#EXTINF:-1,SEX ATION HD
-http://154.90.1.74/ub.php?id=459
-#EXTINF:-1,Super One HD
-http://154.90.1.74/ub.php?id=457
-#EXTINF:-1,Prıvate TV
-http://154.90.1.74/ub.php?id=453
-#EXTINF:-1,Passie
-http://154.90.1.74/ub.php?id=461
-#EXTINF:-1,Vivid Red HD
-http://154.90.1.74/ub.php?id=455
-#EXTINF:0,blacked_hd 🔞
-http://51.15.0.141:88/blacked_hd/index.m3u8
-#EXTINF:0,boing_it
-http://51.15.0.141:88/boing_it/index.m3u8
-#EXTINF:0,🔞 🈲EDEM adult channel 🈲🔞
-http://185.183.34.118/iptv/YSZEBB3QYC3TXF/9006/index.m3u8
-#EXTINF:-1,Blue Hustler TV (18+)
-http://re.strah.video:1234/play/bluehustler/index.m3u8
-#EXTINF:-1,Dorcel HD
-http://re.strah.video:1234/play/dorcelhd/index.m3u8
-#EXTINF:-1,EXTASY HD (18+)
-http://re.strah.video:1234/play/extasyhd/index.m3u8
-#EXTINF:-1,Erox (18+)
-http://re.strah.video:1234/play/erox/index.m3u8
-#EXTINF:-1,KinoXXX (18+)
-http://re.strah.video:1234/play/kinoxxx/index.m3u8
-#EXTINF:-1,Кино 18+ HD
-http://re.strah.video:1234/play/kino18plushd/index.m3u8
-#EXTINF:-1,ОХ-АХ HD (18+)
-http://re.strah.video:1234/play/ohahhd/index.m3u8
-#EXTINF:-1,Шалун (18+)
-http://re.strah.video:1234/play/shalun/index.m3u8
-#EXTINF:-1,Star 2
-http://122.155.180.8:5021/live/191.m3u8
-#EXTINF:-1,Star 3
-http://122.155.180.8:5021/live/193.m3u8
-#EXTINF:-1,WOWOW Live
-http://122.155.180.8:5021/live/205.m3u8
-#EXTINF:-1,NTV-G+
-http://122.155.180.8:5021/live/207.m3u8
-#EXTINF:-1,映剧ライヴエンタテイメント - Eigeki
-http://122.155.180.8:5021/live/208.m3u8
-#EXTINF:-1,イマジカBS - Imagica-BS-Cinefil
-http://122.155.180.8:5021/live/209.m3u8
-#EXTINF:-1,スカイA CS - SKY-A-Sports+
-http://122.155.180.8:5021/live/210.m3u8
-#EXTINF:-1,フジテレビ ONE - Fuji ONE
-http://122.155.180.8:5021/live/212.m3u8
-#EXTINF:-1,BS日本映画専门チャンネル
-http://122.155.180.8:5021/live/213.m3u8
-#EXTINF:-1,KBS-World
-http://122.155.180.8:5021/live/216.m3u8
-#EXTINF:-1,テレビ朝日2 - TV Asahi-2
-http://122.155.180.8:5021/live/217.m3u8
-#EXTINF:-1,History
-http://122.155.180.8:5021/live/219.m3u8
-#EXTINF:-1,TBS-News-bird
-http://122.155.180.8:5021/live/220.m3u8
-#EXTINF:-1,TBS-1
-http://122.155.180.8:5021/live/221.m3u8
-#EXTINF:-1,テレビ朝日1 - TV Asahi-1
-http://122.155.180.8:5021/live/223.m3u8
-#EXTINF:-1,WOWOW Cinema
-http://122.155.180.8:5021/live/224.m3u8
-#EXTINF:-1,NHK BS1 - NHK BS1
-http://122.155.180.8:5021/live/301.m3u8
-#EXTINF:-1,BS12 トゥエルビ - TwellV
-http://122.155.180.8:5021/live/302.m3u8
-#EXTINF:-1,NHK BSプレミアム - NHK BS-Premium
-http://122.155.180.8:5021/live/303.m3u8
-#EXTINF:-1,BS日テレ - BS-NTV
-http://122.155.180.8:5021/live/304.m3u8
-#EXTINF:-1,BS-TBS
-http://122.155.180.8:5021/live/305.m3u8
-#EXTINF:-1,BSジャパン - BS-Japan
-http://122.155.180.8:5021/live/306.m3u8
-#EXTINF:-1,BSフジ - BS-Fuji
-http://122.155.180.8:5021/live/307.m3u8
-#EXTINF:-1,BS朝日 - BS-Asahi
-http://122.155.180.8:5021/live/308.m3u8
-#EXTINF:-1,NHK-G KANTO
-http://122.155.180.8:5021/live/309.m3u8
-#EXTINF:-1,NHK-E KANTO
-http://122.155.180.8:5021/live/310.m3u8
-#EXTINF:-1,TOKYO MX
-http://122.155.180.8:5021/live/311.m3u8
-#EXTINF:-1,日本テレビ - NTV
-http://122.155.180.8:5021/live/312.m3u8
-#EXTINF:-1,テレビ朝日 - TV Asahi
-http://122.155.180.8:5021/live/313.m3u8
-#EXTINF:-1,TBSテレビ - TBS
-http://122.155.180.8:5021/live/314.m3u8
-#EXTINF:-1,テレビ东京 - TV Tokyo
-http://122.155.180.8:5021/live/315.m3u8
-#EXTINF:-1,フジテレビ - Fuji TV
-http://122.155.180.8:5021/live/316.m3u8
-#EXTINF:-1,NHK-G KANSAI
-http://122.155.180.8:5021/live/317.m3u8
-#EXTINF:-1,NHK-E KANSAI
-http://122.155.180.8:5021/live/318.m3u8
-#EXTINF:-1,MBSラジオ - MBS
-http://122.155.180.8:5021/live/319.m3u8
-#EXTINF:-1,サンテレビ - SUN
-http://122.155.180.8:5021/live/320.m3u8
-#EXTINF:-1,ABCテレビ - ABC
-http://122.155.180.8:5021/live/321.m3u8
-#EXTINF:-1,テレビ大阪 - TV Osaka
-http://122.155.180.8:5021/live/322.m3u8
-#EXTINF:-1,関西テレビ - KTV
-http://122.155.180.8:5021/live/323.m3u8
-#EXTINF:-1,読売テレビ - YTV
-http://122.155.180.8:5021/live/324.m3u8
-#EXTINF:-1,WOWOW Prime
-http://122.155.180.8:5021/live/325.m3u8
-#EXTINF:-1,Star 1
-http://122.155.180.8:5021/live/326.m3u8
-#EXTINF:-1,Fighting-TV
-http://122.155.180.8:5021/live/408.m3u8
-#EXTINF:-1,GOLF
-http://122.155.180.8:5021/live/409.m3u8
-#EXTINF:-1,J-Sports-3
-http://122.155.180.8:5021/live/410.m3u8
-#EXTINF:-1,J-Sports-4
-http://122.155.180.8:5021/live/411.m3u8
-#EXTINF:-1,BS-GREEN
-http://122.155.180.8:5021/live/412.m3u8
-#EXTINF:-1,GAORA SPORTS
-http://122.155.180.8:5021/live/413.m3u8
-#EXTINF:-1,EX-Sports-TV
-http://122.155.180.8:5021/live/414.m3u8
-#EXTINF:-1,J-Sports-1
-http://122.155.180.8:5021/live/415.m3u8
-#EXTINF:-1,J-Sports-2
-http://122.155.180.8:5021/live/416.m3u8
-#EXTINF:-1,日テレPLUS - NTV-PLUS
-http://122.155.180.8:5021/live/492.m3u8
-#EXTINF:-1,ファミリ `剧场 - Fami Gekijo HD
-http://122.155.180.8:5021/live/493.m3u8
-#EXTINF:-1,KIDS
-http://122.155.180.8:5021/live/494.m3u8
-#EXTINF:-1,Music-JAPAN
-http://122.155.180.8:5021/live/495.m3u8
-#EXTINF:-1,Discovery
-http://122.155.180.8:5021/live/496.m3u8
-#EXTINF:-1,Movie Plus
-http://122.155.180.8:5021/live/497.m3u8
-#EXTINF:-1,BSアニマックス - ANIMAX
-http://122.155.180.8:5021/live/498.m3u8
-#EXTINF:-1,Disney
-http://122.155.180.8:5021/live/499.m3u8
-#EXTINF:-1,フジテレビNEXT
-http://122.155.180.8:5021/live/51.m3u8
-#EXTINF:-1,MTV
-http://122.155.180.8:5021/live/52.m3u8
-#EXTINF:-1,日テレNEWS24
-http://122.155.180.8:5021/live/53.m3u8
-#EXTINF:-1,スペースシャワー
-http://122.155.180.8:5021/
-1.1Kviews
-tvm3u
-, 
-21:30
+台湾
+中视720,rtmp://59.124.75.130/sat/tv091
+中视720,http://185.207.176.189:8080/channels/tw-100/mpeg.2ts
+华视720,rtmp://59.124.75.130/sat/tv111
+华视720,http://185.207.176.189:8080/channels/tw-501/mpeg.2ts
+台视720,rtmp://59.124.75.130/sat/tv071
+民视720,rtmp://59.124.75.130/sat/tv051
+民视720,http://185.207.176.189:8080/channels/tw-300/mpeg.2ts
+Astro AEC ᴴᴰ,http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+Astro 欢喜 ᴴᴰhttp://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+Astro 双星 ᴴᴰ,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+Astro 全佳 ᴴᴰ,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+Astro 全佳 ᴴᴰ,http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+TVBS欢乐,rtmp://59.124.75.130/sat/tv421
+TVBS欢乐,rtmp://59.124.75.130:1935/sat/tv421
+新传媒—U,http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
+纬来体育,rtmp://59.124.75.130/sat/tv721
+纬来体育,rtmp://59.124.75.130:1935/sat/tv721
+纬来育乐,rtmp://59.124.75.130/sat/tv701
+纬来育乐,rtmp://59.124.75.130/sat/tv702
+纬来育乐,rtmp://59.124.75.130:1935/sat/tv701
+纬来日本,rtmp://59.124.75.130:1935/sat/tv521
+纬来日本,rtmp://59.124.75.130/sat/tv522
+爱尔达体育一,rtmp://59.124.75.130/sat/md011
+东森超视,rtmp://59.124.75.130/sat/tv771
+博斯魅力,rtmp://59.124.75.130/sat/md042
+TVBS新聞,rtmp://59.124.75.130/sat/tv551
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+東森財經新聞,rtmp://59.124.75.130/sat/tv571
+三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+民視台灣 (720p),http://seb.sason.top/ptv/ftv.php?id=tw
+民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民視第一 (720p),http://seb.sason.top/ptv/ftv.php?id=dy
+華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
+ww
+HGTV50,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+HGTV185,http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
+TVN50,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+TVN185,http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+TVN Movie185,http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+SBS Star,https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+HBO50,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+HBO2,https://gratismkctv.net/film/hbo.m3u8
+HBO3,https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+HBO,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+HBO HiTS,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+HBO Signature,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+Red by HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
+NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+Sony One50,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+Sony ONE185,http://185.180.221.194:8278/streams/d/One/playlist.m3u8
+KBS World50,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+Channel V,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+Channel V,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+Channel V,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+BBC Lifestyle,https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+BBC Earth,http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
+NAT GEO WILD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+NAT GEO 悠人,http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+Discovery Channel,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+Discovery Channel,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+DISNEY TV,http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+Animal Planet,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+Animal Planet185,http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
+Outdoor Channel,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+Fashion TV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+WWE摔角,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
+ASTRO SPORT 1,http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+ASTRO SPORT 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+ASTRO SPORT 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+ASTRO SPORT 4,http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+ASTRO SPORT 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+CNN International (720p),https://cnn-cnninternational-1de.samsung.wurl.com/manifest/playlist.m3u8
+SKYNEWs,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+TV1,http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+TV2,http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+TV3,http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+NTV7,http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+8TV,http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+TV9,http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+Astro Arena,http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+Astro Awani,http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
+Astro AEC,http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+Astro Warna,http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+Astro Ria,http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+Astro Prima,http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+Astro Oasis,http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
+Astro Citra,http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
+BOO,http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+Hello,http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+Naura,http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
+TVB Xing He,http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+Astro Quan Jia,http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+Astro AOD,http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+Astro Xiao Tai Yang,http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+Astro Hua Hee Dai,http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+Astro Shuang Xing,http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+iQIYI,http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+Thrill,http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+AXN HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+AXN,http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+TLC,http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+Fox Movies HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+Fox Action Movies,http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+Fox HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+Fox Sports 1,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+Fox Sports 2,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+Fox Sports 3,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+Fox Movies,http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+Fox Life,http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+Fox Family Movies,http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+Fox HD,http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+Fox Crime,http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+AFN,http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
+HITS,http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
+HITS MOVIES,http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+Celestial Movie,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+CCM,http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+ONE,http://185.180.221.194:8278/streams/d/One/playlist.m3u8
+ANIMAX,http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+Animax Japan,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 
-EXTM3U
-live/54.m3u8
-#EXTINF:-1,BS钓りビジョン
-http://122.155.180.8:5021/live/55.m3u8
-#EXTINF:-1,BSスカパー
-http://122.155.180.8:5021/live/58.m3u8
-#EXTINF:-1,*NHK-G CS
-http://122.155.180.8:5021/live/139.m3u8
-#EXTINF:-1,*[KR] SBS GOLF
-http://122.155.180.8:5021/live/198.m3u8
-#EXTINF:-1,*ELTA
-http://122.155.180.8:5021/live/266.m3u8
-#EXTINF:-1,*[KR] MBC Drama
-http://122.155.180.8:5021/live/375.m3u8
-#EXTINF:-1,*[KR] MBC
-http://122.155.180.8:5021/live/376.m3u8
-#EXTINF:-1,*[KR] SBS
-http://122.155.180.8:5021/live/380.m3u8
-#EXTINF:-1,*[KR] SBS ESPN
-http://122.155.180.8:5021/live/381.m3u8
-#EXTINF:-1,*[KR] EBS
-http://122.155.180.8:5021/live/382.m3u8
-#EXTINF:-1,*AXN English
-http://122.155.180.8:5021/live/402.m3u8
-#EXTINF:-1,*[KR] MBC
-http://122.155.180.8:5021/live/417.m3u8
-#EXTINF:-1,*Star Movies English
-http://122.155.180.8:5021/live/421.m3u8
-#EXTINF:-1,*[KR] GOLF
-http://122.155.180.8:5021/live/427.m3u8
-#EXTINF:-1,*FOXスポーツエンタ
-http://122.155.180.8:5021/live/57.m3u8
-#EXTINF:-1,*N/A
-http://122.155.180.8:5021/live/65.m3u8
-#EXTINF:-1,*N/A
-https://www.filmon.com/vr-streams/6170.high/playlist.m3u8
-#EXTINF:-1,*N/A
-https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-#EXTINF:-1,*N/A
-https://www.filmon.com/vr-streams/6155.high/playlist.m3u8
-#EXTINF:-1,*N/A
-https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 
+淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+科幻电影,http://121.12.115.15/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8
+武侠电影,http://121.12.115.15/tx.hls.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8
+甄子丹,http://121.12.115.15/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
+周润发,http://121.12.115.15/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
+成龙,http://121.12.115.15/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8
+五福星,http://121.12.115.15/tx.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8
+金庸,http://121.12.115.15/tx.hls.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.m3u8
+洪金宝,http://121.12.115.15/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
+刘德华,http://121.12.115.15/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
+李连杰,http://121.12.115.15/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8
+周星驰电影,http://121.12.115.15/tx.hls.huya.com/src/1099531728510-1099531728510-86331995155595264-2199063580476-10057-A-0-1.m3u8
+邵氏电影,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
+邵氏电影,https://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
+邵氏电影,http://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
+邵氏电影,https://cn-ahhf-cmcc-live-01.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
+
+翡翠台,http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
+TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TVB J2,http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
+TVB Jade,http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
+TVB 明珠,http://185.207.176.189:8080/channels/tv-84/mpeg.2ts
+TVB E-News,http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320683ew
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+凤凰卫视,http://stream.guihet.com/t/ifeng2.php?id=2
+凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1
+凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3
+鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+ViuTV,http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
+ViuTV 6,http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
+RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
+中视720,rtmp://59.124.75.130/sat/tv091
+华视720,rtmp://59.124.75.130/sat/tv111
+台视720,rtmp://59.124.75.130/sat/tv071
+民视720,rtmp://59.124.75.130/sat/tv051
+Astro AEC ᴴᴰ,http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+Astro 双星 ᴴᴰ,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+Astro 全佳 ᴴᴰ,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+Astro 全佳 ᴴᴰ,http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+TVBS欢乐,rtmp://59.124.75.130/sat/tv421
+TVBS欢乐,rtmp://59.124.75.130:1935/sat/tv421
+纬来体育,rtmp://59.124.75.130/sat/tv721
+纬来体育,rtmp://59.124.75.130:1935/sat/tv721
+纬来育乐,rtmp://59.124.75.130/sat/tv701
+纬来育乐,rtmp://59.124.75.130/sat/tv702
+纬来育乐,rtmp://59.124.75.130:1935/sat/tv701
+纬来日本,rtmp://59.124.75.130:1935/sat/tv521
+纬来日本,rtmp://59.124.75.130/sat/tv522
+爱尔达体育一,rtmp://59.124.75.130/sat/md011
+东森超视,rtmp://59.124.75.130/sat/tv771
+博斯魅力,rtmp://59.124.75.130/sat/md042
+TVBS新聞,rtmp://59.124.75.130/sat/tv551
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中天亚洲 ᴴᴰ,http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320670
+TVBS亚洲 ᴴᴰ,http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319322
+TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+東森財經新聞,rtmp://59.124.75.130/sat/tv571
+三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+民視台灣 (720p),http://seb.sason.top/ptv/ftv.php?id=tw
+民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民視第一 (720p),http://seb.sason.top/ptv/ftv.php?id=dy
+華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
+HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+HGTV,http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
+TVN,http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+HBO,https://gratismkctv.net/film/hbo.m3u8
+Channel V,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+Channel V,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+Channel V,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+BBC Lifestyle,https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+Discovery Channel,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+Discovery Channel,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+Outdoor Channel,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+Fox Movies HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+AXN HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+Fox HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+翡翠台,http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
+TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TVB J2,http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
+TVB Jade,http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
+TVB 明珠,http://185.207.176.189:8080/channels/tv-84/mpeg.2ts
+TVB E-News,http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320683ew
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+凤凰卫视,http://stream.guihet.com/t/ifeng2.php?id=2
+凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1
+凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3
+鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+ViuTV,http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
+ViuTV 6,http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
+RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
+中视720,rtmp://59.124.75.130/sat/tv091
+华视720,rtmp://59.124.75.130/sat/tv111
+台视720,rtmp://59.124.75.130/sat/tv071
+民视720,rtmp://59.124.75.130/sat/tv051
+Astro AEC ᴴᴰ,http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+Astro 双星 ᴴᴰ,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+Astro 全佳 ᴴᴰ,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+Astro 全佳 ᴴᴰ,http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+TVBS欢乐,rtmp://59.124.75.130/sat/tv421
+TVBS欢乐,rtmp://59.124.75.130:1935/sat/tv421
+纬来体育,rtmp://59.124.75.130/sat/tv721
+纬来体育,rtmp://59.124.75.130:1935/sat/tv721
+纬来育乐,rtmp://59.124.75.130/sat/tv701
+纬来育乐,rtmp://59.124.75.130/sat/tv702
+纬来育乐,rtmp://59.124.75.130:1935/sat/tv701
+纬来日本,rtmp://59.124.75.130:1935/sat/tv521
+纬来日本,rtmp://59.124.75.130/sat/tv522
+爱尔达体育一,rtmp://59.124.75.130/sat/md011
+东森超视,rtmp://59.124.75.130/sat/tv771
+博斯魅力,rtmp://59.124.75.130/sat/md042
+TVBS新聞,rtmp://59.124.75.130/sat/tv551
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+中天亚洲 ᴴᴰ,http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320670
+TVBS亚洲 ᴴᴰ,http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319322
+TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+壹電視新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+東森財經新聞,rtmp://59.124.75.130/sat/tv571
+三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+民視台灣 (720p),http://seb.sason.top/ptv/ftv.php?id=tw
+民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民視第一 (720p),http://seb.sason.top/ptv/ftv.php?id=dy
+華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
+HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+HGTV,http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
+TVN,http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+HBO,https://gratismkctv.net/film/hbo.m3u8
+Channel V,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+Channel V,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+Channel V,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+BBC Lifestyle,https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+Discovery Channel,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+Discovery Channel,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+Outdoor Channel,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+Fox Movies HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+AXN HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+Fox HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
