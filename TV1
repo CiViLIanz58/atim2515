@@ -1404,24 +1404,6 @@ http://27.254.130.62/feed/LC53/index.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1CESyG6cfFw3sgDixf768mwRnKJXf0CtD",ช่อง MOVIES WORLD 1
 http://27.254.130.62/feed/LC11/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1BvPiQkRkhw1-PIyUJP1JPEvNmKrMbYpC",ช่อง MOVIE SAT ASIA
-http://116.204.181.238:9981/stream/service/a092196252017c8f3264d71ceb6acd59
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1kX0ilsQDMRbifTTEGfcfggvBV04LWUco",ช่อง LIVE SKY 2
-http://116.204.181.238:9981/stream/service/350bbbf7af2ff0cfc5b8608a5f189c42
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1kd0j716E61yVPVvXlU-i-IcRRgdDnyQM",ช่อง LIVE SKY 3
-http://116.204.181.238:9981/stream/service/f5688fbf8ba814dfaae52f48a72f5b7b
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1krkTgy8Myy16QhEVRXdJZbTd-mCAJSTd",ช่อง LIVE SKY 4
-http://116.204.181.238:9981/stream/service/33286e39815a16ecbd2c832907841eff
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1l4M1meISPM4haZV-4qigri3fy1zoVPqC",ช่อง A FILM HD
-http://116.204.181.238:9981/stream/service/6eac3a193c6f3dea40394c92aa81322b
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1kzL_lAgaKMsccJxMpyUCK1bANQ3PtxUL",ช่อง I MOVIE HD
-http://116.204.181.238:9981/stream/service/fc4f8361f0a8886faec73e28c8e85efb
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/09_Celestial_Classic_Movies.png",ช่อง CCM (THAI)
 https://siamtv88.co/index.php?a=live_details&channel_code=th-celestial
 
@@ -2775,9 +2757,6 @@ https://037moviefree.com/Mortal-Kombat-2021-%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C
 #EXTINF:-1 group-title="VIDEO" tvg-logo="https://037moviefree.com/images/movie/TSU0hWus22KTBFty2uPcPcwMZdWfcjO.jpg",เรื่อง Seobok
 https://037moviefree.com/Seobok-2021-%E0%B8%8B%E0%B8%AD-%E0%B8%9A%E0%B8%81-%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0
 
-#EXTINF:-1 group-title="VIDEO" tvg-logo="https://037moviefree.com/images/movie/9WurlQkgtN6OcJnSTe9RhUtDHmODeWO.jpg",เรื่อง มนต์รักดอกผักบุ้ง เลิกคุยทั้งอำเภอ
-https://037moviefree.com/Mon-Ruk-Dok-Pak-Bung-2021-%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B8%B8%E0%B9%89%E0%B8%87-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%84%E0%B8%B8%E0%B8%A2%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD
-
 #EXTINF:-1 group-title="VIDEO" tvg-logo="https://037moviefree.com/images/movie/dUnQvXIvI21Jacec85JU7CHuZNivlRb1.jpg",เรื่อง Zack Snyders Justice League
 https://037moviefree.com/Zack-Snyders-Justice-League-2021-%E0%B8%88%E0%B8%B1%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%A5%E0%B8%B5%E0%B8%81%E0%B8%84%E0%B9%8C-2021
 
@@ -3888,6 +3867,32 @@ https://www.filmon.com/vr-streams/6155.high/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png",ช่อง Filmon 4
 https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg",ช่อง Astro AEC ᴴᴰ
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/TV1_Logo_2011.png/revision/latest/scale-to-width-down/250?cb=20131101030840",ช่อง TV1
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/PlayerLogo-TV2-May2021-preview.png",ช่อง TV2
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",ช่อง TV3
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.coolstreaming.us/img/ch/image55811508279.jpg",ช่อง NTV7
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-eQ3UIX0bqWbVVDuaHBhVo3vCBYvZkexOHlrM5633KTdbfXUdgMkAvr6Gi7ajXhqqZ4Y&usqp=CAU",ช่อง 8TV
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.coolstreaming.us/img/ch/image5988773936.jpg",ช่อง TV9
+http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://www.pngitem.com/pimgs/m/110-1100190_file-under18-under-18-not-allowed-hd-png.png",ช่อง Weak
+http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+
+
 
 
 
