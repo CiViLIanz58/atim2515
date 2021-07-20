@@ -674,20 +674,293 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88
 
-#EXTINF:-1 tvg-ID="" tvg-name="MACAN Sport 8" group-title="SPORTS" tvg-logo="https://macan.live/img/assp.png", Astro Supersport 1
-https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=JCfcT1aJ&v=20200202
-#EXTINF:-1 tvg-ID="" tvg-name="MACAN Sport 9" group-title="SPORTS" tvg-logo="https://macan.live/img/assp2.png", Astro Supersport 2
-https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=JCfcT1aJ&v=20200202
-#EXTINF:-1 tvg-ID="" tvg-name="MACAN Sport 10" group-title="SPORTS" tvg-logo="https://macan.live/img/assp3.png", Astro Supersport 3
-https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=JCfcT1aJ&v=20200202
-#EXTINF:-1 tvg-ID="" tvg-name="MACAN Sport 11" group-title="SPORTS" tvg-logo="https://macan.live/img/assp4.png", Astro Supersport 4
-https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=JCfcT1aJ&v=20200202
-#EXTINF:-1 tvg-ID="" tvg-name="MACAN Sport 8" group-title="SPORTS" tvg-logo="https://macan.live/img/astro_cricket.png", Astro Cricket
-https://delivery.macan.live/stream/macan_sport_14/index.m3u8?token=JCfcT1aJ&v=20200202
-#EXTINF:-1 tvg-ID="" tvg-name="MACAN Sport 8" group-title="SPORTS" tvg-logo="https://macan.live/img/astro.png", Astro Sport Special 2
-https://delivery.macan.live/stream/macan_sport_18/index.m3u8?token=JCfcT1aJ&v=20200202
-#EXTINF:-1 tvg-ID="" tvg-name="MACAN Sport 8" group-title="SPORTS" tvg-logo="https://macan.live/img/astro.png", Astro Sport Special 3
-https://delivery.macan.live/stream/macan_sport_19/index.m3u8?token=JCfcT1aJ&v=20200202
-#EXTINF:-1 tvg-ID="" tvg-name="MACAN Sport 8" group-title="SPORTS" tvg-logo="https://macan.live/img/astro.png", Astro Sport Special 4
-https://delivery.macan.live/stream/macan_sport_20/index.m3u8?token=JCfcT1aJ&v=20200202
-
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Music",MTV LIVE HD
+http://forsat.men:8888/merpatistream/merpati99/9110
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV" tvg-logo="https://fimgs.net/images/dizajneri/o.2508.jpg" group-title="Music",MTV
+http://forsat.men:8888/merpatistream/merpati99/281
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Music" tvg-logo="https://2.bp.blogspot.com/-bqsxJ-eLvss/VxU5ap-tOwI/AAAAAAAABcM/hlkUmYXTa-4Y3IA_-fx0uuGHIwJrs0ekQCLcB/s1600/U35f_aGI.png" group-title="Music",MTV Music
+http://forsat.men:8888/merpatistream/merpati99/286
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Hits" tvg-logo="https://pbs.twimg.com/profile_images/937527078093811712/f81yQzER_400x400.jpg" group-title="Music",MTV Hits
+http://forsat.men:8888/merpatistream/merpati99/287
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/MTV_Dance_2017_logo_Australia.svg/1200px-MTV_Dance_2017_logo_Australia.svg.png" group-title="Music",MTV Dance
+http://forsat.men:8888/merpatistream/merpati99/288
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="Music",MTV Classic
+http://forsat.men:8888/merpatistream/merpati99/289
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="MTV Base" tvg-logo="https://pbs.twimg.com/profile_images/902409324022128640/9vbFe5yn_400x400.jpg" group-title="Music",MTV Base
+http://forsat.men:8888/merpatistream/merpati99/291
+#EXTINF:-1 tvg-id="" tvg-name="Trace Naija" tvg-logo="https://pbs.twimg.com/profile_images/809695962256052225/Ayc3Rv9A_400x400.jpg" group-title="Music",Trace Naija
+http://forsat.men:8888/merpatistream/merpati99/113
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="http://i2.wp.com/footprint2africa.com/wp-content/uploads/2017/03/Trace-Urban-Logo.jpg?fit=564%2C423" group-title="Music",Trace Urban
+http://forsat.men:8888/merpatistream/merpati99/106
+#EXTINF:-1 tvg-id="" tvg-name="Trace Mizki" tvg-logo="https://pbs.twimg.com/profile_images/764931661947600897/PMysWXwp_400x400.jpg" group-title="Music",Trace Mizki
+http://forsat.men:8888/merpatistream/merpati99/109
+#EXTINF:-1 tvg-id="" tvg-name="Trace Africa" tvg-logo="http://originators.tv/views/img/clients/trace-africa.gif" group-title="Music",Trace Africa
+http://forsat.men:8888/merpatistream/merpati99/108
+#EXTINF:-1 tvg-id="" tvg-name="Trace Tropical" tvg-logo="http://mx.trace.tv/img/TraceTrop/trace-tropical.jpg" group-title="Music",Trace Tropical
+http://forsat.men:8888/merpatistream/merpati99/112
+#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="https://pbs.twimg.com/profile_images/786944696505475073/7gO9m6Io_400x400.jpg" group-title="Music",Trace Toca
+http://forsat.men:8888/merpatistream/merpati99/111
+#EXTINF:-1 tvg-id="TLC.id" tvg-name="TLC HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Variety",TLC HD
+http://forsat.men:8888/merpatistream/merpati99/352
+#EXTINF:-1 tvg-id="" tvg-name="TLC English" tvg-logo="https://i.imgur.com/VuFFsjk.png" group-title="Variety",TLC English
+http://forsat.men:8888/merpatistream/merpati99/351
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel FHD" tvg-logo="https://imgbbb.com/images/2019/04/30/golfchannel.png" group-title="Sports",Golf Channel FHD
+http://forsat.men:8888/merpatistream/merpati99/561
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Max HD Malaysia" tvg-logo="" group-title="Sports",BeIN Max HD Malaysia
+http://forsat.men:8888/merpatistream/merpati99/4272
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Max HD Malaysia 50fps" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/819_300.png" group-title="Sports",BeIN Max HD Malaysia 50fps
+http://forsat.men:8888/merpatistream/merpati99/6003
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD" tvg-logo="" group-title="Sports",Astro Cricket HD
+http://forsat.men:8888/merpatistream/merpati99/4237
+#EXTINF:-1 tvg-id="FOXSports1.my" tvg-name="Fox Sports 1" tvg-logo="https://imgbbb.com/images/2019/04/30/foxsports.png" group-title="Sports",Fox Sports 1
+http://forsat.men:8888/merpatistream/merpati99/51
+#EXTINF:-1 tvg-id="FOXSports1.my" tvg-name="Fox Sports 1 HD Backup" tvg-logo="https://imgbbb.com/images/2019/04/30/foxsports.png" group-title="Sports",Fox Sports 1 HD Backup
+http://forsat.men:8888/merpatistream/merpati99/1475
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="Sports",Fox Sports 1 SD
+http://forsat.men:8888/merpatistream/merpati99/26628
+#EXTINF:-1 tvg-id="FOXSports2.my" tvg-name="Fox Sports 2" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png" group-title="Sports",Fox Sports 2
+http://forsat.men:8888/merpatistream/merpati99/102
+#EXTINF:-1 tvg-id="FOXSports2.my" tvg-name="Fox Sports 2 HD Backup" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png" group-title="Sports",Fox Sports 2 HD Backup
+http://forsat.men:8888/merpatistream/merpati99/1476
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SD" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png" group-title="Sports",Fox Sports 2 SD
+http://forsat.men:8888/merpatistream/merpati99/26633
+#EXTINF:-1 tvg-id="FOXSports3.my" tvg-name="Fox Sports 3" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" group-title="Sports",Fox Sports 3
+http://forsat.men:8888/merpatistream/merpati99/101
+#EXTINF:-1 tvg-id="FOXSports3.my" tvg-name="Fox Sports 3 HD Backup" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" group-title="Sports",Fox Sports 3 HD Backup
+http://forsat.men:8888/merpatistream/merpati99/1477
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 SD" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" group-title="Sports",Fox Sports 3 SD
+http://forsat.men:8888/merpatistream/merpati99/26634
+#EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png" group-title="Sports",UFC FHD
+http://forsat.men:8888/merpatistream/merpati99/2401
+#EXTINF:-1 tvg-id="" tvg-name="Golf HD" tvg-logo="https://imgbbb.com/images/2019/04/30/golf-hd.jpg" group-title="Sports",Golf HD
+http://forsat.men:8888/merpatistream/merpati99/864
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://imgbbb.com/images/2019/04/30/FightSportsLogo2x.png" group-title="Sports",Fight Sports
+http://forsat.men:8888/merpatistream/merpati99/784
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwAM7tsGvgCbbv30YAXs2-QDPNkU4TNiQuQ7zAgrtcCA94ZWjd" group-title="Sports",FIGHT BOX
+http://forsat.men:8888/merpatistream/merpati99/501
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="Box Nation" tvg-logo="http://www.media15.tv/wp-content/uploads/2015/07/square-box-nation.jpg" group-title="Sports",Box Nation
+http://forsat.men:8888/merpatistream/merpati99/499
+#EXTINF:-1 tvg-id="US: AE" tvg-name="WWE Network" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" group-title="Sports",WWE Network
+http://forsat.men:8888/merpatistream/merpati99/299
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://i2.cdscdn.com/pdt2/8/8/0/1/700x700/auc3663439084880/rw/sticker-autocollant-foot-real-madrid-dimensions.jpg" group-title="Sports",Real Madrid TV
+http://forsat.men:8888/merpatistream/merpati99/244
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Variety",Blue Ant Entertainment FHD
+http://forsat.men:8888/merpatistream/merpati99/1506
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png" group-title="Sports",NBA TV HD
+http://forsat.men:8888/merpatistream/merpati99/3099
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD US" tvg-logo="http://static1.squarespace.com/static/57d836b1c534a5e4e6e7bf6f/57e0489e440243c6a9a6445c/5991a1df03596e7caf6a2028/1502722826069/2017+NBA+TV+Logo.jpg?format=1000w" group-title="Sports",NBA TV HD US
+http://forsat.men:8888/merpatistream/merpati99/243
+#EXTINF:-1 tvg-id="SonyTENGOLF.in" tvg-name="Ten Golf HD" tvg-logo="https://imgbbb.com/images/2019/04/30/TEN_GOLF_HD_1.png" group-title="Sports",Ten Golf HD
+http://forsat.men:8888/merpatistream/merpati99/224
+#EXTINF:-1 tvg-id="" tvg-name="MY: Paramount Channel" tvg-logo="" group-title="Astro Malaysia",MY: Paramount Channel
+http://forsat.men:8888/merpatistream/merpati99/2363
+#EXTINF:-1 tvg-id="" tvg-name="Adithya TV" tvg-logo="" group-title="Astro Malaysia",Adithya TV
+http://forsat.men:8888/merpatistream/merpati99/4256
+#EXTINF:-1 tvg-id="" tvg-name="Astro AEC HD" tvg-logo="" group-title="Astro Malaysia",Astro AEC HD
+http://forsat.men:8888/merpatistream/merpati99/4257
+#EXTINF:-1 tvg-id="" tvg-name="MY AFC HD" tvg-logo="" group-title="Astro Malaysia",MY AFC HD
+http://forsat.men:8888/merpatistream/merpati99/4258
+#EXTINF:-1 tvg-id="" tvg-name="MY Animal Planet HD" tvg-logo="" group-title="Astro Malaysia",MY Animal Planet HD
+http://forsat.men:8888/merpatistream/merpati99/4259
+#EXTINF:-1 tvg-id="" tvg-name="MY Aniplus HD" tvg-logo="" group-title="Astro Malaysia",MY Aniplus HD
+http://forsat.men:8888/merpatistream/merpati99/4260
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 351" tvg-logo="" group-title="Astro Malaysia",Astro AOD 351
+http://forsat.men:8888/merpatistream/merpati99/4262
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 352" tvg-logo="" group-title="Astro Malaysia",Astro AOD 352
+http://forsat.men:8888/merpatistream/merpati99/4263
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 353" tvg-logo="" group-title="Astro Malaysia",Astro AOD 353
+http://forsat.men:8888/merpatistream/merpati99/4264
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 362" tvg-logo="" group-title="Astro Malaysia",Astro AOD 362
+http://forsat.men:8888/merpatistream/merpati99/4266
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD HD 363" tvg-logo="" group-title="Astro Malaysia",Astro AOD HD 363
+http://forsat.men:8888/merpatistream/merpati99/4267
+#EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="" group-title="Astro Malaysia",Astro Awani
+http://forsat.men:8888/merpatistream/merpati99/4269
+#EXTINF:-1 tvg-id="" tvg-name="MY AXN HD" tvg-logo="" group-title="Astro Malaysia",MY AXN HD
+http://forsat.men:8888/merpatistream/merpati99/4270
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN SPORTS" tvg-logo="" group-title="Astro Malaysia",MY beIN SPORTS
+http://forsat.men:8888/merpatistream/merpati99/4274
+#EXTINF:-1 tvg-id="" tvg-name="MY BNC" tvg-logo="" group-title="Astro Malaysia",MY BNC
+http://forsat.men:8888/merpatistream/merpati99/4276
+#EXTINF:-1 tvg-id="" tvg-name="Astro Bollyone HD" tvg-logo="" group-title="Astro Malaysia",Astro Bollyone HD
+http://forsat.men:8888/merpatistream/merpati99/4277
+#EXTINF:-1 tvg-id="" tvg-name="MY Cartoon Network" tvg-logo="" group-title="Astro Malaysia",MY Cartoon Network
+http://forsat.men:8888/merpatistream/merpati99/4278
+#EXTINF:-1 tvg-id="" tvg-name="MY CCM" tvg-logo="" group-title="Astro Malaysia",MY CCM
+http://forsat.men:8888/merpatistream/merpati99/4279
+#EXTINF:-1 tvg-id="" tvg-name="MY CCTV4" tvg-logo="" group-title="Astro Malaysia",MY CCTV4
+http://forsat.men:8888/merpatistream/merpati99/4280
+#EXTINF:-1 tvg-id="" tvg-name="MY CELESTIAL HD" tvg-logo="" group-title="Astro Malaysia",MY CELESTIAL HD
+http://forsat.men:8888/merpatistream/merpati99/4281
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="" group-title="Astro Malaysia",Astro Ceria
+http://forsat.men:8888/merpatistream/merpati99/4282
+#EXTINF:-1 tvg-id="" tvg-name="MY CHUTTI TV" tvg-logo="" group-title="Astro Malaysia",MY CHUTTI TV
+http://forsat.men:8888/merpatistream/merpati99/4284
+#EXTINF:-1 tvg-id="" tvg-name="MY Crime Investigation HD" tvg-logo="" group-title="Astro Malaysia",MY Crime Investigation HD
+http://forsat.men:8888/merpatistream/merpati99/4285
+#EXTINF:-1 tvg-id="" tvg-name="MY CINEMAX HD" tvg-logo="" group-title="Astro Malaysia",MY CINEMAX HD
+http://forsat.men:8888/merpatistream/merpati99/4286
+#EXTINF:-1 tvg-id="" tvg-name="MY CNBC" tvg-logo="" group-title="Astro Malaysia",MY CNBC
+http://forsat.men:8888/merpatistream/merpati99/4288
+#EXTINF:-1 tvg-id="" tvg-name="MY CNN HD" tvg-logo="" group-title="Astro Malaysia",MY CNN HD
+http://forsat.men:8888/merpatistream/merpati99/4289
+#EXTINF:-1 tvg-id="" tvg-name="MY COLORS HD" tvg-logo="" group-title="Astro Malaysia",MY COLORS HD
+http://forsat.men:8888/merpatistream/merpati99/4290
+#EXTINF:-1 tvg-id="" tvg-name="MY CTI ASIA" tvg-logo="" group-title="Astro Malaysia",MY CTI ASIA
+http://forsat.men:8888/merpatistream/merpati99/4291
+#EXTINF:-1 tvg-id="" tvg-name="MY Discovery Science HD" tvg-logo="" group-title="Astro Malaysia",MY Discovery Science HD
+http://forsat.men:8888/merpatistream/merpati99/4292
+#EXTINF:-1 tvg-id="" tvg-name="MY Discovery Asia" tvg-logo="" group-title="Astro Malaysia",MY Discovery Asia
+http://forsat.men:8888/merpatistream/merpati99/4293
+#EXTINF:-1 tvg-id="" tvg-name="MY Discovery HD" tvg-logo="" group-title="Astro Malaysia",MY Discovery HD
+http://forsat.men:8888/merpatistream/merpati99/4294
+#EXTINF:-1 tvg-id="" tvg-name="MY Disney Channel" tvg-logo="" group-title="Astro Malaysia",MY Disney Channel
+http://forsat.men:8888/merpatistream/merpati99/4295
+#EXTINF:-1 tvg-id="" tvg-name="MY Disney Junior" tvg-logo="" group-title="Astro Malaysia",MY Disney Junior
+http://forsat.men:8888/merpatistream/merpati99/4296
+#EXTINF:-1 tvg-id="" tvg-name="MY Disney XD HD" tvg-logo="" group-title="Astro Malaysia",MY Disney XD HD
+http://forsat.men:8888/merpatistream/merpati99/4297
+#EXTINF:-1 tvg-id="" tvg-name="MY DMAX HD" tvg-logo="" group-title="Astro Malaysia",MY DMAX HD
+http://forsat.men:8888/merpatistream/merpati99/4299
+#EXTINF:-1 tvg-id="" tvg-name="MY eGG Network" tvg-logo="" group-title="Astro Malaysia",MY eGG Network
+http://forsat.men:8888/merpatistream/merpati99/4301
+#EXTINF:-1 tvg-id="" tvg-name="MY EUROSPORT HD" tvg-logo="" group-title="Astro Malaysia",MY EUROSPORT HD
+http://forsat.men:8888/merpatistream/merpati99/4302
+#EXTINF:-1 tvg-id="" tvg-name="MY Food Network HD" tvg-logo="" group-title="Astro Malaysia",MY Food Network HD
+http://forsat.men:8888/merpatistream/merpati99/4303
+#EXTINF:-1 tvg-id="" tvg-name="Astro Go Shop 2" tvg-logo="" group-title="Astro Malaysia",Astro Go Shop 2
+http://forsat.men:8888/merpatistream/merpati99/4304
+#EXTINF:-1 tvg-id="" tvg-name="Astro Go Shop" tvg-logo="" group-title="Astro Malaysia",Astro Go Shop
+http://forsat.men:8888/merpatistream/merpati99/4305
+#EXTINF:-1 tvg-id="" tvg-name="Astro Go Shop 3" tvg-logo="" group-title="Astro Malaysia",Astro Go Shop 3
+http://forsat.men:8888/merpatistream/merpati99/4306
+#EXTINF:-1 tvg-id="" tvg-name="MY Golf Channel HD" tvg-logo="" group-title="Astro Malaysia",MY Golf Channel HD
+http://forsat.men:8888/merpatistream/merpati99/4307
+#EXTINF:-1 tvg-id="" tvg-name="MY HBO HD" tvg-logo="" group-title="Astro Malaysia",MY HBO HD
+http://forsat.men:8888/merpatistream/merpati99/4308
+#EXTINF:-1 tvg-id="" tvg-name="MY HELLO" tvg-logo="" group-title="Astro Malaysia",MY HELLO
+http://forsat.men:8888/merpatistream/merpati99/4309
+#EXTINF:-1 tvg-id="" tvg-name="MY HGTV HD" tvg-logo="" group-title="Astro Malaysia",MY HGTV HD
+http://forsat.men:8888/merpatistream/merpati99/4310
+#EXTINF:-1 tvg-id="" tvg-name="MY HISTORY HD" tvg-logo="" group-title="Astro Malaysia",MY HISTORY HD
+http://forsat.men:8888/merpatistream/merpati99/4311
+#EXTINF:-1 tvg-id="" tvg-name="MY HITS HD" tvg-logo="" group-title="Astro Malaysia",MY HITS HD
+http://forsat.men:8888/merpatistream/merpati99/4312
+#EXTINF:-1 tvg-id="" tvg-name="Astro HUA HEE DAI HD" tvg-logo="" group-title="Astro Malaysia",Astro HUA HEE DAI HD
+http://forsat.men:8888/merpatistream/merpati99/4313
+#EXTINF:-1 tvg-id="" tvg-name="MY JAYA TV" tvg-logo="" group-title="Astro Malaysia",MY JAYA TV
+http://forsat.men:8888/merpatistream/merpati99/4315
+#EXTINF:-1 tvg-id="" tvg-name="MY KALAIGNAR" tvg-logo="" group-title="Astro Malaysia",MY KALAIGNAR
+http://forsat.men:8888/merpatistream/merpati99/4316
+#EXTINF:-1 tvg-id="" tvg-name="MY KBS WORLD HD" tvg-logo="" group-title="Astro Malaysia",MY KBS WORLD HD
+http://forsat.men:8888/merpatistream/merpati99/4317
+#EXTINF:-1 tvg-id="" tvg-name="MY KIX HD" tvg-logo="" group-title="Astro Malaysia",MY KIX HD
+http://forsat.men:8888/merpatistream/merpati99/4318
+#EXTINF:-1 tvg-id="" tvg-name="MY KPLUS HD" tvg-logo="" group-title="Astro Malaysia",MY KPLUS HD
+http://forsat.men:8888/merpatistream/merpati99/4319
+#EXTINF:-1 tvg-id="" tvg-name="MY MAKKAL TV" tvg-logo="" group-title="Astro Malaysia",MY MAKKAL TV
+http://forsat.men:8888/merpatistream/merpati99/4320
+#EXTINF:-1 tvg-id="" tvg-name="MY NAURA" tvg-logo="" group-title="Astro Malaysia",MY NAURA
+http://forsat.men:8888/merpatistream/merpati99/4321
+#EXTINF:-1 tvg-id="" tvg-name="MY NICKELODEON" tvg-logo="" group-title="Astro Malaysia",MY NICKELODEON
+http://forsat.men:8888/merpatistream/merpati99/4322
+#EXTINF:-1 tvg-id="" tvg-name="Astro OASIS HD" tvg-logo="" group-title="Astro Malaysia",Astro OASIS HD
+http://forsat.men:8888/merpatistream/merpati99/4323
+#EXTINF:-1 tvg-id="" tvg-name="MY Oh!K HD" tvg-logo="" group-title="Astro Malaysia",MY Oh!K HD
+http://forsat.men:8888/merpatistream/merpati99/4324
+#EXTINF:-1 tvg-id="" tvg-name="MY ONE HD" tvg-logo="" group-title="Astro Malaysia",MY ONE HD
+http://forsat.men:8888/merpatistream/merpati99/4325
+#EXTINF:-1 tvg-id="" tvg-name="Astro Prima HD" tvg-logo="" group-title="Astro Malaysia",Astro Prima HD
+http://forsat.men:8888/merpatistream/merpati99/4326
+#EXTINF:-1 tvg-id="" tvg-name="Astro QUAN JIA HD" tvg-logo="" group-title="Astro Malaysia",Astro QUAN JIA HD
+http://forsat.men:8888/merpatistream/merpati99/4327
+#EXTINF:-1 tvg-id="" tvg-name="MY RAJ TV" tvg-logo="" group-title="Astro Malaysia",MY RAJ TV
+http://forsat.men:8888/merpatistream/merpati99/4328
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ria HD" tvg-logo="" group-title="Astro Malaysia",Astro Ria HD
+http://forsat.men:8888/merpatistream/merpati99/4329
+#EXTINF:-1 tvg-id="" tvg-name="MY SETANTA SPORTS" tvg-logo="" group-title="Astro Malaysia",MY SETANTA SPORTS
+http://forsat.men:8888/merpatistream/merpati99/4330
+#EXTINF:-1 tvg-id="" tvg-name="Astro SHUANG XING HD" tvg-logo="" group-title="Astro Malaysia",Astro SHUANG XING HD
+http://forsat.men:8888/merpatistream/merpati99/4331
+#EXTINF:-1 tvg-id="" tvg-name="Astro STAR VIJAY HD" tvg-logo="" group-title="Astro Malaysia",Astro STAR VIJAY HD
+http://forsat.men:8888/merpatistream/merpati99/4332
+#EXTINF:-1 tvg-id="" tvg-name="MY SUN MUSIC" tvg-logo="" group-title="Astro Malaysia",MY SUN MUSIC
+http://forsat.men:8888/merpatistream/merpati99/4333
+#EXTINF:-1 tvg-id="" tvg-name="MY SUN TV HD" tvg-logo="" group-title="Astro Malaysia",MY SUN TV HD
+http://forsat.men:8888/merpatistream/merpati99/4334
+#EXTINF:-1 tvg-id="" tvg-name="MY TLC HD" tvg-logo="" group-title="Astro Malaysia",MY TLC HD
+http://forsat.men:8888/merpatistream/merpati99/4335
+#EXTINF:-1 tvg-id="" tvg-name="Astro TUTOR TV PT3" tvg-logo="" group-title="Astro Malaysia",Astro TUTOR TV PT3
+http://forsat.men:8888/merpatistream/merpati99/4336
+#EXTINF:-1 tvg-id="" tvg-name="Astro TUTOR TV SPM" tvg-logo="" group-title="Astro Malaysia",Astro TUTOR TV SPM
+http://forsat.men:8888/merpatistream/merpati99/4337
+#EXTINF:-1 tvg-id="" tvg-name="Astro TUTOR TV UPSR" tvg-logo="" group-title="Astro Malaysia",Astro TUTOR TV UPSR
+http://forsat.men:8888/merpatistream/merpati99/4338
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB CLASSIC" tvg-logo="" group-title="Astro Malaysia",MY TVB CLASSIC
+http://forsat.men:8888/merpatistream/merpati99/4339
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB E-NEWS" tvg-logo="" group-title="Astro Malaysia",MY TVB E-NEWS
+http://forsat.men:8888/merpatistream/merpati99/4340
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB JADE" tvg-logo="" group-title="Astro Malaysia",MY TVB JADE
+http://forsat.men:8888/merpatistream/merpati99/4341
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB XING HE" tvg-logo="" group-title="Astro Malaysia",MY TVB XING HE
+http://forsat.men:8888/merpatistream/merpati99/4342
+#EXTINF:-1 tvg-id="" tvg-name="MY TVBS ASIA" tvg-logo="" group-title="Astro Malaysia",MY TVBS ASIA
+http://forsat.men:8888/merpatistream/merpati99/4343
+#EXTINF:-1 tvg-id="" tvg-name="MY iQIYI HD" tvg-logo="" group-title="Astro Malaysia",MY iQIYI HD
+http://forsat.men:8888/merpatistream/merpati99/4314
+#EXTINF:-1 tvg-id="" tvg-name="Astro TVIQ" tvg-logo="" group-title="Astro Malaysia",Astro TVIQ
+http://forsat.men:8888/merpatistream/merpati99/4344
+#EXTINF:-1 tvg-id="" tvg-name="Astro VAANAVIL" tvg-logo="" group-title="Astro Malaysia",Astro VAANAVIL
+http://forsat.men:8888/merpatistream/merpati99/4345
+#EXTINF:-1 tvg-id="" tvg-name="Astro VINMEEN HD" tvg-logo="" group-title="Astro Malaysia",Astro VINMEEN HD
+http://forsat.men:8888/merpatistream/merpati99/4346
+#EXTINF:-1 tvg-id="" tvg-name="TVB Jade" tvg-logo="" group-title="Astro Malaysia",TVB Jade
+http://forsat.men:8888/merpatistream/merpati99/4347
+#EXTINF:-1 tvg-id="" tvg-name="Astro WARNA HD" tvg-logo="" group-title="Astro Malaysia",Astro WARNA HD
+http://forsat.men:8888/merpatistream/merpati99/4348
+#EXTINF:-1 tvg-id="" tvg-name="MY WWE NETWORK" tvg-logo="" group-title="Astro Malaysia",MY WWE NETWORK
+http://forsat.men:8888/merpatistream/merpati99/4349
+#EXTINF:-1 tvg-id="" tvg-name="Astro XIAO TAI YANG" tvg-logo="" group-title="Astro Malaysia",Astro XIAO TAI YANG
+http://forsat.men:8888/merpatistream/merpati99/4350
+#EXTINF:-1 tvg-id="" tvg-name="MY ABC AUSTRALIA" tvg-logo="" group-title="Astro Malaysia",MY ABC AUSTRALIA
+http://forsat.men:8888/merpatistream/merpati99/4358
+#EXTINF:-1 tvg-id="" tvg-name="MY AL JAZEERA HD" tvg-logo="" group-title="Astro Malaysia",MY AL JAZEERA HD
+http://forsat.men:8888/merpatistream/merpati99/4359
+#EXTINF:-1 tvg-id="" tvg-name="MY ANIMAX" tvg-logo="" group-title="Astro Malaysia",MY ANIMAX
+http://forsat.men:8888/merpatistream/merpati99/4360
+#EXTINF:-1 tvg-id="" tvg-name="MY BBC WORLD NEWS HD" tvg-logo="" group-title="Astro Malaysia",MY BBC WORLD NEWS HD
+http://forsat.men:8888/merpatistream/merpati99/4361
+#EXTINF:-1 tvg-id="" tvg-name="MY CNA HD" tvg-logo="" group-title="Astro Malaysia",MY CNA HD
+http://forsat.men:8888/merpatistream/merpati99/4362
+#EXTINF:-1 tvg-id="" tvg-name="MY COLORS TAMIL" tvg-logo="" group-title="Astro Malaysia",MY COLORS TAMIL
+http://forsat.men:8888/merpatistream/merpati99/4363
+#EXTINF:-1 tvg-id="" tvg-name="MY COMEDY CENTRAL HD" tvg-logo="" group-title="Astro Malaysia",MY COMEDY CENTRAL HD
+http://forsat.men:8888/merpatistream/merpati99/4364
+#EXTINF:-1 tvg-id="" tvg-name="MY DW HD" tvg-logo="" group-title="Astro Malaysia",MY DW HD
+http://forsat.men:8888/merpatistream/merpati99/4365
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX SPORTS 2 HD" tvg-logo="" group-title="Astro Malaysia",MY FOX SPORTS 2 HD
+http://forsat.men:8888/merpatistream/merpati99/4366
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX SPORTS 3 HD" tvg-logo="" group-title="Astro Malaysia",MY FOX SPORTS 3 HD
+http://forsat.men:8888/merpatistream/merpati99/4367
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX SPORTS HD" tvg-logo="" group-title="Astro Malaysia",MY FOX SPORTS HD
+http://forsat.men:8888/merpatistream/merpati99/4368
+#EXTINF:-1 tvg-id="" tvg-name="MY MTV" tvg-logo="" group-title="Astro Malaysia",MY MTV
+http://forsat.men:8888/merpatistream/merpati99/4370
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat Geo Wild HD" tvg-logo="" group-title="Astro Malaysia",MY Nat Geo Wild HD
+http://forsat.men:8888/merpatistream/merpati99/4371
+#EXTINF:-1 tvg-id="" tvg-name="MY tvN Movies" tvg-logo="" group-title="Astro Malaysia",MY tvN Movies
+http://forsat.men:8888/merpatistream/merpati99/4375
+#EXTINF:-1 tvg-id="" tvg-name="MY WARNER TV" tvg-logo="" group-title="Astro Malaysia",MY WARNER TV
+http://forsat.men:8888/merpatistream/merpati99/4376
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox Life HD" tvg-logo="" group-title="Astro Malaysia",MY Fox Life HD
+http://forsat.men:8888/merpatistream/merpati99/4379
+#EXTINF:-1 tvg-id="" tvg-name="MY Celestial Movies" tvg-logo="" group-title="Astro Malaysia",MY Celestial Movies
+http://forsat.men:8888/merpatistream/merpati99/4386
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox Movies HD" tvg-logo="" group-title="Astro Malaysia",MY Fox Movies HD
+http://forsat.men:8888/merpatistream/merpati99/4390
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox Action HD" tvg-logo="" group-title="Astro Malaysia",MY Fox Action HD
+http://forsat.men:8888/merpatistream/merpati99/4391
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox Movies Family HD" tvg-logo="" group-title="Astro Malaysia",MY Fox Movies Family HD
+http://forsat.men:8888/merpatistream/merpati99/4392
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX HD" tvg-logo="" group-title="Astro Malaysia",MY FOX HD
+http://forsat.men:8888/merpatistream/merpati99/4393
