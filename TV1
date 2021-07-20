@@ -3877,6 +3877,18 @@ http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="http://m.cpbc.co.kr/images/main_logo.png",ช่อง CPBC
 https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
 
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png",ช่อง Filmon 1
+https://www.filmon.com/vr-streams/6170.high/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png",ช่อง Filmon 2
+https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png",ช่อง Filmon 3
+https://www.filmon.com/vr-streams/6155.high/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png",ช่อง Filmon 4
+https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+
 
 
 
