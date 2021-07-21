@@ -3895,6 +3895,9 @@ http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.accesspartnership.com/cms/wp-content/uploads/2020/10/yahoo-news-logo.jpg",ช่อง Yahoo News
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-7_Logo_2011.png",ช่อง CCTV-7军事农业
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+
 
 
 
