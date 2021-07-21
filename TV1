@@ -718,7 +718,7 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 http://redlabmcdn.s.llnwi.net/jp04/ryowa6hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg",ช่อง TOKYO MX1
-https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/ryowa8hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/jp-gstv-7333.jpg",ช่อง GSTV
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1577692335_b1628000.m3u8
@@ -3897,6 +3897,12 @@ https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-7_Logo_2011.png",ช่อง CCTV-7军事农业
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/PN1wjtJ.jpeg",ช่อง MTV Hits Europe
+http://188.40.68.167/russia/mtv_hits/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/PN1wjtJ.jpeg",ช่อง MTV Hits Europe
+http://190.61.37.173:8000/play/a01m/index.m3u8
 
 
 
