@@ -3901,8 +3901,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/PN1wjtJ.jpeg",ช่อง MTV Hits Europe
 http://188.40.68.167/russia/mtv_hits/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/PN1wjtJ.jpeg",ช่อง MTV Hits Europe
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/5/4/z/mtv-80.jpg",ช่อง MTV80 s
 http://190.61.37.173:8000/play/a01m/index.m3u8
+
+
 
 
 
