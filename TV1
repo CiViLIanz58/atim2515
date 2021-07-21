@@ -361,7 +361,7 @@ https://www.adintrend.tv/hd/ch28?t=live
 https://we-play.live/watching/tv/cnn
  
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/NHK-Logo.png",ช่อง NHK WORLD JAPAN
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.inwiptv.com/postor/20200208001241%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg",ช่อง ถิ่นใต้
 http://freelive.inwstream.com:1935/freelive-edge/the_battle.stream/playlist.m3u8
@@ -640,43 +640,43 @@ http://27.254.130.62/feed/LC38/playlist.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://newscast.jp/attachments/FdIJsDVcRrwUgl20FEzB.jpg",ช่อง BS朝日
-http://redlabmcdn.s.llnwi.net/jp01/bs04/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs04hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png",ช่อง STAR 1
-http://redlabmcdn.s.llnwi.net/jp01/bs09/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs09hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://japan-programcatalog.com/japacon/open/open-page!image?fid=9419",ช่อง BS12
-http://redlabmcdn.s.llnwi.net/jp01/bs08/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs08hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.obc.co.jp/hubfs/casestudies/112/cs_kv01.jpg?aaa",ช่อง BSフジ
-https://redlabmcdn.s.llnwi.net/jp01/bs07/tracks-v1a1/mono.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs07hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://av.watch.impress.co.jp/img/avw/docs/1145/556/1001bs02_s.jpg",ช่อง BSテレビ東京
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs06hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.bs4.jp/assets/images/meta/ogp.png",ช่อง BS日テレ
-http://redlabmcdn.s.llnwi.net/jp01/bs03/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs03hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png",ช่อง NHK BSプレミアム
-http://redlabmcdn.s.llnwi.net/jp01/bs02/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs02hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20210123215055",ช่อง NHK BS1
-http://redlabmcdn.s.llnwi.net/jp01/bs01/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs01hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-201-400x400.png",ช่อง STAR 2
-http://redlabmcdn.s.llnwi.net/jp01/bs10/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs10hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",ช่อง J Sports 2
-http://redlabmcdn.s.llnwi.net/jp01/bs11/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs11hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/38-JSPORT3-770x480.jpg",ช่อง J Sports 3
-http://redlabmcdn.s.llnwi.net/jp01/bs12/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs12hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png",ช่อง BS-TBS
-http://redlabmcdn.s.llnwi.net/jp01/bs05/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs05hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",ช่อง Disney Channel Japan
-http://redlabmcdn.s.llnwi.net/jp01/bs13/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs13hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://seeklogo.com/images/S/shop-channel-logo-B05C72F34A-seeklogo.com.png",ช่อง Jupiter Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
@@ -685,22 +685,22 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://static.wikia.nocookie.net/godzilla/images/0/07/Nippon_tv_logo_2014.png/revision/latest?cb=20140725194555",ช่อง Nippon TV
-https://www.nettvpro.live/en/play.php?aid=10194
+http://redlabmcdn.s.llnwi.net/jp04/ryowa3hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/04/tv-asahi-logo-vector.png",ช่อง テレビ朝日
-https://redlabmcdn.s.llnwi.net/jp01/ryowa4/tracks-v1a1/mono.m3u8
+https://redlabmcdn.s.llnwi.net/jp04/ryowa4hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/1-NHK-General-TV-1.jpg",ช่อง NHK General TV
-https://nhk.mov3.co/hls/nhk.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/ryowa2hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",ช่อง NHK Eテレ
-https://redlabmcdn.s.llnwi.net/jp01/ryowa1/tracks-v1a1/mono.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/ryowa1hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://japan-programcatalog.com/japacon/open/open-sales-company!image?tsid=128&imageNumber=1&id=2",ช่อง Hiroshima TV
 https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://inboundnavi.jp/wp-content/uploads/2016/04/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93-%E3%83%AD%E3%82%B4.png",ช่อง フジテレビ
-https://redlabmcdn.s.llnwi.net/jp01/ryowa7/tracks-v1a1/mono.m3u8
+https://redlabmcdn.s.llnwi.net/jp04/ryowa7hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png",ช่อง Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w66921402.m3u8
@@ -709,13 +709,13 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w66921402.m3u8
 https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENXYn8VvmtbRtXIRUnnbn_VZESPYerzp97zMfWxxOASqmYP8ZNf-BjuCyIkVBTOrQbQ&usqp=CAU",ช่อง Japanet Channel DX
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.njpw1972.com/wp-content/uploads/2017/03/world.png",ช่อง NJPW World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png",ช่อง TV TOKYO
-https://www.nettvpro.live/en/play.php?aid=1664
+http://redlabmcdn.s.llnwi.net/jp04/ryowa6hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg",ช่อง TOKYO MX1
 https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
@@ -1282,7 +1282,7 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/36-JSPORT1-600x400.jpg",ช่อง J Sports 1
-http://redlabmcdn.s.llnwi.net/jp01/bs15/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs15hd/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",ช่อง UNIVERSAL
 http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8
