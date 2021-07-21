@@ -3892,6 +3892,9 @@ http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://www.pngitem.com/pimgs/m/110-1100190_file-under18-under-18-not-allowed-hd-png.png",ช่อง Weak
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://image.pngaaa.com/344/4838344-middle.png",ช่อง Yahoo News
+https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
+
 
 
 
