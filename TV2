@@ -610,30 +610,46 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225737/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/SCTV-1_logo.png/225px-SCTV-1_logo.png" group-title="CHINA", 康巴卫视
 #http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/kamba-tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
-http://redlabmcdn.s.llnwi.net/jp04/ryowa1hd/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
-http://redlabmcdn.s.llnwi.net/jp04/ryowa2hd/playlist.m3u8
-
+http://redlabmcdn.s.llnwi.net/jp04/bs01hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
-http://redlabmcdn.s.llnwi.net/jp04/ryowa3hd/playlist.m3u8
-
+http://redlabmcdn.s.llnwi.net/jp04/bs02hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
-http://redlabmcdn.s.llnwi.net/jp04/ryowa4hd/playlist.m3u8
-
+http://redlabmcdn.s.llnwi.net/jp04/bs03hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
-http://redlabmcdn.s.llnwi.net/jp04/ryowa5hd/playlist.m3u8
-
+http://redlabmcdn.s.llnwi.net/jp04/bs04hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
-http://redlabmcdn.s.llnwi.net/jp04/ryowa6hd/playlist.m3u8
-
+http://redlabmcdn.s.llnwi.net/jp04/bs05hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
-http://redlabmcdn.s.llnwi.net/jp04/ryowa7hd/playlist.m3u8
-
+http://redlabmcdn.s.llnwi.net/jp04/bs06hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
-http://redlabmcdn.s.llnwi.net/jp04/ryowa8hd/playlist.m3u8
-
+http://redlabmcdn.s.llnwi.net/jp04/bs07hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
+http://redlabmcdn.s.llnwi.net/jp04/bs08hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
+http://redlabmcdn.s.llnwi.net/jp04/bs09hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
+http://redlabmcdn.s.llnwi.net/jp04/bs10hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
+http://redlabmcdn.s.llnwi.net/jp04/bs11hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
+http://redlabmcdn.s.llnwi.net/jp04/bs12hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
+http://redlabmcdn.s.llnwi.net/jp04/bs13hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
 http://redlabmcdn.s.llnwi.net/jp04/bs14hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
+http://redlabmcdn.s.llnwi.net/jp04/bs15hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
+http://redlabmcdn.s.llnwi.net/jp04/bs16hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
+http://redlabmcdn.s.llnwi.net/jp04/bs17hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
+http://redlabmcdn.s.llnwi.net/jp04/bs18hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
+http://redlabmcdn.s.llnwi.net/jp04/bs19hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="japan", 山东卫视
+http://redlabmcdn.s.llnwi.net/jp04/bs20hd/playlist.m3u8
 
