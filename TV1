@@ -1677,19 +1677,19 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/11/AbuDhabi-Sport-2.png",ช่อง ABU DHABI SPORTS 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://kamiselaluada.com/img/dubaisports1.png",ช่อง DUBAI SPORTS 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/09/Dubai-Sports-1-HD-TV.jpg",ช่อง DUBAI SPORTS 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://4.bp.blogspot.com/-soa20pNaLmw/Wrq7A9Y_h3I/AAAAAAAABJ4/KzEMT2GaPlQBPtdczZYgsxdI1SNFX5T9gCLcBGAs/s400/Dubai%2BSport%2B2.png",ช่อง DUBAI SPORTS 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://kamiselaluada.com/img/dubaisports3.png",ช่อง DUBAI SPORTS 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://television-live.com/uploads/posts/ectheheyther.png",ช่อง DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png",ช่อง CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="http://kamiselaluada.com/img/cnnindo.png",ช่อง CNN INDONESIA
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Indonesia.png/768px-CNN_Indonesia.png",ช่อง CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/EEAwv8z.jpeg",ช่อง Bloomberg TV Asia Live Event
