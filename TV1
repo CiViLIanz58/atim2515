@@ -3919,6 +3919,9 @@ https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i2.wp.com/assets.tvplayer.com/common/logos/256/Colour/226.png",ช่อง NOW 90s
 https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tonkit360.com/wp-content/uploads/2020/01/olympic-2020-japan.jpg",ช่อง Olympic 2020 TV
+http://iplaytv.ddns.net:25461/live/iplayweb/streamweb/5710.m3u8
+
 
 
 
