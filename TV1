@@ -3910,6 +3910,15 @@ http://redlabmcdn.s.llnwi.net/jp04/ryowa5hd/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.diario26.com/images/musictop_logo.png?3",ช่อง MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/12/NOW-70S-1.png",ช่อง NOW 7Os
+https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.info/i/lf/300/1487529852/1546.png",ช่อง NOW 80s
+https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i2.wp.com/assets.tvplayer.com/common/logos/256/Colour/226.png",ช่อง NOW 90s
+https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
