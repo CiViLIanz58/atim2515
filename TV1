@@ -594,7 +594,7 @@ https://toonee.tv/
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.pinimg.com/originals/11/6e/d8/116ed80f298c8ee40551e9291a2273f6.png",ช่อง Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.coolzaa.com/wp-content/uploads/2018/06/looktungnetwork.jpg",ช่อง ลูกทุ่งเน็ตเวิร์ก
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://www.looktung.net/_nuxt/img/2b7e5ae.png",ช่อง ลูกทุ่งเน็ตเวิร์ก
 https://54c241893bf39.streamlock.net/looktungnetwork1/looktungnetwork1/chunklist_w9273485.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ytimg.com/vi/kXpqaPiMAcc/maxresdefault_live.jpg",ช่อง ลูกทุ่ง TVHD
@@ -855,7 +855,7 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.4kfilme.de/wp-content/uploads/2021/02/MTV-Unplugged-324x160.jpg",ช่อง Pluto TV MTV Unplugged
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ytimg.com/vi/sLEVLbAn8wA/maxresdefault.jpg",ช่อง Retro Crush
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pcmag.com/imagery/reviews/03Qx3rokUFhvyC5YyDnvqVT-1.1586275702.fit_lim.size_1050x591.png",ช่อง Retro Crush
 https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/media/EM1d5Y5U4AEX--z.jpg",ช่อง Pluto TV Celebrity
@@ -1617,7 +1617,7 @@ https://rush-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-17-at-1.57.09-PM.png",ช่อง Redbox | Tastemade
 https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/NQpxt8FzNkc/maxresdefault.jpg",ช่อง Red Bull TV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.rallyturkey.com/wp-content/uploads/2018/01/Red-Bull-TV-logo.png",ช่อง Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png",ช่อง Retro Plus
@@ -2043,7 +2043,7 @@ http://player.teleon.tv/us/channel/little-baby-bum-us
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://img1.wsimg.com/isteam/ip/57a25962-ba5c-4687-8a11-8c013d15f036/LivemusicReplay.jpg/:/rs=w:1280",ช่อง Live Music Replay
 http://player.teleon.tv/us/channel/live-music-replay-us
 
-#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://uspto.report/TM/88519728/mark",ช่อง Lively Place
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcv6hioK7x0ybzCO5qoFfz_07WgjHOVwr-Qpe8dAWDDwfX8Ad9kV9yIB4rBVoI2MPDe8&usqp=CAU",ช่อง Lively Place
 http://player.teleon.tv/us/channel/lively-place-us
 
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91JUvf8-9RL.png",ช่อง Loupe
@@ -2847,7 +2847,7 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png",ช่อง MBC Masr 1 USA
 https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.satellitesa.com/wp-content/uploads/2021/04/MBCMasr2.png",ช่อง MBC Masr 2
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRuMZsTUMX-2SNZgILPU-6vOdGbIfLsqu1jrk6UcDLoXspFgPJ3zFyaJqnRVy5V_vBiZg&usqp=CAU",ช่อง MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://mostaql.hsoubcdn.com/uploads/403850-rt9md-1589234660-5eb9cbe42ad67.png",ช่อง MBC Max 
@@ -3009,25 +3009,25 @@ https://www.nettvpro.live/en/play.php?aid=4062
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://www.daai.tv/images/og-channel.jpg",ช่อง 大愛海外頻道
 https://www.nettvpro.live/en/play.php?aid=4064
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH47牧者頻道
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsuTMeY-Eg61md1A-MLFgP-cRsogDY3Gid06XKkQamyqut30wWEyzHqNdjZNSgWghWnJo&usqp=CAU",ช่อง CH47牧者頻道
 https://www.nettvpro.live/en/play.php?aid=5454
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH45卡通
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsuTMeY-Eg61md1A-MLFgP-cRsogDY3Gid06XKkQamyqut30wWEyzHqNdjZNSgWghWnJo&usqp=CAU",ช่อง CH45卡通
 https://www.nettvpro.live/en/play.php?aid=5487
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH44烤箱讀書會
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsuTMeY-Eg61md1A-MLFgP-cRsogDY3Gid06XKkQamyqut30wWEyzHqNdjZNSgWghWnJo&usqp=CAU",ช่อง CH44烤箱讀書會
 https://www.nettvpro.live/en/play.php?aid=5486
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH40轉轉發現愛
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsuTMeY-Eg61md1A-MLFgP-cRsogDY3Gid06XKkQamyqut30wWEyzHqNdjZNSgWghWnJo&usqp=CAU",ช่อง CH40轉轉發現愛
 https://www.nettvpro.live/en/play.php?aid=5484
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH38特會系列：
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsuTMeY-Eg61md1A-MLFgP-cRsogDY3Gid06XKkQamyqut30wWEyzHqNdjZNSgWghWnJo&usqp=CAU",ช่อง CH38特會系列：
 https://www.nettvpro.live/en/play.php?aid=5483
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH37特會系列：
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsuTMeY-Eg61md1A-MLFgP-cRsogDY3Gid06XKkQamyqut30wWEyzHqNdjZNSgWghWnJo&usqp=CAU",ช่อง CH37特會系列：
 https://www.nettvpro.live/en/play.php?aid=5482
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://goodtv.tv/uploads/channel/1_file.jpg",ช่อง CH36特會系列：
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsuTMeY-Eg61md1A-MLFgP-cRsogDY3Gid06XKkQamyqut30wWEyzHqNdjZNSgWghWnJo&usqp=CAU",ช่อง CH36特會系列：
 https://www.nettvpro.live/en/play.php?aid=5481
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://mcshowblog.files.wordpress.com/2019/08/tennis-channel-logo.png?w=640",ช่อง Tennis Channel
