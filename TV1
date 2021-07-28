@@ -3925,9 +3925,20 @@ http://iplaytv.ddns.net:25461/live/iplayweb/streamweb/5710.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/CzKfEPdUQAA3Qgh.jpg",ช่อง Wellness mark TV
 https://cdn-th-vip.livestreaming.in.th/wizard/wizard/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png",ช่อง 3BB-ASIAN
-https://dogtoop.com:8443/live/skysportnfl/s1/128.ts , userAgent:ExoPlayerLib/2.8.4
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://my-iptv.org/cover/channels/live-sky-2-th.png",ช่อง Live Sky2
+http://116.204.181.238:9981/stream/service/d45d7092c6efe2fe66bb004ae536964c
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://my-iptv.org/cover/channels/live-sky-3-th.png",ช่อง Live Sky3
+http://116.204.181.238:9981/stream/service/ecad66112eaf0189c31c227669208286
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://my-iptv.org/cover/channels/live-sky-4-th.png",ช่อง Live Sky4
+http://116.204.181.238:9981/stream/service/e714e7b46e1dc6954c11995d4cbb4a7e
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGW4dWwG0RjTskpbE83rtOK3uAZdhO_DujtvwFX4UufEBu9A13sk1BL6vJnHQ8K-MbPk&usqp=CAU",ช่อง A-Film HD
+http://116.204.181.238:9981/stream/service/fe5658d1416d1bd507ab62c8ef05944e
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Jd1QPgW4Ik0J4Kn5o66twE7JMvXzkCFOEQ&usqp=CAU",ช่อง I-ASIA
+http://116.204.181.238:9981/stream/service/95db8192fc9437c45c15db29635dfef9
 
 
 
