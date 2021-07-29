@@ -4046,6 +4046,7 @@ https://live1.thaitvstream.com/play/mounchontv/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1HWnXPExevp1Qt2RUPs9kViFJlCN7bynC",ช่อง M2
 https://cdn6.goprimetime.info/feed/202105171329/LC24/index.m3u8
+userAgent : Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=15pABxVVc5XUriFGXVwtp6MadWSDQI8zW",ช่อง PING
 http://916309128f3e.sn.mynetname.net:1935/aslive/warnertv/chunklist.m3u8
@@ -4058,6 +4059,10 @@ http://203.159.95.172:8081/live/banner0003/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1IdnrEw5CIzoZqyAz7wJvgICH5m9fVfSZ",ช่อง MOVIE 3
 http://203.159.95.172:8081/live/comedy1/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1Fh-An-gMyCgZUB8Lf9Mxn4QpKAfuj-Yw",ช่อง ACTION HOLLYWOOD
+http://203.154.177.124:8899/live/ch7/playlist.m3u8
+userAgent : ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 
 
 
