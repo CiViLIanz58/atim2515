@@ -1411,7 +1411,7 @@ https://siamtv88.co/index.php?a=live_details&channel_code=th-celestial
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg",ช่อง LOTUS MACAU
-http://27.254.130.62/feed/LC41/index.m3u8
+http://61.19.242.134/feed/202105171329/LC41/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png/revision/latest/scale-to-width-down/250?cb=20130503215946",ช่อง MOVIE MIX
 https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
@@ -4053,6 +4053,18 @@ http://203.159.95.172:8081/live/banner0003/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1IdnrEw5CIzoZqyAz7wJvgICH5m9fVfSZ",ช่อง MOVIE 3
 http://203.159.95.172:8081/live/comedy1/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1Fh-An-gMyCgZUB8Lf9Mxn4QpKAfuj-Yw",ช่อง ACTION HOLLYWOOD
+http://203.154.177.124:8899/live/ch7/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://docs.google.com/uc?export=download&id=18LPqIiOPUPs_4-xbYPusZFBUYtx2MlMu",ช่อง COCKFIGHT
+http://st.livestations.tv/hls_480/00-cockfight.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://docs.google.com/uc?export=download&id=1811mErHDiNXwcmS0qLuTZpISoQNI6za2",ช่อง STREETFIGHT
+http://st.livestations.tv/hls_480/00-streetfight.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png",ช่อง FIGHT BOX
+http://203.154.177.124:8899/live/ch4/playlist.m3u8
 
 
 
