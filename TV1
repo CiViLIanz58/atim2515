@@ -4057,6 +4057,9 @@ http://203.159.95.172:8081/live/banner0003/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1IdnrEw5CIzoZqyAz7wJvgICH5m9fVfSZ",ช่อง MOVIE 3
 http://203.159.95.172:8081/live/comedy1/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1IdnrEw5CIzoZqyAz7wJvgICH5m9fVfSZ",ช่อง MOVIE 3
+https://moviektu.com/Cool/playlist.m3u8
+
 
 
 
