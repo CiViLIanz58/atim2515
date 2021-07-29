@@ -4030,15 +4030,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg",ช่อง STUDIO UNIVERSAL
 https://adictosalatele.com/studio-universal-en-vivo-online-gratis/
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",ช่อง STAR MOVIES
-https://link.zozotv.xyz/Freemium1/unlimited99/299, "userAgent": "golive.tv/1.2.3 (Linux;Android 10) ExoPlayerLib/2.8.4"
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg",ช่อง STAR MOVIES SELECT
-https://link.zozotv.xyz/Freemium1/unlimited99/300, "userAgent": "golive.tv/1.2.3 (Linux;Android 10) ExoPlayerLib/2.8.4"
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",ช่อง SONY PIX
-https://link.zozotv.xyz/Freemium1/unlimited99/298, "userAgent": "golive.tv/1.2.3 (Linux;Android 10) ExoPlayerLib/2.8.4"
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png",ช่อง REELZ
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/1280x720_5000000/index.m3u8
 
@@ -4049,14 +4040,6 @@ userAgent : ProPlayer
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1r9oMU_C9BqMHJpHwrCnGgL_o3egbt1qd",ช่อง H-CHANNEL
 http://159.192.73.198:1072/hchannel
 userAgent : MXPlayer/1.36.11 (Linux; Android 10; th-TH; Mi MIX 2S Build/QKQ1.190828.002 test-keys)
-
-#EXTINF:-1 group-title="MOVIES & SERIES" "name": "3BB-ASIAN","image":"https://docs.google.com/uc?export=download&id=1H3PeeMuJ2N8Mko8uyS-rw0YEsLZMh5Sh","url": "https://dogtoop.com:8443/live/skysportnfl/s1/128.ts" ,"userAgent": "ExoPlayerLib/2.8.4"
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1HDd6jm6Syxz9KnJTjM84bX4bye5wQoTj",ช่อง คูล ชาแนล
-https://moviektu.com/Cool/playlist.m3u8, "userAgent": "ProPlayer"
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1xZ-BTmUE__m_551MCRTFg8qJrx4a8ciH",ช่อง MONO PLUS
-https://dogtoop.com:8443/live/natgeowild/101/30.ts, "userAgent": "ExoPlayerLib/2.8.4"
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://docs.google.com/uc?export=download&id=1HSEDCH4Orydj5NSYk0UAHZgrHEs1D_SP",ช่อง มวลชน ทีวี
 https://live1.thaitvstream.com/play/mounchontv/index.m3u8
@@ -4076,8 +4059,7 @@ http://203.159.95.172:8081/live/banner0003/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1IdnrEw5CIzoZqyAz7wJvgICH5m9fVfSZ",ช่อง MOVIE 3
 http://203.159.95.172:8081/live/comedy1/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1IdnrEw5CIzoZqyAz7wJvgICH5m9fVfSZ",ช่อง MOVIE 3
-http://203.159.95.172:8081/live/comedy1/playlist.m3u8
+
 
 
 
