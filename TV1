@@ -2829,10 +2829,10 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png",ช่อง MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.ksaon.com/wp-content/uploads/2020/03/12.jpg",ช่อง MBC Drama KSA
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://television-live.com/uploads/posts/vhrhrherher.png",ช่อง MBC Drama KSA
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.ksaon.com/wp-content/uploads/2020/03/12.jpg",ช่อง MBC Drama USA
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://television-live.com/uploads/posts/vhrhrherher.png",ช่อง MBC Drama USA
 https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://static.tuneyou.com/images/logos/500_500/80/7880/MBCFM103.0.png",ช่อง MBC FM
