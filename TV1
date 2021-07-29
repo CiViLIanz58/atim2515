@@ -4044,7 +4044,7 @@ userAgent : MXPlayer/1.36.11 (Linux; Android 10; th-TH; Mi MIX 2S Build/QKQ1.190
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://docs.google.com/uc?export=download&id=1HSEDCH4Orydj5NSYk0UAHZgrHEs1D_SP",ช่อง มวลชน ทีวี
 https://live1.thaitvstream.com/play/mounchontv/index.m3u8
 
-#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://docs.google.com/uc?export=download&id=1HWnXPExevp1Qt2RUPs9kViFJlCN7bynC",ช่อง M2
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1HWnXPExevp1Qt2RUPs9kViFJlCN7bynC",ช่อง M2
 https://cdn6.goprimetime.info/feed/202105171329/LC24/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=15pABxVVc5XUriFGXVwtp6MadWSDQI8zW",ช่อง PING
