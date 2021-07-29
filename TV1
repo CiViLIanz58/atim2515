@@ -4050,8 +4050,7 @@ userAgent : ProPlayer
 http://159.192.73.198:1072/hchannel
 userAgent : MXPlayer/1.36.11 (Linux; Android 10; th-TH; Mi MIX 2S Build/QKQ1.190828.002 test-keys)
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1H3PeeMuJ2N8Mko8uyS-rw0YEsLZMh5Sh",ช่อง 3BB-ASIAN
-https://dogtoop.com:8443/live/skysportnfl/s1/128.ts, "userAgent": "ExoPlayerLib/2.8.4"
+#EXTINF:-1 group-title="MOVIES & SERIES"{"name": "3BB-ASIAN","image":"https://docs.google.com/uc?export=download&id=1H3PeeMuJ2N8Mko8uyS-rw0YEsLZMh5Sh","url": "https://dogtoop.com:8443/live/skysportnfl/s1/128.ts" ,"userAgent": "ExoPlayerLib/2.8.4"},
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1HDd6jm6Syxz9KnJTjM84bX4bye5wQoTj",ช่อง คูล ชาแนล
 https://moviektu.com/Cool/playlist.m3u8, "userAgent": "ProPlayer"
@@ -4077,8 +4076,7 @@ http://203.159.95.172:8081/live/banner0003/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1IdnrEw5CIzoZqyAz7wJvgICH5m9fVfSZ",ช่อง MOVIE 3
 http://203.159.95.172:8081/live/comedy1/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1IdnrEw5CIzoZqyAz7wJvgICH5m9fVfSZ",ช่อง MOVIE 3
-http://203.159.95.172:8081/live/comedy1/playlist.m3u8
+
 
 
 
