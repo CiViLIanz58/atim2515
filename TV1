@@ -4010,6 +4010,18 @@ https://www.doofootball.com/dootv/live/astrosupersport4#main_dootv
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.doofootball.com/dootv/live/lfctv#main_dootv",ช่อง LFC TV
 https://www.doofootball.com/dootv/live/lfctv#main_dootv
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRp2fOqbWyldRNyGQL1Um5MOQFm1E5c6lT7EX5_KsMHGmMy8VIHultpPdoysN3d0MV2zs&usqp=CAU",ช่อง TVB J2
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://images2.wikia.nocookie.net/__cb20120913123458/evchk/images/d/d2/TVB_Pearl.png",ช่อง TVB PEARL
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.wiseknow.com/wp-content/uploads/2020/08/viutv_logo1.png",ช่อง VIU TV
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg",ช่อง VIU TV SIX
+http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+
 
 
 
