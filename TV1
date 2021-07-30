@@ -696,9 +696,6 @@ http://redlabmcdn.s.llnwi.net/jp04/ryowa2hd/playlist.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",ช่อง NHK Eテレ
 http://redlabmcdn.s.llnwi.net/jp04/ryowa1hd/playlist.m3u8
 
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://japan-programcatalog.com/japacon/open/open-sales-company!image?tsid=128&imageNumber=1&id=2",ช่อง Hiroshima TV
-https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://inboundnavi.jp/wp-content/uploads/2016/04/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93-%E3%83%AD%E3%82%B4.png",ช่อง フジテレビ
 https://redlabmcdn.s.llnwi.net/jp04/ryowa7hd/playlist.m3u8
 
@@ -837,14 +834,8 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://s3.spbtv.com/spbtv-world-production/51871e0498c3e562504b.png",ช่อง Jenny Live 2
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429",ช่อง TVB Jade
-https://cdn.hkdtmb.com/hls/81/index.m3u8
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61NCqJJIrUL.png",ช่อง Encore TVB
 https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://static.viu.tv/viutv_logo.png",ช่อง viuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",ช่อง RTHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
@@ -1410,9 +1401,6 @@ https://siamtv88.co/index.php?a=live_details&channel_code=th-celestial
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/09_Celestial_Classic_Movies.png",ช่อง CCM (CHINESE)
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg",ช่อง LOTUS MACAU
-http://61.19.242.134/feed/202105171329/LC41/index.m3u8
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png/revision/latest/scale-to-width-down/250?cb=20130503215946",ช่อง MOVIE MIX
 https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 
@@ -1568,9 +1556,6 @@ https://www.nettvpro.live/en/play.php?aid=5803
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="http://www.btn.co.kr/images/main/fs_05.jpg",ช่อง BTN TV
 https://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
-
-#EXTINF:-1 group-title="JAPAN TV" tvg-logo="data:image/jpeg;base64,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",ช่อง Anibox TV
-https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20181226/c3df2d6f08094e8da980d7a935f0fa10.jpeg",ช่อง NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -2970,9 +2955,6 @@ http://player.teleon.tv/us/channel/paramount-us
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbq_5sbRBagR5pNzKGN1dH4YyZQSFMtyte_-vAWLbBEIBE07jcTZphIBsNTEEyWssn2TE&usqp=CAU",ช่อง 耀才財經台
 https://www.nettvpro.live/en/play.php?aid=807
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3a/HKIBC_logo.png",ช่อง 香港國際財經台
-https://www.nettvpro.live/en/play.php?aid=391
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/91/Creation-tv_logo.png",ช่อง 香港創世電視
 https://www.nettvpro.live/en/play.php?aid=1651
 
@@ -3795,17 +3777,6 @@ rtmp://ivi.bupt.edu.cn/livetv/fhdy
 rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 #http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://images2.wikia.nocookie.net/__cb20120913123458/evchk/images/d/d2/TVB_Pearl.png",ช่อง TVB Pearl 
-#http://61.238.6.49:8001/bysid/2
-https://cdn.hkdtmb.com/hls/84/index.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/400px-ViuTVsix-logo.svg.png",ช่อง ViuTVsix
-#http://61.238.6.49:8000/bysid/96
-https://cdn.hkdtmb.com/hls/96/index.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/225px-RTHK_TV_33.svg.png",ช่อง RTHK33
-https://cdn.hkdtmb.com/hls/33/index.m3u8
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://news.now.com/revamp2014/images/logo.png",ช่อง Now新聞
 #http://teslagram.com/live/channel_332.m3u8
 http://livetv.dnsfor.me:80/channel.4.m3u8
@@ -3816,15 +3787,6 @@ http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png",ช่อง 有線18台
 #rtmp://59.124.75.130/sat/hk042
 rtmp://161.202.204.248:1935/sat/hk042
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg",ช่อง TVB 无线财经
-https://cdn.hkdtmb.com/hls/85/index.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRp2fOqbWyldRNyGQL1Um5MOQFm1E5c6lT7EX5_KsMHGmMy8VIHultpPdoysN3d0MV2zs&usqp=CAU",ช่อง TVB J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://www.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg",ช่อง TVB News
-https://cdn.hkdtmb.com/hls/83/index.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://blog.kakaocdn.net/dn/bpKQvB/btqD1q0BJj0/w3Vv2BKKJr8KAx031PuvOk/img.jpg",ช่อง KBC 광주방송
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
@@ -3990,36 +3952,6 @@ https://www.doofootball.com/dootv/live/olympic15#main_dootv
 
 #EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1IH2WLGKgHNBKJW_ceP6XOVFVaLhVn08H",ช่อง OLYMPIC 16
 https://www.doofootball.com/dootv/live/olympic16#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1KtsftSHiBvBJDHh2HpMzuOUM6DfFNAxq",ช่อง ASTRO OLYMPIC 1
-https://link.zozotv.xyz/Freemium1/unlimited99/318
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1KtsftSHiBvBJDHh2HpMzuOUM6DfFNAxq",ช่อง ASTRO OLYMPIC 2
-https://link.zozotv.xyz/Freemium1/unlimited99/319
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1KtsftSHiBvBJDHh2HpMzuOUM6DfFNAxq",ช่อง ASTRO OLYMPIC 3
-https://link.zozotv.xyz/Freemium1/unlimited99/320
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1KtsftSHiBvBJDHh2HpMzuOUM6DfFNAxq",ช่อง ASTRO OLYMPIC 4
-https://link.zozotv.xyz/Freemium1/unlimited99/321
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1KtsftSHiBvBJDHh2HpMzuOUM6DfFNAxq",ช่อง ASTRO OLYMPIC 5
-https://link.zozotv.xyz/Freemium1/unlimited99/322
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1KtsftSHiBvBJDHh2HpMzuOUM6DfFNAxq",ช่อง ASTRO OLYMPIC 6
-https://link.zozotv.xyz/Freemium1/unlimited99/323
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1KtsftSHiBvBJDHh2HpMzuOUM6DfFNAxq",ช่อง ASTRO OLYMPIC 7
-https://link.zozotv.xyz/Freemium1/unlimited99/324
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1KtsftSHiBvBJDHh2HpMzuOUM6DfFNAxq",ช่อง ASTRO OLYMPIC 8
-https://link.zozotv.xyz/Freemium1/unlimited99/325
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1KtsftSHiBvBJDHh2HpMzuOUM6DfFNAxq",ช่อง ASTRO OLYMPIC 9
-https://link.zozotv.xyz/Freemium1/unlimited99/326
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1KtsftSHiBvBJDHh2HpMzuOUM6DfFNAxq",ช่อง ASTRO OLYMPIC 10
-https://link.zozotv.xyz/Freemium1/unlimited99/327
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2016/10/epix-e1476752749143.jpg",ช่อง EPIX
 http://51.79.82.231:8080/US_EPIX_USA/video.m3u8
