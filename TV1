@@ -4038,6 +4038,9 @@ http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT0sTjIHTwauGGe3klRYrmN301gLL_X5nVoDNd3Ig=s900-c-k-c0x00ffffff-no-rj",ช่อง 東網直播1台
 https://streamw-az-news3.on.cc/video/playlist720p.m3u8
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg",ช่อง LOTUS MACAU
+https://www.nettvpro.live/en/play.php?aid=612
+
 
 
 
