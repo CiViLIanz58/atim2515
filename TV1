@@ -1212,7 +1212,7 @@ https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/American-Horrors-1280x720-1.jpg",ช่อง American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.234.in.th/images/2021/03/04/a88.png",ช่อง EURO SPORT 1 UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-uk-eurosport-1-88.png",ช่อง EURO SPORT 1 UK
 https://siamtv88.co/index.php?a=live_details&channel_code=uk-eurosport
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qx7Nuz-mrSd1vEjIjoDpPlmY2cMDfbIwSS9smxQWLTihqfbcz6U26XC9OaysENj5FZ0&usqp=CAU",ช่อง Fighting Spirit
@@ -2982,7 +2982,7 @@ https://www.nettvpro.live/en/play.php?aid=11
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://twg.skyking.com.tw/skyking/uploaded/42d34024b6b742f6a98a32dc02fefa76.png",ช่อง 世界電視台
 https://www.nettvpro.live/en/play.php?aid=9122
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.suchaoren.com/2021/01/3cc7f4219c83f84883bf54a23c3a5ed0.jpeg",ช่อง 大愛二臺
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://s3.hicloud.net.tw/daaiapp/images/ch3.jpg",ช่อง 大愛二臺
 https://www.nettvpro.live/en/play.php?aid=4063
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://s3.hicloud.net.tw/daaiapp/images/ch1.jpg",ช่อง 大愛一臺
