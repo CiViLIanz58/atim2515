@@ -4041,8 +4041,8 @@ https://streamw-az-news3.on.cc/video/playlist720p.m3u8
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg",ช่อง LOTUS MACAU
 https://www.nettvpro.live/en/play.php?aid=612
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.coolstreaming.us/img/ch/image41349504609.jpg",ช่อง HQM Remember
-https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://image.roku.com/developer_channels/prod/ffdf653a4b63ebefd17dce105d64e301ef0b8b0f8ba0932558d8774092c23042.png",ช่อง The Grapevine
+https://ov.ottera.tv/live/master.m3u8?channel=mcom_gv_us
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://thetechzone.online/wp-content/uploads/2021/04/Classic-Anime-Garfield-Tuning-and-VH1-Classics-channels-May-Pluto.jpg",ช่อง Pluto TV FBI Files
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -4086,6 +4086,8 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://s3.eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2013/10/FINAL_LOGO_THE_BOX-1002x708.jpg",ช่อง The Box
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/950a41baf693c7cfc38eebfe2cdc1773c43d5984bcfefe48d94ccdc2d36399cf.png",ช่อง Thrillerz
+https://simultv.s.llnwi.net/o059/Thrillerz/interlink.m3u8
 
 
 
