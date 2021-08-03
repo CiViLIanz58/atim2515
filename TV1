@@ -4062,7 +4062,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f27bbe47
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/media/E11uey6UYAYOtri.jpg",ช่อง Pluto TV Glory Kickboxing
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lh3.googleusercontent.com/proxy/-3JBQnz-fTIGhN-re5Be188H_iclgRgH6Z3sepENASca2qXr2mLWIQVmlTasXql5prdBAneFnc6-sVPk2LlmY6a9UG92zNSCD5SvdX9vmrsIaaTbwSV57Dy6T4HGb8IaJ1tRSuiFodGtHJqI",ช่อง Pluto TV Paranormal England
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://jrsy.tmsimg.com/assets/p18361940_st_h6_aa.jpg",ช่อง Pluto TV Paranormal England
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=216&deviceId=5d4af2ffa9506ab29cf38c38&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://thetechzone.online/wp-content/uploads/2021/04/Classic-Anime-Garfield-Tuning-and-VH1-Classics-channels-May-Pluto.jpg",ช่อง Pluto TV Police Women
