@@ -4089,6 +4089,18 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/950a41baf693c7cfc38eebfe2cdc1773c43d5984bcfefe48d94ccdc2d36399cf.png",ช่อง Thrillerz
 https://simultv.s.llnwi.net/o059/Thrillerz/interlink.m3u8
 
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZG422936.jpg",ช่อง TVB J2
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-news.jpg",ช่อง TVB NEWS
+http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://images2.wikia.nocookie.net/__cb20120913123458/evchk/images/d/d2/TVB_Pearl.png",ช่อง TVB Pearl
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+
+#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg",ช่อง TVB Finance & Information
+http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+
 
 
 
