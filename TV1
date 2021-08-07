@@ -4137,6 +4137,17 @@ https://radio.tvjaa.com/musichitzinter
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://www.tvjaa.com/storage/radio-channels/ondiothainew.png",ช่อง ONDIO เพลงไทยสากลใหม่ 
 https://radio.tvjaa.com/ondiothainew
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1T--4jsQlGV6lWYK4FWL3CQuEoAqvkF9c",ช่อง TAYARNFLIX
+http://st.livestations.tv/playlist_tayarnflix.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1IYYl1shwB80zFThXmV-4OsAJxL75hmon",ช่อง I-MOVIE
+http://116.204.181.238:9981/stream/service/7e087eae9350d166511c1f3ca20f2e3e
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1IL3F8c8n-jKuVDX4V5MT7RwuncRonSDR",ช่อง SAT-ASIA
+http://116.204.181.238:9981/stream/service/060256b3e68c563b4439aa73261a0619
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://docs.google.com/uc?export=download&id=17I-Erpu5idn2TFss85QXPjy-Hsp7O4ov",ช่อง HI NEWS
+http://203.154.243.89:4555/got/hinews
 
 
 
