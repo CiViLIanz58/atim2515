@@ -2106,7 +2106,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x43
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://tv2club.com/wp-content/uploads/2020/10/wp-1493061837818.jpg",ช่อง Afrobeats 24/7
 https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://blog.lcotiv.com/i/90235226002.png",ช่อง Amuse Animation
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wixstatic.com/media/45dcd0_3bc0967d31eb4530ae9835e194315987~mv2.jpg/v1/fill/w_400,h_400,al_c,lg_1,q_80/427707-5a15929449305.webp",ช่อง Amuse Animation
 https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2016/09/26/AquaTeenHungerForce.png",ช่อง Aqua Teen Hunger Force from Adult Swim
@@ -3519,7 +3519,7 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imageresizer.static9.net.au/HDSeR58oE6Ia1CVL3vGcKvTSaYo=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png",ช่อง GO TV
 https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://drive.google.com/uc?export=download&id=1ftzzpzSi-Onp7NFDtCwEF-ZEvTI2lRP-",ช่อง LIVE X LIVE TV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://cdn.livexlive.com/s=3.1.450/images/logos/LXL-Logo-Color-Social.png",ช่อง LIVE X LIVE TV
 https://livexlive2.akamaized.net/hls/live/2013184/linear_1/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://media.cptv.org/wp-content/uploads/2018/11/logo-spirit1.png",ช่อง SPIRIT
