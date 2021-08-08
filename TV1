@@ -691,13 +691,13 @@ https://ntv1.mov3.co/hls/ntv.m3u8
 https://redlabmcdn.s.llnwi.net/jp04/ryowa4hd/playlist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/1-NHK-General-TV-1.jpg",ช่อง NHK General TV
-http://redlabmcdn.s.llnwi.net/jp04/ryowa2hd/playlist.m3u8
+https://nhk.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",ช่อง NHK Eテレ
 http://1.179.247.11:1935/jptv/kanto_nhk_edu_540/chunklist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://inboundnavi.jp/wp-content/uploads/2016/04/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93-%E3%83%AD%E3%82%B4.png",ช่อง フジテレビ
-https://redlabmcdn.s.llnwi.net/jp04/ryowa7hd/playlist.m3u8
+https://fujitv.mov3.co/hls/fujitv.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png",ช่อง Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w66921402.m3u8
@@ -715,7 +715,7 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg",ช่อง TOKYO MX1
-http://redlabmcdn.s.llnwi.net/jp04/ryowa8hd/playlist.m3u8
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/jp-gstv-7333.jpg",ช่อง GSTV
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1577692335_b1628000.m3u8
@@ -3867,7 +3867,7 @@ http://188.40.68.167/russia/mtv_hits/playlist.m3u8
 http://190.61.37.173:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pm1.narvii.com/6407/6e1e57d4050dbb922e177bf07f3ba9ef23ae497e_hq.jpg",ช่อง TBS
-http://redlabmcdn.s.llnwi.net/jp04/ryowa5hd/playlist.m3u8
+https://tbs.mov3.co/hls/tbs.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.diario26.com/images/musictop_logo.png?3",ช่อง MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
