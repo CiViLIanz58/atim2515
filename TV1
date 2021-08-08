@@ -3881,9 +3881,6 @@ https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i2.wp.com/assets.tvplayer.com/common/logos/256/Colour/226.png",ช่อง NOW 90s
 https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tonkit360.com/wp-content/uploads/2020/01/olympic-2020-japan.jpg",ช่อง Olympic 2020 TV
-http://iplaytv.ddns.net:25461/live/iplayweb/streamweb/5710.m3u8
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/media/CzKfEPdUQAA3Qgh.jpg",ช่อง Wellness mark TV
 https://cdn-th-vip.livestreaming.in.th/wizard/wizard/playlist.m3u8
 
@@ -3904,54 +3901,6 @@ http://116.204.181.238:9981/stream/service/95db8192fc9437c45c15db29635dfef9
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ZxP9j-Hdttle8Um-XP80n6kV5ms2oE__Og&usqp=CAU",ช่อง SERIES+
 http://116.204.181.238:9981/stream/service/e02c8ed4fd8bdf28db94655beecd438f
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1HW4mFcN4h61uPfa3z9Lj9HL-uNKMwWfi",ช่อง OLYMPIC 1
-https://www.doofootball.com/dootv/live/olympic1#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1HZUc1m9_gXyhIoxZ3pU6gIrCIef6Jd4M",ช่อง OLYMPIC 2
-https://www.doofootball.com/dootv/live/olympic2#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1HbIe1Z4JYm4YwJt7EnIZzHsGPaq-qv8W",ช่อง OLYMPIC 3
-https://www.doofootball.com/dootv/live/olympic3#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1HeoOAqswzBD_m4iI0RJIaOXcNuNz6fke",ช่อง OLYMPIC 4
-https://www.doofootball.com/dootv/live/olympic4#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1Hgl5XxBlYFqLvKHKDa_yrgMFPoCh6fk7",ช่อง OLYMPIC 5
-https://www.doofootball.com/dootv/live/olympic5#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1HjederBwm2jgmDBSGQ9UTh6j4s6X5vRx",ช่อง OLYMPIC 6
-https://www.doofootball.com/dootv/live/olympic6#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1Hk1Ay8Snk1po9qfykUAB2mzSRq8l2j8h",ช่อง OLYMPIC 7
-https://www.doofootball.com/dootv/live/olympic7#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1HlU78gqDNvWtCC7LZN2qxoGH5qvJ5dDY",ช่อง OLYMPIC 8
-https://www.doofootball.com/dootv/live/olympic8#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1HnzuQYDZt6BvrRCFd2Vqd1t2fCXcNVTm",ช่อง OLYMPIC 9
-https://www.doofootball.com/dootv/live/olympic9#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1HoKi-INfsvzT3L8x5mnxZB5fegrrBo2K",ช่อง OLYMPIC 10
-https://www.doofootball.com/dootv/live/olympic10#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1Hyumz4TTEv7WyrI2TRbbNC7Qt9c89BMh",ช่อง OLYMPIC 11
-https://www.doofootball.com/dootv/live/olympic11#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1IA7P01-F9ltyDtV6Ua4b2wSSASAmenP-",ช่อง OLYMPIC 12
-https://www.doofootball.com/dootv/live/olympic12#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1ICl32re1jF89WPGMT7t0DJahuaeWcAbK",ช่อง OLYMPIC 13
-https://www.doofootball.com/dootv/live/olympic13#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1IELAt55VyLslnCuQMN6l3SEzj5jUNaWt",ช่อง OLYMPIC 14
-https://www.doofootball.com/dootv/live/olympic14#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1HVpMX1_fC70tEqTG_NYKXl-onF1hDX5V",ช่อง OLYMPIC 15
-https://www.doofootball.com/dootv/live/olympic15#main_dootv
-
-#EXTINF:-1 group-title="OLYMPIC 2020" tvg-logo="https://docs.google.com/uc?export=download&id=1IH2WLGKgHNBKJW_ceP6XOVFVaLhVn08H",ช่อง OLYMPIC 16
-https://www.doofootball.com/dootv/live/olympic16#main_dootv
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2016/10/epix-e1476752749143.jpg",ช่อง EPIX
 http://51.79.82.231:8080/US_EPIX_USA/video.m3u8
@@ -4148,6 +4097,39 @@ http://116.204.181.238:9981/stream/service/060256b3e68c563b4439aa73261a0619
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://docs.google.com/uc?export=download&id=17I-Erpu5idn2TFss85QXPjy-Hsp7O4ov",ช่อง HI NEWS
 http://203.154.243.89:4555/got/hinews
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://docs.google.com/uc?export=download&id=1SrQsAGf1FFpkiF5HKx6vYSNoHuC3BDU0",ช่อง เลขTV
+http://st.livestations.tv/playlist_lottotoday.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://docs.google.com/uc?export=download&id=1SycdjzALgFNW5YdoakD5CFAXFkN7zgCH",ช่อง WARP TV
+http://st.livestations.tv/playlist_warptv.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://docs.google.com/uc?export=download&id=1xFWeuqRg5wllKTkAwzn_QEjgrvcA3tdj",ช่อง WORLD WTB
+http://203.154.243.32:8088/live/wtb/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://docs.google.com/uc?export=download&id=150m-A-sb_w0BiSAh2e4fNVZrTT1mXSqj",ช่อง WORLD SNOOKER
+http://916309128f3e.sn.mynetname.net:1935/aslive/supersport3/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://docs.google.com/uc?export=download&id=1PW9N_SwrvmoZscouzPrcaoPgWSQKTV8r",ช่อง GOLF NBC
+http://203.154.243.89:11208
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://docs.google.com/uc?export=download&id=1QKYGQ6zRS6GxbNu8Yc0XCltCEepGHE3T",ช่อง SBS GOLF
+http://sbss.love.sky-media.tk/index.php?id=S05
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://docs.google.com/uc?export=download&id=1QXF27CEkQa8aNe88KJ8LWcucDvjDNpJN",ช่อง MOSTVIDEO TV
+http://w4.mostvideo.tv/tv/ch1.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://docs.google.com/uc?export=download&id=1R7n_TwLByk7i9q1tSx8tYlbP-xaNAL2d",ช่อง HI HD Sport
+http://203.154.243.31:8081/live/hisport/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://docs.google.com/uc?export=download&id=1RktKLzDLCrKktMcN6AHZoVAvJaBj7ynv",ช่อง TOP FIGHT
+http://203.154.243.32:8088/live/topfight/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://docs.google.com/uc?export=download&id=1TLoev3gYWQmDlCK7i0GgrzGDfCvbKgrS",ช่อง XSPORT
+http://xsport-hls2.cosmonova.net.ua/hls/xsport_ua_mid/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://docs.google.com/uc?export=download&id=1TVU5iJMv_gfvNAag1V4IT1HxJc-wiCaN",ช่อง MU TV
+https://siamtv88.co/index.php?a=live_details&channel_code=uk-mutv
 
 
 
