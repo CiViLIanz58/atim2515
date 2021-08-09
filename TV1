@@ -634,7 +634,7 @@ http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://pbs.twimg.com/media/C7WZesmVAAErlVt.jpg",ช่อง アニマックス
-http://27.254.130.62/feed/LC38/playlist.m3u8
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_n03.png",ช่อง Nippon TV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
