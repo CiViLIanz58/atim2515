@@ -4158,14 +4158,7 @@ http://balancer1.iptvmx.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1OA00g-O1AkaxFnp-uCfh4_mQt23EWcvp",ช่อง SONY PIX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1H3PeeMuJ2N8Mko8uyS-rw0YEsLZMh5Sh",ช่อง 3BB-ASIAN
-https://dogtoop.com:8443/live/skysportnfl/s1/128.ts
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1xZ-BTmUE__m_551MCRTFg8qJrx4a8ciH",ช่อง MONO PLUS
-https://dogtoop.com:8443/live/skynethd/2/3366.ts
-
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1HWnXPExevp1Qt2RUPs9kViFJlCN7bynC",ช่อง M2
-https://cdn6.goprimetime.info/feed/202105171329/LC24/index.m3u8
 
 
 
