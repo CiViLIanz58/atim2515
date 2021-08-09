@@ -4122,6 +4122,36 @@ http://xsport-hls2.cosmonova.net.ua/hls/xsport_ua_mid/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://docs.google.com/uc?export=download&id=1TVU5iJMv_gfvNAag1V4IT1HxJc-wiCaN",ช่อง MU TV
 https://siamtv88.co/index.php?a=live_details&channel_code=uk-mutv
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1WN1SXZfgHvmz-FT1crTTLnPOgQi9UPkN",ช่อง THAI NEWS
+https://live.thaitvstream.com/play/thainews/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1WK0xBnViGi14V4EtG_-KWuK-kG25C-bx",ช่อง SMN
+https://live.thaitvstream.com/play/smn/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1WK0xBnViGi14V4EtG_-KWuK-kG25C-bx",ช่อง SMN
+https://live.thaitvstream.com/play/smn/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1XksHh_D6v4MmvOav660kD5PGfZLbOI0D",ช่อง SRTV
+https://live1.thaitvstream.com/play/srtvonline/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1WUN971o12P1Oixpk0qbI-QX5oOm0a0-c",ช่อง PTV
+https://live.thaitvstream.com/play/phetchabuntv/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1X-XoDk4gvLyY95F-sKtgHDy-lj7M5jjc",ช่อง MEDIANEWS
+https://live1.thaitvstream.com/play/medianews/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1WvH-4-AhUbApkJmKaQm8tbBZrfij0YCW",ช่อง AND
+https://live.thaitvstream.com/play/andtv/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1VZlLDg7LHTAOmIXbNlvh2ttGkJS8uqUt",ช่อง SKY
+http://livetv.ddns.me:8088/live/boom@skynet/123456/398.ts
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1CbjsrxD59tATUFwt6-ThTlJ35FsX_qMG",ช่อง STAR CHINESE
+http://203.154.243.88:18008/mss1/scm
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://docs.google.com/uc?export=download&id=1Ve18SNHd0sFhUKQ7Fplnc6V3BXTl9ybE",ช่อง MIX TV
+http://freelive2.inwstream.com:1935/freelive-edge/mixtv.stream/playlist.m3u8
+
 
 
 
