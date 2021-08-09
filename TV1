@@ -4128,9 +4128,6 @@ https://live.thaitvstream.com/play/thainews/index.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1WK0xBnViGi14V4EtG_-KWuK-kG25C-bx",ช่อง SMN
 https://live.thaitvstream.com/play/smn/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1WK0xBnViGi14V4EtG_-KWuK-kG25C-bx",ช่อง SMN
-https://live.thaitvstream.com/play/smn/index.m3u8
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1XksHh_D6v4MmvOav660kD5PGfZLbOI0D",ช่อง SRTV
 https://live1.thaitvstream.com/play/srtvonline/index.m3u8
 
