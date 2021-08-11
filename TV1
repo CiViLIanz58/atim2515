@@ -2490,9 +2490,6 @@ https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/ccddaf02_1_1728/chu
 #EXTINF:-1 group-title="SHOPPING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/JewelleryMaker_new_logo.jpg",ช่อง Jewellery Maker
 https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Jiangsu_Broadcasting_Corporation_Logo.png",ช่อง Jiangsu Television
-http://ivi.bupt.edu.cn/hls/jstv.m3u8
-
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.themusic.co.nz/images/57144/juicetv.jpg",ช่อง Juice TV
 https://i.mjh.nz/nz/tv.juice.m3u8
 
@@ -3254,9 +3251,6 @@ https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F0a2a9b78ab4298f895e43d5e4e71b4ad5fe80bc52a1e9f427978ea8514a5d0cf.jpg",ช่อง PursuitUP
 https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/74/32/bc/7432bc45-778b-f625-2825-c68625882e7f/mzl.vzxhsxcj.png/0x0ss-85.jpg",ช่อง BesTV超级HD
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://www.tvchinese.net/uploads/tv/sdetv.jpg",ช่อง SDETV
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
