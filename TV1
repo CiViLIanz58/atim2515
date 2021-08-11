@@ -1551,9 +1551,6 @@ http://livestream.nsmall.com:1935/IPHONE/nsmallMobile.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CTS%EA%B8%B0%EB%8F%85%EA%B5%90TV.png",ช่อง CTS기독교TV
 https://www.nettvpro.live/en/play.php?aid=1592
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live.nkt.tv/public/files/shows/0/1/635-640x360-000000.jpg",ช่อง LLBN Korean
-https://www.nettvpro.live/en/play.php?aid=5803
-
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="http://www.btn.co.kr/images/main/fs_05.jpg",ช่อง BTN TV
 https://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
 
@@ -3794,9 +3791,6 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-tv-work-net-8165.jpg",ช่อง TVWorkNet
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://m.cpbc.co.kr/images/main_logo.png",ช่อง CPBC
-https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
-
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png",ช่อง Filmon 1
 https://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 
@@ -4167,21 +4161,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://lh3.googleusercontent.com/proxy/XRd7tFZwiXTDVULfg9Fh8xh2xchDNEyACaTjQv1fD8ZccKXOee6_1eX6VT6bL9PMHFV9LYNWu-LiBA",ช่อง 广东体育
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=08&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="http://www.tvyan.com/uploads/dianshi/dongfang.jpg",ช่อง 东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/dongfangstv/index.m3u8
-
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://img.meituan.net/csc/a3c12a0fa7752dff00f92856cfd2fb3c16995.jpg",ช่อง 内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/playlist.m3u8
 #http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/neimenggustv/index.m3u8
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="http://www.ijizhi.com/img/UploadFile/201112515747511.jpg",ช่อง 天津卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-#http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/tianjinstv/index.m3u8
-
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Shanxi_Television.png",ช่อง 山西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-#http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/shanxistv/index.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",ช่อง 江苏卫视
 http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
@@ -4191,12 +4173,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://img.isuper.tv/live-tv/cn-tv/sztv-live.jpg",ช่อง 深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/80/Qhtvlogo.jpg",ช่อง 青海卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-#http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/qinghaistv/index.m3u8
 
 
 
