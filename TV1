@@ -4158,8 +4158,20 @@ http://balancer1.iptvmx.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1OA00g-O1AkaxFnp-uCfh4_mQt23EWcvp",ช่อง SONY PIX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
 
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png",ช่อง CCTV-8电视剧
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/11/CCTV-9_Logo.png/400px-CCTV-9_Logo.png",ช่อง CCTV-9记录
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
 
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.shejihz.com/2020/05/66a55a94e9730dc0258612998beb628d.jpg",ช่อง CCTV-10科教
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225777/index.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png",ช่อง CCTV-11戏曲
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
+
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png",ช่อง CCTV-12社会与法
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
 
 
 
