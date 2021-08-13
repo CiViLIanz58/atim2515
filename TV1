@@ -4184,18 +4184,8 @@ rtmp://161.202.204.248:1935/sat/tv111
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://lh3.googleusercontent.com/proxy/jfq14_QK5xAbWmWwdSHLTVmyh9vCntaDDEfngiBtZ_vzMyZFfJECu6SMgdUoiWqR0RzujRXLB88r_RHrgaOriE6-_vYMZQ",ช่อง 台視
 #http://185.207.176.189:8080/channels/tw-503/mpeg.2ts
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://liveq.tv/liveq.tv/img/tw-%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.jpg",ช่อง 台視新聞
-#http://50.7.59.216:61980/myplay/cn_0_8815/index.m3u8?key=84797b799ae18d1b
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png",ช่อง 中视
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#http://50.7.59.216:61980/myplay/cn_0_8822/index.m3u8?key=84797b799ae18d1b
-
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLThey0bUr9Bimb8g-IdTR0Lo4rlXLO8nh-L_f_4_g=s900-c-k-c0x00ffffff-no-rj",ช่อง 中視新聞
 #http://185.207.176.189:8080/channels/tw-102/mpeg.2ts
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/cti-news-live.jpg",ช่อง 中天新聞
-http://seb.sason.top/sc/zsxw_fhd.m3u8
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://lh3.googleusercontent.com/proxy/Gj25yYMABKdaYAOmkkhxM0FffI5tIoR-VhoByw9PQqptc_GjEM-73SeISz8UHl3CzYup4LK2mBna-VLChO8RbmB6Flp9yTvnftkawJpuEv0DX50ZgtCvG4qr",ช่อง 緯來日本台
 rtmp://161.202.204.248:1935/sat/tv521
