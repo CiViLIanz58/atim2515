@@ -1,27 +1,5 @@
 #EXTM3U
  
- #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="TAIWAN",民視
-#rtmp://59.124.75.130/sat/tv051
-#rtmp://161.202.204.248:1935/sat/tv051
-#http://185.207.176.189:8080/channels/tw-300/mpeg.2ts
-http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRmBMYTIoiU4q80ByQtDKb7m_54xjRx7OZkQ&usqp=CAU" group-title="TAIWAN",民視旅游
-
-#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="TAIWAN",民視台湾
-#http://185.207.176.189:8080/channels/tw-302/mpeg.2ts
-http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0h-SZMFx5ZcnxnNFlKS0cNK11icRNUWGF_AwIjfyRaLEgfADUpW1E4TUVkfx5MVzUiCQU5EkcyaU0aDWAvUlI4/w1200" group-title="TAIWAN",民視綜藝
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1d/FTV_1st_logo_2017.jpg?1592748389112" group-title="TAIWAN",民視第一
-#http://185.207.176.189:8080/channels/tw-301/mpeg.2ts
-#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="TAIWAN",民視新聞
-#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-http://seb.sason.top/sc/msxw_fhd.m3u8
-#http://185.207.176.189:8080/channels/tw-302/mpeg.2ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="TAIWAN",華視
-#http://185.207.176.189:8080/channels/tw-501/mpeg.2ts
-rtmp://161.202.204.248:1935/sat/tv111
-#rtmp://59.124.75.130/sat/tv111
 #EXTINF:-1 tvg-logo="https://www.rightheart.org/wp-content/uploads/2017/05/52a9dabe9d00f.png" group-title="TAIWAN",華視新聞 
 http://seb.sason.top/sc/hsxw_fhd.m3u8
 
