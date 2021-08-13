@@ -4173,20 +4173,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png",ช่อง 華視
-#http://185.207.176.189:8080/channels/tw-501/mpeg.2ts
-rtmp://161.202.204.248:1935/sat/tv111
-#rtmp://59.124.75.130/sat/tv111
 
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://liveq.tv/liveq.tv/img/tw-%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.jpg",ช่อง 台視新聞
-#http://185.207.176.189:8080/channels/tw-503/mpeg.2ts
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLThey0bUr9Bimb8g-IdTR0Lo4rlXLO8nh-L_f_4_g=s900-c-k-c0x00ffffff-no-rj",ช่อง 中視新聞
-#http://185.207.176.189:8080/channels/tw-102/mpeg.2ts
-
-#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://lh3.googleusercontent.com/proxy/Gj25yYMABKdaYAOmkkhxM0FffI5tIoR-VhoByw9PQqptc_GjEM-73SeISz8UHl3CzYup4LK2mBna-VLChO8RbmB6Flp9yTvnftkawJpuEv0DX50ZgtCvG4qr",ช่อง 緯來日本台
-rtmp://161.202.204.248:1935/sat/tv521
-#rtmp://59.124.75.130/sat/tv521
 
 
 
