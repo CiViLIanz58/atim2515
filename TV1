@@ -4158,7 +4158,7 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3c/CCTV-17_Logo.png",ช่อง CCTV-17 农业农村
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://lh3.googleusercontent.com/proxy/XRd7tFZwiXTDVULfg9Fh8xh2xchDNEyACaTjQv1fD8ZccKXOee6_1eX6VT6bL9PMHFV9LYNWu-LiBA",ช่อง 广东体育
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://lh3.googleusercontent.com/proxy/cFtS_isWZ-oR3MqWNPodT5-TKGV7mApmTtkaOkJe3-C6xZtwqsUS56CMUB-rfKIWOIWSZL5nPXoIZQ",ช่อง 广东体育
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=08&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://img.meituan.net/csc/a3c12a0fa7752dff00f92856cfd2fb3c16995.jpg",ช่อง 内蒙古卫视
@@ -4173,6 +4173,36 @@ http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg",ช่อง FTV NEWS
+http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png",ช่อง 華視
+#http://185.207.176.189:8080/channels/tw-501/mpeg.2ts
+rtmp://161.202.204.248:1935/sat/tv111
+#rtmp://59.124.75.130/sat/tv111
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://lh3.googleusercontent.com/proxy/jfq14_QK5xAbWmWwdSHLTVmyh9vCntaDDEfngiBtZ_vzMyZFfJECu6SMgdUoiWqR0RzujRXLB88r_RHrgaOriE6-_vYMZQ",ช่อง 台視
+#http://185.207.176.189:8080/channels/tw-503/mpeg.2ts
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://liveq.tv/liveq.tv/img/tw-%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.jpg",ช่อง 台視新聞
+#http://50.7.59.216:61980/myplay/cn_0_8815/index.m3u8?key=84797b799ae18d1b
+#rtmp://59.124.75.130/sat/tv071
+rtmp://161.202.204.248:1935/sat/tv071
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png",ช่อง 中视
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#http://50.7.59.216:61980/myplay/cn_0_8822/index.m3u8?key=84797b799ae18d1b
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLThey0bUr9Bimb8g-IdTR0Lo4rlXLO8nh-L_f_4_g=s900-c-k-c0x00ffffff-no-rj",ช่อง 中視新聞
+#http://185.207.176.189:8080/channels/tw-102/mpeg.2ts
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/cti-news-live.jpg",ช่อง 中天新聞
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#http://185.207.176.189:8080/channels/tw-101/mpeg.2ts
+
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://lh3.googleusercontent.com/proxy/Gj25yYMABKdaYAOmkkhxM0FffI5tIoR-VhoByw9PQqptc_GjEM-73SeISz8UHl3CzYup4LK2mBna-VLChO8RbmB6Flp9yTvnftkawJpuEv0DX50ZgtCvG4qr",ช่อง 緯來日本台
+rtmp://161.202.204.248:1935/sat/tv521
+#rtmp://59.124.75.130/sat/tv521
 
 
 
