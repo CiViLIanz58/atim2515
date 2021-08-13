@@ -4181,7 +4181,6 @@ rtmp://161.202.204.248:1935/sat/tv111
 #http://185.207.176.189:8080/channels/tw-302/mpeg.2ts
 http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg" group-title="TAIWAN TV",民視新聞台
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1d/FTV_1st_logo_2017.jpg?1592748389112" group-title="TAIWAN TV",民視第一
 #http://185.207.176.189:8080/channels/tw-301/mpeg.2ts
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="TAIWAN TV",民視新聞
