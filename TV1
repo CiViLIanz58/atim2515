@@ -4185,6 +4185,11 @@ http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
 http://seb.sason.top/sc/msxw_fhd.m3u8
 #http://185.207.176.189:8080/channels/tw-302/mpeg.2ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="TAIWAN TV",華視
+#http://185.207.176.189:8080/channels/tw-501/mpeg.2ts
+rtmp://161.202.204.248:1935/sat/tv111
+#rtmp://59.124.75.130/sat/tv111
+
 
 
 
