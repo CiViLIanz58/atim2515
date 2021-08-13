@@ -4173,18 +4173,13 @@ http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg" group-title="TAIWAN TV",民視新聞台
-#http://185.207.176.189:8080/channels/tw-302/mpeg.2ts
-http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
-#http://185.207.176.189:8080/channels/tw-301/mpeg.2ts
-#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-http://seb.sason.top/sc/msxw_fhd.m3u8
-#http://185.207.176.189:8080/channels/tw-302/mpeg.2ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="TAIWAN TV",華視
 #http://185.207.176.189:8080/channels/tw-501/mpeg.2ts
 rtmp://161.202.204.248:1935/sat/tv111
 #rtmp://59.124.75.130/sat/tv111
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/DjTFX2UPLoJzZutRfpVq93an-eJ9IwydVxp29YzBUL_1uJZzSDknhHOTAptObBqOvK616OhoNO1ub4B2ObHeH-H-VN3gDHuSUsKHEWZ_gON41mAS-Q" group-title="TAIWAN TV",台視
+#http://185.207.176.189:8080/channels/tw-503/mpeg.2ts
 
 
 
