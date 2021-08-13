@@ -4174,7 +4174,12 @@ http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
 #EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg",ช่อง 民視新聞台
+#http://185.207.176.189:8080/channels/tw-302/mpeg.2ts
 http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
+#http://185.207.176.189:8080/channels/tw-301/mpeg.2ts
+#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#http://185.207.176.189:8080/channels/tw-302/mpeg.2ts
 
 
 
