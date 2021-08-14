@@ -4192,6 +4192,7 @@ https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
 #http://50.7.59.216:61980/myplay/cn_0_8815/index.m3u8?key=84797b799ae18d1b
 #rtmp://59.124.75.130/sat/tv071
 rtmp://161.202.204.248:1935/sat/tv071
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E7%BB%BC%E5%90%88.png" group-title="TAIWAN",台視綜合
 
 
 
