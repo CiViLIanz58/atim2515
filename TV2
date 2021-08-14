@@ -1,31 +1,5 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="https://www.rightheart.org/wp-content/uploads/2017/05/52a9dabe9d00f.png" group-title="TAIWAN",華視新聞 
-http://seb.sason.top/sc/hsxw_fhd.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="TAIWAN",華視新聞資訊
-#http://185.207.176.189:8080/channels/tw-503/mpeg.2ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="TAIWAN",華視教育体育
-#http://185.207.176.189:8080/channels/tw-502/mpeg.2ts
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hyxLFjXgqJldxPw3J4ldZAEtpJThCUzVUFQl3VDJReGMJWGkJGVs-ZlNofTNdDWEJHwxsNl09PWYPDWVTSVo-/w644" group-title="TAIWAN",華藝綜合
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png" group-title="TAIWAN",台視
-#http://50.7.59.216:61980/myplay/cn_0_8815/index.m3u8?key=84797b799ae18d1b
-#rtmp://59.124.75.130/sat/tv071
-rtmp://161.202.204.248:1935/sat/tv071
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E7%BB%BC%E5%90%88.png" group-title="TAIWAN",台視綜合
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="TAIWAN",台視新聞
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#http://50.7.59.216:61980/myplay/cn_0_8822/index.m3u8?key=84797b799ae18d1b
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F.png" group-title="TAIWAN",台視財經
-
-#EXTINF:-1 tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png" group-title="TAIWAN",中視
-#rtmp://59.124.75.130/sat/tv091
-rtmp://161.202.204.248:1935/sat/tv091
-#http://185.207.176.189:8080/channels/tw-100/mpeg.2ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c5/CTV_Classic.png/200px-CTV_Classic.png" group-title="TAIWAN",中視經典
 #http://185.207.176.189:8080/channels/tw-102/mpeg.2ts
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wrjfdH9P9hw/Wte7LjSR16I/AAAAAAAACM8/nltJ_QoS14UdcTYqo48gsVWVaydH83nGQCPcBGAYYCw/s1600/CH%2B33.png" group-title="TAIWAN",中視精采
