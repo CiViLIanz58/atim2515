@@ -1794,7 +1794,7 @@ http://player.teleon.tv/us/channel/cmt-equal-play-us
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/Screenshot-2020-12-17-at-7.01.40-PM.png",ช่อง Comedy Central Animation
 http://player.teleon.tv/us/channel/comedy-central-animation-us
 
-#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://www.wewyn.com/asset/images/imageStock/myImages/2376/Cnet_714530.jpg",ช่อง CNET
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1488570589/cauf2hzuag3akduqzixm.png",ช่อง CNET
 http://player.teleon.tv/us/channel/cnet-us
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Coldcasefiles.jpg",ช่อง Cold Case Files
@@ -4225,7 +4225,11 @@ https://simultv.s.llnwi.net/o060/YouthSuccess/interlink.m3u8
 #EXTINF:-1 group-title="USA TV" tvg-logo="https://www.pressrelease.com/files/8c/fc/c77e07b44591af48c053840ab391.jpg",ช่อง Youtoo America
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
 
+#EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://images.yourstory.com/cs/wordpress/2012/04/travelxp.jpg",ช่อง Travel XP
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 group-title="USA TV" tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/308578483/3ba2e670-e65a-49d6-87d2-88bf461bb65b.png",ช่อง True Crime Network
+https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
 
 
 
