@@ -4216,8 +4216,8 @@ https://www.nettvpro.live/hongkong/4466.html
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://animesweet.com/img/2021/yamato-animation-anime-on-tv-in-collaboration-with-samsung.jpg",ช่อง Yamato Animation
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://d2c13moo8u717n.cloudfront.net/wp-content/uploads/sites/11/2019/07/25135022/zliving.logo_-1024x801.jpg",ช่อง Z Living
-https://f8e7y4c6.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://mumbrella.com.au/wp-content/uploads/2020/03/Ausbiz-logo-2-1.jpg",ช่อง ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://youthsuccesstv.com/wp-content/uploads/2019/07/Youth-Success-Network.png",ช่อง Youth Success
 https://simultv.s.llnwi.net/o060/YouthSuccess/interlink.m3u8
