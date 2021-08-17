@@ -40,10 +40,10 @@ https://nangfaiptv.online/tv-player/fox-life-hd.html
 https://we-play.live/watching/tv/hits-movies
  
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.we-play.live/uploads/posters/-poster1602704689.jpeg",ช่อง HITS
-https://nangfaiptv.online/tv-player/hits.html
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
  
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",ช่อง True FILM ASIA
-https://nangfaiptv.online/tv-player/true-film-asia.html
+https://wacth.tv/tv-player/true-film-asia.html
  
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=_ej4SuF_",ช่อง GEM
 https://nangfaiptv.online/tv-player/gem-tv.html
@@ -52,7 +52,7 @@ https://nangfaiptv.online/tv-player/gem-tv.html
 https://nangfaiptv.online/tv-player/true-film-hd.html
  
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2Ff3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png&w=320&h=240",ช่อง True FILM HD2
-https://nangfaiptv.online/tv-player/true-film-hd2.html
+https://wacth.tv/tv-player/true-film-hd2.html
  
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.we-play.live/uploads/posters/-poster1602704645.jpeg",ช่อง True Asian Series
 https://nangfaiptv.online/tv-player/asian-series.html
@@ -88,7 +88,7 @@ https://we-play.live/watching/tv/axn-hd
 https://we-play.live/watching/tv/warner-tv
  
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://jichangwookkitchen.files.wordpress.com/2015/01/s08bm74i_400x400.jpg",ช่อง tvN Movies
-http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+http://210.210.155.35/session/5f0e62e0-f72e-11eb-adb0-a78ebcc7e214/dr9445/h/h21/01.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",ช่อง HBO Family
 https://nangfaiptv.online/tv-player/hbo-family.html
@@ -3749,9 +3749,7 @@ rtmp://ivi.bupt.edu.cn/livetv/fhdy
 #https://www.fanmingming.cn/hls/fhdy.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.sports8.cc/cimg/2102.jpg",ช่อง 星空卫视
-#https://www.fanmingming.cn/hls/startv.m3u8
-rtmp://ivi.bupt.edu.cn:1935/livetv/startv
-#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+https://cdn6.goprimetime.info/feed/202105171329/LC13/index.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://news.now.com/revamp2014/images/logo.png",ช่อง Now新聞
 #http://teslagram.com/live/channel_332.m3u8
@@ -4234,6 +4232,8 @@ https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Htv_formal_logo.svg/400px-Htv_formal_logo.svg.png",ช่อง Hiroshima TV
 https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png",ช่อง 3BB ASIAN
+"https://dogtoop.com:8443/live/skysportnfl/s1/128.ts","userAgent": "ExoPlayerLib/2.8.4"
 
 
 
