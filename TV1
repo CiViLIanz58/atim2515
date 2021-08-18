@@ -564,9 +564,6 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:-1 group-title="LEARNING" tvg-logo="http://www.etvthai.tv/images_new/logo.png",ช่อง ETV
 http://www.etvthai.tv/stream/home.aspx
 
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/Screenshot-2021-05-04-at-10.49.55-480x268.jpg",ช่อง Extasy
-http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://1.bp.blogspot.com/-Vihs4DPTyWo/XxzNbv0Yy9I/AAAAAAAAp_o/Z05Zg7xTP_sbRFSW0Wc2x3mhT2LrKDP1gCLcBGAsYHQ/s1600/my-cinema-mandarin-channel-tv-logo.png",ช่อง MY CINEMA
 http://210.210.155.35/session/aefb538a-7c46-11ea-a7a4-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
 
@@ -833,9 +830,6 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://s3.spbtv.com/spbtv-world-production/51871e0498c3e562504b.png",ช่อง Jenny Live 2
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61NCqJJIrUL.png",ช่อง Encore TVB
-https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",ช่อง RTHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
@@ -1676,9 +1670,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b3
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/EEAwv8z.jpeg",ช่อง Bloomberg TV Asia Live Event
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://pbs.twimg.com/media/CML19CtUwAEpQys.jpg",ช่อง SuperOne HD
-http://185.96.176.139:8080/superone/index.m3u8
 
 #EXTINF:-1 group-title="FOOD" tvg-logo="http://blog.roku.com/wp-content/uploads/2014/01/RokuTV_logo_purple1.png",ช่อง Roku | iFood.tv
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
@@ -2940,9 +2931,6 @@ https://www.nettvpro.live/en/play.php?aid=1651
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://www.ctstvnet.com/uploads/image/20190904/1567573278176773.png",ช่อง 亞旅衛視
 https://www.nettvpro.live/en/play.php?aid=6725
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png",ช่อง 鳳凰衛視香港台
-https://www.nettvpro.live/en/play.php?aid=3106
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbp9_rZ76z1by66fVli9_8Xs2uLpxmgZrfIlXkc-JwfJ-eUOKVz3sTLwTVolsasJhSlRg&usqp=CAU",ช่อง 鳳凰衛視中文台
 https://www.nettvpro.live/en/play.php?aid=147
 
@@ -3744,13 +3732,6 @@ https://bx-tv.com/popcornflix-action/
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQe_05z7zClV_G5znUymGL77aVsee0Vj4LjEGBo=s900-c-k-c0x00ffffff-no-rj",ช่อง GCN
 http://www.gcntv.org/KO/Media/Viewer/Live24File.asp?live=KO_W01_24H
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg",ช่อง 香港电影台
-rtmp://ivi.bupt.edu.cn/livetv/fhdy
-#https://www.fanmingming.cn/hls/fhdy.m3u8
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.sports8.cc/cimg/2102.jpg",ช่อง 星空卫视
-http://218.202.220.2:5000/nn_live.ts?id=STARTV
-
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://news.now.com/revamp2014/images/logo.png",ช่อง Now新聞
 #http://teslagram.com/live/channel_332.m3u8
 http://livetv.dnsfor.me:80/channel.4.m3u8
@@ -3788,9 +3769,6 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-tv-work-net-8165.jpg",ช่อง TVWorkNet
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png",ช่อง Filmon 1
-https://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png",ช่อง Filmon 2
 https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
@@ -4205,12 +4183,6 @@ rtmp://161.202.204.248:1935/sat/tv091
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://kmug.co.kr/data/file/design/data_design_%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2015_04_29_%EC%98%A4%ED%9B%84_4.49.30.png",ช่อง Anibox TV
 https://www.nettvpro.live/Asia/japan/10554.html
 
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvi6UY8nCm1_Zqzk_frnjMCN7q0Pfr3fbTSyO-KYa6dnbP-VrrvDQqDE74JZr3br4Qvg&usqp=CAU",ช่อง 香港國際財經台
-https://www.nettvpro.live/hongkong/391.html
-
-#EXTINF:-1 group-title="HONG KONG TV" tvg-logo="data:image/jpeg;base64,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",ช่อง HKanime粵語動漫音樂
-https://www.nettvpro.live/hongkong/4466.html
-
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://animesweet.com/img/2021/yamato-animation-anime-on-tv-in-collaboration-with-samsung.jpg",ช่อง Yamato Animation
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -4253,6 +4225,14 @@ http://oxax.tv/xy-max-hd.html
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR8CSuliVmhPyo9nxofgZWCI9fZKrqL-PFki3b8=s900-c-k-c0x00ffffff-no-rj",ช่อง SL HOT HD2
 http://oxax.tv/sl-hot2.html
 
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://lh3.googleusercontent.com/proxy/6sFZ4VSQBTdHrAFkO3tJmj6wp7nvl3UxK3923Y0p_O2tge0C71MqOPyXujKbs31G5SmYBi61fOMD76eAbeT1XUVpWLeRjr2K_-WZ4o0rJbMFBdAhO69oCMofB6S8Yg8OQte7K1ozvglb5RTxHTU",ช่อง KinoXXX
+http://oxax.tv/kino-xxx.html
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR8CSuliVmhPyo9nxofgZWCI9fZKrqL-PFki3b8=s900-c-k-c0x00ffffff-no-rj",ช่อง SL HOT HD1
+http://oxax.tv/superone-hd.html
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://www.videosatservice.eu/wp-content/uploads/2017/01/VIVID-EUROPE-TOUCH-FINAL-1.png",ช่อง Vivid Red HD
+http://oxax.tv/vivid-red.html
 
 
 
