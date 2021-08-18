@@ -295,7 +295,7 @@ https://live.thaitvstream.com/streaming/pmnewstv/play.php
 https://live.thaitvstream.com/streaming/mdtvnews/play.php
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/19/2171eaf4-036c-4958-ac0f-9d170d1faedf.png",ช่อง M Channel
-http://freelive.inwstream.com:1935/freelive-edge/mchannel/playlist.m3u8
+http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
  
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://s1.thingpic.com/images/i6/DoDZiKBViGLa8y6jMXPwJ9AP.jpeg",ช่อง จ๊ะทิงจา TV
 http://freelive.inwstream.com:1935/freelive-edge/jatingja/playlist.m3u8
@@ -1294,7 +1294,7 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w193628251
 https://siamtv88.co/index.php?a=live_details&channel_code=th-thaifilm
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",ช่อง KIX
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.crimeandinvestigationnetwork.com/assets/images/crimeandinvestigation/generic-thumb.jpg",ช่อง CRIME + INVESTIGATION
 http://203.154.243.31:15001
@@ -1381,19 +1381,19 @@ https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-s.jpg",ช่อง SUN
-http://27.254.130.62/feed/LC1/index.m3u8
+https://cdn6.goprimetime.info/feed/202105171329/LC1/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f.ptcdn.info/741/071/000/qkd09u11hsoYgyO0be6c-o.jpg",ช่อง SAMURAI
-http://27.254.130.62/feed/LC2/index.m3u8
+https://cdn6.goprimetime.info/feed/202105171329/LC2/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png",ช่อง BoxFilm
-http://27.254.130.62/feed/LC52/index.m3u8
+https://cdn6.goprimetime.info/feed/202105171329/LC52/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://f.ptcdn.info/741/071/000/qkd0au4553rHw6R3s3sR-o.jpg",ช่อง SANOOK
 http://27.254.130.62/feed/LC53/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://drive.google.com/uc?export=download&id=1CESyG6cfFw3sgDixf768mwRnKJXf0CtD",ช่อง MOVIES WORLD 1
-http://27.254.130.62/feed/LC11/index.m3u8
+http://61.19.242.134/feed/202105171329/LC11/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/09_Celestial_Classic_Movies.png",ช่อง CCM (THAI)
 https://siamtv88.co/index.php?a=live_details&channel_code=th-celestial
@@ -4249,6 +4249,9 @@ http://oxax.tv/xy-mix-hd.html
 
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://invivo.tv/invivo/images/slider/xy_max.png",ช่อง XY Max HD
 http://oxax.tv/xy-max-hd.html
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR8CSuliVmhPyo9nxofgZWCI9fZKrqL-PFki3b8=s900-c-k-c0x00ffffff-no-rj",ช่อง SL HOT HD2
+http://oxax.tv/sl-hot2.html
 
 
 
