@@ -3750,6 +3750,7 @@ rtmp://ivi.bupt.edu.cn/livetv/fhdy
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://images.sports8.cc/cimg/2102.jpg",ช่อง 星空卫视
 https://cdn6.goprimetime.info/feed/202105171329/LC13/index.m3u8
+userAgent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36 , playInNatPlayer : true
 
 #EXTINF:-1 group-title="HONG KONG TV" tvg-logo="https://news.now.com/revamp2014/images/logo.png",ช่อง Now新聞
 #http://teslagram.com/live/channel_332.m3u8
@@ -4233,9 +4234,12 @@ https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
 https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png",ช่อง 3BB ASIAN
-"https://dogtoop.com:8443/live/skysportnfl/s1/128.ts","userAgent": "ExoPlayerLib/2.8.4"
+https://dogtoop.com:8443/live/skysportnfl/s1/128.ts
+userAgent: ExoPlayerLib/2.8.4
 
-
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png",ช่อง 3BB ASIAN
+https://dogtoop.com:8443/live/skysportnfl/s1/128.ts
+userAgent: ExoPlayerLib/2.8.4
 
 
 
