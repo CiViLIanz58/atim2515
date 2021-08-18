@@ -4232,6 +4232,8 @@ https://cdn87.theus6tv.tk/locals/Fresno/kvbc-13.5.m3u8
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Htv_formal_logo.svg/400px-Htv_formal_logo.svg.png",ช่อง Hiroshima TV
 https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
 
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://v.fastcdn.co/u/ce0680fc/52012155-0-WeatherSpy-Avatar4.jpg",ช่อง WeatherSpy
+https://jukin-weatherspy-1.plex.wurl.com/manifest/playlist.m3u8
 
 
 
