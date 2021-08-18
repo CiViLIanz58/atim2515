@@ -895,7 +895,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",ช่อง Blue Ant Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+https://www.we-play.live/watching/tv/blueant-extreme
 
 #EXTINF:-1 group-title="TRAVEL & LIVING" tvg-logo="https://image.roku.com/developer_channels/prod/98de6b5d6ae0e4caa4a60be5686d23f56632a857e6315cca0cb7a6387cda51e4.png",ช่อง FOX Soul
 http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
@@ -4234,6 +4234,9 @@ https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playli
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://v.fastcdn.co/u/ce0680fc/52012155-0-WeatherSpy-Avatar4.jpg",ช่อง WeatherSpy
 https://jukin-weatherspy-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSQ3gk-W-dl9-V-RPH-TFaJv1Eg6IbtRb3ENCiHdUXihMU0Qg-9IUMyUJV8_RtlT9LSY8&usqp=CAU",ช่อง OX-AX HD
+http://oxax.tv/oh-ah.html
 
 
 
