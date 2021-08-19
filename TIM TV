@@ -13,5 +13,11 @@
 "url": "https://raw.githubusercontent.com/atim2515/atim2515/main/MOVIES%20%26%20SERIES",
 "import": false
 },
+{
+"name": "KIDS",
+"image": "https://64.media.tumblr.com/badc3a19ffbf7a89a22d24cf712f1a1c/tumblr_otv8lh0yFy1w0goupo1_400.gifv",
+"url": "",
+"import": false
+},
 ]
 }
