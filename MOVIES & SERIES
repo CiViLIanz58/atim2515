@@ -16,6 +16,10 @@
  
 {"name":"3BB ASIAN",image:"https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png","url": "https://dogtoop.com:8443/live/skysportnfl/s1/128.ts","userAgent": "ExoPlayerLib/2.8.4"},
 
+{"name":"BOX FILM",image:"https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-s.png","url": "https://cdn6.goprimetime.info/feed/202105171329/LC52/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{"name":"MOVIES WORLD 1","image": "https://drive.google.com/uc?export=download&id=1CESyG6cfFw3sgDixf768mwRnKJXf0CtD","url": "https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
 
 ]
 }
