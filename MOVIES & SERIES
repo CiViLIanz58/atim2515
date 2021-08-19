@@ -20,6 +20,8 @@
  
 {"name":"MOVIES WORLD 1","image": "https://drive.google.com/uc?export=download&id=1CESyG6cfFw3sgDixf768mwRnKJXf0CtD","url": "https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
+{"name":"TRUE THAI FILM","image":"http://cms.dmpcdn.com/livetv/2018/12/17/6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png","url":"https://siamtv88.co/index.php?a=live_details&channel_code=th-thaifilm","userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S", "playInNatPlayer": "true"},
+
 
 ]
 }
