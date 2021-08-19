@@ -12,5 +12,10 @@
  
 {"name":"SAMURAI","image": "https://sv1.picz.in.th/images/2021/01/26/lVg0Fg.png","url": "https://cdn6.goprimetime.info/feed/202105171329/LC2/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
+{"name":"SANOOK",image:"https://www.dropbox.com/s/bgdpruavl0z1ez2/lVgd2n.png?dl=1","url": "https://cdn6.goprimetime.info/feed/202105171329/LC53/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ 
+{"name":"3BB ASIAN",image:"https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png","url": "https://dogtoop.com:8443/live/skysportnfl/s1/128.ts","userAgent": "ExoPlayerLib/2.8.4"},
+
+
 ]
 }
