@@ -24,7 +24,7 @@
 
 {"name":"AMARIN TV",image:"https://cms.dmpcdn.com/livetv/2019/01/10/02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png","url": "http://host4.dynns.com/stream/78f57ebcf6064b308d75208a20756983.m3u8"},
 
-{"name":"PPTV HD",image:"https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png","url": "https://www.adintrend.tv/hd/ch25?t=live"},
+{"name":"PPTV HD",image:"https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png","url": "http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8"},
 
 {"name":"GMM 25",image:"https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png","url": "http://61.19.242.134/feed/202105171329/chgmm/playlist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"},
 
