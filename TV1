@@ -505,10 +505,10 @@ https://live-tv-channels.org/livetv/th-Thai-TV-Shopping-live-stream-Thailand-TV-
 https://www.oshoppingtv.com/
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",ช่อง Astro AOD
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",ช่อง Astro Arena
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://antenna-group.com/wp-content/uploads/2020/03/11_ROCK_TV_A-1.jpg",ช่อง ROCK TV
 https://tvron.net/rock-tv
@@ -517,40 +517,40 @@ https://tvron.net/rock-tv
 http://likeetv.com/live-tv/and-flix-hd.html
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://d3avoj45mekucs.cloudfront.net/astrogempak/media/articleasset/boohh.jpg?ext=.jpg",ช่อง Astro Boo
-http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png",ช่อง Astro Ceria
-http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest?cb=20201215114818",ช่อง Astro Citra
-http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://pbs.twimg.com/profile_images/560641520110301184/d8ShmTp5_400x400.png",ช่อง Astro Go Shop 2
-http://185.180.221.194:8278/streams/d/Goshop2/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Hello_TV.png/revision/latest?cb=20201116050226",ช่อง Astro Hello
-http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",ช่อง Astro Oasis
-http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png",ช่อง Astro Prima
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png",ช่อง Astro Warna
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png",ช่อง Astro Wah Lai Toi
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Astro_Hua_Hee_Dai_%282D%29.png/revision/latest?cb=20200922171709",ช่อง Astro Hua Hee Dai
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",ช่อง Astro Quan Jia
-http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png",ช่อง Astro Shuang Xing
-http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh0gL2Zd0zhRifTbQGKanrsL7DHgMNc9MDplJMv=s176-c-k-c0x00ffffff-no-rj-mo",ช่อง บุญนิยม ทีวี
 http://live.boonniyom.tv:1935/live/bntvhd/playlist.m3u8
@@ -565,7 +565,7 @@ http://www.etvthai.tv/stream/home.aspx
 http://210.210.155.35/session/aefb538a-7c46-11ea-a7a4-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://1.bp.blogspot.com/-9ayiUNErHFg/WA2e3Uco0ZI/AAAAAAAAf08/wYPh3Biul8U5qULINsrgkmpZdfWUcEOuQCLcB/s1600/celestial-movie-tv-channel-logo.png",ช่อง Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/profile_images/611838002206146560/UQS0dlPO.jpg",ช่อง THRILL
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
@@ -1174,7 +1174,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=champion2
 http://qqtv.nl:8080/sword/sword/30657
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://cdn.theorg.com/87ef756f-c3a2-45b0-a379-386a2d4444dc_thumb.png",ช่อง Astro iQIYI HD
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Qiyi/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png",ช่อง Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
@@ -3759,25 +3759,25 @@ https://www.filmon.com/vr-streams/6155.high/playlist.m3u8
 https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg",ช่อง Astro AEC ᴴᴰ
-http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Aec/playlist.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/TV1_Logo_2011.png/revision/latest/scale-to-width-down/250?cb=20131101030840",ช่อง TV1
-http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/PlayerLogo-TV2-May2021-preview.png",ช่อง TV2
-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",ช่อง TV3
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.coolstreaming.us/img/ch/image55811508279.jpg",ช่อง NTV7
-http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+http://50.7.161.82:8278/streams/d/NTV7/playlist.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-eQ3UIX0bqWbVVDuaHBhVo3vCBYvZkexOHlrM5633KTdbfXUdgMkAvr6Gi7ajXhqqZ4Y&usqp=CAU",ช่อง 8TV
-http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.coolstreaming.us/img/ch/image5988773936.jpg",ช่อง TV9
-http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://www.pngitem.com/pimgs/m/110-1100190_file-under18-under-18-not-allowed-hd-png.png",ช่อง Weak
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
