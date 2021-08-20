@@ -1,16 +1,16 @@
 #EXTM3U
  
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
-https://nangfaiptv.online/tv-player/ch3-hd.html
+http://host4.dynns.com/stream/a4485b656d764f308c63b14a8bf62326.m3u8
  
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://mpics.mgronline.com/pics/Images/559000011619001.JPEG",ช่อง 5
 https://www.adintrend.tv/hd/ch5?t=live
  
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.prachachat.net/wp-content/uploads/2021/01/ch7hd-default.jpg",ช่อง 7
-https://nangfaiptv.online/tv-player/7hd.html
+http://host4.dynns.com/stream/ddfa47e726444446864b14e0e819fdde.m3u8
  
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://f.ptcdn.info/428/057/000/p88xfxv2eU2OHPlO7dF-o.png",ช่อง 9
-https://nangfaiptv.online/tv-player/mcot-hd.html
+http://host4.dynns.com/stream/3ae2fd6ccaf6499e898de377ed74ea12.m3u8
  
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.we-play.live/uploads/posters/-poster1602704499.jpeg",ช่อง FOX Action Movies
 https://nangfaiptv.online/tv-player/fox-action-movies.html
@@ -328,7 +328,7 @@ https://gbnus.com/
 http://tvmuslim.org/
  
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://sites.google.com/site/s5720610137/_/rsrc/1472844836043/white-channel/WhiteChannel.jpg",ช่อง White Channel
-https://whitechannel.tv/
+https://symc-cdn.violin.co.th/tndedge/whitechannel/playlist.m3u8
  
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://hadwan.com/SBT/sbt_logo.png",ช่อง SBT TV
 http://202.142.203.28/desktop/sbt_tv_rtmp.html
