@@ -100,7 +100,7 @@ https://nangfaiptv.online/tv-player/mono-29.html
 https://we-play.live/watching/tv/11-nbt
  
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://logo-th.com/wp-content/uploads/2019/05/PBS.jpg",ช่อง Thai PBS
-https://nangfaiptv.online/tv-player/tpbs-hd.html
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
  
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.jobsugoi.com/images/employer/1907/20191225144354110.png",ช่อง 8
 https://www.thaich8.com/live
@@ -109,7 +109,7 @@ https://www.thaich8.com/live
 https://nangfaiptv.online/tv-player/amarin-tv.html
  
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png",ช่อง PPTV HD
-https://www.adintrend.tv/hd/ch25?t=live
+http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8
  
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png",ช่อง GMM 25
 https://nangfaiptv.online/tv-player/gmm25.html
