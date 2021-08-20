@@ -6,7 +6,12 @@
 "groups": [
  
  
- 
+{
+"name": "DIGITAL TV",
+"image": "http://ewt.prd.go.th/ewt/tvkhonkaen/images/pic/TV/TV_digital_gif.gif",
+"url": "https://raw.githubusercontent.com/atim2515/atim2515/main/DIGITAL%20TV",
+"import": false
+}, 
 {
 "name": "MOVIES & SERIES",
 "image": "https://c.tenor.com/OxIKfikF9IsAAAAM/s%C3%B3observo-watchin-movie.gif",
