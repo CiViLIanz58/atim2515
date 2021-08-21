@@ -1,0 +1,14 @@
+{
+		"name": "HONG KONG TV",
+		"author": "TIM",
+		"image":"https://64.media.tumblr.com/e58616da8b9b71e7991664aafe1ccb56/daa33789b022a349-0e/s540x810/f27bed5aede83a0bfdeb47eeee22d6c696c59972.gifv",
+		"url": "",
+		 
+ 
+		"stations":[
+    
+    
+{"name":"TVB 星河台",image:"https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png","url": "http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8"},
+    
+]
+}
