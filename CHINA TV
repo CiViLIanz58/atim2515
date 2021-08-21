@@ -1,0 +1,14 @@
+{
+		"name": "CHINA TV",
+		"author": "TIM",
+		"image":"https://acegif.com/wp-content/gifs/chinese-flag-1.gif",
+		"url": "",
+		 
+ 
+		"stations":[
+    
+    
+{"name":"CCTV1 综合",image:"https://static.wikia.nocookie.net/tvfanon6528/images/0/0f/CCTV-1.png/revision/latest?cb=20200821151602","url": "http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1"},
+    
+]
+}
