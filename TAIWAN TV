@@ -1,0 +1,14 @@
+{
+		"name": "TAIWAN TV",
+		"author": "TIM",
+		"image":"https://c.tenor.com/GtqTHgqF9ocAAAAC/meteor-garden-f4.gif",
+		"url": "",
+		 
+ 
+		"stations":[
+    
+    
+{"name":"FTV Taiwan",image:"https://img.isuper.tv/live-tv/ftv-news-live.jpg","url": "https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8"},
+    
+]
+}
