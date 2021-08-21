@@ -1,0 +1,16 @@
+{
+		"name": "VIETNAM TV",
+		"author": "TIM",
+		"image":"https://bestanimations.com/media/vietnam/1735517571vietnamese-flag-waving-gif-animation-1.gif",
+		"url": "",
+		 
+ 
+		"stations":[
+    
+    
+{"name":"Da Nang TV1",image:"https://img.hplus.com.vn/728x409/banner/2018/06/05/492034-DN1.png","url": "http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8"},
+
+{"name":"Da Nang TV2",image:"https://img.hplus.com.vn/728x409/banner/2018/06/05/788942-DN2.png","url": "http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8"},
+    
+]
+}
