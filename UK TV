@@ -10,7 +10,7 @@
     
 {"name":"ITV",image:"https://tellymix.co.uk/wp-content/uploads/2021/02/itv-logo-2.jpg","url": "http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8"},
 
-{"name":"ITV2",image:"https://i.ytimg.com/vi/0kQdE3FPeUY/hqdefault.jpg","url": "http://31.220.41.88:8081/live/itv2.stream/chunks.m3u8"},
+{"name":"ITV2",image:"https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/itv2-RGB-Red.png?itok=HTuwa869","url": "http://31.220.41.88:8081/live/itv2.stream/chunks.m3u8"},
 
 {"name":"ITV3",image:"https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png","url": "http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8"},
 
