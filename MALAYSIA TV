@@ -1,0 +1,14 @@
+{
+		"name": "MALAYSIA TV",
+		"author": "TIM",
+		"image":"https://i.imgur.com/zxLDOUp.gif",
+		"url": "",
+		 
+ 
+		"stations":[
+    
+    
+{"name":"TV1",image:"https://static.wikia.nocookie.net/logopedia/images/4/40/TV1_Logo_2011.png/revision/latest/scale-to-width-down/250?cb=20131101030840","url": "http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8"},
+    
+]
+}
