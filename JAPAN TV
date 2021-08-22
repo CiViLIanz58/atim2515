@@ -12,6 +12,58 @@
 
 {"name":"Waku Waku Japan",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png","url": "https://we-play.live/watching/tv/waku-waku-japan"},
 
+{"name":"NHK WORLD JAPAN",image:"https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/NHK-Logo.png","url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"},
+
+{"name":"アニマックス",image:"https://pbs.twimg.com/media/C7WZesmVAAErlVt.jpg","url": "https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8"},
+
+{"name":"Nippon TV News 24",image:"https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_n03.png","url": "https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"},
+
+{"name":"Jupiter Shop Channel",image:"https://seeklogo.com/images/S/shop-channel-logo-B05C72F34A-seeklogo.com.png","url": "http://stream1.shopch.jp/HLS/out1/prog_index.m3u8"},
+
+{"name":"QVC Japan",image:"https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png","url": "http://cdn-live1.qvc.jp/iPhone/800/800.m3u8"},
+
+{"name":"Nippon TV",image:"https://static.wikia.nocookie.net/godzilla/images/0/07/Nippon_tv_logo_2014.png/revision/latest?cb=20140725194555","url": "https://ntv1.mov3.co/hls/ntv.m3u8"},
+
+{"name":"NHK General TV",image:"https://www.zne-iptv.com/wp-content/uploads/2017/10/1-NHK-General-TV-1.jpg","url": "https://nhk.mov3.co/hls/nhk.m3u8"},
+
+{"name":"フジテレビ",image:"https://inboundnavi.jp/wp-content/uploads/2016/04/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93-%E3%83%AD%E3%82%B4.png","url": "https://fujitv.mov3.co/hls/fujitv.m3u8"},
+
+{"name":"Anime TV",image:"https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png","url": "https://stmv1.srvif.com/animetv/animetv/chunklist_w66921402.m3u8"},
+
+{"name":"Weathernews",image:"https://press.jal.co.jp/ja/items/uploads/a89741436e550f5d12646481975ad63fd075c490.png","url": "https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist.m3u8"},
+
+{"name":"Japanet Channel DX",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENXYn8VvmtbRtXIRUnnbn_VZESPYerzp97zMfWxxOASqmYP8ZNf-BjuCyIkVBTOrQbQ&usqp=CAU","url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8"},
+
+{"name":"NJPW World",image:"https://www.njpw1972.com/wp-content/uploads/2017/03/world.png","url": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8"},
+
+{"name":"TV TOKYO",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png","url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8"},
+
+{"name":"TOKYO MX 1",image:"https://s.mxtv.jp/images/yumelion_200x200.jpg","url": "https://movie.mcas.jp/mcas/mx1_2/master.m3u8"},
+
+{"name":"GSTV",image:"https://live-tv-channels.org/pt-data/uploads/logo/jp-gstv-7333.jpg","url": "https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1577692335_b1628000.m3u8"},
+
+{"name":"エムキャス",image:"https://www.isid.co.jp/news/release/2018/t1kcm5000000qxe2-img/OGP.png","url": "https://movie.mcas.jp/mcas/mx_live_2/chunklist.m3u8"},
+
+{"name":"Gunma TV",image:"https://static.wikia.nocookie.net/logopedia/images/0/04/LOGO_%28GUNMA_TV%29.jpg/revision/latest?cb=20150508100755","url": "https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8"},
+
+{"name":"TOKYO MX 2",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAHhB3ldEkCyYlHcbXez55MT0SmZ5kL9W-w&usqp=CAU","url": "https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8"},
+
+{"name":"CGNTV 日本",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpAYVAX-jMGuiPtvYeH4i_JPiHD0XWSquv0ZTG-VncdJ2QsGyn9G7-cB7Lr7BFPllWz50&usqp=CAU","url": "http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8"},
+
+{"name":"NHK华语视界",image:"http://5b0988e595225.cdn.sohucs.com/images/20181226/c3df2d6f08094e8da980d7a935f0fa10.jpeg","url": "https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"},
+
+{"name":"Gaki no Tsukai TV",image:"http://pm1.narvii.com/6034/724ae7ef0bf1821875e78d103d2d92ff7eae2a5b_00.jpg","url": "https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8"},
+
+{"name":"AT-X",image:"https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-182-400x400.png","url": "https://sub2.neetball.net/live/neet.m3u8"},
+
+{"name":"Anime Zone TV",image:"https://cf.shopee.ph/file/26c1b3b728a655c1f1fe8e7e0f92c215_tn","url": "https://azxtv.com/hls/stream.m3u8"},
+
+{"name":"TBS",image:"https://pm1.narvii.com/6407/6e1e57d4050dbb922e177bf07f3ba9ef23ae497e_hq.jpg","url": "https://tbs.mov3.co/hls/tbs.m3u8"},
+
+{"name":"Anibox TV",image:"https://kmug.co.kr/data/file/design/data_design_%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2015_04_29_%EC%98%A4%ED%9B%84_4.49.30.png","url": "https://www.nettvpro.live/Asia/japan/10554.html"},
+
+{"name":"Yamato Animation",image:"https://animesweet.com/img/2021/yamato-animation-anime-on-tv-in-collaboration-with-samsung.jpg","url": "https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8"},
+
 
 ]
 }
