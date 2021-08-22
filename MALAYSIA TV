@@ -9,6 +9,14 @@
     
     
 {"name":"TV1",image:"https://static.wikia.nocookie.net/logopedia/images/4/40/TV1_Logo_2011.png/revision/latest/scale-to-width-down/250?cb=20131101030840","url": "http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8"},
+
+{"name":"TV2",image:"https://upload.wikimedia.org/wikipedia/commons/0/05/PlayerLogo-TV2-May2021-preview.png","url": "http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8"},
+
+{"name":"TV3",image:"https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png","url": "http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8"},
+
+{"name":"8TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-eQ3UIX0bqWbVVDuaHBhVo3vCBYvZkexOHlrM5633KTdbfXUdgMkAvr6Gi7ajXhqqZ4Y&usqp=CAU","url": "http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8"},
+
+{"name":"TV9",image:"https://www.coolstreaming.us/img/ch/image5988773936.jpg","url": "http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8"},
     
 ]
 }
