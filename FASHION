@@ -9,6 +9,18 @@
     
     
 {"name":"FTV MIDNIGHT HAUTE",image:"https://i.ytimg.com/vi/Riqzi2D5xzY/hqdefault.jpg","url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8"},
+
+{"name":"Fashion TV",image:"https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FashionTV_600x600.png?raw=true","url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8"},
+
+{"name":"HD Fashion & LifeStyle",image:"https://mytvtogo.net/wp-content/uploads/2020/02/Network_Fashion_Lifestyle_1280x720-520x293.jpg","url": "http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8"},
+
+{"name":"GFN TV",image:"https://gfntv.com/wp-content/uploads/2020/04/GFNTV-Splash-Image.png","url": "http://player.teleon.tv/us/channel/gfn-tv-us"},
+
+{"name":"FashionBox",image:"https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fashionboxhd-logo.png","url": "https://fashionbox-localnow.cinedigm.com/playlist.m3u8"},
+
+{"name":"ID Fashion",image:"https://pbs.twimg.com/media/CJAK_65UYAArET5.jpg","url": "https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8"},
+
+{"name":"World Fashion Russia",image:"https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg","url": "https://www.parsatv.com/name=World-Fashion-Russia#fashion"},
     
 ]
 }
