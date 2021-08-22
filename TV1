@@ -3771,7 +3771,7 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.coolstreaming.us/img/ch/image55811508279.jpg",ช่อง NTV7
-http://50.7.161.82:8278/streams/d/NTV7/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV7/playlist.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-eQ3UIX0bqWbVVDuaHBhVo3vCBYvZkexOHlrM5633KTdbfXUdgMkAvr6Gi7ajXhqqZ4Y&usqp=CAU",ช่อง 8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
