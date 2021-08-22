@@ -24,10 +24,6 @@
 
 {"name":"Nippon TV",image:"https://static.wikia.nocookie.net/godzilla/images/0/07/Nippon_tv_logo_2014.png/revision/latest?cb=20140725194555","url": "https://ntv1.mov3.co/hls/ntv.m3u8"},
 
-{"name":"NHK General TV",image:"https://www.zne-iptv.com/wp-content/uploads/2017/10/1-NHK-General-TV-1.jpg","url": "https://nhk.mov3.co/hls/nhk.m3u8"},
-
-{"name":"フジテレビ",image:"https://inboundnavi.jp/wp-content/uploads/2016/04/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93-%E3%83%AD%E3%82%B4.png","url": "https://fujitv.mov3.co/hls/fujitv.m3u8"},
-
 {"name":"Anime TV",image:"https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png","url": "https://stmv1.srvif.com/animetv/animetv/chunklist_w66921402.m3u8"},
 
 {"name":"Weathernews",image:"https://press.jal.co.jp/ja/items/uploads/a89741436e550f5d12646481975ad63fd075c490.png","url": "https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist.m3u8"},
