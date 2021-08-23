@@ -682,16 +682,16 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 https://ntv1.mov3.co/hls/ntv.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/04/tv-asahi-logo-vector.png",ช่อง テレビ朝日
-https://redlabmcdn.s.llnwi.net/jp04/ryowa4hd/playlist.m3u8
+https://asahi1.mov3.co/hls/tvasahi.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/1-NHK-General-TV-1.jpg",ช่อง NHK General TV
-https://nhk.mov3.co/hls/nhk.m3u8
+https://nhk1.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",ช่อง NHK Eテレ
 http://1.179.247.11:1935/jptv/kanto_nhk_edu_540/chunklist.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://inboundnavi.jp/wp-content/uploads/2016/04/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93-%E3%83%AD%E3%82%B4.png",ช่อง フジテレビ
-https://fujitv.mov3.co/hls/fujitv.m3u8
+https://fujitv1.mov3.co/hls/fujitv.m3u8
 
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png",ช่อง Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w66921402.m3u8
