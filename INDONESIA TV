@@ -9,6 +9,12 @@
     
     
 {"name":"TRANS TV",image:"https://cdn.techinasia.com/data/images/5hq8giWqvvuSce6kDyF7yVyeTYyZWEtg9Fi7NnKg.png","url": "http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11"},
+
+{"name":"CNBC INDONESIA",image:"https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png","url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8"},
+
+{"name":"CNN INDONESIA",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Indonesia.png/768px-CNN_Indonesia.png","url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8"},
+
+{"name":"Indonesia Channel",image:"https://yt3.ggpht.com/ytc/AAUvwnhtHWmdjGQO5n3GL00u-DXB0bYvW-sAERf03bnmlQ=s900-c-k-c0x00ffffff-no-rj","url": "http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8"},
     
 ]
 }
