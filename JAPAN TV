@@ -60,6 +60,10 @@
 
 {"name":"Yamato Animation",image:"https://animesweet.com/img/2021/yamato-animation-anime-on-tv-in-collaboration-with-samsung.jpg","url": "https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8"},
 
+{"name":"NHK General TV",image:"https://www.zne-iptv.com/wp-content/uploads/2017/10/1-NHK-General-TV-1.jpg","url": "https://nhk1.mov3.co/hls/nhk.m3u8"},
+
+{"name":"フジテレビ",image:"https://inboundnavi.jp/wp-content/uploads/2016/04/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93-%E3%83%AD%E3%82%B4.png","url": "https://fujitv1.mov3.co/hls/fujitv.m3u8"},
+
 
 ]
 }
