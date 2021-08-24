@@ -28,6 +28,8 @@
 
 {"name": "BOO","image": "https://www.rapidtvnews.com/images/2018/05/Boo-horror-Channel_-_3_May_2018.jpg","url": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"},
 
+{"name":"FOX Movies","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png","url": "https://we-play.live/watching/tv/fox-movies"},
+
 
 ]
 }
