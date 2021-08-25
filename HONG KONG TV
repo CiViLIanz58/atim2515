@@ -38,11 +38,11 @@
 
 {"name":"HKS TV",image:"https://www.tvchinese.net/uploads/tv/hkstv.jpg","url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"},
 
-{"name":"Now新聞",image:"https://news.now.com/revamp2014/images/logo.png","url": "#http://teslagram.com/live/channel_332.m3u8,"url":http://livetv.dnsfor.me:80/channel.4.m3u8"},
+{"name":"Now新聞",image:"https://news.now.com/revamp2014/images/logo.png","url": "#http://teslagram.com/live/channel_332.m3u8 http://livetv.dnsfor.me:80/channel.4.m3u8"},
 
 {"name":"C+頻道",image:"https://i.imgur.com/PtG4GsH.jpg","url": "http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8"},
 
-{"name":"有線18台",image:"https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png","url": "#rtmp://59.124.75.130/sat/hk042,"url":rtmp://161.202.204.248:1935/sat/hk042"},
+{"name":"有線18台",image:"https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png","url": "#rtmp://59.124.75.130/sat/hk042 rtmp://161.202.204.248:1935/sat/hk042"},
 
 {"name":"TVB JADE",image:"https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429","url": "http://185.207.176.189:8080/channels/tv-81/playlist.m3u8"},
 
@@ -50,7 +50,7 @@
 
 {"name":"VIU TV SIX",image:"http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg","url": "http://185.207.176.189:8080/channels/tv-96/playlist.m3u8"},
 
-{"name":"Now Sports Prime",image:"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_425_305","url": "http://livetv.dnsfor.me:80/channel.12.m3u8,"url":#http://teslagram.com/live/channel_630.m3u8"},
+{"name":"Now Sports Prime",image:"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_425_305","url": "http://livetv.dnsfor.me:80/channel.12.m3u8 #http://teslagram.com/live/channel_630.m3u8"},
 
 {"name":"東網直播1台",image:"https://yt3.ggpht.com/ytc/AKedOLT0sTjIHTwauGGe3klRYrmN301gLL_X5nVoDNd3Ig=s900-c-k-c0x00ffffff-no-rj","url": "https://streamw-az-news3.on.cc/video/playlist720p.m3u8"},
 
