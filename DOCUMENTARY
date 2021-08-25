@@ -9,6 +9,52 @@
     
     
 {"name":"Animal Planet",image:"https://www.exchange4media.com/news-photo/98083-Planet.jpg","url": "https://wacth.tv/tv-player/animal-planet.html"},
+
+{"name":"Discovery Asia",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/2560px-Discovery_Asia_logo.svg.png","url": "https://we-play.live/watching/tv/discovery-asia"},
+
+{"name":"Discovery",image:"https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png","url": "https://we-play.live/watching/tv/discovery-channel"},
+
+{"name":"History",image:"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_247.png?itok=uDhBoR91","url": "https://we-play.live/watching/tv/history-hd"},
+
+{"name":"National Geographic",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png","url": "https://we-play.live/watching/tv/national-geographic"},
+
+{"name":"Nat Geo Wild",image:"https://i.pinimg.com/originals/0e/1b/89/0e1b89a4f2fa743ddf63c661eac2d2c3.jpg","url": "https://we-play.live/watching/tv/nat-geo-wild"},
+
+{"name":"ทรูปลูกปัญญา",image:"http://www.trueplookpanya.com/new/cutcenter/re/600/400/2013-hash_thumbnail-1373-25373/thumbnail_141253732961.png","url": "http://www.trueplookpanya.com/new/tv_live/"},
+
+{"name":"Pluto TV Animals",image:"https://pbs.twimg.com/media/ElhFU6zUYAAm-tS.jpg:large","url": "http://player.teleon.tv/us/channel/pluto-tv-animals-us"},
+
+{"name":"Pluto TV Biography",image:"https://pbs.twimg.com/media/EUImmB2XgAMsUy1.jpg","url": "http://player.teleon.tv/us/channel/pluto-tv-biography-uk"},
+
+{"name":"TRUE EXPLORE SCI",image:"https://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-expsci"},
+
+{"name":"TRUE EXPLORE LIFE",image:"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png&w=320&h=240","url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-explife"},
+
+{"name":"Cold Case Files",image:"https://upload.wikimedia.org/wikipedia/en/7/7e/Coldcasefiles.jpg","url": "http://player.teleon.tv/us/channel/cold-case-files-us"},
+
+{"name":"Docs Channel",image:"https://image.roku.com/developer_channels/prod/37e07bd99ce064e4927f75ae22de3a6b9d2189374624cdded839ba5976e25931.png","url": "http://player.teleon.tv/us/channel/docs-channel-us"},
+
+{"name":"DocuBay TV",image:"https://play-lh.googleusercontent.com/Z5YSBzoAXVeBY4DsMSOM8HrIZmssN9SjQIWZubUwSkzX8k-6gtsDdLk_e-DAAWkgDkQ=h500","url": "https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8"},
+
+{"name":"History Channel Best of",image:"https://cdn.freebiesupply.com/logos/thumbs/2x/history-channel-logo.png","url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8"},
+
+{"name":"Local Now Discover",image:"https://image.roku.com/developer_channels/prod/b4e8385b18098ab1a09bb81760ef44835c59464fb807e0a27c926acc5003fa71.png","url": "https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8"},
+
+{"name":"H2",image:"https://cms.dmpcdn.com/livetv/2017/10/18/64a7b379-e7f9-4a12-b978-08fd58bd8f09.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-history2"},
+
+{"name":"True Explore Wild",image:"https://f.ptcdn.info/334/056/000/p4ow9vaci97tTpCwuD0-o.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-natgeowild"},
+
+{"name":"NASA TV",image:"https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png","url": "http://player.teleon.tv/us/channel/nasa-tv"},
+
+{"name":"KweliTV",image:"https://a.jsrdn.com/hls/22870/kwelitv/thumbv_20200812_053207.jpg","url": "https://www.distro.tv/live/kwelitv"},
+
+{"name":"Documentary+",image:"https://a.jsrdn.com/hls/22943/documentary/thumbv_20210316_230445.jpg","url": "https://www.distro.tv/live/documentary"},
+
+{"name":"Titanic TV",image:"https://d14c63magvk61v.cloudfront.net/hls/22719/titanic-tv/thumbv_20200717_232723.jpg","url": "https://www.distro.tv/live/titanic-tv"},
+
+{"name":"Sword & Shield",image:"https://d14c63magvk61v.cloudfront.net/hls/22808/sword-1/thumbv_20200714_212032.jpg","url": "https://www.distro.tv/live/sword-1"},
+
+{"name":"Sightline",image:"https://a.jsrdn.com/hls/22930/sightline/thumbv_20210113_003937.jpg","url": "https://www.distro.tv/live/sightline"},
     
 ]
 }
