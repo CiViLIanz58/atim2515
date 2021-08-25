@@ -55,6 +55,8 @@
 {"name":"TVB Pearl",image:"http://images2.wikia.nocookie.net/__cb20120913123458/evchk/images/d/d2/TVB_Pearl.png","url": "http://185.207.176.189:8080/channels/tv-84/playlist.m3u8"},
 
 {"name":"TVB Finance & Information",image:"http://fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg","url": "http://185.207.176.189:8080/channels/tv-85/playlist.m3u8"},
+
+{"name":"RTHK31",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png","url": "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8"},
     
 ]
 }
