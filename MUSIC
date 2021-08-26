@@ -113,6 +113,72 @@
 {"name":"Recuerdos Retro",image:"https://recuerdosretro.com/radio/wp-content/uploads/2019/09/cropped-logo_new_web10.png","url": "https://www.nettvpro.live/en/play.php?aid=10703"},
 
 {"name":"VIVA",image:"https://upload.wikimedia.org/wikipedia/commons/9/9e/VIVA_Germany_logo.jpg","url": "http://infoua.biz/en/tvchannels/music/735"},
+
+{"name":"RU TV",image:"https://mir-s3-cdn-cf.behance.net/project_modules/1400/eab8f822017729.5630b43dde9e3.jpg","url": "http://infoua.biz/en/tvchannels/music/411"},
+
+{"name":"OCKO STAR TV",image:"https://live-tv-channels.org/pt-data/uploads/logo/cz-ocko-star-6827.jpg","url": "http://infoua.biz/en/tvchannels/music/43"},
+
+{"name":"PORTAL FOXMIX",image:"http://www.portalfoxmix.cl/radioenvivo/images/recta-pfm-tv.png","url": "http://infoua.biz/en/tvchannels/music/166"},
+
+{"name":"1HD MUSIC TELEVISION",image:"https://it.live-tv-channels.org/pt-data/uploads/logo/ru-1hd-music-6104.jpg","url": "http://infoua.biz/en/tvchannels/music/352"},
+
+{"name":"AIVA",image:"https://t.x-tk.ru/st/4/tv-kanal-aiva.gif","url": "http://infoua.biz/en/tvchannels/music/786"},
+
+{"name":"Страна FM",image:"https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/bd/5f/bb/bd5fbb5a-c3c7-c004-1fb3-6d399b479900/source/200x200bb.jpg","url": "http://infoua.biz/en/tvchannels/music/566"},
+
+{"name":"HITS 360 HD",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPR9e8-pxURlzo5QXOHN_U6MaMFSbbxc_ZeviRexpfSd8KRSvYpoS9-n0ZZT-bB1swXw&usqp=CAU","url": "http://infoua.biz/en/tvchannels/music/546"},
+
+{"name":"M2",image:"https://static.wikia.nocookie.net/logopedia/images/c/cd/M2.jpg/revision/latest?cb=20150808200635","url": "http://infoua.biz/en/tvchannels/music/318"},
+
+{"name":"XITE",image:"https://www.emerce.nl/content/uploads/2017/07/348381ad-5f5d-4203-8192-e9e2e60c24d4.jpg","url": "http://infoua.biz/en/tvchannels/music/476"},
+
+{"name":"OCKO TV",image:"https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%93%C4%8Dko_logo_2012.png","url": "http://infoua.biz/en/tvchannels/music/33"},
+
+{"name":"OCKO EXPRES TV",image:"https://live-tv-channels.org/pt-data/uploads/logo/cz-ocko-expres-6319.jpg","url": "http://infoua.biz/en/tvchannels/music/42"},
+
+{"name":"CONTACT VISION",image:"https://cdn-profiles.tunein.com/s10227/images/logog.png","url": "http://infoua.biz/en/tvchannels/music/486"},
+
+{"name":"M2O TV",image:"https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png","url": "http://infoua.biz/en/tvchannels/music/516"},
+
+{"name":"RADIO CAPITAL TV",image:"https://www.capital.it/wp-content/themes/network-capital/img/logo_capital_1024x1024.png","url": "http://infoua.biz/en/tvchannels/music/420"},
+
+{"name":"Stingray Djazz",image:"https://upload.wikimedia.org/wikipedia/commons/1/14/Stingray_Djazz.png","url": "https://stirr.ott-channels.stingray.com/djazz/master.m3u8"},
+
+{"name":"The COUNTRY Network",image:"https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png","url": "https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TCN-RAD/playlist.m3u8"},
+
+{"name":"COUNTRY MUSIC ENTERTAINMENT",image:"https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2021-02/country-music-entertainment-255px.jpg?itok=YGTfos8x","url": "https://www.countrymusicentertainment.com/watch-live"},
+
+{"name":"MTV Love",image:"https://www.itizaps.net/zapper/logo/b/mtv-love.png","url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=8ad1&deviceDNT=0&deviceModel=0"},
+
+{"name":"V2 BEAT",image:"https://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-1.png","url": "https://abr.de1se01.v2beat.live/playlist.m3u8"},
+
+{"name":"GO TV",image:"https://imageresizer.static9.net.au/HDSeR58oE6Ia1CVL3vGcKvTSaYo=/1920x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png","url": "https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/.m3u8"},
+
+{"name":"LIVE X LIVE TV",image:"https://cdn.livexlive.com/s=3.1.450/images/logos/LXL-Logo-Color-Social.png","url": "https://livexlive2.akamaized.net/hls/live/2013184/linear_1/master.m3u8"},
+
+{"name":"SPIRIT",image:"https://media.cptv.org/wp-content/uploads/2018/11/logo-spirit1.png","url": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8"},
+
+{"name":"VH1",image:"https://upload.wikimedia.org/wikipedia/commons/2/27/VH1_2020.png","url": "https://www.nettvpro.live/en/play.php?aid=4933"},
+
+{"name":"Zapping Music",image:"http://tv-online.cl/zapping-music-en-vivo.jpg?210107074116","url": "https://www.nettvpro.live/en/play.php?aid=10624"},
+
+{"name":"ท็อปไลน์ทีวี",image:"https://img.discogs.com/e2xrTZ252SwHykQt3yNRhfLPwzM=/fit-in/600x478/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/L-760860-1416055901-2641.jpeg.jpg","url": "http://toplinetv.com/"},
+
+{"name":"MTV Hits Europe",image:"https://i.imgur.com/PN1wjtJ.jpeg","url": "http://188.40.68.167/russia/mtv_hits/playlist.m3u8"},
+
+{"name":"MusicTop",image:"https://www.diario26.com/images/musictop_logo.png?3","url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"},
+
+{"name":"NOW 7Os",image:"https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/12/NOW-70S-1.png","url": "https://lightningnow70-samsungau.amagi.tv/playlist.m3u8"},
+
+{"name":"NOW 80s",image:"https://media.info/i/lf/300/1487529852/1546.png","url": "https://lightningnow80-samsungau.amagi.tv/playlist.m3u8"},
+
+{"name":"NOW 90s",image:"https://i2.wp.com/assets.tvplayer.com/common/logos/256/Colour/226.png","url": "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8"},
+
+{"name":"The Box",image:"https://s3.eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2013/10/FINAL_LOGO_THE_BOX-1002x708.jpg","url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/"},
+
+{"name":"MIX TV",image:"https://docs.google.com/uc?export=download&id=1Ve18SNHd0sFhUKQ7Fplnc6V3BXTl9ybE","url": "http://freelive2.inwstream.com:1935/freelive-edge/mixtv.stream/playlist.m3u8"},
+
+{"name":"Loop Hottest",image:"https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/landing_page/cover_photo/128245/d0c7850840265b1f1b1c2a72cb80629e.jpg","url": "https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8"},
     
 ]
 }
