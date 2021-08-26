@@ -77,6 +77,42 @@
 {"name":"Deutsches Musik Fernsehen",image:"https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_Deutsches_Musik_Fernsehen_HD.png","url": "https://tv.artcom-venture.de/dmf/tv_720.m3u8"},
 
 {"name":"Juice TV",image:"https://www.themusic.co.nz/images/57144/juicetv.jpg","url": "https://i.mjh.nz/nz/tv.juice.m3u8"},
+
+{"name":"VEVO 2K",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8"},
+
+{"name":"VEVO Country",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8"},
+
+{"name":"VEVO Hip Hop",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8"},
+
+{"name":"VEVO Latino",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8"},
+
+{"name":"VEVO R&B",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8"},
+
+{"name":"Vevo 80s",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows"},
+
+{"name":"Vevo Holiday",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8"},
+
+{"name":"Vevo Pop",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows"},
+
+{"name":"Vevo Pop England",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8"},
+
+{"name":"Local Now Music",image:"https://image.roku.com/developer_channels/prod/b4e8385b18098ab1a09bb81760ef44835c59464fb807e0a27c926acc5003fa71.png","url": "https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8"},
+
+{"name":"VH1-Love and Hip Hop",image:"https://pbs.twimg.com/media/E1wetGmWUAMpEW2.jpg","url": "http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"},
+
+{"name":"Retro Music TV",image:"https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png","url": "http://player.teleon.tv/us/channel/retro-music-tv"},
+
+{"name":"MTV Dating",image:"https://images.pluto.tv/channels/5ca6899a37b88b269472ea4b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur","url": "http://player.teleon.tv/us/channel/mtv-dating-us"},
+
+{"name":"MTV Latino",image:"https://adictosalatele.com/logos/mtvlatino.png","url": "http://player.teleon.tv/us/channel/mtv-latino-us"},
+
+{"name":"MTV The Challenge",image:"https://yt3.ggpht.com/ytc/AKedOLTHXaKv-qchv1F28nQ0qWh4NsnmXIpn7eiaHMNK=s900-c-k-c0x00ffffff-no-rj","url": "http://player.teleon.tv/us/channel/mtv-the-challenge-us"},
+
+{"name":"MTV Wild 'N Out",image:"https://dp6mhagng1yw3.cloudfront.net/entries/11th/11d5979d-cfbd-43e5-b784-51180f85a377.jpg","url": "http://player.teleon.tv/us/channel/mtv-wild-n-out-us"},
+
+{"name":"Recuerdos Retro",image:"https://recuerdosretro.com/radio/wp-content/uploads/2019/09/cropped-logo_new_web10.png","url": "https://www.nettvpro.live/en/play.php?aid=10703"},
+
+{"name":"VIVA",image:"https://upload.wikimedia.org/wikipedia/commons/9/9e/VIVA_Germany_logo.jpg","url": "http://infoua.biz/en/tvchannels/music/735"},
     
 ]
 }
