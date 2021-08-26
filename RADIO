@@ -9,6 +9,30 @@
     
     
 {"name":"ออนดิโอ เพลงไทยสากลเก่า",image:"https://www.tvjaa.com/storage/radio-channels/ondiothaiold.png","url": "https://radio.tvjaa.com/ondiothaiold"},
+
+{"name":"Stingray Greatest Hits",image:"https://image.xumo.com/v1/channels/channel/9999120/300x300.png?type=smartCast_channelTile","url": "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8"},
+
+{"name":"Stingray Hit List",image:"https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hit-list/thumbh_20200717_232723.jpg","url": "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8"},
+
+{"name":"Stingray Classic Rock",image:"https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-classic-rock/poster_20200717_232723.jpg","url": "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8"},
+
+{"name":"Stingray Rock Alternative",image:"https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-rock-alternative/thumbh_20200717_232723.jpg","url": "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8"},
+
+{"name":"Stingray Pop Adult",image:"https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-pop-adult/poster_20200717_232723.jpg","url": "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8"},
+
+{"name":"Stingray Urban Beat",image:"https://mediafile.galaxie.ca/data/000/111/505/000111505539","url": "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8"},
+
+{"name":"Stingray Hot Country",image:"https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hot-country/poster_20200717_232723.jpg","url": "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8"},
+
+{"name":"Stingray Flashback 70s",image:"https://mediafile.galaxie.ca/data/000/111/416/000111416920","url": "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8"},
+
+{"name":"Stingray Everything 80s",image:"https://mediafile.galaxie.ca/data/000/111/416/000111416831","url": "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8"},
+
+{"name":"Stingray Today's Latin Pop",image:"https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/thumbh_20200717_232723.jpg","url": "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8"},
+
+{"name":"Stingray Soul Storm",image:"https://image.xumo.com/v1/channels/channel/9999121/800x800.png?type=smartCast_channelTile","url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8"},
+
+{"name":"Stingray Naturescape",image:"https://i.ytimg.com/vi/eUm7mEOGWHQ/maxresdefault.jpg","url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8"},
     
 ]
 }
