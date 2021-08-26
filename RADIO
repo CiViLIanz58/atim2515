@@ -33,6 +33,44 @@
 {"name":"Stingray Soul Storm",image:"https://image.xumo.com/v1/channels/channel/9999121/800x800.png?type=smartCast_channelTile","url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8"},
 
 {"name":"Stingray Naturescape",image:"https://i.ytimg.com/vi/eUm7mEOGWHQ/maxresdefault.jpg","url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8"},
+
+{"name":"COOL fahrenheit",image:"https://www.coolism.net/2021/cover_share1200x800px.jpg","url": "https://radio.tvjaa.com/COOL%20fahrenheit"},
+
+{"name":"Chill Online",image:"https://ime.atimeonline.com/img/chillonline/Logo_1080x1080.jpg","url": "https://radio.tvjaa.com/chillonline"},
+
+{"name":"EFM 104.5",image:"https://brandage.com/images/content/1D12374-27A7636-054B30F.png","url": "https://radio.tvjaa.com/efm"},
+
+{"name":"GREENWAVE 106.5",image:"https://greenwave.atimeonline.com/2018/images/share/default.jpg","url": "https://radio.tvjaa.com/greenwave"},
+
+{"name":"MET 107 FM",image:"https://www.met107.fm/data/media/3735/C3A3ED5D-5C3C-475F-9E3F-0B059CC91766.jpeg","url": "https://radio.tvjaa.com/met107"},
+
+{"name":"Active FM 99 คลื่นเมืองไทยแข็งแรง",image:"https://www.khaosod.co.th/wpapp/uploads/2019/09/1508902881993-960x0.jpg","url": "https://radio.tvjaa.com/fm99activeradio"},
+
+{"name":"FM 96.5 คลื่นความคิด เข้มทุกสาระ ข้นทุกความคิด",image:"https://thinkingradio.mcot.net/static/img/fm-965-logo.png","url": "https://radio.tvjaa.com/965fm"},
+
+{"name":"MCOT News Network คลื่นข่าว FM 100.5",image:"https://mytuner.global.ssl.fastly.net/media/tvos_radios/kZfaeWupWQ.jpeg","url": "https://radio.tvjaa.com/mcotfm1005"},
+
+{"name":"MELLOW 97.5 ดีต่อคุณ ดีต่อใจ",image:"https://static.mytuner.mobi/media/tvos_radios/geZgfjMRxE.jpg","url": "https://mellow975.mcot.net/home"},
+
+{"name":"FM95 ลูกทุ่งมหานคร",image:"https://i.pinimg.com/originals/90/e3/27/90e32721c941540ebf6eaab473ef97ba.jpg","url": "https://radio.tvjaa.com/fm95"},
+
+{"name":"Flex 104.5",image:"https://www.flexstation.net/uploads/16134634950.jpg","url": "https://radio.tvjaa.com/flex1045"},
+
+{"name":"City Radio Pattaya 90.25 FM",image:"https://mytuner.global.ssl.fastly.net/media/tvos_radios/vBjbAq89jv.png","url": "https://radio.tvjaa.com/cityradio"},
+
+{"name":"GREAT 93",image:"https://www.tvjaa.com/storage/radio-channels/great93fm.png","url": "https://radio.tvjaa.com/great93"},
+
+{"name":"FM ONE 103.5",image:"https://pbs.twimg.com/profile_images/1252083860151521280/6e3F3_gu.jpg","url": "https://radio.tvjaa.com/fmone1035"},
+
+{"name":"MUSICBOX MAXIMUM MUSIC STATION",image:"https://i.imgur.com/F4Hy4ef.png","url": "https://radio.tvjaa.com/maximummusicbox"},
+
+{"name":"IRC Radio",image:"https://www.tvjaa.com/storage/radio-channels/ircradio.png","url": "https://radio.tvjaa.com/ircradio"},
+
+{"name":"FM 101 Radio Report One",image:"https://www.tvjaa.com/storage/radio-channels/fm101.png","url": "https://radio.tvjaa.com/fm101"},
+
+{"name":"103 Like Station Happy Station",image:"https://www.tvjaa.com/storage/radio-channels/like103fm.png","url": "https://radio.tvjaa.com/like103fm"},
+
+{"name":"จส.100",image:"https://www.tvjaa.com/storage/radio-channels/js100.png","url": "https://radio.tvjaa.com/js100"},
     
 ]
 }
