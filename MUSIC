@@ -144,8 +144,6 @@
 
 {"name":"Stingray Djazz",image:"https://upload.wikimedia.org/wikipedia/commons/1/14/Stingray_Djazz.png","url": "https://stirr.ott-channels.stingray.com/djazz/master.m3u8"},
 
-{"name":"The COUNTRY Network",image:"https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png","url": "https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TCN-RAD/playlist.m3u8"},
-
 {"name":"COUNTRY MUSIC ENTERTAINMENT",image:"https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2021-02/country-music-entertainment-255px.jpg?itok=YGTfos8x","url": "https://www.countrymusicentertainment.com/watch-live"},
 
 {"name":"MTV Love",image:"https://www.itizaps.net/zapper/logo/b/mtv-love.png","url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=8ad1&deviceDNT=0&deviceModel=0"},
