@@ -177,6 +177,8 @@
 {"name":"MIX TV",image:"https://docs.google.com/uc?export=download&id=1Ve18SNHd0sFhUKQ7Fplnc6V3BXTl9ybE","url": "http://freelive2.inwstream.com:1935/freelive-edge/mixtv.stream/playlist.m3u8"},
 
 {"name":"Loop Hottest",image:"https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/landing_page/cover_photo/128245/d0c7850840265b1f1b1c2a72cb80629e.jpg","url": "https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8"},
+
+{"name":"The COUNTRY Network",image:"https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png","url": "https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TCN-RAD/playlist.m3u8"},
     
 ]
 }
