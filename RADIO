@@ -95,6 +95,34 @@
 {"name":"ดนตรีสีสัน Modern9875",image:"https://www.tvjaa.com/storage/radio-channels/modern9875.png","url": "https://radio.tvjaa.com/modern9875"},
 
 {"name":"Smile Radio FM 95.25",image:"https://www.tvjaa.com/storage/radio-channels/smile9525.png","url": "https://radio.tvjaa.com/smile9525"},
+
+{"name":"คลื่นเพื่อการอนุลักษณ์ 104.75 FM อนุรักษ์เรดิโอ",image:"https://www.tvjaa.com/storage/radio-channels/10475radio.png","url": "https://radio.tvjaa.com/10475radio"},
+
+{"name":"ลูกทุ่งเน็ตเวิร์ก",image:"https://yt3.ggpht.com/ytc/AKedOLThfCiwNaFtyUSbLRbAvB1gxqXUjXTbTLTftMF2kQ=s900-c-k-c0x00ffffff-no-rj","url": "http://www.looktung.net/play"},
+
+{"name":"อีสาน เอฟ.เอ็ม.",image:"http://www.isanfm.com/images/Cover20210315.jpg","url": "http://www.isanfm.com/"},
+
+{"name":"MBC FM",image:"https://static.tuneyou.com/images/logos/500_500/80/7880/MBCFM103.0.png","url": "https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8"},
+
+{"name":"Sukson Radio เพลงไทยสากล",image:"https://www.tvjaa.com/storage/radio-channels/sukson.png","url": "https://radio.tvjaa.com/sukson"},
+
+{"name":"Request Radio สถานีฟังเพลงออนไลน์ ฟังเพลงไทยสตริงเพราะๆ 24 ชั่วโมง อันดับ 1 ของประเทศไทย",image:"https://www.tvjaa.com/storage/radio-channels/request.png","url": "https://radio.tvjaa.com/requestradio"},
+
+{"name":"Request Radio เพลงลูกทุ่ง สถานีฟังเพลงออนไลน์ ฟังเพลงไทยลูกทุ่งเพราะๆ 24 ชั่วโมง อันดับ 1 ของประเทศไทย",image:"https://www.tvjaa.com/storage/radio-channels/request.png","url": "https://radio.tvjaa.com/requestlooktung"},
+
+{"name":"Request Radio เพลงเพื่อชีวิต สถานีฟังเพลงออนไลน์ ฟังเพลงเพื่อชีวิตเพราะๆ 24 ชั่วโมง อันดับ 1 ของประเทศไทย",image:"https://www.tvjaa.com/storage/radio-channels/request.png","url": "https://radio.tvjaa.com/requestlife"},
+
+{"name":"Request Radio เพลงสากล สถานีฟังเพลงออนไลน์ ฟังเพลงสากลเพราะๆ 24 ชั่วโมง อันดับ 1 ของประเทศไทย",image:"https://www.tvjaa.com/storage/radio-channels/request.png","url": "https://radio.tvjaa.com/requestinter"},
+
+{"name":"Request Radio เพลงแดนซ์ สถานีฟังเพลงออนไลน์ ฟังเพลงแดนซ์ สนุกมันส์ๆ 24 ชั่วโมง อันดับ 1 ของประเทศไทย",image:"https://www.tvjaa.com/storage/radio-channels/request.png","url": "https://radio.tvjaa.com/requestdance"},
+
+{"name":"MUSICHITz เพลงไทยสากล ยอดนิยม",image:"https://www.tvjaa.com/storage/radio-channels/musichitzthai.png","url": "https://radio.tvjaa.com/musichitzthai"},
+
+{"name":"MUSICHITz เพลงลูกทุ่ง เพื่อชีวิต ยอดนิยม",image:"https://www.tvjaa.com/storage/radio-channels/musichitzlife.png","url": "https://radio.tvjaa.com/musichitzlife"},
+
+{"name":"MUSICHITz เพลงสากล ยอดนิยม",image:"https://www.tvjaa.com/storage/radio-channels/musichitzinter.png","url": "https://radio.tvjaa.com/musichitzinter"},
+
+{"name":"ONDIO เพลงไทยสากลใหม่",image:"https://www.tvjaa.com/storage/radio-channels/ondiothainew.png","url": "https://radio.tvjaa.com/ondiothainew"},
     
 ]
 }
