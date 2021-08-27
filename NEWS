@@ -9,6 +9,24 @@
     
     
 {"name":"Nation TV",image:"https://news.thaipbs.or.th/media/G0DL5oPyrtt5HBAi37NuFK8tsbTlxbLewTkhPqB9B7AfNUFmlb5PXt.jpg","url": "https://we-play.live/watching/tv/nationtv"},
+
+{"name":"TNN24",image:"https://cdn.baania.com/b10/article/4018/photo/3414471.jpg","url": "https://www.tnnthailand.com/live/"},
+
+{"name":"TOP News",image:"https://images.topnews.co.th/2021/04/cropped-topnews-logo.png","url": "https://www.adintrend.tv/hd/ch40?t=live"},
+
+{"name":"CNN",image:"https://deadline.com/wp-content/uploads/2020/09/CNN-Logo.jpg?w=1000","url": "https://we-play.live/watching/tv/cnn"},
+
+{"name":"VOICE TV",image:"https://yt3.ggpht.com/ytc/AAUvwniZOsjMBK_TZs0hbTpLZ-aiLa1NPbAuF9szViacWHs=s900-c-k-c0x00ffffff-no-rj","url": "https://voicetv.co.th/watch"},
+
+{"name":"Aljazeera",image:"https://i.pinimg.com/originals/11/6e/d8/116ed80f298c8ee40551e9291a2273f6.png","url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"},
+
+{"name":"Channel News Asia",image:"https://personalexcellence.co/files/channel-news-asia-logo.jpg","url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"},
+
+{"name":"BLOOMBERG",image:"https://1000logos.net/wp-content/uploads/2017/08/Bloomberg-log%D0%BE.jpg","url": "https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8"},
+
+
+
+
     
 ]
 }
