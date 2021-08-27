@@ -40,7 +40,7 @@ https://we-play.live/watching/tv/fox-life
 https://we-play.live/watching/tv/hits-movies
  
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.we-play.live/uploads/posters/-poster1602704689.jpeg",ช่อง HITS
-http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+https://we-play.live/watching/tv/hits
  
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_320.png",ช่อง True FILM ASIA
 https://wacth.tv/tv-player/true-film-asia.html
@@ -4221,6 +4221,9 @@ http://oxax.tv/penthouse-2.html
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png",ช่อง FOX Movies
 https://we-play.live/watching/tv/fox-movies
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://2.bp.blogspot.com/-Ff3gpk6V5x8/WkWQWSV_nLI/AAAAAAAABXs/VAEVNsZdjgYSRrJ5dWzCOWSHxl9T8InfwCLcBGAs/s400/True-Thai-Film.png",ช่อง True Thai Film
+https://we-play.live/watching/tv/true-thai-film
 
 
 
