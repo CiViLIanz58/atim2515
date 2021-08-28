@@ -9,6 +9,132 @@
     
     
 {"name":"SANOOK",image:"https://www.dropbox.com/s/bgdpruavl0z1ez2/lVgd2n.png?dl=1","url": "https://cdn6.goprimetime.info/feed/202105171329/LC53/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{"name":"Aniplus",image:"https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555","url": "https://we-play.live/watching/tv/aniplus"},
+
+{"name":"BabyTV",image:"https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png","url": "https://we-play.live/watching/tv/babytv"},
+
+{"name":"Disney Channel",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1024px-Disney_Channel_logo_%282014%29.svg.png","url": "https://www.doofree88.com/live/disney-channel"},
+
+{"name":"Boomerang",image:"https://ih1.redbubble.net/image.522594639.7263/flat,800x800,075,f.u1.jpg","url": "https://ustvgo.tv/boomerang"},
+
+{"name":"FWTOON",image:"https://www.inwiptv.com/postor/20200512162950fw%20teletoon(1).jpg","url": "http://freelive.inwstream.com:1935/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8"},
+
+{"name":"CARTOON CLUB",image:"https://pbs.twimg.com/profile_images/1014060574571786240/Gk87hUF8_400x400.jpg","url": "https://www.adintrend.tv/hd/ch31?t=live"},
+
+{
+"name": "TOONEE",  
+"image": "https://cms.dmpcdn.com/livetv/2020/09/03/4c26a640-ede0-11ea-bbdd-775d9efe2958_320.png",  
+"url": "https://tv.trueid.net/embed/TOONEE",
+"referer": "https://tv.trueid.net/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{"name":"CONtv Anime",image:"https://user-prod-theta-tv.imgix.net/usr5dkr799v7s8tf6td/stream_thumb/1600373503954.contvanimelive_CONtvAnime_WebMain_1900x850_v1.jpg?w=720","url": "http://player.teleon.tv/us/channel/contv-anime-us"},
+
+{"name":"TokuSHOUTsu",image:"https://static.wikia.nocookie.net/kamenrider/images/3/37/TokuSHOUTsu_logo.png/revision/latest?cb=20200316163643","url": "http://player.teleon.tv/us/channel/tokushoutsu-us"},
+
+{"name":"Retro Crush",image:"https://i.pcmag.com/imagery/reviews/03Qx3rokUFhvyC5YyDnvqVT-1.1586275702.fit_lim.size_1050x591.png","url": "https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8"},
+
+{"name":"Anime All Day",image:"https://pbs.twimg.com/media/DNF0_cvV4AAiVVv.jpg","url": "http://player.teleon.tv/us/channel/anime-all-day-us"},
+
+{"name":"After School Cartoons",image:"https://corporate.pluto.tv/wp-content/uploads/2016/06/after-school-cartoons-channel-feature.jpg","url": "http://player.teleon.tv/us/channel/after-school-cartoons-us"},
+
+{"name":"LEGO",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/1024px-LEGO_logo.svg.png","url": "https://legochannel-roku.amagi.tv/playlist.m3u8"},
+
+{"name":"TOON GOGGLES",image:"https://images-na.ssl-images-amazon.com/images/I/81j8DgLstPL.png","url": "https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8"},
+
+{"name":"TRUE SPARK PLAY",image:"https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-sparkplay"},
+
+{"name":"TRUE SPARK JUMP",image:"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2F30cb13b7-d265-44f7-9ad4-55395469bb0a.png&w=320&h=240","url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-sparkjump"},
+
+{"name":"NICKELODEON",image:"https://i.pinimg.com/originals/f9/6d/1d/f96d1d0ec92f736189b230d2b3091beb.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-nickelodeon"},
+
+{"name":"Supertoons TV",image:"https://supertoons.bg/wp-content/uploads/2021/03/Landing-Page-Image-2021-1200x675.png","url": "https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8"},
+
+{"name":"DISNEY JUNIOR",image:"https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738","url": "https://ustvgo.tv/disneyjr/"},
+
+{"name":"DISNEY XD",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png","url": "https://ustvgo.tv/disneyxd/"},
+
+{"name":"DAVINCI",image:"https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png","url": "https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8"},
+
+{"name":"ANIME ALL AGES",image:"https://i.ytimg.com/vi/IG2xdMBkFMU/maxresdefault.jpg","url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5be4c6311843b56328bce619&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"},
+
+{"name":"TELETUBBIES",image:"https://i.pinimg.com/originals/64/bd/c8/64bdc845164291d63354a6af537209b1.jpg","url": "https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8"},
+
+{"name":"GEM KIDS",image:"https://live-tv-channels.org/pt-data/uploads/logo/us-gem-kids-1346.jpg","url": "https://www.gemonline.tv/en-US/Live/Index?channelname=gemkids"},
+
+{"name":"GEM JUNIOR",image:"https://live-tv-channels.org/pt-data/uploads/logo/ae-gem-junior-9025.jpg","url": "https://www.gemonline.tv/en-US/Live/Index?channelname=gemjunior"},
+
+{"name":"NARUTO",image:"https://i1.wp.com/www-animeherald-com.exactdn.com/wp-content/uploads/2019/11/Naruto-Pluto-TV-Visual-001-20191117.jpg?resize=810%2C456&ssl=1","url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=836&deviceId=5da0c85bd2c9c10009370984&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"},
+
+{"name":"MONICA GANG",image:"https://simkl.in/fanart/28/2841520bcec61706b_w.jpg","url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=719&deviceId=5f997e44949bc70007a6941e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false"},
+
+{"name":"KURIAKOS KIDS",image:"https://static.wikia.nocookie.net/logopedia/images/3/33/Kurikos.png/revision/latest?cb=20180801205146","url": "http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8"},
+
+{"name":"LALE",image:"https://detector.media/doc/images/news/archive/2016/120771/i75_ArticleImage_120771.jpg?t=1479733783","url": "http://stream.atr.ua/lale//live/index.m3u8"},
+
+{"name":"SPACE TOON",image:"https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png","url": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8"},
+
+{"name":"MoonBug Kids",image:"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/moonbug_kids_on_white.png","url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8"},
+
+{"name":"Mario vs Sonic TV",image:"https://static.wixstatic.com/media/b2b4bd_bdae9e12f77a43ea85763e1628387d8a~mv2_d_3120_1756_s_2.jpg/v1/fit/w_177,h_100,q_90/b2b4bd_bdae9e12f77a43ea85763e1628387d8a~mv2_d_3120_1756_s_2.jpg","url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f706cc00-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f353fea4-88e6-403f-bea8-499065e8bdfd&userId=&serverSideAds=true"},
+
+{"name":"Classic Toons TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDyW_IE_I1eOfOQ9ANBQ1YuKNtjQPG2YPWgi5zJyyXxFskfreF6dsckrueP3DAGHAf2ho&usqp=CAU","url": "http://player.teleon.tv/us/channel/classic-toons-tv-us"},
+
+{"name":"Comedy Central Animation",image:"https://bubbleblabber-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/Screenshot-2020-12-17-at-7.01.40-PM.png","url": "http://player.teleon.tv/us/channel/comedy-central-animation-us"},
+
+{"name":"Dora TV",image:"https://pbs.twimg.com/media/EpjIUiPUcAAPbIv.jpg","url": "http://player.teleon.tv/us/channel/dora-tv-us"},
+
+{"name":"External Ottera",image:"https://media.unreel.me/prod/bumblebeetv/general/f260a87a-ab75-43f7-bafd-49f4143262b0","url": "http://player.teleon.tv/us/channel/external-ottera-us"},
+
+{"name":"FGTV & Funnelvision",image:"https://cdn.shopify.com/s/files/1/0025/9722/4494/files/fg-category-tile-channels.png?v=1597766183","url": "http://player.teleon.tv/us/channel/fgtv-and-funnelvision-us"},
+
+{"name":"Kidoodle TV",image:"https://cdn.newswire.com/files/x/d6/14/6fda274f51e7c400846262c4eff9.png","url": "http://player.teleon.tv/us/channel/kidoodle-tv-us"},
+
+{"name":"KidsFlix",image:"https://images-na.ssl-images-amazon.com/images/I/51JTBFRWZoL.jpg","url": "http://player.teleon.tv/us/channel/kidsflix-us"},
+
+{"name":"Lego Toons",image:"https://tv.mobistream.co.za/uploads/jpg/e5c9886b2b6c22ca34138d7804119180.jpg","url": "http://player.teleon.tv/us/channel/lego-toons-us"},
+
+{"name":"Master Builders",image:"https://cdn.freebiesupply.com/logos/thumbs/2x/master-builders-logo.png","url": "http://player.teleon.tv/us/channel/master-builders-us"},
+
+{"name":"Amuse Animation",image:"https://static.wixstatic.com/media/45dcd0_3bc0967d31eb4530ae9835e194315987~mv2.jpg/v1/fill/w_400,h_400,al_c,lg_1,q_80/427707-5a15929449305.webp","url": "https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8"},
+
+{"name":"Nicktoons",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nicktoons_UK_logo_2005.svg/703px-Nicktoons_UK_logo_2005.svg.png","url": "https://ustvgo.tv/nicktoons/"},
+
+{"name":"Locomotion TV",image:"https://lookhu.tv/uploads/tv_image/locomotion-tv.jpg","url": "http://51.222.85.85:81/hls/loco/index.m3u8"},
+
+{"name":"One Piece",image:"https://pbs.twimg.com/media/EpTl9OfXUAE2YZC.jpg","url": "http://player.teleon.tv/us/channel/one-piece-us"},
+
+{"name":"Happy Kids Junior",image:"https://www.groundedreason.com/wp-content/uploads/2020/09/Happy-Kids-TV.png","url": "https://www.nettvpro.live/en/play.php?aid=10365"},
+
+{"name":"Happy Kids TV",image:"https://www.groundedreason.com/wp-content/uploads/2020/09/Happy-Kids-TV.png","url": "https://www.nettvpro.live/en/play.php?aid=10364"},
+
+{"name":"My Kids",image:"https://www.nettv.live/uploads/20/1-20101215403K03.jpg","url": "http://210.210.155.35/qwr9ew/s/s30/index2.m3u8"},
+
+{"name":"COCORO TV",image:"http://www.nettv.live/uploads/allimg/21/1-2104011122340-L.jpg","url": "https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/0b918128-2f30-42bb-8856-ccf9cff65009/3.m3u8"},
+
+{"name":"3ABN Kids",image:"https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg","url": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8"},
+
+{"name":"Kan Kids",image:"https://play-lh.googleusercontent.com/Q1Effi-Q5Z02L0WA3P9iCMXrJXyzVfWApbhmRjWuZ31kLoOh0O-j2gSMSegJ-zBX7is=s180-rw","url": "https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8"},
+
+{
+"name": "PBS KIDS",
+"image": "https://www.wxxi.org/sites/default/files/imagecache/medium_longside_scaled/images/highlights/pbskids_logo169.png",
+"url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8",
+"referer": "http://photocall.tv/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+
     
 ]
 }
