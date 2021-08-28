@@ -112,8 +112,6 @@
 
 {"name":"Happy Kids TV",image:"https://www.groundedreason.com/wp-content/uploads/2020/09/Happy-Kids-TV.png","url": "https://www.nettvpro.live/en/play.php?aid=10364"},
 
-{"name":"My Kids",image:"https://www.nettv.live/uploads/20/1-20101215403K03.jpg","url": "http://210.210.155.35/qwr9ew/s/s30/index2.m3u8"},
-
 {"name":"COCORO TV",image:"http://www.nettv.live/uploads/allimg/21/1-2104011122340-L.jpg","url": "https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/0b918128-2f30-42bb-8856-ccf9cff65009/3.m3u8"},
 
 {"name":"3ABN Kids",image:"https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/a1/03/93/a103938e-888f-31ed-c85d-0ed2ab8d6d55/source/512x512bb.jpg","url": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8"},
