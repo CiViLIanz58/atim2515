@@ -230,6 +230,171 @@
 
 {"name": "Classique TV","image": "https://ipgo.xyz/tv/classique/imagens/logo_classiqueTV_site.png" ,"url": "http://stmv2.srvstm.com/classique/classique/playlist.m3u8"},
 
+{"name": "DUST","image": "https://image.xumo.com/v1/channels/channel/9999292/300x300.png?type=smartCast_channelTile" ,"url": "https://dust-samsung-uk-de.samsung.wurl.com/manifest/playlist.m3u8"},
+
+{"name": "DUSTx","image": "https://variety.com/wp-content/uploads/2018/08/dustx-logo.jpg" ,"url": "https://dust.samsung.wurl.com/manifest/1200.m3u8"},
+
+{"name": "Fear This","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4fnpvUXphOUkeptxqmd58WN2_pEY6OgdTBoC7uY51oHgY3JA3Pwp2JqPuWFKPx2lmNjs&usqp=CAU" ,"url": "https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8"},
+
+{"name": "Fear This Classics","image": "https://f9q4g5j6.ssl.hwcdn.net/605d20ef2189b2698a380ff2/900" ,"url": "https://linear-153.frequency.stream/dist/localnow/153/hls/master/playlist.m3u8"},
+
+{"name": "Fear This Sci-Fi","image": "https://f9q4g5j6.ssl.hwcdn.net/60627a97603dcd03ae7ed472/200" ,"url": "https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8"},
+
+{"name": "Filmeraa","image": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/92/e0/e0/92e0e0a9-9378-f393-bcf8-62678db1ad88/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" ,"url": "https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8"},
+
+{"name": "Flix Fling Now","image": "https://pbs.twimg.com/profile_images/930901445171433472/uLZWlxVM.jpg" ,"url": "https://flixfling-flixflingnow-1.vizio.wurl.com/manifest/playlist.m3u8"},
+
+{"name": "Folk TV","image": "https://i.pinimg.com/originals/2d/a5/bb/2da5bb30d6ed67323d2068ee014aea7c.jpg" ,"url": "https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1786741766.m3u8"},
+
+{"name": "Grit","image": "https://cdn.tvpassport.com/image/station/240x135/grittv.png" ,"url": "https://bozztv.com/teleyupp/teleup-grit/tracks-v3a1/mono.m3u8"},
+
+{"name": "Hi-YAH","image": "https://i.ytimg.com/vi/N8sCpZCRhbY/maxresdefault.jpg" ,"url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8"},
+
+{"name": "Horrify","image": "https://mytvtogo.net/wp-content/uploads/2018/11/Network_HorrifiedTV-1.jpg" ,"url": "https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8"},
+
+{"name": "Horror Machine","image": "https://f9q4g5j6.ssl.hwcdn.net/605d16ea10396351a3042dd3/200" ,"url": "https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8"},
+
+{"name": "AMC","image": "https://variety.com/wp-content/uploads/2013/07/amc-logo.jpg?w=1000" ,"url": "https://ustvgo.tv/amc-live/"},
+
+{"name": "Bravo","image": "https://logotyp.us/files/png/bravo.png" ,"url": "https://ustvgo.tv/bravo-channel-live-free/"},
+
+{"name": "FX","image": "https://i.pinimg.com/originals/b8/ed/e8/b8ede872f580ca6021c4b10f7894c78d.jpg" ,"url": "https://ustvgo.tv/fx-channel-live/"},
+
+{"name": "FXM","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" ,"url": "https://ustvgo.tv/fxm/"},
+
+{"name": "FXX","image": "https://download.logo.wine/logo/FXX_(Canadian_TV_channel)/FXX_(Canadian_TV_channel)-Logo.wine.png" ,"url": "https://ustvgo.tv/fxx/"},
+
+{"name": "Hallmark Channel","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/1200px-Hallmark_Channel.svg.png" ,"url": "https://ustvgo.tv/hallmark-channel-live-streaming-free/"},
+
+{"name": "Hallmark Movies & Mysteries","image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" ,"url": "https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free/"},
+
+{"name": "VHS 90s","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/VHS_logo.svg/1200px-VHS_logo.svg.png" ,"url": "https://v2.catcast.tv/content/37925/index.m3u8"},
+
+{"name": "Local Now Comedy","image": "https://image.roku.com/developer_channels/prod/b4e8385b18098ab1a09bb81760ef44835c59464fb807e0a27c926acc5003fa71.png" ,"url": "https://linear-89.frequency.stream/dist/localnow/89/hls/master/playlist.m3u8"},
+
+{"name": "Local Now Drama","image": "https://image.roku.com/developer_channels/prod/b4e8385b18098ab1a09bb81760ef44835c59464fb807e0a27c926acc5003fa71.png" ,"url": "https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8"},
+
+{"name": "Local Now Movies of the 2000s","image": "https://image.roku.com/developer_channels/prod/b4e8385b18098ab1a09bb81760ef44835c59464fb807e0a27c926acc5003fa71.png" ,"url": "https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8"},
+
+{"name": "Local Now Movies of the 2010s","image": "https://image.roku.com/developer_channels/prod/b4e8385b18098ab1a09bb81760ef44835c59464fb807e0a27c926acc5003fa71.png" ,"url": "https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8"},
+
+{"name": "MBC Action","image": "http://livetve.com/video-elements/files/2009/10/MBC_Action.jpg" ,"url": "https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8"},
+
+{"name": "MBC Bollywood","image": "https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" ,"url": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"},
+
+{"name": "MBC Drama KSA","image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" ,"url": "https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8"},
+
+{"name": "MBC Drama USA","image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" ,"url": "https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index.m3u8"},
+
+{"name": "MBC Max","image": "https://mostaql.hsoubcdn.com/uploads/403850-rt9md-1589234660-5eb9cbe42ad67.png" ,"url": "https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8"},
+
+{"name": "MBC Plus Drama","image": "https://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png" ,"url": "https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8"},
+
+{"name": "Mission Impossible","image": "https://pbs.twimg.com/media/ErQNdV9UYAIRHal.jpg" ,"url": "http://player.teleon.tv/us/channel/mission-impossible-us"},
+
+{"name": "Novelas Drama","image": "https://pbs.twimg.com/media/EcVb6WeVAAEmO0A.jpg" ,"url": "http://player.teleon.tv/us/channel/novelas-drama-us"},
+
+{"name": "Novelas Romance","image": "https://pbs.twimg.com/media/EcVbhSMUEAEI9aW.jpg" ,"url": "http://player.teleon.tv/us/channel/novelas-romance-us"},
+
+{"name": "Novelas Thriller","image": "https://pbs.twimg.com/media/EcVbmZUUwAIouMO.jpg" ,"url": "http://player.teleon.tv/us/channel/novelas-thriller-us"},
+
+{"name": "Paramount+ Picks","image": "https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg?auto=format&fill=blur&fit=fill&ixlib=react-9.0.3&h=562&w=1024" ,"url": "http://player.teleon.tv/us/channel/paramount-us"},
+
+{"name": "FightTVplus","image": "https://spbtv.online/tafiimage_china/list_new/logo/fighttvplus.png" ,"url": "https://spbtv.online/channels/fight-tv-plus.html#autoplay"},
+
+{"name": "Classic Reruns TV","image": "https://a.jsrdn.com/hls/22956/classic-reruns-tv/thumbv_20210407_045846.jpg" ,"url": "https://www.distro.tv/live/classic-reruns-tv"},
+
+{"name": "Galxy TV","image": "https://a.jsrdn.com/hls/22915/galxy-tv/thumbv_20201029_013655.jpg" ,"url": "https://www.distro.tv/live/galxy-tv"},
+
+{"name": "Lone Star","image": "https://a.jsrdn.com/hls/22759/the-film-detective-2/thumbv_20200602_061207.jpg" ,"url": "https://www.distro.tv/live/lone-star"},
+
+{"name": "Christmas Classics","image": "https://a.jsrdn.com/hls/22882/christmas-classics/thumbv_20201215_013923.jpg" ,"url": "https://www.distro.tv/live/christmas-classics"},
+
+{"name": "Cinepride","image": "https://a.jsrdn.com/hls/22915/cinepride/thumbv_20201029_010625.jpg" ,"url": "https://www.distro.tv/live/cinepride"},
+
+{"name": "OML on Revry","image": "https://a.jsrdn.com/hls/22919/oml-on-revry/thumbv_20210312_090439.jpg" ,"url": "https://www.distro.tv/live/oml-on-revry"},
+
+{"name": "Watchit Scream!","image": "https://a.jsrdn.com/hls/22915/watchit-scream/thumbv_20201029_015603.jpg" ,"url": "https://www.distro.tv/live/watchit-scream"},
+
+{"name": "Frightflix","image": "https://a.jsrdn.com/hls/22915/frightflix/thumbv_20201029_013120.jpg" ,"url": "https://www.distro.tv/live/frightflix"},
+
+{"name": "The Grid","image": "https://a.jsrdn.com/hls/22886/the-grid/thumbv_20200811_062716.jpg" ,"url": "https://www.distro.tv/live/the-grid"},
+
+{"name": "Monster Movies","image": "https://image.roku.com/developer_channels/prod/4017b91b585fca313d9300498e3f80255fcb4bfba40840ade41b5a2009eb239c.png" ,"url": "https://wownow-monstermovies-1.vizio.wurl.com/manifest/playlist.m3u8"},
+
+{"name": "Movies 1","image": "https://sv1.picz.in.th/images/2021/03/20/DE5uWN.jpg" ,"url": "http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8"},
+
+{"name": "Movies 2","image": "https://sv1.picz.in.th/images/2021/03/20/DE526E.jpg" ,"url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8"},
+
+{"name": "Movies 3","image": "https://sv1.picz.in.th/images/2021/03/20/DE561V.jpg" ,"url": "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8"},
+
+{"name": "Wu Tang Collection","image": "https://images-eu.ssl-images-amazon.com/images/I/812nsBDmueL.png" ,"url": "http://player.teleon.tv/us/channel/wu-tang-collection-us"},
+
+{"name": "แอททีวี","image": "https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_320.png" ,"url": "https://www.dailymotion.com/embed/video/x80po5h?autoplay=1"},
+
+{"name": "มังกร","image": "https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png" ,"url": "https://www.dailymotion.com/embed/video/x80wbgj?autoplay=1"},
+
+{"name": "ดูนี่ทีวี","image": "https://mango.dooneetv.com/files/2021/1618819970_release.jpg" ,"url": "https://www.dailymotion.com/embed/video/x80po78?autoplay=1"},
+
+{"name": "Zee Mundo","image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Zee_Mundo_2018.png" ,"url": "https://bx-tv.com/zee-mundo-india-tv/"},
+
+{"name": "PopCornFlix Action","image": "https://i.pinimg.com/originals/9b/8b/c2/9b8bc2cb28833bf5ac2d15dfb3f3d717.png" ,"url": "https://bx-tv.com/popcornflix-action/"},
+
+{"name": "Wellness mark TV","image": "https://pbs.twimg.com/media/CzKfEPdUQAA3Qgh.jpg" ,"url": "https://cdn-th-vip.livestreaming.in.th/wizard/wizard/playlist.m3u8"},
+
+{"name": "Live Sky2","image": "https://my-iptv.org/cover/channels/live-sky-2-th.png" ,"url": "http://116.204.181.238:9981/stream/service/d45d7092c6efe2fe66bb004ae536964c"},
+
+{"name": "Live Sky3","image": "https://my-iptv.org/cover/channels/live-sky-3-th.png" ,"url": "http://116.204.181.238:9981/stream/service/ecad66112eaf0189c31c227669208286"},
+
+{"name": "Live Sky4","image": "https://my-iptv.org/cover/channels/live-sky-4-th.png" ,"url": "http://116.204.181.238:9981/stream/service/e714e7b46e1dc6954c11995d4cbb4a7e"},
+
+{"name": "I-ASIA","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Jd1QPgW4Ik0J4Kn5o66twE7JMvXzkCFOEQ&usqp=CAU" ,"url": "http://116.204.181.238:9981/stream/service/95db8192fc9437c45c15db29635dfef9"},
+
+{"name": "SERIES+","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ZxP9j-Hdttle8Um-XP80n6kV5ms2oE__Og&usqp=CAU" ,"url": "http://116.204.181.238:9981/stream/service/e02c8ed4fd8bdf28db94655beecd438f"},
+
+{"name": "EPIX","image": "https://www.cordcuttersnews.com/wp-content/uploads/2016/10/epix-e1476752749143.jpg" ,"url": "http://51.79.82.231:8080/US_EPIX_USA/video.m3u8"},
+
+{"name": "&PICTURES","image": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/pictures.png" ,"url": "https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8"},
+
+{"name": "REELZ","image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png" ,"url": "https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/1280x720_5000000/index.m3u8"},
+
+{"name": "PING","image": "https://docs.google.com/uc?export=download&id=15pABxVVc5XUriFGXVwtp6MadWSDQI8zW" ,"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/warnertv/chunklist.m3u8"},
+
+{"name": "MOVIE 3","image": "https://docs.google.com/uc?export=download&id=1IdnrEw5CIzoZqyAz7wJvgICH5m9fVfSZ" ,"url": "http://203.159.95.172:8081/live/comedy1/playlist.m3u8"},
+
+{"name": "Pluto TV Sherlock","image": "https://advanced-television.com/wp-content/uploads/2020/05/Pluto-TV-Sherlock-e1590658322184.jpg" ,"url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c00abfed110009d97243/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"},
+
+{"name": "Thrillerz","image": "https://image.roku.com/developer_channels/prod/950a41baf693c7cfc38eebfe2cdc1773c43d5984bcfefe48d94ccdc2d36399cf.png" ,"url": "https://simultv.s.llnwi.net/o059/Thrillerz/interlink.m3u8"},
+
+{"name": "Samuel Goldwyn Channel","image": "https://static.wikia.nocookie.net/logopedia/images/4/42/Samuel_Goldwyn_Television_b.png/revision/latest?cb=20140215160843" ,"url": "https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8"},
+
+{"name": "Samuel Goldwyn Classics","image": "https://static.miraheze.org/closinglogosgroupwiki/thumb/8/8a/Samuel_Goldwyn_Television_%281982-1996%29_C.jpg/398px-Samuel_Goldwyn_Television_%281982-1996%29_C.jpg" ,"url": "https://samuelgoldwyn-classic-roku.amagi.tv/playlist.m3u8"},
+
+{"name": "TAYARNFLIX","image": "https://docs.google.com/uc?export=download&id=1T--4jsQlGV6lWYK4FWL3CQuEoAqvkF9c" ,"url": "http://st.livestations.tv/playlist_tayarnflix.m3u8"},
+
+{"name": "I-MOVIE","image": "https://docs.google.com/uc?export=download&id=1IYYl1shwB80zFThXmV-4OsAJxL75hmon" ,"url": "http://116.204.181.238:9981/stream/service/7e087eae9350d166511c1f3ca20f2e3e"},
+
+{"name": "SAT-ASIA","image": "https://docs.google.com/uc?export=download&id=1IL3F8c8n-jKuVDX4V5MT7RwuncRonSDR" ,"url": "http://116.204.181.238:9981/stream/service/060256b3e68c563b4439aa73261a0619"},
+
+{"name": "THAI NEWS","image": "https://docs.google.com/uc?export=download&id=1WN1SXZfgHvmz-FT1crTTLnPOgQi9UPkN" ,"url": "https://live.thaitvstream.com/play/thainews/index.m3u8"},
+
+{"name": "SMN","image": "https://docs.google.com/uc?export=download&id=1WK0xBnViGi14V4EtG_-KWuK-kG25C-bx" ,"url": "https://live.thaitvstream.com/play/smn/index.m3u8"},
+
+{"name": "SRTV","image": "https://docs.google.com/uc?export=download&id=1XksHh_D6v4MmvOav660kD5PGfZLbOI0D" ,"url": "https://live1.thaitvstream.com/play/srtvonline/index.m3u8"},
+
+{"name": "PTV","image": "https://docs.google.com/uc?export=download&id=1WUN971o12P1Oixpk0qbI-QX5oOm0a0-c" ,"url": "https://live.thaitvstream.com/play/phetchabuntv/index.m3u8"},
+
+{"name": "MEDIANEWS","image": "https://docs.google.com/uc?export=download&id=1X-XoDk4gvLyY95F-sKtgHDy-lj7M5jjc" ,"url": "https://live1.thaitvstream.com/play/medianews/index.m3u8"},
+
+{"name": "SKY","image": "https://docs.google.com/uc?export=download&id=1VZlLDg7LHTAOmIXbNlvh2ttGkJS8uqUt" ,"url": "http://livetv.ddns.me:8088/live/boom@skynet/123456/398.ts"},
+
+{"name": "STAR CHINESE","image": "https://docs.google.com/uc?export=download&id=1CbjsrxD59tATUFwt6-ThTlJ35FsX_qMG" ,"url": "http://203.154.243.88:18008/mss1/scm"},
+
+{"name": "STAR MOVIES","image": "https://docs.google.com/uc?export=download&id=1DxHeGeqvVJqPb-ZOrtkLNVvvw_BAjhJg" ,"url": "http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8"},
+
+{"name": "STAR MOVIES SELECT","image": "https://docs.google.com/uc?export=download&id=1NoQ9j9vabdmRkJUR2IMMoT-IUmETTjd2" ,"url": "http://balancer1.iptvmx.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8"},
+
+
 
 ]
 }
