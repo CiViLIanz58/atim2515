@@ -9,6 +9,50 @@
     
     
 {"name":"FOX SPORTS",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png","url": "https://wacth.tv/tv-player/fox-sport-1hd.html"},
+
+{"name":"FOX SPORTS 2",image:"https://www.we-play.live/uploads/posters/-poster1602703688.jpeg","url": "https://we-play.live/watching/tv/fox-sports-2"},
+
+{"name":"FOX SPORTS 3",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png","url": "https://we-play.live/watching/tv/fox-sports-3"},
+
+{"name":"NFL Network",image:"https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz","url": "https://we-play.live/watching/tv/nfl-network"},
+
+{"name":"ถิ่นใต้",image:"https://www.inwiptv.com/postor/20200208001241%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg","url": "http://freelive.inwstream.com:1935/freelive-edge/the_battle.stream/playlist.m3u8"},
+
+{"name":"Sky 1 Racing",image:"https://media.info/i/lf/300/1514269404/6402.png","url": "https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8"},
+
+{"name":"Sky 2 Racing",image:"https://media.info/i/lf/0/1514269377/6411.png","url": "https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8"},
+
+{"name":"Sky Thoroughbred Central",image:"https://media.info/i/lf/0/1482296522/6412.png","url": "https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8"},
+
+{"name":"ACCDN",image:"https://d10bt0812qicot.cloudfront.net/img/7c/a9554a23bf43a28223ccc8e4e0dea2/720x405.jpg","url": "http://player.teleon.tv/us/channel/accdn-us"},
+
+{"name":"Bellator MMA",image:"https://bellator.mtvnimages.com/images/shows/bellator/web-series/BellatorMMA_CBS_Announce_300dpi_1920x1080.jpg?quality=0.85&width=1029&height=581&crop=true","url": "http://player.teleon.tv/us/channel/bellator-mma-us"},
+
+{"name":"beIN SPORTS XTRA",image:"https://image.xumo.com/v1/channels/channel/9999387/800x800.png?type=smartCast_channelTile","url": "http://player.teleon.tv/us/channel/bein-sports-xtra-us"},
+
+{"name":"Big Sky Conference",image:"https://corporate.pluto.tv/wp-content/uploads/2017/11/BigSKY_Basketball_GENERAL_FALL_November_1920x1080-1400x788.png","url": "http://player.teleon.tv/us/channel/big-sky-conference-us"},
+
+{"name":"Pluto TV Action Sports",image:"https://pbs.twimg.com/media/Eh91nHMXsAEpGAV.jpg","url": "http://player.teleon.tv/us/channel/pluto-tv-action-sports-us"},
+
+{"name":"Pluto TV Boxing",image:"https://pbs.twimg.com/media/EtPLWQfUYAEKfNG.jpg","url": "http://player.teleon.tv/us/channel/pluto-tv-boxing-us"},
+
+{"name":"Champions TV 1",image:"https://mantul.org/logo/champions1.png","url": "http://topwin-tv.my.id/2/master.m3u8?id=champion1"},
+
+{"name":"Champions TV 2",image:"https://mantul.org/logo/champions2.png","url": "http://topwin-tv.my.id/2/master.m3u8?id=champion2"},
+
+{"name":"SONY SIX HD",image:"https://i.pinimg.com/600x315/9f/83/e4/9f83e40ac80ec1d5432f24e0d056b2ea.jpg","url": "http://qqtv.nl:8080/sword/sword/30657"},
+
+{"name":"WWE Network",image:"https://149566639.v2.pressablecdn.com/wp-content/uploads/2021/02/wwe-network-logo-1.jpg","url": "https://ustvgo.tv/wwe-network/"},
+
+{"name":"MLB Network",image:"https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png","url": "https://ustvgo.tv/mlb-network/"},
+
+{"name":"NFL RedZone",image:"https://www.pngitem.com/pimgs/m/2-29649_logopedia10-nfl-redzone-channel-logo-hd-png-download.png","url": "https://ustvgo.tv/nfl-redzone/"},
+
+{"name":"CBS Sports Network",image:"https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png","url": "https://ustvgo.tv/cbs-sports-network/"},
+
+{"name":"ESPNews",image:"https://volpessportsbar.com/allentown/wp-content/uploads/2020/11/espnews-logo.webp","url": "https://ustvgo.tv/espnews/"},
+
+{"name":"Ring of Honor Wrestling",image:"https://upload.wikimedia.org/wikipedia/en/1/18/ROH-logo.png","url": "https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8"},
     
 ]
 }
