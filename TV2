@@ -5894,7 +5894,333 @@ https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7
 #EXTINF:-1 group-title="美國頻道" tvg-id="AHC.US" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" ,AHC
 https://e10.habrox.xyz/ingestnb4s/ahc/f.m3u8|Referer=https://espn-live.stream/stream/70077.html
 
-
+#EXTM3U
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1,DW[D]
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
+#EXTINF:-1,DW[E]
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1,TV5Monde
+http://210.210.155.35/qwr9ew/s/s24/02.m3u8
+#EXTINF:-1,NHK[E]
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
+#EXTINF:-1,NHK[C]
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1,NTV News24
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1,CNN
+http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
+#EXTINF:-1,BBC
+http://160.119.77.116:8081/iptv/hd-bbcworldnews.stream/playlist.m3u8
+#EXTINF:-1,Russia Today
+http://210.210.155.35/qwr9ew/s/s23/02.m3u8
+#EXTINF:-1,Al Jazaara
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1,ABC Australia
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,CGTN
+http://210.210.155.35/qwr9ew/s/s20/02.m3u8
+#EXTINF:-1,RTHK TV 31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1,Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
+#EXTINF:-1,RTM1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1,BS Asahi
+http://203.162.235.41:16914
+#EXTINF:-1,BS NTV
+http://203.162.235.41:16915
+#EXTINF:-1,NHK Education
+http://203.162.235.41:16901
+#EXTINF:-1,NHK General
+http://203.162.235.41:16903
+#EXTINF:-1,NTV
+http://203.162.235.41:16912
+#EXTINF:-1,BS TBS
+http://203.162.235.41:16913
+#EXTINF:-1,BS TBS
+http://220.158.149.28:8180/live/TV00000000000000000074@HHZT
+#EXTINF:-1,NHK BSP
+http://203.162.235.41:16910
+#EXTINF:-1,Nippon TV
+http://203.162.235.41:16905
+#EXTINF:-1,NHK World
+http://203.162.235.41:16902
+#EXTINF:-1,FUJI TV
+http://203.162.235.41:16904
+#EXTINF:-1,TV Asahi
+http://203.162.235.41:16906
+#EXTINF:-1,TBS
+http://203.162.235.41:16907
+#EXTINF:-1,TV Tokyo
+http://203.162.235.41:16908
+#EXTINF:-1,NHK BS1
+http://203.162.235.41:16909
+#EXTINF:-1,NHK BS1
+http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
+#EXTINF:-1,BS Fuji
+http://203.162.235.41:16911
+#EXTINF:-1,BS Fuji
+http://220.158.149.28:8180/live/TV00000000000000000072@HHZT
+#EXTINF:-1,WOWwow
+http://203.162.235.41:16916
+#EXTINF:-1,NTV News24
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1,A BS
+http://220.158.149.28:8180/live/TV00000000000000000073@HHZT
+#EXTINF:-1,WNN
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1,KBS World[203]
+http://160.119.77.116:8081/iptv/hd-kbsworld.stream/playlist.m3u8
+#EXTINF:-1,AXN[160]
+http://160.119.77.116:8081/iptv/hd-axn.stream/playlist.m3u8
+#EXTINF:-1,AXN[Doo]
+https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/chunks.m3u8
+#EXTINF:-1,AXN[LVM]
+https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1,AXN[210]
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF:-1,Xzyte[160]
+http://160.119.77.116:8081/iptv/hd-xzyte.stream/playlist.m3u8
+#EXTINF:-1,Premier1[160]
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1,Premier2[160]
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1,Premier3[160]
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+#EXTINF:-1,Premier4[160]
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+#EXTINF:-1,Premier5[160]
+http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
+#EXTINF:-1,Tennis[160]
+http://160.119.77.116:8081/iptv/hd-tennis.stream/playlist.m3u8
+#EXTINF:-1,HD sport1[160]
+http://160.119.77.116:8081/iptv/hd-tsport1.stream/playlist.m3u8
+#EXTINF:-1,HD sport2[160]
+http://160.119.77.116:8081/iptv/hd-tsport2.stream/playlist.m3u8
+#EXTINF:-1,HD sport3[160]
+http://160.119.77.116:8081/iptv/hd-tsport3.stream/playlist.m3u8
+#EXTINF:-1,HD sport4[160]
+http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8
+#EXTINF:-1,Sport2[160]
+http://160.119.77.116:8081/iptv/sd-tsport2.stream/playlist.m3u8
+#EXTINF:-1,Sport5[160]
+http://160.119.77.116:8081/iptv/sd-tsport5.stream/playlist.m3u8
+#EXTINF:-1,Sport7[160]
+http://160.119.77.116:8081/iptv/sd-tsport7.stream/playlist.m3u8
+#EXTINF:-1,Fox Sport1[160]
+http://160.119.77.116:8081/iptv/hd-foxsports1.stream/playlist.m3u8
+#EXTINF:-1,Fox Sport2[160]
+http://160.119.77.116:8081/iptv/hd-foxsports2eng.stream/playlist.m3u8
+#EXTINF:-1,Fox Sport3[160]
+http://160.119.77.116:8081/iptv/hd-foxsports3eng.stream/playlist.m3u8
+#EXTINF:-1,Discovery[160]
+http://160.119.77.116:8081/iptv/hd-discovery.stream/playlist.m3u8
+#EXTINF:-1,History[160]
+http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8
+#EXTINF:-1,H2[160]
+http://160.119.77.116:8081/iptv/hd-history2.stream/playlist.m3u8
+#EXTINF:-1,Nat Geo[160]
+http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
+#EXTINF:-1,Exp Wild[160]
+http://160.119.77.116:8081/iptv/sd-expwild.stream/playlist.m3u8
+#EXTINF:-1,Exp Life[160]
+http://160.119.77.116:8081/iptv/sd-explife.stream/playlist.m3u8
+#EXTINF:-1,Exp Sci[160]
+http://160.119.77.116:8081/iptv/sd-expsci.stream/playlist.m3u8
+#EXTINF:-1,Discovery UK[160]
+http://160.119.77.116:8081/iptv/uk-discovery.stream/playlist.m3u8
+#EXTINF:-1,Discovery Asia[160]
+http://160.119.77.116:8081/iptv/hd-discovery.stream/playlist.m3u8
+#EXTINF:-1,Nature[160]
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,BBC Earth[160]
+http://160.119.77.116:8081/iptv/sd-bbcearth.stream/playlist.m3u8
+#EXTINF:-1,BBC Lifestye[160]
+http://160.119.77.116:8081/iptv/sd-bbclifestyle.stream/playlist.m3u8
+#EXTINF:-1,Warner[160]
+http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
+#EXTINF:-1,Fox Action[160]
+http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:-1,Fox Premium[160]
+http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
+#EXTINF:-1,Fox TH[160]
+http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
+#EXTINF:-1,True Film[160]
+http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
+#EXTINF:-1,True Thai Film[160]
+http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
+#EXTINF:-1,Blue Plant[160]
+http://160.119.77.116:8081/iptv/hd-rtlcbs.stream/playlist.m3u8
+#EXTINF:-1,Bein1[160]
+http://160.119.77.116:8081/iptv/hd-bein1.stream/playlist.m3u8
+#EXTINF:-1,Bein2[160]
+http://160.119.77.116:8081/iptv/hd-bein2.stream/playlist.m3u8
+#EXTINF:-1,Bein3[160]
+http://160.119.77.116:8081/iptv/hd-bein3.stream/playlist.m3u8
+#EXTINF:-1,Bein4[160]
+http://160.119.77.116:8081/iptv/hd-bein4.stream/playlist.m3u8
+#EXTINF:-1,Bein5[160]
+http://160.119.77.116:8081/iptv/hd-bein5.stream/playlist.m3u8
+#EXTINF:-1,Bein6[160]
+http://160.119.77.116:8081/iptv/hd-bein6.stream/playlist.m3u8
+#EXTINF:-1,Bein7[160]
+http://160.119.77.116:8081/iptv/hd-bein7.stream/playlist.m3u8
+#EXTINF:-1,Bein8[160]
+http://160.119.77.116:8081/iptv/hd-bein8.stream/playlist.m3u8
+#EXTINF:-1,Bein9[160]
+http://160.119.77.116:8081/iptv/hd-bein9.stream/playlist.m3u8
+#EXTINF:-1,Bein10[160]
+http://160.119.77.116:8081/iptv/hd-bein10.stream/playlist.m3u8
+#EXTINF:-1,Eurosport1[160]
+http://160.119.77.116:8081/iptv/uk-eurosport.stream/playlist.m3u8
+#EXTINF:-1,Eurosport2[160]
+http://160.119.77.116:8081/iptv/uk-eurosport2.stream/playlist.m3u8
+#EXTINF:-1,Premier1[LAO]
+https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
+#EXTINF:-1,Premier2[LAO]
+https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
+#EXTINF:-1,Premier3[LAO]
+https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
+#EXTINF:-1,Premier4[LAO]
+https://laos-tech-live.b-cdn.net/epl-x4_720/index.m3u8
+#EXTINF:-1,Premier5[LAO]
+https://laos-tech-live.b-cdn.net/epl-x5_720/index.m3u8
+#EXTINF:-1,Premier1[77]
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,Premier2[77]
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,Premier3[77]
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,Premier4[77]
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1,Premier5[77]
+http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1,Astro1[50]
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,Astro2[50]
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,Astro3[50]
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,Astro4[50]
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1,True Premier1[Doo]
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8
+#EXTINF:-1,True Premier2[Doo]
+https://doofootball.livestream-cdn.com/iptv/epl-2.stream/chunks.m3u8
+#EXTINF:-1,True Premier3[Doo]
+https://doofootball.livestream-cdn.com/iptv/epl-3.stream/chunks.m3u8
+#EXTINF:-1,True Premier4[Doo]
+https://doofootball.livestream-cdn.com/iptv/epl-4.stream/chunks.m3u8
+#EXTINF:-1,True Premier5[Doo]
+https://doofootball.livestream-cdn.com/iptv/epl-5.stream/chunks.m3u8
+#EXTINF:-1,True Sport HD1[Doo]
+https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/chunks.m3u8
+#EXTINF:-1,True Sport HD2[Doo]
+https://doofootball.livestream-cdn.com/iptv/hd-tsport2.stream/chunks.m3u8
+#EXTINF:-1,True Sport HD3[Doo]
+https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/chunks.m3u8
+#EXTINF:-1,True Sport HD4[Doo]
+https://doofootball.livestream-cdn.com/iptv/hd-tsport4.stream/chunks.m3u8
+#EXTINF:-1,Fox Sport1[Doo]
+https://doofootball.livestream-cdn.com/iptv/hd-foxsports1.stream/chunks.m3u8
+#EXTINF:-1,Fox Sport2[Doo]
+https://doofootball.livestream-cdn.com/iptv/sd-foxsports2.stream/chunks.m3u8
+#EXTINF:-1,Fox Sport3[Doo]
+https://doofootball.livestream-cdn.com/iptv/sd-foxsports2.stream/chunks.m3u8
+#EXTINF:-1,Tennis[Doo]
+https://doofootball.livestream-cdn.com/iptv/hd-tennis.stream/chunks.m3u8
+#EXTINF:-1,Premier1[103]
+http://103.208.24.234:1935/thaisport/epl-1.stream/media-uycpcfkkn.m3u8
+#EXTINF:-1,Premier2[103]
+http://103.208.24.234:1935/thaisport/epl-2.stream/media-uycpcfkkn.m3u8
+#EXTINF:-1,Premier3[103]
+http://103.208.24.234:1935/thaisport/epl-3.stream/media-uycpcfkkn.m3u8
+#EXTINF:-1,Premier4[103]
+http://103.208.24.234:1935/thaisport/epl-4.stream/media-uycpcfkkn.m3u8
+#EXTINF:-1,Premier5[103]
+http://103.208.24.234:1935/thaisport/epl-5.stream/media-uycpcfkkn.m3u8
+#EXTINF:-1,TENNIS[103]
+http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
+#EXTINF:-1,NBA[103]
+http://103.208.24.234:1935/thaisport/hd-nba.stream/chunklist.m3u8
+#EXTINF:-1,FOX Sport 1[103]
+http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/media.m3u8
+#EXTINF:-1,FOX Sport 2[103]
+http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/media.m3u8
+#EXTINF:-1,FOX Sport3[103]
+http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/media.m3u8
+#EXTINF:-1,SPORT HD[103]
+http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
+#EXTINF:-1,SPORT HD2[103]
+http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
+#EXTINF:-1,SPORT HD3[103]
+http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
+#EXTINF:-1,SPORT HD4[103]
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+#EXTINF:-1,Bein AIS1[103]
+http://103.208.24.234:1935/thaisport/epl-bein1.stream/playlist.m3u8
+#EXTINF:-1,Bein AIS2[103]
+http://103.208.24.234:1935/thaisport/epl-bein2.stream/playlist.m3u8
+#EXTINF:-1,Bein Sport1[196]
+http://196.53.248.18:8081/bein01/bein0001/playlist.m3u8
+#EXTINF:-1,Super tennis
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1,Olympic Channel 1
+https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1,Olympic Channel2
+https://ott-live.olympicchannel.com/out/u/OC2_2.m3u8
+#EXTINF:-1,Olympic Channel3
+https://ott-live.olympicchannel.com/out/u/OC3_2.m3u8
+#EXTINF:-1,Olympic Channel4
+https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8
+#EXTINF:-1,Olympic Channel5
+https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
+#EXTINF:-1,Fight Sport[210]
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1,Fight Sport[203]
+http://203.154.177.124:8899/live/ch22/playlist.m3u8
+#EXTINF:-1,CCTV 5 Plus
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1,Trace Sport[203]
+http://203.154.177.124:8080/live/ch10/index.m3u8
+#EXTINF:-1,RTM Sport
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+#EXTINF:-1,Sony One[210]
+http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
+#EXTINF:-1,KIX[210]
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+#EXTINF:-1,Life Style[210]
+http://210.210.155.35/uq2663/h/h01/index.m3u8
+#EXTINF:-1,DaVinci Kids[210]
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+#EXTINF:-1,Nat Geo[Doo]
+https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/chunks.m3u8
+#EXTINF:-1,BBC Earth[Doo]
+https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
+#EXTINF:-1,Discovery[Doo]
+https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/chunks.m3u8
+#EXTINF:-1,History[Doo]
+https://doofootball.livestream-cdn.com/iptv/hd-history.stream/chunks.m3u8
+#EXTINF:-1,H2[Doo]
+https://doofootball.livestream-cdn.com/iptv/hd-history2.stream/chunks.m3u8
+#EXTINF:-1,Exp Sci[Doo]
+https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
+#EXTINF:-1,Exp Life[Doo]
+https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
+#EXTINF:-1,Exp Wild[Doo]
+https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
+#EXTINF:-1,CCM[Doo]
+https://doofootball.livestream-cdn.com/iptv/sd-celestial.stream/chunks.m3u8
+#EXTINF:-1,X-zyte[Doo]
+https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
+#EXTINF:-1,Outdoor[Doo]
+http://edge1.tikilive.com:1935/unre
 
 
 
