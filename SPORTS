@@ -53,6 +53,92 @@
 {"name":"ESPNews",image:"https://volpessportsbar.com/allentown/wp-content/uploads/2020/11/espnews-logo.webp","url": "https://ustvgo.tv/espnews/"},
 
 {"name":"Ring of Honor Wrestling",image:"https://upload.wikimedia.org/wikipedia/en/1/18/ROH-logo.png","url": "https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8"},
+
+{"name":"EURO SPORT 1 UK",image:"https://img.sport-tv-guide.live/images/tv-station-uk-eurosport-1-88.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-eurosport"},
+
+{"name":"Fighting Spirit",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qx7Nuz-mrSd1vEjIjoDpPlmY2cMDfbIwSS9smxQWLTihqfbcz6U26XC9OaysENj5FZ0&usqp=CAU","url": "https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8"},
+
+{"name":"Hard Knocks",image:"https://hardknocksfighting.com/wp-content/uploads/2016/06/homepage.jpg","url": "http://player.teleon.tv/us/channel/st-tv-hard-knocks-uk"},
+
+{"name":"Horse and Country",image:"https://horseandcountry.tv/wp-content/themes/hctv/img/hctv_logo.png","url": "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"},
+
+{"name":"Red Bull TV",image:"https://www.rallyturkey.com/wp-content/uploads/2018/01/Red-Bull-TV-logo.png","url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"},
+
+{"name":"Stadium",image:"https://upload.wikimedia.org/wikipedia/en/8/85/Stadium_logo_2017.png","url": "https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8"},
+
+{"name":"Free Sports TV",image:"https://static.wikia.nocookie.net/logopedia/images/3/3f/FreeSports_2nd_logo_alternate.jpg/revision/latest?cb=20180717203545","url": "https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8"},
+
+{"name":"Horizon Sports",image:"https://d14c63magvk61v.cloudfront.net/hls/22705/horizon-sports/horizon-sports_thumbh_20200129_011527.jpg","url": "https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8"},
+
+{"name":"ABU DHABI SPORTS 1",image:"https://cdn.sat.tv/wp-content/uploads/2016/06/AbuDhabi-Sport-1.png","url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"},
+
+{"name":"ABU DHABI SPORTS 2",image:"https://cdn.sat.tv/wp-content/uploads/2020/11/AbuDhabi-Sport-2.png","url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"},
+
+{"name":"DUBAI SPORTS 1",image:"https://www.freqsat.com/wp-content/uploads/2018/09/Dubai-Sports-1-HD-TV.jpg","url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8"},
+
+{"name":"DUBAI SPORTS 2",image:"https://4.bp.blogspot.com/-soa20pNaLmw/Wrq7A9Y_h3I/AAAAAAAABJ4/KzEMT2GaPlQBPtdczZYgsxdI1SNFX5T9gCLcBGAs/s400/Dubai%2BSport%2B2.png","url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8"},
+
+{"name":"DUBAI SPORTS 3",image:"data:image/png;base64,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","url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8"},
+
+{"name":"Chassy",image:"https://pbs.twimg.com/media/DlI6g4vU0AEpwtm.jpg","url": "http://player.teleon.tv/us/channel/chassy-us"},
+
+{"name":"Combate World",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3xmUryK6612jeWTw7IEFtL964pxcHKAkkC3ssnIjqqmRDX6taiZnSOIji-naoL57wRk&usqp=CAU","url": "http://player.teleon.tv/us/channel/combate-world-us"},
+
+{"name":"Dallas Cowboy Cheerleaders",image:"https://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=1600","url": "http://player.teleon.tv/us/channel/dallas-cowboys-cheerleaders-us"},
+
+{"name":"Fight",image:"https://i.pinimg.com/originals/f6/c2/8c/f6c28cd1c0b0be354257843aa1351596.jpg","url": "http://player.teleon.tv/us/channel/fight-us"},
+
+{"name":"IMPACT Wrestling",image:"https://cdn.sescoops.com/wp-content/uploads/2020/12/impact-wrestling-logo-696x392.jpg","url": "http://player.teleon.tv/us/channel/impact-wrestling-channel-us"},
+
+{"name":"Lucha Libre AAA",image:"http://www.luchalibreaaa.com/beta/wp-content/uploads/2017/02/Banner-AAA-en-Apizaco-Marzo-2017-1.jpg","url": "http://player.teleon.tv/us/channel/lucha-libre-aaa-us"},
+
+{"name":"MAV TV Select",image:"https://pbs.twimg.com/media/Ecljrx9WkAMCkmX.jpg","url": "http://player.teleon.tv/us/channel/mav-tv-select-us"},
+
+{"name":"Bek Sports East",image:"https://pbs.twimg.com/media/EnSDnuQW4AIy0_L.png","url": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8"},
+
+{"name":"Bek Sports West",image:"https://pbs.twimg.com/media/EnSDnuQW4AIy0_L.png","url": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8"},
+
+{"name":"DD Sports",image:"https://static.wikia.nocookie.net/logopedia/images/8/82/Watch-DD-Sports-TV-Live-Online.jpeg/revision/latest?cb=20160805130411","url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8"},
+
+{"name":"Dubai Racing",image:"https://4.bp.blogspot.com/-3sdAhgLWxIg/WgWtgecbQEI/AAAAAAAALs0/DVtMuIBx73YHiy9F8SW1L5dBiGy73RcEACLcBGAs/s1600/dubai%2Bracing.png","url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8"},
+
+{"name":"Dubai Racing 2",image:"https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-racing-2-3859.jpg","url": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8"},
+
+{"name":"FTF For the fans",image:"https://snagfilms-a.akamaihd.net/0000014c-edbe-da12-a1fc-fdbe2f120000/images/2a/83/e3d40d41404e9512db1b4edd7743/1570729985938_ftf_blue_marketing_bannerimages-tab.png?impolicy=resize&w=852&h=294","url": "https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8"},
+
+{"name":"Fighting Spirit",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMYxkxTqE7slb_jb0qVjatQr92dqsS1VpTKl8Nqf0tCOi71DbvB0sw-nPRuxi2Hdp8IVs&usqp=CAU","url": "https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8"},
+
+{"name":"Fite",image:"https://pbs.twimg.com/media/EWaKCEdWoAAbi14.jpg","url": "https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_360/chunks.m3u8"},
+
+{"name":"Fuel TV",image:"https://www.vsn-tv.com/wp-content/uploads/2020/06/FUELTVthumbok.jpg","url": "https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8"},
+
+{"name":"Lax Sports Network TV",image:"https://snagfilms-a.akamaihd.net/0000014c-edbe-da12-a1fc-fdbe2f120000/images/4c/ae/b8725d004554822bffb1a7f8b779/1519835956947_lsn_logo_red_16x9Images.png","url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"},
+
+{"name":"KOK Fights",image:"https://st.mvs.wtf/uploads/image/5f06d21f5d8f436f62351f34/maxres.png","url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"},
+
+{"name":"LOCAL NOW Sports",image:"https://image.roku.com/developer_channels/prod/b4e8385b18098ab1a09bb81760ef44835c59464fb807e0a27c926acc5003fa71.png","url": "https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8"},
+
+{"name":"ACC Network",image:"https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/c/e6/ce625146-401e-5c30-afa2-dedcc9d8ccf0/5d5af1b33a521.image.png","url": "https://ustvgo.tv/acc-network/"},
+
+{"name":"MotorTrend",image:"https://download.logo.wine/logo/Motor_Trend/Motor_Trend-Logo.wine.png","url": "https://ustvgo.tv/motortrend/"},
+
+{"name":"Olympic Channel",image:"https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png","url": "https://ustvgo.tv/olympic-channel/"},
+
+{"name":"SEC Network",image:"https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png","url": "https://ustvgo.tv/sec-network/"},
+
+{"name":"YES Network",image:"https://www.thestandard.com.hk/images/instant_news/20190830/20190830100903contentPhoto1.jpg","url": "https://ustvgo.tv/yes-network/"},
+
+{"name":"Golf Channel Thailand 2",image:"https://www.golfchannel.co.th/wp-content/uploads/2021/03/GCT2.jpg","url": "https://www.we-play.live/watching/tv/golf-channel-thailand-hd2"},
+
+{"name":"MLS",image:"https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/featuredImage.jpg?auto=format&fill=blur&fit=fill&ixlib=react-9.0.3&h=562&w=1024","url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=712&deviceId=5cb626cfcaf83414128f439c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"},
+
+{"name":"TRUE PREMIER FOOTBALL HD 1",image:"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png","url": "https://we-play.live/watching/tv/true-premier-football-hd-1"},
+
+{"name":"TRUE PREMIER FOOTBALL HD 2",image:"https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png","url": "https://we-play.live/watching/tv/true-premier-football-hd-2"},
+
+{"name":"TRUE PREMIER FOOTBALL HD 3",image:"https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png","url": "https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8"},
+
+{"name":"Sky Sports Football",image:"https://www.phonesreview.co.uk/wp-content/phoneimages/Sky-Sports-Football-app.jpg","url": "https://fifa55u.com/ballsod/ch083/"},
     
 ]
 }
