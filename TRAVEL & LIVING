@@ -127,6 +127,8 @@
 {"name":"Pluto TV People are Awesome",image:"https://www.tubefilter.com/wp-content/uploads/2017/08/people-are-awesome.jpg","url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e54169f4b9b25000994a303/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"},
 
 {"name":"Travel XP",image:"https://images.yourstory.com/cs/wordpress/2012/04/travelxp.jpg","url": "https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8"},
+
+{"name":"BBC Earth",image:"https://scitechinstitute.org/wp-content/uploads/2020/04/bbc-earth.jpg","url": "https://siamtv88.co/index.php?a=live_details&channel_code=sd-bbcearth"},
     
 ]
 }
