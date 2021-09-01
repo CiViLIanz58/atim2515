@@ -57,6 +57,14 @@
 {"name":"Sightline",image:"https://a.jsrdn.com/hls/22930/sightline/thumbv_20210113_003937.jpg","url": "https://www.distro.tv/live/sightline"},
 
 {"name":"Love Nuture 4K",image:"https://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226.png","url": "https://we-play.live/watching/tv/lovenature-4k"},
+
+{"name":"สำรวจโลก",image:"https://i2.wp.com/www.nextsteptv.com/wp-content/uploads/2018/03/logo_SRL-01-26-03-.png?fit=300%2C100","url": "https://cdn6.goprimetime.info/feed/202105171329/LC8/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{name:"PSI SARADEE",image:"https://www.dropbox.com/s/9zumkogbsapzkr0/jh0ofb.png?dl=1",url:"https://bit.ly/3riMjyA","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{"name":"สามเณรปลูกปัญญาธรรม","image":"https://www.dropbox.com/s/91veh09uw46khqz/IMG_20210513_184830.png?dl=1","url":"https://tv.trueid.net/embed/realitychannel-hd?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+
     
 ]
 }
