@@ -286,6 +286,8 @@
 
 {"name":"LookSport Plus",image:"https://www.media-max.ro/wp-content/uploads/2020/12/CNA-a-prelungit-valabilitatea-licentei-Look-Sport.jpg","url": "https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM="},
 
+{"name":"LookSport",image:"https://tx.gcntv.net/channels/logo/looksport-hd-beta.png","url": "https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM="},
+
 
     
 ]
