@@ -438,6 +438,32 @@
 
 {"name": "True Asian Series","image": "https://www.we-play.live/uploads/posters/-poster1602704645.jpeg" ,"url": "https://wacth.tv/tv-player/asian-series.html"},
 
+{"name": "Cinemax","image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg" ,"url": "https://wacth.tv/tv-player/cinemax-hd.html"},
+
+{
+"name": "True Film HD2",  
+"image": "https://wacth.officebk.co/uploads/tv_image/true-film-hd2.png",  
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"desktop": "true"
+},
+
+{
+"name": "True Series",  
+"image": "https://wacth.officebk.co/uploads/tv_image/true-series-1shsz3dbbp36.png",  
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"desktop": "true"
+},
+
+
+
+
+
 
 
 ]
