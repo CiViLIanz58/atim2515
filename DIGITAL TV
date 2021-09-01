@@ -102,6 +102,8 @@
 
 {"name":"WARP TV",image:"https://docs.google.com/uc?export=download&id=1SycdjzALgFNW5YdoakD5CFAXFkN7zgCH","url": "http://st.livestations.tv/playlist_warptv.m3u8"},
 
+{"name":"จ๊ะทิงจา","image":"https://cms.dmpcdn.com/livetv/2020/06/23/eb45de90-b54f-11ea-8fac-236a281cd6c5_320.png","url":"https://tv.trueid.net/embed/jatingjatv?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
 
 ]
 }
