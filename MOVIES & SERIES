@@ -438,7 +438,7 @@
 
 {"name": "True Asian Series","image": "https://www.we-play.live/uploads/posters/-poster1602704645.jpeg" ,"url": "https://wacth.tv/tv-player/asian-series.html"},
 
-{"name": "Cinemax","image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg" ,"url": "https://wacth.tv/tv-player/cinemax-hd.html"},
+{"name": "Cinemax","image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg" ,"url": "https://we-play.live/watching/tv/cinemax"},
 
 {
 "name": "True Film HD2",  
@@ -465,6 +465,10 @@
 {"name": "FOX Action Movies","image": "https://www.we-play.live/uploads/posters/-poster1602704499.jpeg" ,"url": "https://wacth.tv/tv-player/fox-action-movies.html"},
 
 {"name": "Hi-Def 1","image": "https://we-play.live/uploads/posters/-poster1602704680.jpeg" ,"url": "https://we-play.live/watching/tv/hidef-1"},
+
+{"name": "Pluto TV Terror","image": "https://blog.tivo.com/wp-content/uploads/2020/08/terror-on-tivo-plus-1-1024x576.jpg" ,"url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6fc3&deviceDNT=0&deviceModel=0"},
+
+{"name": "Pluto TV Horror","image": "https://blog.tivo.com/wp-content/uploads/2020/08/featuredimage-8-1024x576.jpg" ,"url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=dfce&deviceDNT=0&deviceModel=0"},
 
 
 
