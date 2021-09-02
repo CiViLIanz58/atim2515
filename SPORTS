@@ -297,7 +297,7 @@
 },
 
 {
-"name": "ESPN2",  
+"name": "ESPN 2",  
 "image": "https://prolive.tv/assets/uploads/channel-11.png",  
 "url": "https://daddylive.me/embed/stream-45.php",
 "referer": "https://daddylive.me/",
@@ -320,6 +320,8 @@
 {"name":"BT Sport 2",image:"https://overseer.blackboxsys.net/images/png/uk-btsport2hd.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-btsport2hd"},
 
 {"name":"BT Sport 3",image:"https://overseer.blackboxsys.net/images/png/uk-btsport3hd.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-btsport3hd"},
+
+{"name":"Eurosport",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_9CiuYot-BuHxf2zCL227soEhfpDs1qjV0Q9HobJRhA2DD0twNan1LYU7qGmj8vQFT48&usqp=CAU","url": "https://www.we-play.live/watching/tv/eurosport-asia"},
 
 
     
