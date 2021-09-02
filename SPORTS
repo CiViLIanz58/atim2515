@@ -172,7 +172,7 @@
 
 {"name":"Slopes TV",image:"https://a.jsrdn.com/hls/22915/ski-tv/thumbv_20210308_214708.jpg","url": "https://www.distro.tv/live/ski-tv"},
 
-{"name":"EURO SPORT 2 UK",image:"https://www.234.in.th/images/2021/03/04/a89.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-eurosport2"},
+{"name":"EURO SPORT 2 UK",image:"https://img.sport-tv-guide.live/images/stations/a89.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-eurosport2"},
 
 {"name":"Racing.COM",image:"https://www.hedex.tv/uploads/images/clip_366_1586609354_poster.png","url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8"},
 
@@ -287,6 +287,41 @@
 {"name":"LookSport Plus",image:"https://www.media-max.ro/wp-content/uploads/2020/12/CNA-a-prelungit-valabilitatea-licentei-Look-Sport.jpg","url": "https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM="},
 
 {"name":"LookSport",image:"https://tx.gcntv.net/channels/logo/looksport-hd-beta.png","url": "https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM="},
+
+{
+"name": "ESPN",  
+"image": "https://prolive.tv/assets/uploads/channel-8.png",  
+"url": "http://yoursports.stream/ing/espn",
+"referer": "http://yoursports.stream/",
+"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ESPN2",  
+"image": "https://prolive.tv/assets/uploads/channel-11.png",  
+"url": "https://daddylive.me/embed/stream-45.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ESPN U",  
+"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/espnu-269x151-1.png",  
+"url": "https://ustvgo.tv/espnu/",
+"referer": "https://ustvgo.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{"name":"BT Sport 1",image:"https://overseer.blackboxsys.net/images/png/uk-btsport1hd.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-btsport1hd"},
+
+{"name":"BT Sport 2",image:"https://overseer.blackboxsys.net/images/png/uk-btsport2hd.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-btsport2hd"},
+
+{"name":"BT Sport 3",image:"https://overseer.blackboxsys.net/images/png/uk-btsport3hd.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-btsport3hd"},
 
 
     
