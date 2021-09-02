@@ -57,6 +57,8 @@
 {"name":"MALEO TV",image:"https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png","url": "http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8"},
 
 {"name":"Bandung TV",image:"https://www.dropbox.com/s/225jyax25l2d42t/download (4).png?dl=1","url": "http://202.150.153.254/bandungtv720p.m3u8"},
+
+{"name":"GEM",image:"https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13","url": "http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8"},
     
 ]
 }
