@@ -254,16 +254,6 @@
 },
 
 {
-"name": "Indie",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b4ts/mc?ch=indie",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"info": "TIM TV",
-"playInNatPlayer": "true"
-},
-
-{
 "name": "Hit List",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
 "url": "https://photocall.tv/b4ts/mc?ch=hitlist",
@@ -287,16 +277,6 @@
 "name": "Pop & Country",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
 "url": "https://photocall.tv/b4ts/mc?ch=popncountry",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"info": "TIM TV",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Teen Beats",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/ /mc?ch=teenbeats",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
@@ -364,16 +344,6 @@
 },
 
 {
-"name": "Brits+Hits",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b4ts/mc?ch=britsnhits",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"info": "TIM TV",
-"playInNatPlayer": "true"
-},
-
-{
 "name": "Hiphop-R&B",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
 "url": "https://photocall.tv/b4ts/mc?ch=hiphopnrnb",
@@ -427,16 +397,6 @@
 "name": "Rock",
 "image":"https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
 "url": "https://photocall.tv/b4ts/mc?ch=rock",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"info": "TIM TV",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "Metal",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b4ts/mc?ch=metal",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
