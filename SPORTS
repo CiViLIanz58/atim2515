@@ -325,6 +325,135 @@
 
 {"name":"FIGHT SPORTS",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoSg6cQI7LyqzVtnlYGAjjwcNiKp-1bT2E8r_5AouspCfbJUYQdM-Zmb20TFVWcGBS5wA&usqp=CAU","url": "https://www.we-play.live/watching/tv/fight-sports"},
 
+{
+"name": "Bein Sports 1 TH",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"desktop": "true"
+},
+
+{
+"name": "Bein Sports 2 TH",  
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",  
+"url": "https://www.ball8k.com/channel?ch=bein2",
+"referer": "https://www.ball8k.com/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sports HD",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",
+"url": "https://www.ball8k.com/channel?ch=truesporthd",
+"referer": "https://www.ball8k.com/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sports HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",
+"url": "https://www.ball8k.com/channel?ch=truesporthd2",
+"referer": "https://www.ball8k.com/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{"name":"True Sports HD 3",image:"https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tsport3"},
+
+{
+"name": "True Sports HD 4",
+"image":"https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"desktop": "true"
+},
+
+{
+"name": "True Sports 5",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsport5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"desktop": "true"
+},
+
+{
+"name": "True Sports 7",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsport7&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"desktop": "true"
+},
+
+{
+"name": "NBA TV",
+"image": "https://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-nba&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"desktop": "true"
+},
+
+{
+"name": "Golf Channel 2",
+"image": "https://overseer.blackboxsys.net/images/png/hd-golf2.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-golf2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"desktop": "true"
+},
+
+{
+"name": "Arena Sport 1",  
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210222232041_arenasport1serbia.jpg",  
+"url": "https://www.ball8k.com/channel?ch=arenasport1serbia",
+"referer": "https://www.ball8k.com/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Arena Sport 2",  
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210222232135_arenasport2serbia.jpg",  
+"url": "https://www.ball8k.com/channel?ch=arenasport2serbia",
+"referer": "https://www.ball8k.com/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Arena Sport 3",  
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210222232129_arenasport3serbia.jpg",  
+"url": "https://www.ball8k.com/channel?ch=arenasport3serbia",
+"referer": "https://www.ball8k.com/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Arena Sport 4",  
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210222232141_arenasport4serbia.jpg",  
+"url": "https://www.ball8k.com/channel?ch=arenasport4serbia",
+"referer": "https://www.ball8k.com/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
 
     
 ]
