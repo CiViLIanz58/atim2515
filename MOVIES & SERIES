@@ -12,8 +12,6 @@
  
 {"name":"SAMURAI","image": "https://sv1.picz.in.th/images/2021/01/26/lVg0Fg.png","url": "https://cdn6.goprimetime.info/feed/202105171329/LC2/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
-{"name":"3BB ASIAN",image:"https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png","url": "https://dogtoop.com:8443/live/skysportnfl/s1/128.ts","userAgent": "ExoPlayerLib/2.8.4"},
-
 {"name":"BOX FILM",image:"https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-s.png","url": "https://cdn6.goprimetime.info/feed/202105171329/LC52/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
  
 {"name":"MOVIES WORLD 1","image": "https://drive.google.com/uc?export=download&id=1CESyG6cfFw3sgDixf768mwRnKJXf0CtD","url": "https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
@@ -23,8 +21,6 @@
 {"name": "TRUE THAIFILM","image": "https://we-play.live/uploads/posters/-poster1602704673.jpeg" ,"url": "https://we-play.live/watching/tv/true-thai-film"},
 
 {"name": "คูล ชาแนล","image": "https://www.24andlife.com/wp-content/uploads/2019/08/1161739-img.tsia3g.13tfs.jpg","url": "https://moviektu.com/Cool/playlist.m3u8", "userAgent": "ProPlayer"},
-
-{"name": "M2","image": "https://static.wikia.nocookie.net/logopedia/images/6/6b/M2_logo.svg/revision/latest/scale-to-width-down/200?cb=20100529201936","url": "https://cdn6.goprimetime.info/feed/202105171329/LC24/index.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"},
 
 {"name": "BOO","image": "https://www.rapidtvnews.com/images/2018/05/Boo-horror-Channel_-_3_May_2018.jpg","url": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"},
 
@@ -60,11 +56,11 @@
 
 {"name": "Channel 8","image": "https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1" ,"url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"},
 
-{"name": "&Flix","image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg" ,"url": "http://likeetv.com/live-tv/and-flix-hd.html"},
+{"name": "&Flix","image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg" ,"url": "https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8"},
 
 {"name": "Celestial Movies","image": "https://1.bp.blogspot.com/-9ayiUNErHFg/WA2e3Uco0ZI/AAAAAAAAf08/wYPh3Biul8U5qULINsrgkmpZdfWUcEOuQCLcB/s1600/celestial-movie-tv-channel-logo.png" ,"url": "http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8"},
 
-{"name": "&Prive","image": "https://www.exchange4media.com/news-photo/1505284911_sI2Bzt_70469.jpg" ,"url": "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8"},
+{"name": "&Prive","image": "https://www.exchange4media.com/news-photo/1505284911_sI2Bzt_70469.jpg" ,"url": "https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8"},
 
 {"name": "24 Hour Free Movies","image": "https://a.jsrdn.com/hls/22907/24-hour-free-movies/poster_20200922_191828.jpg" ,"url": "http://player.teleon.tv/us/channel/24-hour-free-movies-us"},
 
@@ -354,7 +350,7 @@
 
 {"name": "EPIX","image": "https://www.cordcuttersnews.com/wp-content/uploads/2016/10/epix-e1476752749143.jpg" ,"url": "http://51.79.82.231:8080/US_EPIX_USA/video.m3u8"},
 
-{"name": "&PICTURES","image": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/pictures.png" ,"url": "https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8"},
+{"name": "&PICTURES","image": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/pictures.png" ,"url": "https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8"},
 
 {"name": "REELZ","image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png" ,"url": "https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/1280x720_5000000/index.m3u8"},
 
