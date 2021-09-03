@@ -453,6 +453,10 @@
 "playInNatPlayer": "true"
 },
 
+{"name":"Best Cable Music",image:"https://yt3.ggpht.com/ytc/AAUvwniq56MCrk92Ge6Tszwm6Iv6g_tJZFUVlYuQxlOi=s176-c-k-c0x00ffffff-no-rj-mo","url": "https://tv.siete.us/bestcablemusic/bestcablemusic/index.m3u8"},
+
+{"name":"Bonce TV",image:"https://bonce.tv/static/images/logo-outer.png","url": "https://seswa.bonce.tv/hls/bonceswa.m3u8"},
+
 
 
 
