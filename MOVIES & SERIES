@@ -390,7 +390,7 @@
 
 {"name": "STAR SERIES","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/1200px-Star_Series_2020.svg.png" ,"url": "http://balancer1.iptvmx.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8"},
 
-{"name": "True MOVIES HITS","image": "https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png" ,"url": "https://wacth.tv/tv-player/true-movie-hits.html"},
+{"name": "True MOVIES HITS","image": "https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png" ,"url": "https://we-play.live/watching/tv/true-movie-hits"},
 
 {"name": "FOX ไทย","image": "http://2.bp.blogspot.com/-tE0IdJbqL7k/VcA5Ar3bBfI/AAAAAAAABIQ/4IDtCrOTa9w/s640/Untitled-11.jpg" ,"url": "https://wacth.tv/tv-player/fox-thai.html"},
 
@@ -479,6 +479,12 @@
 {"name": "Local Now Movies of the 90s","image": "https://bx-tv.com/wp-content/uploads/2021/07/localnow-90s.jpg" ,"url": "https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8"},
 
 {"name": "Local Now Mr Box Office","image": "https://m.media-amazon.com/images/M/MV5BZDg0OWE2OGQtNTVkZC00Mzg4LTlmNGMtM2ViZTZhMDBmYWM3XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg" ,"url": "https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8"},
+
+{"name": "Paramount Movie Channel","image": "https://static.wikia.nocookie.net/fictionaltvstations/images/0/0a/Paramount_Movie_Channel.png/revision/latest?cb=20140603213510" ,"url": "http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY"},
+
+{"name": "Pluto TV Inside","image": "https://static.wixstatic.com/media/3a4b66_89d0812bcc464b23ae905fedf98bbd79~mv2.jpg/v1/fit/w_177,h_100,q_90/3a4b66_89d0812bcc464b23ae905fedf98bbd79~mv2.jpg" ,"url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767857f65029ce2385b217/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767857f65029ce2385b217&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=302&terminate=false&userId="},
+
+{"name": "Red TV","image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/RedTV-Srbija-Logo.png" ,"url": "https://live.rednet.rs/providus/redtv_multi.m3u8"},
 
 
 
