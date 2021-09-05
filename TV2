@@ -1977,26 +1977,7 @@ http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?checkedby:iptvcat.c
 
 
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/shinjuku-tokyo-japan-june-tokyo-olympics-logo-symbol-metropolitan-government-building-middle-city-shinjuku-tokyo-japan-121246784.jpg" group-title="Olympiade Tokyo", Rtm Sports
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/shinjuku-tokyo-japan-june-tokyo-olympics-logo-symbol-metropolitan-government-building-middle-city-shinjuku-tokyo-japan-121246784.jpg" group-title="Olympiade Tokyo", LIVE 1
-http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/shinjuku-tokyo-japan-june-tokyo-olympics-logo-symbol-metropolitan-government-building-middle-city-shinjuku-tokyo-japan-121246784.jpg" group-title="Olympiade Tokyo", LIVE 2
-https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/shinjuku-tokyo-japan-june-tokyo-olympics-logo-symbol-metropolitan-government-building-middle-city-shinjuku-tokyo-japan-121246784.jpg" group-title="Olympiade Tokyo", LIVE 3
-http://91.126.141.13:1935/live/41/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/shinjuku-tokyo-japan-june-tokyo-olympics-logo-symbol-metropolitan-government-building-middle-city-shinjuku-tokyo-japan-121246784.jpg" group-title="Olympiade Tokyo", LIVE 4
-http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Champions 1" tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Olympiade Tokyo",Champions 1
-https://link.zozotv.xyz:443/live/Freemium4/unlimited99/164.ts
-#EXTINF:-1 tvg-id="" tvg-name="Champions 2" tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Olympiade Tokyo",Champions 2
-https://link.zozotv.xyz:443/live/Freemium4/unlimited99/165.ts
-#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Olympiade Tokyo",Astro Arena
 
 
 
