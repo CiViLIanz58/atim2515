@@ -534,88 +534,10 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 #EXTINF:-1 group-title="KOREA/JAPAN",
 
-#EXTINF:-1 tvg-logo="https://mytfcdev.blob.core.windows.net/abscms/abscms/media/mytfctv/ui/content/img_logo-tfc.png?ext=." group-title="PHILIPINESS", Tfc
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
-#EXTINF:-1 tvg-logo="https://mytfcdev.blob.core.windows.net/abscms/abscms/media/mytfctv/ui/content/img_logo-tfc.png?ext=." group-title="PHILIPINESS", Tfc West
-#EXTINF:-1 tvg-logo="https://img.pngio.com/filetmz-logosvg-wikimedia-commons-tmz-png-3000_1244.png" group-title="PHILIPINESS",TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/gmap.png" group-title="PHILIPINESS", GMA Pinoy
-
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/gmap.png" group-title="PHILIPINESS", GMA Pinoy
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
-#EXTINF:-1 tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/07104459gma Newstv.png" group-title="PHILIPINESS", GMA News 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.comcast.com/-/media/Images/www_xfinity_com/TV/International/Filipino/gmaLifeTV.png" group-title="PHILIPINESS", GMA Life Tv
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
-#EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="PHILIPINESS", GMA 7
-#http://ok2.se:8000/e918F7U9H88HqKKNT/b8f8F9UT5qXy9Ckb0/82746
-#EXTINF:-1 tvg-logo="http://www.kapatidinternational.com/assets/images/logo.png" group-title="PHILIPINESS",Kapatid
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/9488d35066fc606.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kapamilya-channel-ph.png" group-title="PHILIPINESS",KAPAMILYA CHANNEL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jeepney-tv-ph.png" group-title="PHILIPINESS",JEEPNEY TV
-#http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="PHILIPINESS", GMA 7 Movie
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/ANC_Sky_Logo_2002.PNG/revision/latest?cb=20160516023113" group-title="PHILIPINESS",ANC
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
-#EXTINF:-1 tvg-logo="http://gctv.asia/img/gctv-logo.png" group-title="PHILIPINESS",GCTV
-http://45.32.115.103/live/livestream/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TV5_(ABC5)_Logo.svg/330px-TV5_(ABC5)_Logo.svg.png" group-title="PHILIPINESS", 5
-http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/5_Plus_2019_logo.svg/330px-5_Plus_2019_logo.svg.png" group-title="PHILIPINESS", 5 Plus
-http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cltv36.tv/assets/img/logo127.png" group-title="PHILIPINESS",Central Luzon Television
-https://usb.bozztv.com/cltv36/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000578623391/e61e485505645b07f16d1dbd317a96a4_400x400.jpeg" group-title="PHILIPINESS",TBN Asia
-#http://220.158.149.14:9999/live/TV00000000000000000003@HHZT;LIVE
-http://59c3ec70cfde0.streamlock.net/channel_4/channel4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Telenovela_Channel_logo.jpg" group-title="PHILIPINESS",Telenovela Channel
 
 
-#EXTINF:-1 tvg-logo="https://www.islandlivingchannel.tv/wp-content/uploads/2014/08/cropped-island_living_logo.png" group-title="PHILIPINESS",Island Living on BEAM
 
-https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Poplife_tv_logo.jpg/revision/latest?cb=20181210080025" group-title="PHILIPINESS",POP Life
- #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LifeTV.png" group-title="PHILIPINESS",Life TV
-http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1920px-PTVLogo2017.svg.png" group-title="PHILIPINESS",PTV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/0dbc79b42310cd7.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/TV5_One_Sports_Channel.png" group-title="PHILIPINESS", One Sports
-http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Net25_newlogo_2020.png/330px-Net25_newlogo_2020.png" group-title="PHILIPINESS",NET25
-https://ebc.sytes.net/hls/net25.m3u8
-#EXTINF:-1 tvg-logo="https://www.untvweb.com/wp-content/themes/untvweb-2016/images/untv-news-and-rescue-logo.png" group-title="PHILIPINESS", UNTV Public
-https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Inquirer_990_TV_2016_logo.jpg" group-title="PHILIPINESS",BEAM Ch. 7
-http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PwUFKik.jpg" group-title="PHILIPINESS",Beam TV
-#https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m3u8
-http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="PHILIPINESS",CNN Phillippines
-#http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-https://streaming.cnnphilippines.com/live/myStream/chunklist_w1877522213.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HopeChannel.us.png" group-title="PHILIPINESS",Hope Phillippines
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelPhilippines_1@310362/index_2000_av-b.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/XgSxlpi.png" group-title="PHILIPINESS",INC TV
-https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HSklqOj.jpg" group-title="PHILIPINESS",Inquirer 990 Television
-https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w842017402.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nqwE9ij.jpg" group-title="PHILIPINESS",Life TV Asia
-https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/chunklist_w1653262029.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nH4oHPV.png" group-title="PHILIPINESS" ,MyTV Cebu 30
-http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/870865623047262208/1-IrAl1L_400x400.jpg" group-title="PHILIPINESS", Pilipinas Primetime
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RUQASCU.png" group-title="PHILIPINESS", TV Shop
- http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="PHILIPINESS",SMNI
-http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7OsxUER.png" group-title="PHILIPINESS",UNTV
-#https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/master.m3u8
-https://www.untvweb.com/live-stream/untvweb.m3u8
 
 
 
