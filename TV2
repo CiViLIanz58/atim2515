@@ -2488,63 +2488,63 @@ https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-id="NHW.JP" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" ,NHK World
 http://203.162.235.41:16902
 #EXTINF:-1 group-title="日本頻道" tvg-id="NHG.JP" tvg-name="NHK 1 Tokyo JP" tvg-logo="https://i.imgur.com/jSJpXG0.png" ,NHK総合
-https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="Eテレ JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2b69210c4a3afaa51a0108af359383df.png" ,NHK東京　教育
-https://cdn.us195.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-id="FUJ.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" ,フジテレビ
 http://203.162.235.41:16904
 #EXTINF:-1 group-title="日本頻道" tvg-name="フジテレビ2" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/22b105b34252fc5a532d36494ed88deb.png" ,フジテレビ2
-*https://cdn.vn03.jpnettv.live/jptv/back_kanto_fuji_540/playlist.m3u8?
+*https://cdn.vn03.jpnettv.live/jptv/back_kanto_fuji_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="NTV JP" tvg-logo="https://i.imgur.com/fxYf9G0.png" ,日本テレビ
-https://cdn.us195.jpnettv.live/jptv/kanto_nippon_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_nippon_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="テレビ朝日" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2299677752ed7d486c2538c3e7d6e6d7.png" ,テレビ朝日
-https://cdn.us195.jpnettv.live/jptv/kanto_tv_asahi_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_tv_asahi_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="TBS" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/aca89f64c5b07608f33f4a1aa78e487e.png" ,TBS
-https://cdn.us195.jpnettv.live/jptv/kanto_tbs_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_tbs_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="テレビ東京" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/815ae2a83110ea1341cf8691ad462ad6.png" ,テレビ東京
-https://cdn.us195.jpnettv.live/jptv/kanto_tv_tokyo_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_tv_tokyo_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="Fuji TV JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/22b105b34252fc5a532d36494ed88deb.png" ,フジテレビ
-https://cdn.us195.jpnettv.live/jptv/kanto_fuji_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_fuji_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="TOKYO MX 1" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/fd2de06eae2c92b4549324c2f4a439f9.jpg" ,TOKYO MX 1
-https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="TOKYO MX 2" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/fd2de06eae2c92b4549324c2f4a439f9.jpg" ,TOKYO MX 2
 https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="NHK総合・大阪" tvg-logo="https://i.imgur.com/jSJpXG0.png" ,NHK総合・大阪
-*https://cdn.us195.jpnettv.live/jptv/kansi_nhk_g_540/playlist.m3u8?
+*https://cdn.us195.jpnettv.live/jptv/kansi_nhk_g_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="NHKEテレ大阪" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2b69210c4a3afaa51a0108af359383df.png" ,NHKEテレ大阪
-https://cdn.us195.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="SUNテレビ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/983f52f41abb4d9d6e2a5d41dfbac33a.png" ,SUNテレビ
 http://193.42.99.130:23455/2630/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="毎日放送" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/1f8ceacf23a3377103c0db77c062ac17.png" ,毎日放送
-*https://cdn.us195.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8?
+*https://cdn.us195.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="群馬テレビ" tvg-logo="https://th.bing.com/th/id/OIP.MMf_pQi6sLmNJS6L9AE_TgHaBE?pid=Api&rs=1" ,群馬テレビ
 https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="ABCテレビ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/9479cd461fb6d04da07c93dbc9e42635.png" ,ABCテレビ
-*https://cdn.us195.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?
+*https://cdn.us195.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="テレビ大阪" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/658a4e932e85fc055176ac1f4195f6b1.png" ,テレビ大阪
-*https://cdn.us195.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8?
+*https://cdn.us195.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="カンテレ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/d77abadf7275c0cb00db7e360c364615.png" ,関西テレビ
-https://cdn.us195.jpnettv.live/jptv/kansi_tv_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kansi_tv_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="Weather News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png" ,Weather News
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="読売テレビ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/7186bd34182d787d80d24d6009722fa1.png" ,読売テレビ
-*https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8?
+*https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="NHK BS1 JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2032844b9150170265f701f013eaec67.png" ,NHKBS1
-https://cdn.jpth10.jpnettv.live/jptv/nhkbs1_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/nhkbs1_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BSプレミアム JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/c0aa754ab51483830efddc8394eee8eb.png" ,NHKBSP
-https://cdn.jpth10.jpnettv.live/jptv/bspremium_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/bspremium_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="ウェザーニュース" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png" ,ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BS日テレ" tvg-logo="https://yt3.ggpht.com/a/AATXAJzwP_lpjmtrb_UB_edxK-JUH0DjJakeZK3q55Ud=s100-c-k-c0xffffffff-no-rj-mo" ,BS日テレ
-https://cdn.us195.jpnettv.live/jptv/bsnihontv_720/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/bsnihontv_720/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BS朝日" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs5.png" ,BS朝日
-https://cdn.us195.jpnettv.live/jptv/bsasahi_720/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/bsasahi_720/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BS‐TBS" tvg-logo="https://onecareer.imgix.net/uploads/company/square_logo/86305/bstbs_200x200.png?ixlib=rails-3.0.2&auto=format&fit=max" ,BS‐TBS
-https://cdn.us195.jpnettv.live/jptv/bstbs_720/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/bstbs_720/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BSテレ東" tvg-logo="https://i.imgur.com/lxegMYe.png" ,BSテレ東
-https://cdn.us195.jpnettv.live/jptv/bsjapan_720/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/bsjapan_720/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BSフジ" tvg-logo="https://yt3.ggpht.com/-3WgJDDR0Nb8/AAAAAAAAAAI/AAAAAAAAAAA/GZQsfVI-QnU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,BSフジ
-https://cdn.us195.jpnettv.live/jptv/bsfuji_720/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/bsfuji_720/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="Shop Channel" tvg-logo="https://th.bing.com/th/id/OIP.PlFC5NzcL_L_bMR5xRnNYAHaHa?pid=Api&rs=1" ,Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BS4K JP" tvg-logo="https://th.bing.com/th/id/OIP.sX3lwCiDMWC6lhbQXvTnoQAAAA?w=178&h=116&c=7&o=5&dpr=1.25&pid=1.7" ,NHK BS4K
@@ -2560,17 +2560,17 @@ http://193.42.99.130:23455/3690/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="WOWOWシネマ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/87a1f3c18f1a5dee6e5906cd7b08329a.png" ,WOWOWシネマ
 http://193.42.99.130:23455/3700/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="スターチャンネル1 JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/b83f680e1ce06ab456beb47e4f32ba83.png" ,スターチャンネル１
-https://cdn.jpth10.jpnettv.live/jptv/starch1_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/starch1_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="スターチャンネル2 JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/1fcd59a9242e1290a6d6230bb4383479.png" ,スターチャンネル２
-https://cdn.jpth10.jpnettv.live/jptv/starch2_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/starch2_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="スターチャンネル3" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2f3cdfa740d53d939ba33c1644e418eb.png" ,スターチャンネル３
-https://cdn.jpth10.jpnettv.live/jptv/starch3_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/starch3_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="グリーンチャンネル" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/6c78c725439381b05d2e155878bef140.png" ,グリーンチャンネル
 http://193.42.99.130:23455/4310/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BSアニマックス" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/8e3646b71c2b9dba8fff762f4720ff91.png" ,BSアニマックス
-https://cdn.jpth10.jpnettv.live/jptv/janimax_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/janimax_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="FOX" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/fe82c27b333388cadde1141fe39f7451.png" ,FOX
-https://cdn.jpth10.jpnettv.live/jptv/jfox/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/jfox/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="J Sports 1 JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/94f83d030cf53ca4fadf179e7e559d66.png" ,J SPORTS 1
 http://193.42.99.130:23455/3640/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="J Sports 2 JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/f3235c28a0ce4bb5518ebfbdf124b9b4.png" ,J SPORTS 2
@@ -2580,47 +2580,47 @@ http://193.42.99.130:23455/3660/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="J Sports 4 JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/e874f6c8faf990805858a9bdd8adc6f2.png" ,J SPORTS 4
 http://193.42.99.130:23455/3670/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BS釣りビジョン" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/77b5b8ae3a15eec64df122589a136aea.png" ,BS釣りビジョン
-https://cdn.jpth10.jpnettv.live/jptv/Fishing_broadcasting/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/Fishing_broadcasting/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="シネフィルWOWOW" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/4350eb31c727413345416b84f8b85ba7.jpg" ,WOWOWシネフィル
-https://cdn.jpth10.jpnettv.live/jptv/cinefil_wowow_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/cinefil_wowow_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="日本映画専門チャンネル JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/7efdc3ccf055675bb01cbded259afa86.png" ,日本映画専門チャンネル
 https://cdn.jpth10.jpnettv.live/jptv/igasennmonn_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="ディズニーチャンネル" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/80503a019de716ab75a9c4a172841964.png" ,ディズニーチャンネル
-https://cdn.jpth10.jpnettv.live/jptv/disney_channel/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/disney_channel/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="東映チャンネル" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/f02c1596d9426063497ec76a9a946ee4.png" ,東映チャンネル
-https://cdn.jpth10.jpnettv.live/jptv/TOA/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/TOA/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="衛星劇場" tvg-logo="https://www.eigeki.com/hp/eigeki/img/eigeki_fb_logo.jpg" ,衛星劇場
-https://cdn.jpth10.jpnettv.live/jptv/gekijjyou/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/gekijjyou/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="映画 チャンネルNECO JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/5f4ff5c6d5cbbf07d843a89353166f3d.png" ,映画・チャンネルNEKO
-https://cdn.jpth10.jpnettv.live/jptv/Neco/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/Neco/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="ムービープラス JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/8a9b88c17c832bebb81f0f5f311d9282.png" ,ムービープラス
-https://cdn.jpth10.jpnettv.live/jptv/movieplus/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/movieplus/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="スカイA" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/89533943779f56ff017b0fe766e00770.png" ,スカイA
-https://cdn.jpth10.jpnettv.live/jptv/Sky_A/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/Sky_A/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="GAORA SPORTS" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/7f88d09bd963ce1fe317b34a6f6d4d02.png" ,GAORA SPORTS
-https://cdn.jpth10.jpnettv.live/jptv/GaoRa/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/GaoRa/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="日テレジータス" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/0116796a1eca679b88c89ce964fb7cce.jpg" ,日テレジータス
 https://cdn.jpth10.jpnettv.live/jptv/japan_tv_G/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="GOLF NETWORK" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/22b83525f2a34fcca2337f147719d5c3.png" ,GOLF NETWORK
 http://193.42.99.130:23455/4320/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="ファミリー劇場" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/51aa15769cc9325dbbe4ee3607b42061.png" ,BS釣りビジョン
-https://cdn.jpth10.jpnettv.live/jptv/familytheater/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/familytheater/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="ホームドラマチャンネル" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/effee832ab4494e85842e8ead694ab3b.png" ,ホームドラマチャンネル
 http://193.42.99.130:23455/7210/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="MTV" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/4c21fcb1be5f941e0ed936e623ce932a.png" ,MTV
-https://cdn.jpth10.jpnettv.live/jptv/mtv/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/mtv/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="キッズステーション" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/5598d89a33c00583d7fefb82f7626ed0.png" ,キッズステーション
-https://cdn.jpth10.jpnettv.live/jptv/jkids/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/jkids/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="カートゥーンネットワーク" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/d2e3bd56431d30f28837a9aac713736f.png" ,カートゥーンネットワーク
-https://cdn.jpth10.jpnettv.live/jptv/cartoon_network/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/cartoon_network/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="ディズニージュニア" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/7eebf2d74e1aea7d270f99a5044126e1.png" ,ディズニージュニア
-https://cdn.jpth10.jpnettv.live/jptv/disney_junior/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/disney_junior/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="Discovery Channel" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/09255d9fd928b07b65f9274e57099419.png" ,Discovery Channel
-https://cdn.jpth10.jpnettv.live/jptv/jdiscovery/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/jdiscovery/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="アニマルプレネット" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2c9fdbda58e156d06b20295d36bd210e.png" ,アニマルプレネット
-https://cdn.jpth10.jpnettv.live/jptv/Animal/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/Animal/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="ナショナルジオグラフィック" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2fbd3e52d6611ce449d21d1673c50fc0.png" ,ナショナルジオグラフィック
-https://cdn.jpth10.jpnettv.live/jptv/National_geographic/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/National_geographic/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="日テレニュース24" tvg-logo="https://th.bing.com/th/id/OIP.ZRxy2K80bPDthynrjZUXLgAAAA?w=156&h=180&c=7&o=5&dpr=1.25&pid=1.7" ,日テレニュース24
 https://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="スポーツライブ+ JP" tvg-logo="https://av.watch.impress.co.jp/img/avw/docs/1231/845/01_s.jpg" ,スポーツライブ
@@ -2628,93 +2628,93 @@ http://193.42.99.130:23455/7160/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="ANIPLUS AISA" tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" ,ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="NHK総合・東京JPTH10" tvg-logo="https://i.imgur.com/jSJpXG0.png" ,NHK総合・東京JPTH10
-https://cdn.jpth10.jpnettv.live/jptv/kanto_nhk_g_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kanto_nhk_g_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="NHKEテレ東京JPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2b69210c4a3afaa51a0108af359383df.png" ,NHKEテレ東京JPTH10
-https://cdn.jpth10.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="日テレJPTH10" tvg-logo="https://i.imgur.com/fxYf9G0.png" ,日テレJPTH10
-https://cdn.jpth10.jpnettv.live/jptv/kanto_nippon_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kanto_nippon_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="テレビ朝日JPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2299677752ed7d486c2538c3e7d6e6d7.png" ,テレビ朝日JPTH10
-https://cdn.jpth10.jpnettv.live/jptv/kanto_tv_asahi_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kanto_tv_asahi_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="TBSJPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/aca89f64c5b07608f33f4a1aa78e487e.png" ,TBSJPTH10
-https://cdn.jpth10.jpnettv.live/jptv/kanto_tbs_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kanto_tbs_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="テレビ東京JPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/815ae2a83110ea1341cf8691ad462ad6.png" ,テレビ東京JPTH10
-https://cdn.jpth10.jpnettv.live/jptv/kanto_tv_tokyo_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kanto_tv_tokyo_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="フジテレビJPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/22b105b34252fc5a532d36494ed88deb.png" ,フジテレビJPTH10
-https://cdn.jpth10.jpnettv.live/jptv/kanto_fuji_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kanto_fuji_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="TOKYO MX 1JPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/fd2de06eae2c92b4549324c2f4a439f9.jpg" ,TOKYO MX 1JPTH10
-https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="TOKYO MX 2JPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/fd2de06eae2c92b4549324c2f4a439f9.jpg" ,TOKYO MX 2JPTH10
 https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="NHK総合大阪JPTH10" tvg-logo="https://i.imgur.com/jSJpXG0.png" ,NHK総合・大阪JPTH10
-https://cdn.jpth10.jpnettv.live/jptv/kansi_nhk_g_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kansi_nhk_g_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="読売テレビJPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/7186bd34182d787d80d24d6009722fa1.png" ,読売テレビJPTH10
-https://cdn.jpth10.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="朝日放送JPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/9479cd461fb6d04da07c93dbc9e42635.png" ,朝日放送JPTH10
-https://cdn.jpth10.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="毎日放送JPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/1f8ceacf23a3377103c0db77c062ac17.png" ,毎日放送JPTH10
-https://cdn.jpth10.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="テレビ大阪JPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/658a4e932e85fc055176ac1f4195f6b1.png" ,テレビ大阪JPTH10
-https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="カンテレJPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/d77abadf7275c0cb00db7e360c364615.png" ,カンテレJPTH10
-https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="NHKBS1JPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/219928fe33540f78f1c629bb31736095.png" ,NHKBS1JPTH10
-https://cdn.jpth10.jpnettv.live/jptv/nhkbs1_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/nhkbs1_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="NHKBSPJPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/8eeac49812baf08de6d5b1f4460a446f.png" ,NHKBSPJPTH10
-https://cdn.jpth10.jpnettv.live/jptv/bspremium_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/bspremium_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BS日テレJPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/9cbd7123e9f73710bb956d2b271e42d1.png" ,BS日テレJPTH10
-https://cdn.jpth10.jpnettv.live/jptv/bsnihontv_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/bsnihontv_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BS朝日JPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2bd31c799b358deed447b0ebc03df986.png" ,BS朝日JPTH10
-https://cdn.jpth10.jpnettv.live/jptv/bsasahi_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/bsasahi_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BSTBSJPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/1f827dd57931a0b19660576829a92744.png" ,BSTBSJPTH10
-https://cdn.jpth10.jpnettv.live/jptv/bstbs_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/bstbs_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BSテレ東JPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/f1d1ed8fb08ebc5a0b1722b690118452.png" ,BSテレ東JPTH10
-https://cdn.jpth10.jpnettv.live/jptv/bsjapan_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/bsjapan_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BSフジJPTH10" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/9265d2bd88284b1e2f5b006a539b3be0.png" ,BSフジJPTH10
-https://cdn.jpth10.jpnettv.live/jptv/bsfuji_540/playlist.m3u8?
+https://cdn.jpth10.jpnettv.live/jptv/bsfuji_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="NHK総合・東京US195" tvg-logo="https://i.imgur.com/jSJpXG0.png" ,NHK総合・東京US195
-https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="NHKEテレ東京US195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2b69210c4a3afaa51a0108af359383df.png" ,NHKEテレ東京US195
-https://cdn.us195.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="日テレUS195" tvg-logo="https://i.imgur.com/fxYf9G0.png" ,日テレUS195
-https://cdn.us195.jpnettv.live/jptv/kanto_nippon_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_nippon_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="テレビ朝日US195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2299677752ed7d486c2538c3e7d6e6d7.png" ,テレビ朝日US195
-https://cdn.us195.jpnettv.live/jptv/kanto_tv_asahi_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_tv_asahi_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="TBSUS195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/aca89f64c5b07608f33f4a1aa78e487e.png" ,TBSUS195
-https://cdn.us195.jpnettv.live/jptv/kanto_nhk_tbs_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_nhk_tbs_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="テレビ東京US195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/815ae2a83110ea1341cf8691ad462ad6.png" ,テレビ東京US195
-https://cdn.us195.jpnettv.live/jptv/kanto_tv_tokyo_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_tv_tokyo_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="フジテレビUS195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/22b105b34252fc5a532d36494ed88deb.png" ,フジテレビUS195
-https://cdn.us195.jpnettv.live/jptv/kanto_fuji_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_fuji_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="TOKYO MX 1US195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/fd2de06eae2c92b4549324c2f4a439f9.jpg" ,TOKYO MX 1US195
-https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="TOKYO MX 2US195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/fd2de06eae2c92b4549324c2f4a439f9.jpg" ,TOKYO MX 2US195
 https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="NHK総合大阪US195" tvg-logo="https://i.imgur.com/jSJpXG0.png" ,NHK総合・大阪US195
-https://cdn.us195.jpnettv.live/jptv/kansi_nhk_g_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kansi_nhk_g_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="読売テレビUS195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/7186bd34182d787d80d24d6009722fa1.png" ,読売テレビUS195
-https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="朝日放送US195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/9479cd461fb6d04da07c93dbc9e42635.png" ,朝日放送US195
-https://cdn.us195.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="毎日放送US195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/1f8ceacf23a3377103c0db77c062ac17.png" ,毎日放送US195
-https://cdn.us195.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="テレビ大阪US195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/658a4e932e85fc055176ac1f4195f6b1.png" ,テレビ大阪US195
-https://cdn.us195.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="カンテレUS195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/d77abadf7275c0cb00db7e360c364615.png" ,カンテレUS195
-https://cdn.us195.jpnettv.live/jptv/kansi_tv_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/kansi_tv_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="NHKBS1US195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/219928fe33540f78f1c629bb31736095.png" ,NHKBS1US195
-https://cdn.us195.jpnettv.live/jptv/nhkbs1_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/nhkbs1_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="NHKBSPUS195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/8eeac49812baf08de6d5b1f4460a446f.png" ,NHKBSPUS195
-https://cdn.us195.jpnettv.live/jptv/bspremium_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/bspremium_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BS日テレUS195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/9cbd7123e9f73710bb956d2b271e42d1.png" ,BS日テレUS195
-https://cdn.us195.jpnettv.live/jptv/bsnihontv_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/bsnihontv_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BS朝日US195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2bd31c799b358deed447b0ebc03df986.png" ,BS朝日US195
-https://cdn.us195.jpnettv.live/jptv/bsasahi_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/bsasahi_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BSTBSUS195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/1f827dd57931a0b19660576829a92744.png" ,BSTBSUS195
-https://cdn.us195.jpnettv.live/jptv/bstbs_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/bstbs_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BSテレ東US195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/f1d1ed8fb08ebc5a0b1722b690118452.png" ,BSテレ東US195
-https://cdn.us195.jpnettv.live/jptv/bsjapan_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/bsjapan_540/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="BSフジUS195" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/9265d2bd88284b1e2f5b006a539b3be0.png" ,BSフジUS195
-https://cdn.us195.jpnettv.live/jptv/bsfuji_540/playlist.m3u8?
+https://cdn.us195.jpnettv.live/jptv/bsfuji_540/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="韓國頻道" tvg-logo="http://www.arirang.com/images/index/arirang.png" ,Arirang Korea (아리랑 TV)
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
@@ -3037,53 +3037,7 @@ http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m
 http://140.207.241.2:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="北京地區" tvg-name="北京紀實" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" ,北京冬奧紀實
 http://hdtv.haust.edu.cn/hls/btv11hd.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="英國頻道" tvg-logo="http://static.epg.best/gb/4Music.uk.png" ,4 Music
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
-#EXTINF:-1 group-title="英國頻道" tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" ,BBC 1
-https://uk.easyview.eu/hls/bbc-london.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-london
-#EXTINF:-1 group-title="英國頻道" tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" ,BBC 2
-https://uk.easyview.eu/hls/bbc-two.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-two
-#EXTINF:-1 group-title="英國頻道" tvg-id="CB4.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" ,BBC 4
-https://uk.easyview.eu/hls/bbc-four.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-four
-#EXTINF:-1 group-title="英國頻道" tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" ,BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="英國頻道" tvg-id="BBL.UK" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" ,BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="英國頻道" tvg-id="BBN.UK" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" ,BBC News
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="英國頻道" tvg-id="BXH.UK" tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" ,Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 group-title="英國頻道" tvg-id="CBB.UK" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" ,CBBC
-https://uk.easyview.eu/hls/cbbc.m3u8|Referer=https://easyview.eu/watch.php?stream=cbbc
-#EXTINF:-1 group-title="英國頻道" tvg-id="CTV.UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" ,CITV
-http://51.52.156.22:8888/http/001
-#EXTINF:-1 group-title="英國頻道" tvg-id="FOC.UK" tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" ,Forces TV
-https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="英國頻道" tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" ,ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 group-title="英國頻道" tvg-id="IT2.UK" tvg-logo="http://static.epg.best/gb/ITV2.uk.png" ,ITV2
-http://51.52.156.22:8888/http/005
-#EXTINF:-1 group-title="英國頻道" tvg-id="IT3.UK" tvg-logo="http://static.epg.best/gb/ITV3.uk.png" ,ITV3
-http://51.52.156.22:8888/http/006
-#EXTINF:-1 group-title="英國頻道" tvg-id="IT4.UK" tvg-logo="http://static.epg.best/gb/ITV4.uk.png" ,ITV4
-http://51.52.156.22:8888/http/007
-#EXTINF:-1 group-title="英國頻道" tvg-id="KER.UK" tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" ,Kerrang!
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
-#EXTINF:-1 group-title="英國頻道" tvg-id="KIS.UK" tvg-logo="http://static.epg.best/gb/KissTV.uk.png" ,Kiss
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
-#EXTINF:-1 group-title="英國頻道" tvg-id="MAG.UK" tvg-logo="http://static.epg.best/gb/Magic.uk.png" ,Magic
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-#EXTINF:-1 group-title="英國頻道" tvg-id="RTN.IE" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" ,RTE News Now
-https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
-#EXTINF:-1 group-title="英國頻道" tvg-id="S4C.UK" tvg-logo="https://static.epg.best/gb/S4C.uk.png" ,S4C
-https://uk.easyview.eu/hls/s4c.m3u8|Referer=https://easyview.eu/watch.php?stream=s4c
-#EXTINF:-1 group-title="英國頻道" tvg-id="SPO.UK" tvg-logo="http://spotlighttv.co.uk/wp-content/uploads/2019/06/cropped-Cropped-Spotlight-Logo-1.jpg" ,Spotlight TV
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
-#EXTINF:-1 group-title="英國頻道" tvg-id="TG4.IE" tvg-logo="https://static.epg.best/ie/TG4.ie.png" ,TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 group-title="英國頻道" tvg-id="TBX.UK" tvg-logo="http://static.epg.best/gb/TheBox.uk.png" ,The Box
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+
 #EXTM3U
 #EXTINF:-1 group-title="美國頻道" tvg-id="ACC.US" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2016/07/acc_network.png" ,ACCN
 https://gma2.blab.email/acc.m3u8fes
@@ -3502,74 +3456,12 @@ http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="新闻",鳳凰资讯(中国)
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1 tvg-id="FHW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="新闻",鳳凰衛視中文(中国)
-http://live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/CNC_World_logo.png/220px-CNC_World_logo.png" group-title="新闻台",中国新华新闻
-http://livecdn1.news.cn/cnccn/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.yicai.com/img/logo.66870cb6.png" group-title="新闻台",第一财经
-http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226138/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="新闻台",無綫新聞台
-http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="新闻台",無綫財經資訊台
-http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="新闻台",有線新聞
-http://livetv.dnsfor.me:80/channel.5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="新闻台",有線財經資訊
-http://livetv.dnsfor.me:80/channel.6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/16/I-CABLE_Live_News_Channel.png" group-title="新闻台",有線直播新聞
-http://teslagram.com/live/channel_110.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="新闻台",民視新聞
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png" group-title="新闻台",華視新聞
-http://p06.iptv2asia.com:18888/http/010
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="新闻台",台視新聞
-http://p06.iptv2asia.com:18888/http/004
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视财经.png" group-title="新闻台",台視財經
-http://p06.iptv2asia.com:18888/http/003
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="新闻台",中視新聞
-http://p06.iptv2asia.com:18888/http/006
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="新闻台",中天新聞
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="新闻台",TVBS新聞
-http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="新闻台",三立新聞
-http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="新闻台",三立Live新聞
-http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="新闻台",臺新聞
-http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 tvg-id="DLX.TW" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="新闻台",東森新聞
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="新闻台",東森財經新聞
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="新闻台",三立財經新聞
-http://seb.sason.top/sc/slinews_fhd.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://hievent.hinet.net/images/bts/logo.png" group-title="台湾",佛衛慈悲台
 https://btsu4k5-hisng.cdn.hinet.net/live/pool/btsLive2/hievent-hls/btsLive2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="电影",黑莓电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/200px-Phoenix_Movies.svg.png" group-title="电影",凤凰电影
-https://www.fanmingming.cn/hls/fhdy.m3u8
-#EXTINF:-1 tvg-id="WXD.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影
-http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="电影",好莱坞电影
-http://live5.ocnttv.com:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="电影",CCTV-6 电影
-http://221.230.141.252/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 group-title="TYP.Asia" tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" group-title="电影",天映频道
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC 高清电影
-https://www.fanmingming.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC 家庭影院
-https://www.fanmingming.cn/hls/chctv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC 动作电影
-https://www.fanmingming.cn/hls/chcatv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="动漫",哈哈炫动
 http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/3.m3u8
