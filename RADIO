@@ -123,6 +123,28 @@
 {"name":"MUSICHITz เพลงสากล ยอดนิยม",image:"https://www.tvjaa.com/storage/radio-channels/musichitzinter.png","url": "https://radio.tvjaa.com/musichitzinter"},
 
 {"name":"ONDIO เพลงไทยสากลใหม่",image:"https://www.tvjaa.com/storage/radio-channels/ondiothainew.png","url": "https://radio.tvjaa.com/ondiothainew"},
+
+{"name":"Hitz FM",image:"https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170851/27341434.png","url": "http://astro1.rastream.com/hitz"},
+
+{"name":"Hot FM",image:"http://static.mytuner.mobi/media/radios/cyqqphe6KP.png","url": "http://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads:true;tags:radioactive;stationid:mediaprima-hotfm&playerid=Hot FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzkxMDQyNzY1MDUsImV4cCI6M"},
+
+{"name":"Kool FM",image:"https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170851/27341439.png","url": "https://mediaprima.rastream.com/mediaprima-koolfm"},
+
+{"name":"Lite",image:"https://d3at9g37w1ky0l.cloudfront.net:443/station-logos/lite/lite@3x.png","url": "http://astro1.rastream.com/lite"},
+
+{"name":"Mix FM",image:"https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170851/27341436.png","url": "https://astro2.rastream.com/mix"},
+
+{"name":"My FM",image:"https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170851/27341438.webp","url": "https://astro1.rastream.com/myfm"},
+
+{"name":"Syok Classic Rock",image:"https://d3at9g37w1ky0l.cloudfront.net:443/radio-logos/classicrock/classicrock_lg.png","url": "http://astro4.rastream.com/rock"},
+
+{"name":"Syok Gold",image:"https://de-digital-fortress-img-assets.eco.astro.com.my:443/prod/9422add47af2963ba0b929390f272b41.png","url": "http://astro4.rastream.com/gold"},
+
+{"name":"Syok Jazz",image:"https://de-digital-fortress-img-assets.eco.astro.com.my:443/prod/7a382daaba59366a3b722e9334c9c370.png","url": "http://astro4.rastream.com/jazz"},
+
+{"name":"Syok Opus",image:"https://de-digital-fortress-img-assets.eco.astro.com.my:443/prod/95fbc23b5d4c6c862b6fa5c229ada91f.png","url": "http://astro4.rastream.com/opus"},
+
+
     
 ]
 }
