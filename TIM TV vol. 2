@@ -1,4 +1,7 @@
 #EXTM3U
+ 
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",ช่อง 3
+http://host4.dynns.com/stream/a4485b656d764f308c63b14a8bf62326.m3u8
 
 
 
