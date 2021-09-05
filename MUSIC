@@ -10,7 +10,7 @@
     
 {"name":"แสงจันทร์",image:"https://www.inwiptv.com/postor/20210504230700%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.jpg","url": "http://freelive.inwstream.com:1935/freelive-edge/sangjun.stream/playlist.m3u8"},
 
-{"name":"ROCK TV",image:"https://antenna-group.com/wp-content/uploads/2020/03/11_ROCK_TV_A-1.jpg","url": "https://tvron.net/rock-tv"},
+{"name":"ROCK TV",image:"https://antenna-group.com/wp-content/uploads/2020/03/11_ROCK_TV_A-1.jpg","url": "https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8"},
 
 {"name":"ลูกทุ่งเน็ตเวิร์ก",image:"https://yt3.ggpht.com/ytc/AKedOLThfCiwNaFtyUSbLRbAvB1gxqXUjXTbTLTftMF2kQ=s900-c-k-c0x00ffffff-no-rj","url": "https://54c241893bf39.streamlock.net/looktungnetwork1/looktungnetwork1/chunklist_w9273485.m3u8"},
 
@@ -456,6 +456,8 @@
 {"name":"Best Cable Music",image:"https://yt3.ggpht.com/ytc/AAUvwniq56MCrk92Ge6Tszwm6Iv6g_tJZFUVlYuQxlOi=s176-c-k-c0x00ffffff-no-rj-mo","url": "https://tv.siete.us/bestcablemusic/bestcablemusic/index.m3u8"},
 
 {"name":"Bonce TV",image:"https://bonce.tv/static/images/logo-outer.png","url": "https://seswa.bonce.tv/hls/bonceswa.m3u8"},
+
+{"name":"Rewind TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdR-nqXgHUJbzZ4zFYcoX3kJ_yzf3rRAiXAMWwMCXwOMm4eD6YxtpkqqN4_SkszDGMsA&usqp=CAU","url": "https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8"},
 
 
 
