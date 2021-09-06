@@ -16,15 +16,7 @@
 
 {"name":"Pluto TV Celebrity",image:"https://pbs.twimg.com/media/EM1d5Y5U4AEX--z.jpg","url": "http://player.teleon.tv/us/channel/pluto-tv-celebrity-us"},
 
-{
-"name": "ROCK EXTREME",  
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rock_Extreme.png/290px-Rock_Extreme.png",  
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-rtlcbsextreme&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
+{"name":"Rock Extreme",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rock_Extreme.png/1200px-Rock_Extreme.png","url": "https://we-play.live/watching/tv/rock-extreme"},
 
 {"name":"AFV Family",image:"http://cdn.teleon.tv/logo/afv-family-us.png","url": "http://player.teleon.tv/us/channel/afv-family-us"},
 
@@ -195,7 +187,15 @@
 
 {"name":"Youth Success",image:"http://youthsuccesstv.com/wp-content/uploads/2019/07/YouthSuccessTVNetwork.jpg","url": "https://simultv.s.llnwi.net/o060/YouthSuccess/interlink.m3u8"},
 
-{"name":"TRUE INSIDE","image":"https://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png","url":"https://siamtv88.co/index.php?a=live_details&channel_code=sd-inside","referer": "https://siamtv88.co/", "userAgent": "ExoPlayerLib/2.8.4"},
+{
+"name": "True Inside",  
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F17357408-dc10-45f1-bff5-c9ab4807a2c0.png&w=320&h=240",  
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-inside&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "tim tv",
+"desktop": "true"
+},
 
 {"name":"DW English",image:"https://www.dw.com/cssi/dwlogo-print.gif","url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
 
