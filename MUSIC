@@ -96,6 +96,12 @@
 
 {"name":"Vevo Pop England",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8"},
 
+{"name":"Vevo 70s",image:"https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png","url": "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/192bbb4ecd484e389101d109ac61cf5d/live.m3u8"},
+
+{"name":"Vevo 90s",image:"https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png","url": "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/51f1a0da9da049098a8cec541bddfae5/live.m3u8"},
+
+{"name":"Vevo Regueton",image:"https://cdn.statically.io/img/i0.wp.com/worldscholarshipforum.com/wealth/wp-content/uploads/2021/05/what-is-vevo.png","url": "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live.m3u8"},
+
 {"name":"Local Now Music",image:"https://image.roku.com/developer_channels/prod/b4e8385b18098ab1a09bb81760ef44835c59464fb807e0a27c926acc5003fa71.png","url": "https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8"},
 
 {"name":"VH1-Love and Hip Hop",image:"https://pbs.twimg.com/media/E1wetGmWUAMpEW2.jpg","url": "http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"},
