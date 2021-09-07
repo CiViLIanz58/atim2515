@@ -16,7 +16,7 @@
  
 {"name":"MOVIES WORLD 1","image": "https://drive.google.com/uc?export=download&id=1CESyG6cfFw3sgDixf768mwRnKJXf0CtD","url": "https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
-{"name":"ZEE หนัง","image": "https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png","url": "https://we-play.live/watching/tv/zee-nung"},
+{"name":"ZEE หนัง","image":"https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png","url":"https://tv.trueid.net/embed/zee-nung?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
 {"name": "TRUE THAIFILM","image": "https://we-play.live/uploads/posters/-poster1602704673.jpeg" ,"url": "https://we-play.live/watching/tv/true-thai-film"},
 
@@ -50,7 +50,7 @@
 
 {"name": "FWSOV","image": "https://www.inwiptv.com/postor/20200512165346fwsov.jpg" ,"url": "http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8"},
 
-{"name": "MEDIA TV","image": "https://cms.dmpcdn.com/livetv/2021/02/24/cc358130-764d-11eb-9057-2d10fb4d0cf4_320.png" ,"url": "https://www.adintrend.tv/hd/ch28?t=live"},
+{"name":"MEDIA TV","image":"https://cms.dmpcdn.com/livetv/2021/02/24/cc358130-764d-11eb-9057-2d10fb4d0cf4_320.png","url":"https://tv.trueid.net/embed/MediaTV?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
 {"name": "CTB","image": "https://f.ptcdn.info/601/063/000/pqcvhsxk7PuKUZbFKv4-o.png" ,"url": "http://ctbtv.co.th/ctb-live/"},
 
