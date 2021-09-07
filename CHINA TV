@@ -78,21 +78,9 @@
 
 {"name":"广东体育",image:"https://pic.baike.soso.com/ugc/baikepic2/35796/20180414140133-1696016295_jpeg_661_580_43386.jpg/300","url": "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=08&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"},
 
-{"name":"JIANGSU",image:"https://i.imgur.com/bKgwJZb.png?1","url": "http://223.82.250.72/live/hdjiangsustv/1.m3u8"},
-
 {"name":"HUNAN",image:"https://i.imgur.com/rciggYQ.jpg","url": "http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8"},
 
 {"name":"SHENZHEN",image:"https://i.imgur.com/i6V7fmU.jpg","url": "http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8"},
-
-{"name":"BEIJING",image:"http://www.masmiri.50webs.com/page2/Satelite%20TV/BTV.PNG","url": "http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/beijingstv/1.m3u8"},
-
-{"name":"东方卫视",image:"http://www.masmiri.50webs.com/page2/Satelite%20TV/Dragon%20tv.png","url": "http://223.82.250.72/live/hddongfangstv/1.m3u8"},
-
-{"name":"Hebei",image:"http://www.masmiri.50webs.com/page2/Satelite%20TV/Hebei%20tv.jpg","url": "http://223.82.250.72/live/hebeistv/1.m3u8"},
-
-{"name":"CHONGQING",image:"https://i.imgur.com/DrYc2O6.png","url": "http://223.82.250.72/live/chongqingstv/1.m3u8"},
-
-{"name":"JIANGXI",image:"https://i.imgur.com/8tw7llF.png","url": "http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jiangxistv/1.m3u8"},
 
 {"name":"HUBEI",image:"https://i.imgur.com/cVKLZYm.jpg","url": "http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8"},
 
