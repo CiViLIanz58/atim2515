@@ -25,6 +25,8 @@
 {"name":"Tv Ikim",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeunk8zsXxPiqk_9Ck04QfqOuPfnWWlKxifg&usqp=CAU","url": "http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8"},
 
 {"name":"Sukan RTM",image:"https://live-tv-channels.org/pt-data/uploads/logo/my-sukan-rtm-4421.jpg","url": "http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8"},
+
+{"name":"POP Musik",image:"https://www.stadtkindfrankfurt.de/wp-content/uploads/die-beste-pop-musik-2019-1024x680.jpg","url": "http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8"},
     
 ]
 }
