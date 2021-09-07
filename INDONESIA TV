@@ -63,6 +63,34 @@
 {"name":"Bisnet Adventure 4K",image:"https://www.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png","url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8"},
 
 {"name":"Bisnet Lifestyle",image:"https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg","url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8"},
+
+{"name":"Citra Bioskop",image:"https://www.dropbox.com/s/x3s8bt57wowxak8/citra-bioskop-id.png?dl=1","url": "http://www.dituduhmaling.xyz/V11710/Citrabioskop.m3u8"},
+
+{"name":"Citra Entertainment",image:"https://www.dropbox.com/s/fzxo4k98skq8mfy/citra-entertainment-id.png?dl=1","url": "http://www.dituduhmaling.xyz/V11710/Citraentertainment.m3u8"},
+
+{"name":"Citra Muslim",image:"https://www.dropbox.com/s/tj9pm6zccmsyu7t/citra-muslim-id.png?dl=1","url": "http://www.dituduhmaling.xyz/V11710/CitraMuslim.m3u8"},
+
+{"name":"Citra Dangdut",image:"https://www.dropbox.com/s/l5bfflbwvhjxuso/citra-dangdut-id.png?dl=1","url": "http://www.dituduhmaling.xyz/V11710/Citradangdut.m3u8"},
+
+{"name":"Citra Drama",image:"https://www.dropbox.com/s/qi3g83xq80hlwme/citra-drama-id.png?dl=1","url": "http://www.dituduhmaling.xyz/V11710/Citradrama.m3u8"},
+
+{"name":"Dunia Lain",image:"https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13","url": "http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain"},
+
+{"name":"ADiTV",image:"https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png","url": "http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8"},
+
+{"name":"CTV BANTEN",image:"https://i.ibb.co/hXLskLH/ctv.png","url": "http://103.23.201.170:1935/live/livestream/playlist.m3u8"},
+
+{"name":"JTV",image:"https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_(2012).svg/1200px-JTV_(2012).svg.png","url": "http://122.248.43.138:1935/ch2/myStream/playlist.m3u8"},
+
+{"name":"Jakarta Globe",image:"https://s3-us-east-2.amazonaws.com/indotrainee/live/logo/company/56/1526461708-46-56.png","url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8"},
+
+{"name":"JEK TV",image:"https://lh3.googleusercontent.com/proxy/FhVHHVghVhvFsGfJ4Sc3vPNNnEpnhYASEkE2smNV-dgZGvLZk1AYeihzTkaGhExlYam2wpQswR9ShQiIv1YPKpk","url": "http://122.248.43.138:1935/ch14/myStream/playlist.m3u8"},
+
+{"name":"Nusantara TV",image:"https://pbs.twimg.com/media/Epu5D9YUwAALxFJ.jpg","url": "https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8"},
+
+{"name":"Reformed21",image:"http://reformed21.tv/images/logo.png","url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8"},
+
+{"name":"TVRI SPORT",image:"https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png","url": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8"},
     
 ]
 }
