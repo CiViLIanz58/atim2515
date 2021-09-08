@@ -91,6 +91,9 @@
 {"name":"Reformed21",image:"http://reformed21.tv/images/logo.png","url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8"},
 
 {"name":"TVRI SPORT",image:"https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png","url": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8"},
-    
+ 
+{"name":"KOMPAS TV",image:"https://bit.ly/3vlJCOj","url": "https://my.odtv.uk:443/9186897972/454523/899"},
+
+
 ]
 }
