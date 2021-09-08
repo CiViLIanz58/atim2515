@@ -78,19 +78,17 @@
 
 {"name":"Juice TV",image:"https://www.themusic.co.nz/images/57144/juicetv.jpg","url": "https://i.mjh.nz/nz/tv.juice.m3u8"},
 
-{"name":"VEVO 2K",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8"},
+{"name":"VEVO 2K",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8"},
 
-{"name":"VEVO Country",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8"},
+{"name":"VEVO Country",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/f66d9d3fb088443baf9abae38ae01fef/live.m3u8"},
 
 {"name":"VEVO Hip Hop",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8"},
 
 {"name":"VEVO Latino",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8"},
 
-{"name":"VEVO R&B",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8"},
+{"name":"VEVO R&B",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/b9c8b190e98b4556ad764a9eeeff4c4b/live.m3u8"},
 
 {"name":"Vevo 80s",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows"},
-
-{"name":"Vevo Holiday",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8"},
 
 {"name":"Vevo Pop",image:"https://www.blognone.com/sites/default/files/externals/431ecf70dfcde130cbddbbeea87cc257.png","url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows"},
 
@@ -195,6 +193,10 @@
 {"name":"Rewind TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdR-nqXgHUJbzZ4zFYcoX3kJ_yzf3rRAiXAMWwMCXwOMm4eD6YxtpkqqN4_SkszDGMsA&usqp=CAU","url": "https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8"},
 
 {"name":"AmoyHouseRelax",image:"https://www.unboxbkk.com/wp-content/uploads/2020/07/topic-blackpink-marketing.jpg","url": "http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs"},
+
+{"name":"Box Hits",image:"https://media.info/i/lf/0/1464128411/1149.png","url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/"},
+
+{"name":"The Breeze",image:"https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/BreezeLogo1280x1280.png?w=300&h=236&mode=crop&format=jpg&bgcolor=F2F4F5","url": "https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8"},
 
 {
 "name": "Qwest TV Jazz",
