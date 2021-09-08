@@ -492,6 +492,7 @@
 
 {"name": "Pluto TV Cult Films","image": "https://pbs.twimg.com/media/D30Zld4U0AArYxe.jpg" ,"url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c665db3e6c01b72c4977bc2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=109&terminate=false&userId="},
 
+{"name": "Pluto TV The Walking Dead ESP","image": "https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/featuredImage.jpg?auto=format&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024" ,"url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId="},
 
 
 
