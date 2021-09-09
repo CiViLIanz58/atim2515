@@ -494,6 +494,7 @@
 
 {"name": "Pluto TV 21 Jump Street","image": "https://heavy.com/wp-content/uploads/2018/08/21-jump-street-e1536956763624.jpg?quality=65&strip=all" ,"url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af00df345adb154b7a1f4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"},
 
+{"name": "Sky Movies Premiere","image": "https://logowiki.net/wp-content/uploads/imgp/SKY-movies-premier-Logo-1-9209.jpg" ,"url": "https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/sky-movies-premiere/#"},
 
 
 ]
