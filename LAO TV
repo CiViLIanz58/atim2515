@@ -29,6 +29,8 @@
 {"name":"Laos Planet TV",image:"https://yt3.ggpht.com/ytc/AAUvwnjIW61X5BNbx15Go3R9o5YW04wvhGP4ee0hmK_m=s900-c-k-c0x00ffffff-no-rj","url": "https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8"},
 
 {"name":"Oy Lao TV",image:"https://live-tv-channels.org/pt-data/uploads/logo/la-oy-lao-tv-7422.jpg","url": "https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8"},
+
+{"name":"Oh Muang Lao TV",image:"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/5d/65/fe/5d65fed2-b4b3-1bac-37b3-186133de4977/source/512x512bb.jpg","url": "https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8"},
     
 ]
 }
