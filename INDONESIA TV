@@ -20,11 +20,9 @@
 
 {"name":"TRANS 7",image:"https://i.postimg.cc/YCfxSb39/trans7.png","url": "https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8"},
 
-{"name":"SCTV",image:"https://i.postimg.cc/B6ZFwp58/sctv.png1","url": "http://www.dituduhmaling.xyz/V11710/SCTV.m3u8"},
+{"name":"INDOSIAR",image:"https://i.postimg.cc/QdwWh5Lt/indosiar.png","url": "https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8"},
 
-{"name":"INDOSIAR",image:"https://i.postimg.cc/QdwWh5Lt/indosiar.png","url": "http://www.dituduhmaling.xyz/V11710/Indosiar.m3u8"},
-
-{"name":"RCTI",image:"https://1.bp.blogspot.com/-HO0bKm61gag/XbLtZYpFkVI/AAAAAAAAAtI/5cG_swWFmsQCd0JyWBI080A1zTis6N_hACLcBGAsYHQ/s1600/20191010_164600.png","url": "http://www.dituduhmaling.xyz/V11710/RCTI.m3u8"},
+{"name":"RCTI",image:"https://1.bp.blogspot.com/-HO0bKm61gag/XbLtZYpFkVI/AAAAAAAAAtI/5cG_swWFmsQCd0JyWBI080A1zTis6N_hACLcBGAsYHQ/s1600/20191010_164600.png","url": "https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8"},
 
 {"name":"GTV",image:"https://i.postimg.cc/HsqNM8Hc/globaltv.png","url": "https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8"},
 
@@ -34,21 +32,11 @@
 
 {"name":"ANTV",image:"https://i.postimg.cc/DyWXD5DD/antv.png","url": "https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8"},
 
-{"name":"Rajawali TV",image:"https://i.postimg.cc/fb172pW8/rajawalitv.png","url": "http://dituduhmaling.xyz/US33T4/rtv.m3u8"},
-
-{"name":"TVONE",image:"https://i.postimg.cc/ZKv7J82B/tvone.png","url": "http://210.210.155.35/qwr9ew/s/s105/01.m3u8"},
-
 {"name":"TVRI NASIONAL",image:"https://www.dropbox.com/s/m6h3q73d0lpygph/tvri-id.png?dl=1","url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"},
 
 {"name":"BERITA SATU",image:"https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13","url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8"},
 
 {"name":"Magna TV",image:"https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png","url": "https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8"},
-
-{"name":"RODJA TV",image:"https://rodja.tv/logo.png","url": "http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s14/01.m3u8"},
-
-{"name":"DAAI TV",image:"https://live-tv-channels.org/pt-data/uploads/logo/id-daai-tv-9424.jpg","url": "http://210.210.155.35:80/session/07b13610-2edb-11eb-ae09-c81f66f89318/qwr9ew/s/s13/01.m3u8"},
-
-{"name":"Mytv",image:"https://static.wixstatic.com/media/7be008_376d4ab1202e4122a3996255ab3c8ac4~mv2.png/v1/fill/w_396,h_222,al_c,q_85,usm_0.66_1.00_0.01/LOGO-MY-TV-TRANSPARAN_edited.webp","url": "http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8"},
 
 {"name":"RRI NET",image:"https://live-tv-channels.org/pt-data/uploads/logo/id-rri-net-7657.jpg","url": "http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8"},
 
@@ -58,21 +46,9 @@
 
 {"name":"Bandung TV",image:"https://www.dropbox.com/s/225jyax25l2d42t/download (4).png?dl=1","url": "http://202.150.153.254/bandungtv720p.m3u8"},
 
-{"name":"GEM",image:"https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13","url": "http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8"},
-
 {"name":"Bisnet Adventure 4K",image:"https://www.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png","url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8"},
 
 {"name":"Bisnet Lifestyle",image:"https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg","url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8"},
-
-{"name":"Citra Bioskop",image:"https://www.dropbox.com/s/x3s8bt57wowxak8/citra-bioskop-id.png?dl=1","url": "http://www.dituduhmaling.xyz/V11710/Citrabioskop.m3u8"},
-
-{"name":"Citra Entertainment",image:"https://www.dropbox.com/s/fzxo4k98skq8mfy/citra-entertainment-id.png?dl=1","url": "http://www.dituduhmaling.xyz/V11710/Citraentertainment.m3u8"},
-
-{"name":"Citra Muslim",image:"https://www.dropbox.com/s/tj9pm6zccmsyu7t/citra-muslim-id.png?dl=1","url": "http://www.dituduhmaling.xyz/V11710/CitraMuslim.m3u8"},
-
-{"name":"Citra Dangdut",image:"https://www.dropbox.com/s/l5bfflbwvhjxuso/citra-dangdut-id.png?dl=1","url": "http://www.dituduhmaling.xyz/V11710/Citradangdut.m3u8"},
-
-{"name":"Citra Drama",image:"https://www.dropbox.com/s/qi3g83xq80hlwme/citra-drama-id.png?dl=1","url": "http://www.dituduhmaling.xyz/V11710/Citradrama.m3u8"},
 
 {"name":"Dunia Lain",image:"https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13","url": "http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain"},
 
