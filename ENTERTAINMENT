@@ -190,7 +190,7 @@
 {
 "name": "True Inside",  
 "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F17357408-dc10-45f1-bff5-c9ab4807a2c0.png&w=320&h=240",  
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-inside&api_key=hmcb4rf66f",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-inside&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 "info": "TIM TV",
