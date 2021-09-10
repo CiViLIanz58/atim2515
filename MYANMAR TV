@@ -9,6 +9,10 @@
     
     
 {"name":"MVM MVTV MYANMAR",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg","url": "https://www.mvtv.co.th/channel/v2h8-mvm"},
+
+{"name":"MRTV",image:"https://upload.wikimedia.org/wikipedia/commons/0/08/MRTV_logo.png","url": "http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8"},
+
+{"name":"MRTV-4",image:"https://pbs.twimg.com/profile_images/1535482901/1-mrtv-4.jpg","url": "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"},
     
 ]
 }
