@@ -132,7 +132,7 @@
 
 {"name":"MBC Persia",image:"https://www.dishurdu.com/images/MBC-Persia-Logo.png","url": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8"},
 
-{"name":"True Xzyte HD",image:"https://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png","url": "https://we-play.live/watching/tv/true-xzyte"},
+{"name":"True Xzyte HD",image:"https://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png","url": "https://huay222tv.com/tv-player/x-zyte.html"},
 
 {"name":"DMAX",image:"https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-dmax"},
 
@@ -186,16 +186,6 @@
 "},
 
 {"name":"Youth Success",image:"http://youthsuccesstv.com/wp-content/uploads/2019/07/YouthSuccessTVNetwork.jpg","url": "https://simultv.s.llnwi.net/o060/YouthSuccess/interlink.m3u8"},
-
-{
-"name": "True Inside",  
-"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F17357408-dc10-45f1-bff5-c9ab4807a2c0.png&w=320&h=240",  
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-inside&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
 
 {"name":"DW English",image:"https://www.dw.com/cssi/dwlogo-print.gif","url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
 
