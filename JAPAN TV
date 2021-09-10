@@ -48,7 +48,7 @@
 
 {"name":"NHK华语视界",image:"http://5b0988e595225.cdn.sohucs.com/images/20181226/c3df2d6f08094e8da980d7a935f0fa10.jpeg","url": "https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"},
 
-{"name":"Gaki no Tsukai TV",image:"http://pm1.narvii.com/6034/724ae7ef0bf1821875e78d103d2d92ff7eae2a5b_00.jpg","url": "https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8"},
+{"name":"Gaki no Tsukai TV",image:"http://pm1.narvii.com/6034/724ae7ef0bf1821875e78d103d2d92ff7eae2a5b_00.jpg","url": "https://hamada.gaki-no-tsukai.eu:2087/hls/test.m3u8"},
 
 {"name":"AT-X",image:"https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-182-400x400.png","url": "https://sub2.neetball.net/live/neet.m3u8"},
 
