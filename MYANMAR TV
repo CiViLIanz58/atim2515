@@ -10,8 +10,6 @@
     
 {"name":"MVM MVTV MYANMAR",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg","url": "https://www.mvtv.co.th/channel/v2h8-mvm"},
 
-{"name":"MRTV-4",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-PPFdVTE5TKYX02r-iFEIKOQOJ4tY8XYeVB3kwAF-ppy17rM3cyHOzqBcgyKba6y1_8I&usqp=CAU","url": "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"},
- 
 {"name":"MWD HD",image:"https://play-lh.googleusercontent.com/tirA2hXsMFXPHTN9B2CiyJbejcu4K37FgS9IZpHS2uZNqsepubpBLWGP7tAiJLYHoA","url": "http://203.81.84.130/hls/mwd/index.m3u8"},
 
 {"name":"MWD Variety",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLC4D6yjL6x1lcpPtfz1Z63RHSGX37Ab7gWC9YPqyVqpHSo5JLiIzgYZbi7qAZBIfnPj8&usqp=CAU","url": "http://203.81.84.130/hls/mwd_variety/index.m3u8"},
@@ -23,6 +21,9 @@
 {"name":"MWD Family",image:"https://www.asiasat.com/channelguide/images/mwd-family.jpg","url": "http://203.81.84.130/hls/mwd_family/index.m3u8"},
 
 {"name":"MWD Shopping",image:"https://www.asiasat.com/channelguide/images/mwd-shopping-mm.png","url": "http://203.81.84.130/hls/mwd_shopping/index.m3u8"},
+
+{"name":"MNTV",image:"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAyVBMVEUBAQHqIyiRlZj///+SGBx6eX6WlZqDh4rpIyiSGR4fCwt9GRlaXWDxJCmiHSLjJCtmaWwzCQzlAACKj5PZ2dnpJCzpDBXqnpz89vPe3+LvqqndAADjAAqNjJH0393vpqTqGR/w8PPlNTbodnNiFhSlHR+fHSYVCAdUExNXVlojCgeAGB+4u73hCxXoWlznYmLkQkPxysfkZWbnbnTjMzPiX1vlf3/66+Xyu7zxsqzz1NLp6+ywsrWlpKfgT1D//f/tk5jLys3snpl5J0EgAAADRElEQVR4nO3af1PTMByA8XZf7YKCaApbgXR0kx+KVDZQB4w59f2/KNOW9dayRfS4w+ueD8fRu+WfPpdkWZnnAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwXzk6fuNycuqdnThHHH/wvI9vnTaf+yafysaWU3LmvXOP2PrkeS+Dlkv7uW/yqWxs+S67r7x3u84RxCpt/znWa2IRawl3LEWsRU85s8IwJNYjY4XnO+dLa61JrL9ahuGO7K1PrCSxefK/yepYKpkPW9tYaZLo7c8XQ9NRHTO4+Lytk3IZ3odR/laaqsQMLy8GJvF3d2ux4tjGaodxEARxHBeZiqtmxep0ZbQ9Eqt3qa962cXoS1KL5fsmkq/fxvmwq059ZgV9yc1sq770i1jxRPph82L1Irnu3kQS2cv9rg13m86XYRlLRzKS3k33eiZymdRitSZZrf5sYmOdi9zlC3Iqct7AWDIe6I7+bu/30JhUH4p8T2qxlIlm8kPrjhlGcmtULVbYtsswjvNIUbF72V1sFjRwGcplx1dK92Ss7SfCZChylarqMrSxpKft3qX0tUR66QYfF1c/RabZhcjPJu5ZktgmWayRzaH8gcj7ZHHPUsWedZPvVZ19G6s+sxbfDeO8UmiXY/PeDbNYZh7LZAnuY6l6rMMy1oNlWIm1IxK32n3ZCZsdS9djleesx8cK8p19er8YmxfrwF8Sy18dy7kMW+GeTOLsd41iOWaWO1Z2aLibyR2xVi/DiT2xB/PjqGQH0obHWtzgK8tQ/Wlm2QNDf1KsvFZ8J/mBtIGxfkRRmrUxt9F1nmMQRQ/3rHQc/Spi/YrG6YNzlj3EZ7OpNf+kM5uFjfwgnRqjspmiUm2KJwralJ8Ny5nlG10kUulBMb4WK2xNp+WzhrDdbuhTB3tqz47mfvnwReXPFVQ1VvFTHVh9rBwse8DcsFjF7duj+3y+qLxJbYNXizGXzawVGhZrJf5hsagSS1U7qPoyrL263rEeBqk8z6q/upaxlk+ZXDXWsmDrFsuBPWvRI74Y4hywVrGOXjhtnHpn7hEvsu9nbTp9fO6bBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/+43o7dkBOSbSUIAAAAASUVORK5CYII=","url": "http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"},
+
 
 
 
