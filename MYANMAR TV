@@ -10,9 +10,23 @@
     
 {"name":"MVM MVTV MYANMAR",image:"https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg","url": "https://www.mvtv.co.th/channel/v2h8-mvm"},
 
-{"name":"MRTV",image:"https://upload.wikimedia.org/wikipedia/commons/0/08/MRTV_logo.png","url": "http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8"},
+{"name":"MRTV-4",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-PPFdVTE5TKYX02r-iFEIKOQOJ4tY8XYeVB3kwAF-ppy17rM3cyHOzqBcgyKba6y1_8I&usqp=CAU","url": "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"},
+ 
+{"name":"MWD HD",image:"https://play-lh.googleusercontent.com/tirA2hXsMFXPHTN9B2CiyJbejcu4K37FgS9IZpHS2uZNqsepubpBLWGP7tAiJLYHoA","url": "http://203.81.84.130/hls/mwd/index.m3u8"},
 
-{"name":"MRTV-4",image:"https://pbs.twimg.com/profile_images/1535482901/1-mrtv-4.jpg","url": "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"},
-    
+{"name":"MWD Variety",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLC4D6yjL6x1lcpPtfz1Z63RHSGX37Ab7gWC9YPqyVqpHSo5JLiIzgYZbi7qAZBIfnPj8&usqp=CAU","url": "http://203.81.84.130/hls/mwd_variety/index.m3u8"},
+
+{"name":"MWD Movies",image:"https://www.asiasat.com/channelguide/images/mwd_movies.png","url": "http://203.81.84.130/hls/mwd_serie/index.m3u8"},
+
+{"name":"MWD Documentary",image:"https://www.asiasat.com/channelguide/images/mwd_documentary.png","url": "http://203.81.84.130/hls/mwd_document/index.m3u8"},
+
+{"name":"MWD Family",image:"https://www.asiasat.com/channelguide/images/mwd-family.jpg","url": "http://203.81.84.130/hls/mwd_family/index.m3u8"},
+
+{"name":"MWD Shopping",image:"https://www.asiasat.com/channelguide/images/mwd-shopping-mm.png","url": "http://203.81.84.130/hls/mwd_shopping/index.m3u8"},
+
+
+
+
+
 ]
 }
