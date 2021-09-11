@@ -8,14 +8,203 @@
 		"stations":[
     
     
-{"name":"ITV",image:"https://tellymix.co.uk/wp-content/uploads/2021/02/itv-logo-2.jpg","url": "http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8"},
+{
+"name": "BBC Parliament",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/320px-BBC_Parliament_Logo.svg.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=bbcparliament",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"ITV2",image:"https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/itv2-RGB-Red.png?itok=HTuwa869","url": "http://31.220.41.88:8081/live/itv2.stream/chunks.m3u8"},
+{
+"name": "BBC 1",  
+"image": "http://runnel.ir/ax/logo/BBC-One.jpg",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=bbcone",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"ITV3",image:"https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png","url": "http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8"},
+{
+"name": "BBC 2",  
+"image": "http://runnel.ir/ax/logo/BBC-Two.jpg",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=bbctwo",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"ITV4",image:"https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png","url": "http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8"},
+{
+"name": "BBC 4",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/400px-BBC_Four.svg.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=bbcfour",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
+{
+"name": "BBC Scotland",
+"image": "http://runnel.ir/ax/logo/BBC-One-Scotland.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=bbcscotland",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CBeebies",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/320px-CBeebies.svg.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=cbeebies",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CBBC",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/400px-CBBC_2016_logo.svg.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=cbbc",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ITV",
+"image": "http://runnel.ir/ax/logo/ITV.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=itv",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ITV2",
+"image": "http://runnel.ir/ax/logo/ITV2.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=itv2",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ITV3",
+"image": "http://runnel.ir/ax/logo/ITV3.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=itv3",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ITV4",
+"image": "http://runnel.ir/ax/logo/ITV4.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=itv4",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "ITVBe",
+"image": "https://cdn.itv.com/uploads/show/show_branding_logo/71/ufIfszx1b6aDNynHT08jUOjXrL6SUmDqpuusmu7FvdY.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=itvbe",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "4",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Channel_4_logo_1999.svg/480px-Channel_4_logo_1999.svg.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=channel4",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "e4",
+"image": "https://assets-corporate.channel4.com/_flysystem/s3/styles/square/s3/2018-11/E4_RGB_Colour_Positive_0_0.jpg?itok=drIOqbDm",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=e4",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "more4",
+"image": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/More4-RGB-Colour-Positive-255x140.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=more4",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "film4",
+"image": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/Film4-RGB-Colour-Positive-255x140.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=film4",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "channel5",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/331px-Channel_5_%28UK%29_2016.svg.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=channel5",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "5star",
+"image": "https://media.info/i/lf/300/1455417316/1412.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=5star",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "5usa",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/640px-5USA_logo.svg.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=5usa",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Food Network",  
+"image": "https://logos-download.com/wp-content/uploads/2017/11/Food_Network_logo_green-700x352.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=food-network",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Yesterday",  
+"image": "https://live-tv-channels.org/pt-data/uploads/logo/uk-yesterday-tv-channel-4089.jpg",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=yesterday",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Drama",  
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Drama_%28TV_channel%29_logo.png/150px-Drama_%28TV_channel%29_logo.png",
+"url": "http://photocall.tv/b1ts/ftv.m3u8?ch=drama",
+"referer": "http://photocall.tv/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
 ]
 }
