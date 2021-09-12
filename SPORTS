@@ -54,7 +54,15 @@
 
 {"name":"Ring of Honor Wrestling",image:"https://upload.wikimedia.org/wikipedia/en/1/18/ROH-logo.png","url": "https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8"},
 
-{"name":"EURO SPORT 1 UK",image:"https://img.sport-tv-guide.live/images/tv-station-uk-eurosport-1-88.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-eurosport"},
+{
+"name": "Eurosport 1 UK",  
+"image": "http://runnel.ir/ax/logo/Eurosport-UK-1-Logo.png",  
+"url": "https://daddylive.me/embed/stream-41.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
 {"name":"Fighting Spirit",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qx7Nuz-mrSd1vEjIjoDpPlmY2cMDfbIwSS9smxQWLTihqfbcz6U26XC9OaysENj5FZ0&usqp=CAU","url": "https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8"},
 
@@ -128,7 +136,15 @@
 
 {"name":"YES Network",image:"https://www.thestandard.com.hk/images/instant_news/20190830/20190830100903contentPhoto1.jpg","url": "https://ustvgo.tv/yes-network/"},
 
-{"name":"Golf Channel Thailand",image:"https://we-play.live/uploads/posters/-poster1602704208.jpeg","url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-golf"},
+{
+"name": "Golf Channel",
+"image": "https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-golf&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"desktop": "true"
+},
 
 {"name":"MLS",image:"https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/featuredImage.jpg?auto=format&fill=blur&fit=fill&ixlib=react-9.0.3&h=562&w=1024","url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=712&deviceId=5cb626cfcaf83414128f439c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"},
 
@@ -140,9 +156,9 @@
 
 {"name":"DAZN F1",image:"https://www.thesportsdb.com/images/media/channel/logo/e56qnb1616320195.png","url": "https://adictosalatele.com/TV/deportes/formula1/"},
 
-{"name":"Premier Sports 1",image:"https://1.bp.blogspot.com/-pod9UBc08z8/Xrlu40dJlfI/AAAAAAAAC04/sxtCnFk11fkYB-2IKzdl5rlMkCbUscBpwCLcBGAsYHQ/s640/premier%2Bsports%2B1.jpg","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-premiersports"},
+{"name":"Premier Sports 1",image:"https://1.bp.blogspot.com/-pod9UBc08z8/Xrlu40dJlfI/AAAAAAAAC04/sxtCnFk11fkYB-2IKzdl5rlMkCbUscBpwCLcBGAsYHQ/s640/premier%2Bsports%2B1.jpg","url": "https://www.ball8k.com/channel?ch=premiersports1"},
 
-{"name":"Sportsnet 360",image:"https://www.sportsnet.ca/wp-content/uploads/2013/06/sportsnet360.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-sportsnet360"},
+{"name":"AdventureSportsNetwork",image:"https://images-na.ssl-images-amazon.com/images/I/81p3gq6xLfL.png","url": "https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/playlist.m3u8"},
 
 {"name":"Motorvision TV",image:"https://play-lh.googleusercontent.com/GsCF8R8zJ5AaIAkBLnMKgR4Nen0UB6ank8miJicBCgVDiQKGUVOALzZKziDxluRayGQj","url": "http://player.teleon.tv/us/channel/motorvision-tv-us"},
 
@@ -172,7 +188,7 @@
 
 {"name":"Slopes TV",image:"https://a.jsrdn.com/hls/22915/ski-tv/thumbv_20210308_214708.jpg","url": "https://www.distro.tv/live/ski-tv"},
 
-{"name":"EURO SPORT 2 UK",image:"https://img.sport-tv-guide.live/images/stations/a89.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-eurosport2"},
+{"name":"EURO SPORT 2 UK",image:"https://img.sport-tv-guide.live/images/stations/a89.png","url": "https://www.olweb.tv/eurosport-2-uk"},
 
 {"name":"Racing.COM",image:"https://www.hedex.tv/uploads/images/clip_366_1586609354_poster.png","url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8"},
 
@@ -186,13 +202,13 @@
 
 {"name":"TSN 1",image:"https://overseer.blackboxsys.net/images/png/ca-tsn1.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn1"},
 
-{"name":"TSN 2",image:"https://overseer.blackboxsys.net/images/png/ca-tsn2.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn2"},
+{"name":"TSN 2",image:"https://overseer.blackboxsys.net/images/png/ca-tsn2.png","url": "https://www.olweb.tv/tsn2"},
 
-{"name":"TSN 3",image:"https://overseer.blackboxsys.net/images/png/ca-tsn3.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn3"},
+{"name":"TSN 3",image:"https://overseer.blackboxsys.net/images/png/ca-tsn3.png","url": "https://www.olweb.tv/tsn3"},
 
-{"name":"TSN 4",image:"https://overseer.blackboxsys.net/images/png/ca-tsn4.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn4"},
+{"name":"TSN 4",image:"https://overseer.blackboxsys.net/images/png/ca-tsn4.png","url": "https://www.olweb.tv/tsn4"},
 
-{"name":"TSN 5",image:"https://overseer.blackboxsys.net/images/png/ca-tsn5.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn5"},
+{"name":"TSN 5",image:"https://overseer.blackboxsys.net/images/png/ca-tsn5.png","url": "https://www.olweb.tv/tsn5"},
 
 {"name":"SPORT TV 1",image:"https://doo2you.com/icon/SPORTTV1.png","url": "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8"},
 
