@@ -8,15 +8,13 @@
 		"stations":[
     
     
-{"name":"ITV",image:"https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png","url": "http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8"},
-
-{"name":"ITV2",image:"https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/itv2-RGB-Red.png?itok=HTuwa869","url": "http://31.220.41.88:8081/live/itv2.stream/chunks.m3u8"},
+{"name":"ITV2",image:"https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/itv2-RGB-Red.png?itok=HTuwa869","url": "http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8"},
 
 {"name":"ITV3",image:"https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png","url": "http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8"},
 
 {"name":"ITV4",image:"https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png","url": "http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8"},
 
-
+{"name":"CITV",image:"https://upload.wikimedia.org/wikipedia/en/thumb/7/77/CITV_logo_2013.svg/1200px-CITV_logo_2013.svg.png","url": "http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8"},
 
 ]
 }
