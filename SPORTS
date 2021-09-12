@@ -151,7 +151,7 @@
 {
 "name":"TRUE PREMIER FOOTBALL HD 1",
 "image":"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl1&api_key=hmcb4rf66f",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 "info": "TIM TV",
@@ -161,7 +161,7 @@
 {
 "name": "TRUE PREMIER FOOTBALL HD 2",
 "image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl2&api_key=hmcb4rf66f",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 "info": "TIM TV",
@@ -247,7 +247,7 @@
 {
 "name": "TRUE PREMIER FOOTBALL HD 4",
 "image":"https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl4&api_key=hmcb4rf66f",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 "info": "TIM TV",
@@ -257,10 +257,11 @@
 {
 "name": "TRUE PREMIER FOOTBALL HD 5",
 "image":"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
-"url": "https://www.ball8k.com/channel?ch=epl5",
-"referer": "https://www.ball8k.com/",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 "info": "TIM TV",
-"playInNatPlayer": "true"
+"desktop": "true"
 },
 
 {
