@@ -156,7 +156,7 @@
 
 {"name":"DAZN F1",image:"https://www.thesportsdb.com/images/media/channel/logo/e56qnb1616320195.png","url": "https://adictosalatele.com/TV/deportes/formula1/"},
 
-{"name":"Premier Sports 1",image:"https://1.bp.blogspot.com/-pod9UBc08z8/Xrlu40dJlfI/AAAAAAAAC04/sxtCnFk11fkYB-2IKzdl5rlMkCbUscBpwCLcBGAsYHQ/s640/premier%2Bsports%2B1.jpg","url": "https://www.ball8k.com/channel?ch=premiersports1"},
+{"name":"Premier Sports 1",image:"https://1.bp.blogspot.com/-pod9UBc08z8/Xrlu40dJlfI/AAAAAAAAC04/sxtCnFk11fkYB-2IKzdl5rlMkCbUscBpwCLcBGAsYHQ/s640/premier%2Bsports%2B1.jpg","url": "https://www.lineballsod.com/doball/live-ch292/"},
 
 {"name":"AdventureSportsNetwork",image:"https://images-na.ssl-images-amazon.com/images/I/81p3gq6xLfL.png","url": "https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/playlist.m3u8"},
 
@@ -200,8 +200,6 @@
 
 {"name":"MAV TV",image:"https://sv1.picz.in.th/images/2021/02/24/ounjiy.png","url": "https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8"},
 
-{"name":"TSN 1",image:"https://overseer.blackboxsys.net/images/png/ca-tsn1.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=ca-tsn1"},
-
 {"name":"TSN 2",image:"https://overseer.blackboxsys.net/images/png/ca-tsn2.png","url": "https://www.olweb.tv/tsn2"},
 
 {"name":"TSN 3",image:"https://overseer.blackboxsys.net/images/png/ca-tsn3.png","url": "https://www.olweb.tv/tsn3"},
@@ -234,19 +232,60 @@
 "desktop": "true"
 },
 
-{"name":"Sky Bundesliga",image:"https://img.netzwelt.de/dw1600_dh900_sw2048_sh1152_sx0_sy0_sr16x9_nu0/picture/original/2020/05/sky-bundesliga-welcome-back-aktion-26-27-spieltag-276459.jpeg","url": "https://siamtv88.co/index.php?a=live_details&channel_code=de-skybundesliga"},
+{
+"name": "Sky Sports Main Event",  
+"image": "http://runnel.ir/ax/logo/sky-sports-main-event.jpg",  
+"url": "https://daddylive.me/embed/stream-38.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"Sky Sports Action",image:"https://ia800806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-action"},
+{
+"name": "Sky Sports Arena",  
+"image": "http://runnel.ir/ax/logo/sky-sports-arena.jpg",  
+"url": "https://daddylive.me/embed/stream-36.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "Tim TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"Sky Sports Cricket",image:"https://ia800809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-cricket"},
+{"name":"Sky Sports Cricket",image:"https://ia800809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png","url": "https://www.olweb.tv/sky-sports-cricket"},
 
-{"name":"Sky Sports F1",image:"https://ia801807.us.archive.org/20/items/SkySportsF1New_201708/sky%20sports%20f1%20new.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-f1"},
+{"name":"Sky Sports F1",image:"https://ia801807.us.archive.org/20/items/SkySportsF1New_201708/sky%20sports%20f1%20new.png","url": "https://www.olweb.tv/sky-sport-f1"},
 
-{"name":"Sky Sports Football",image:"https://1.bp.blogspot.com/-hIGqX_8I7PU/XsPbU2jcPRI/AAAAAAAADBI/XpO7N-FHbSA2Hjq4tKcqhbi3ma93cd8cACLcBGAsYHQ/s640/Sky%2BSports%2BFootball.jpg","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-football"},
+{"name":"Sky Sports Football",image:"https://1.bp.blogspot.com/-hIGqX_8I7PU/XsPbU2jcPRI/AAAAAAAADBI/XpO7N-FHbSA2Hjq4tKcqhbi3ma93cd8cACLcBGAsYHQ/s640/Sky%2BSports%2BFootball.jpg","url": "https://www.olwebtv.com/sky-sports-football"},
 
-{"name":"Sky Sports The Open",image:"https://sport-onthebox.com/wp-content/uploads/2016/06/Sky-Sports-The-Open.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-golf"},
+{
+"name": "Sky Sports Golf",  
+"image": "http://runnel.ir/ax/logo/sky-sports-golf.jpg",  
+"url": "https://daddylive.me/embed/stream-70.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"Sky Sports News",image:"https://www.esfl.co.uk/wp-content/uploads/2020/04/Sky-Sports-News-Image.jpg","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-skysports-news"},
+{
+"name": "Sky Sports Premiere League",  
+"image": "http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",  
+"url": "https://www.doofootball.com/dootv/live/skysportpremiere",
+"referer": "https://www.doofootball.com/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sky Sports NFL",  
+"image": "https://pbs.twimg.com/profile_images/1346188746648145922/1QaZR6eu_400x400.jpg",  
+"url": "https://daddylive.me/embed/stream-37.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
 {"name":"ACTION SPORTS",image:"https://cdp.azureedge.net/products-private/prod/92cc7880-69c6-41f6-a2ce-14554d8adaf9/93ef44dd-b1a2-486a-bed4-aaf800e99433/B000000001.png","url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f7032281-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc61c0a4-d86f-49a4-a4d3-0aa52fc06a59&userId=&serverSideAds=true"},
 
@@ -256,7 +295,7 @@
 
 {"name":"T Sports",image:"https://play-lh.googleusercontent.com/PoZ7cwWM3qXaZQRHGLMvWFIjdCymB904stfZZv9k9usHdTUxoVx0yrrzUiuuTq9k5rU","url": "https://www.doofootball.com/dootv/live/tsports#main_dootv"},
 
-{"name":"LFC TV",image:"https://we-play.live/uploads/posters/lfc-tv-poster1602800995.jpeg","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-lfctv"},
+{"name":"LFC TV",image:"https://we-play.live/uploads/posters/lfc-tv-poster1602800995.jpeg","url": "https://www.doofree88.com/live/lfc-tv"},
 
 {"name":"Players TV",image:"https://www.closeup360.com/wp-content/uploads/2020/09/PlayersTV.png","url": "https://playerstv-samsunguk.amagi.tv/playlist.m3u8"},
 
@@ -272,31 +311,151 @@
 
 {"name":"XSPORT",image:"https://docs.google.com/uc?export=download&id=1TLoev3gYWQmDlCK7i0GgrzGDfCvbKgrS","url": "http://xsport-hls2.cosmonova.net.ua/hls/xsport_ua_mid/index.m3u8"},
 
-{"name":"MU TV",image:"https://docs.google.com/uc?export=download&id=1TVU5iJMv_gfvNAag1V4IT1HxJc-wiCaN","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-mutv"},
+{"name":"MU TV",image:"https://docs.google.com/uc?export=download&id=1TVU5iJMv_gfvNAag1V4IT1HxJc-wiCaN","url": "https://www.doofree88.com/live/mutv"},
 
 {"name":"beIN SPORTS 1 PREMIUM",image:"https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png","url": "https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8"},
 
-{"name":"beIN SPORTS 1 4K",image:"https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/06/beIN-Sports-World-Cup.gif?resize=700%2C366&ssl=1","url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein1"},
+{
+"name": "beIN SPORTS 1 Arabic",  
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",  
+"url": "https://daddylive.me/embed/stream-91.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"beIN SPORTS 2",image:"https://i.pinimg.com/474x/bf/f1/88/bff1882c73a871b67cb89ffe50fac8bc.jpg","url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein2"},
+{
+"name": "beIN SPORTS 2 Arabic",  
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",  
+"url": "https://daddylive.me/embed/stream-92.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"beIN SPORTS 3",image:"https://www.dropbox.com/s/gcspcnlpmxukp2t/la0Bf2.png?dl=1","url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein3"},
+{
+"name": "beIN SPORTS 3 Arabic",  
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",  
+"url": "https://daddylive.me/embed/stream-93.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"beIN SPORTS 4",image:"https://www.dropbox.com/s/mn316nk31eejjxd/la0f51.png?dl=1","url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein4"},
+{
+"name": "beIN SPORTS 5 Arabic",  
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",  
+"url": "https://daddylive.me/embed/stream-95.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"beIN SPORTS 5",image:"https://sv1.picz.in.th/images/2021/04/05/DMC9ZV.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein5"},
+{
+"name": "beIN SPORTS 6 Arabic",  
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",  
+"url": "https://daddylive.me/embed/stream-96.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"beIN SPORTS 6",image:"https://www.dropbox.com/s/p25tj3z08251wgy/la0ZJq.png?dl=1","url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein6"},
+{
+"name": "beIN SPORTS 2 PREMIUM",  
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",  
+"url": "https://daddylive.me/embed/stream-99.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"beIN SPORTS 7",image:"https://www.dropbox.com/s/rk8543ekw569cu1/la09i9.png?dl=1","url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein7"},
+{
+"name": "beIN SPORTS 3 PREMIUM",  
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",  
+"url": "https://daddylive.me/embed/stream-100.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"beIN SPORTS 2 PREMIUM",image:"https://i.pinimg.com/236x/c7/f7/b5/c7f7b5dee3302a7ed337ed005843aa75.jpg","url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein9"},
+{
+"name": "beIN SPORTS 2 English",  
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png",  
+"url": "https://daddylive.me/embed/stream-90.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"beIN SPORTS MAX",image:"https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein10"},
+{
+"name": "beIN SPORTS 3 English",  
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png",  
+"url": "https://daddylive.me/embed/stream-46.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"beIN SPORTS 2 ENGLISH",image:"https://i0.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein2.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-bein12"},
+{
+"name": "beIN SPORTS 1 France",  
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png",  
+"url": "https://daddylive.me/embed/stream-116.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
 
-{"name":"True Tennis HD",image:"https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/16_True-Tennis-HD.jpg","url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tennis"},
+{
+"name": "beIN SPORTS 2 France",  
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png",  
+"url": "https://daddylive.me/embed/stream-117.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "beIN SPORTS 3 France",  
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png",  
+"url": "https://daddylive.me/embed/stream-118.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "beIN 2 Turkey",  
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",  
+"url": "https://daddylive.me/embed/stream-63.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "beIN 4 Turkey",  
+"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",  
+"url": "https://daddylive.me/embed/stream-67.php",
+"referer": "https://daddylive.me/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{"name":"True Tennis HD",image:"https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/16_True-Tennis-HD.jpg","url": "https://www.doofree88.com/live/tennis-hd"},
 
 {"name":"LookSport Plus",image:"https://www.media-max.ro/wp-content/uploads/2020/12/CNA-a-prelungit-valabilitatea-licentei-Look-Sport.jpg","url": "https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM="},
 
@@ -331,11 +490,11 @@
 "playInNatPlayer": "true"
 },
 
-{"name":"BT Sport 1",image:"https://overseer.blackboxsys.net/images/png/uk-btsport1hd.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-btsport1hd"},
+{"name":"BT Sport 1",image:"https://overseer.blackboxsys.net/images/png/uk-btsport1hd.png","url": "https://www.liveballsod.com/tv-online/ch088/"},
 
-{"name":"BT Sport 2",image:"https://overseer.blackboxsys.net/images/png/uk-btsport2hd.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-btsport2hd"},
+{"name":"BT Sport 2",image:"https://overseer.blackboxsys.net/images/png/uk-btsport2hd.png","url": "https://www.liveballsod.com/tv-online/ch089/"},
 
-{"name":"BT Sport 3",image:"https://overseer.blackboxsys.net/images/png/uk-btsport3hd.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=uk-btsport3hd"},
+{"name":"BT Sport 3",image:"https://overseer.blackboxsys.net/images/png/uk-btsport3hd.png","url": "https://www.liveballsod.com/tv-online/ch090/"},
 
 {"name":"Eurosport",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_9CiuYot-BuHxf2zCL227soEhfpDs1qjV0Q9HobJRhA2DD0twNan1LYU7qGmj8vQFT48&usqp=CAU","url": "https://www.we-play.live/watching/tv/eurosport-asia"},
 
@@ -379,7 +538,7 @@
 "desktop": "true"
 },
 
-{"name":"True Sports HD 3",image:"https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png","url": "https://siamtv88.co/index.php?a=live_details&channel_code=hd-tsport3"},
+{"name":"True Sports HD 3",image:"https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png","url": "https://www.liveballsod.com/tv-online/ch034/"},
 
 {
 "name": "True Sports HD 4",
