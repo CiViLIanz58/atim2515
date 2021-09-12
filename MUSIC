@@ -204,6 +204,8 @@
 
 {"name":"Pluto TV VH1 I Love Reality",image:"https://vh1.mtvnimages.com/uri/mgid:arc:content:vh1.com:48c162d8-1d15-44be-a38a-0abecf78ad9a?quality=0.7","url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7154fa8326b6ce4ec31f2e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=282&terminate=false&userId="},
 
+{"name":"SUMMER TV",image:"https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8fc99fbda2095d214c7d11397aa2415d.webp","url": "https://www.cxtvlive.com/live-tv/summer-tv"},
+
 {
 "name": "Qwest TV Jazz",
 "image": "https://qwest.tv/images/QLogoMusicMeets.png",
