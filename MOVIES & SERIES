@@ -74,7 +74,7 @@
 
 {"name": "Screamfest","image": "https://thehorrorofbeingemily.com/wp-content/uploads/2018/02/Screamfest-logo-9-1-16-1.png" ,"url": "https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8"},
 
-{"name": "Shout! Factory TV","image": "https://image.xumo.com/v1/channels/channel/9999265/300x300.png?type=smartCast_channelTile" ,"url": "https://shoutfactory-xumo.amagi.tv/playlist.m3u8"},
+{"name": "Shout! Factory TV","image": "https://pbs.twimg.com/profile_images/1366411943498686464/dQmyK9-b.jpg" ,"url": "https://shoutfactory-xumo.amagi.tv/playlist.m3u8"},
 
 {"name": "Bizzarro Movies","image": "https://i.ytimg.com/vi/Sun6pPr4Wtg/maxresdefault.jpg" ,"url": "https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8"},
 
@@ -133,8 +133,6 @@
 {"name": "KIX","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" ,"url": "https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8"},
 
 {"name": "POP","image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" ,"url": "https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8"},
-
-{"name": "CCM (THAI)","image": "https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/09_Celestial_Classic_Movies.png" ,"url": "https://siamtv88.co/index.php?a=live_details&channel_code=th-celestial"},
 
 {"name": "CCM (CHINESE)","image": "https://prod-true-visions-media.s3-ap-southeast-1.amazonaws.com/09_Celestial_Classic_Movies.png" ,"url": "http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8"},
 
