@@ -148,11 +148,35 @@
 
 {"name":"MLS",image:"https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/featuredImage.jpg?auto=format&fill=blur&fit=fill&ixlib=react-9.0.3&h=562&w=1024","url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=712&deviceId=5cb626cfcaf83414128f439c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"},
 
-{"name":"TRUE PREMIER FOOTBALL HD 1",image:"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png","url": "https://we-play.live/watching/tv/true-premier-football-hd-1"},
+{
+"name":"TRUE PREMIER FOOTBALL HD 1",
+"image":"https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"desktop": "true"
+},
 
-{"name":"TRUE PREMIER FOOTBALL HD 2",image:"https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png","url": "https://we-play.live/watching/tv/true-premier-football-hd-2"},
+{
+"name": "TRUE PREMIER FOOTBALL HD 2",
+"image": "https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"desktop": "true"
+},
 
-{"name":"TRUE PREMIER FOOTBALL HD 3",image:"https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png","url": "https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8"},
+{
+"name": "TRUE PREMIER FOOTBALL HD 3",
+"image":"https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"desktop": "true"
+},
 
 {"name":"DAZN F1",image:"https://www.thesportsdb.com/images/media/channel/logo/e56qnb1616320195.png","url": "https://adictosalatele.com/TV/deportes/formula1/"},
 
@@ -220,16 +244,23 @@
 
 {"name":"FOX SPORTS PREMIUM",image:"https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png","url": "https://adictosalatele.com/TV/latinos/fox-sports-premium/"},
 
-{"name":"TRUE PREMIER FOOTBALL HD 4",image:"https://www.dropbox.com/s/hpdgrfojohrlwk5/lX65Ff.png?dl=1","url": "https://we-play.live/watching/tv/true-premier-football-hd-4"},
-
 {
-"name": "EPL5",
-"image":"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl5&api_key=hmcb4rf66f",
+"name": "TRUE PREMIER FOOTBALL HD 4",
+"image":"https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl4&api_key=hmcb4rf66f",
 "referer": "https://dooball66.com",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 "info": "TIM TV",
 "desktop": "true"
+},
+
+{
+"name": "TRUE PREMIER FOOTBALL HD 5",
+"image":"https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",
+"url": "https://www.ball8k.com/channel?ch=epl5",
+"referer": "https://www.ball8k.com/",
+"info": "TIM TV",
+"playInNatPlayer": "true"
 },
 
 {
