@@ -8,7 +8,7 @@
 		"stations":[
     
     
-{"name":"DLTV 1",image:"https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV1/header_webboard.png","url": "https://www.dltv.ac.th/streaming"},
+{"name":"DLTV 1",image:"https://www.dltv.ac.th/themes/default/assets/images/DLTV/DLTV1/header_webboard.png","url": "https://www.dltv.ac.th/streaming"},
 
 {"name":"DLTV 2",image:"https://dltv-static.catcdn.cloud/themes/default/assets/images/DLTV/DLTV2/header_webboard.png","url": "https://www.dltv.ac.th/streaming?ch=DLTV2"},
 
