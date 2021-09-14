@@ -16,7 +16,13 @@
 
 {"name":"ITV4",image:"https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png","url": "http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8"},
 
+{"name":"5 Star",image:"https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/5STAR-255x140.png?itok=as2euNN3","url": "http://player.teleon.tv/us/channel/5-star-uk"},
 
+{"name":"5 USA",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1200px-5USA_logo.svg.png","url": "http://player.teleon.tv/us/channel/5-usa-uk"},
+
+{"name":"BBC CBBC",image:"https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/1200px-CBBC_2016_logo.svg.png","url": "http://player.teleon.tv/us/channel/bbc-cbbc-uk"},
+
+{"name":"BBC CBeebies",image:"https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png","url": "http://player.teleon.tv/us/channel/bbc-cBeebies-uk"},
 
 ]
 }
