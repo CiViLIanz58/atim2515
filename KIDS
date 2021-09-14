@@ -14,7 +14,7 @@
 
 {"name":"BabyTV",image:"https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png","url": "https://we-play.live/watching/tv/babytv"},
 
-{"name":"Disney Channel",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1024px-Disney_Channel_logo_%282014%29.svg.png","url": "https://www.doofree88.com/live/disney-channel"},
+{"name":"Disney Channel",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1024px-Disney_Channel_logo_%282014%29.svg.png","url": "https://ustvgo.tv/disney-channel-live-streaming-free/"},
 
 {"name":"Boomerang",image:"https://ih1.redbubble.net/image.522594639.7263/flat,800x800,075,f.u1.jpg","url": "https://ustvgo.tv/boomerang"},
 
@@ -125,6 +125,10 @@
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
+
+{"name":"Nickelodeon",image:"https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/Nickelodeon_2009.png","url": "https://ustvgo.tv/nickelodeon-live-streaming-free/"},
+
+{"name":"Zoo Moo",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png","url": "https://rockentertainment-zoomoo-1.roku.wurl.com/manifest/playlist.m3u8"},
 
 
 
