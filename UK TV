@@ -18,11 +18,11 @@
 
 {"name":"Alb UK",image:"http://cdn.teleon.tv/logo/alb-uk-al.png","url": "http://player.teleon.tv/us/channel/alb-uk"},
 
+{"name":"More 4",image:"http://cdn.teleon.tv/logo/more-4-uk.png","url": "http://player.teleon.tv/us/channel/more-4-uk"},
+
+{"name":"TJC",image:"http://cdn.teleon.tv/logo/tjc-uk2.png","url": "http://player.teleon.tv/us/channel/tjc-uk"},
+
 {"name":"Channel 4",image:"http://cdn.teleon.tv/logo/channel_4_uk.png","url": "http://player.teleon.tv/us/channel/channel-4-uk"},
-
-{"name":"Channel 5",image:"http://cdn.teleon.tv/logo/channel-5-uk_transparent.png","url": "http://player.teleon.tv/us/channel/channel-5-uk"},
-
-{"name":"Magic TV",image:"http://cdn.teleon.tv/logo/magic_tv_uk.png","url": "http://player.teleon.tv/us/channel/magic-tv-uk"},
 
 ]
 }
