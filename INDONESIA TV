@@ -70,6 +70,8 @@
  
 {"name":"KOMPAS TV",image:"https://bit.ly/3vlJCOj","url": "https://my.odtv.uk:443/9186897972/454523/899"},
 
+{"name":"SCTV",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png","url": "https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8"},
+
 
 ]
 }
