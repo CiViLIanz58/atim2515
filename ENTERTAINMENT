@@ -203,6 +203,8 @@
 
 {"name":"Pluto TV Auction Hunters",image:"https://img.sharetv.com/shows/standard/auction_hunters.jpg","url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ede45d077746000072be0fe&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=58a8da20-057f-11eb-9b92-0242ac110002&terminate=false&userId="},
 
+{"name":"SUMMER TV",image:"https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8fc99fbda2095d214c7d11397aa2415d.webp","url": "https://www.cxtvlive.com/live-tv/summer-tv"},
+
 
     
 ]
