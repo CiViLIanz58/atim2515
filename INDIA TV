@@ -24,9 +24,15 @@
 
 {"name":"ZEE Actions",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5tgFmtx9WzvA6xTMeuQoSRpXv9zLH_kV0g&usqp=CAU","url": "https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8"},
 
+{"name":"DD National",image:"https://upload.wikimedia.org/wikipedia/en/8/8e/Dd_national.jpg","url": "https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8"},
 
+{"name":"DD Punjabi",image:"https://www.smartads.in/resources/assets/uploads/product_group/Television/DD-Punjabi-Logo.jpg","url": "https://hls.media.nic.in/live/ddpunjabi1/index.m3u8"},
 
+{"name":"DD Sports",image:"https://static.wikia.nocookie.net/logopedia/images/8/82/Watch-DD-Sports-TV-Live-Online.jpeg/revision/latest?cb=20160805130411","url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"},
 
+{"name":"Surya Music",image:"https://i2.wp.com/lh4.googleusercontent.com/-ylAG6lPu_Zk/VQ4492IStJI/AAAAAAAACH8/ZJblG1CYf_c/s640/blogger-image-15234207.jpg?ssl=1","url": "https://indo51.gcdn.co/MALYLAM-SuryaMusic/index.m3u8"},
+
+{"name":"Surya TV",image:"https://upload.wikimedia.org/wikipedia/en/3/38/Surya_Tv_2014.png","url": "https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8"},
     
 ]
 }
