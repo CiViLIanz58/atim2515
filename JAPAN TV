@@ -28,11 +28,7 @@
 
 {"name":"Weathernews",image:"https://press.jal.co.jp/ja/items/uploads/a89741436e550f5d12646481975ad63fd075c490.png","url": "https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist.m3u8"},
 
-{"name":"Japanet Channel DX",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENXYn8VvmtbRtXIRUnnbn_VZESPYerzp97zMfWxxOASqmYP8ZNf-BjuCyIkVBTOrQbQ&usqp=CAU","url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8"},
-
 {"name":"NJPW World",image:"https://www.njpw1972.com/wp-content/uploads/2017/03/world.png","url": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8"},
-
-{"name":"BS TV TOKYO",image:"https://av.watch.impress.co.jp/img/avw/docs/1145/556/1001bs02_s.jpg","url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8"},
 
 {"name":"TOKYO MX 1",image:"https://s.mxtv.jp/images/yumelion_200x200.jpg","url": "https://movie.mcas.jp/mcas/mx1_2/master.m3u8"},
 
