@@ -94,8 +94,6 @@
 
 {"name":"KPOP TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjqfz1KbznHYILoRRHanesCW-XJqEezlOgk7EXCopF3i_oWTicgdt_RIRE2YmVfKebN4&usqp=CAU","url": "https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8"},
 
-{"name":"M Net",image:"https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png","url": "http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8"},
-
 {"name":"YTN Science",image:"https://m.ytn.co.kr/img/program/channel_logo_S.png","url": "http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8"},
 
 {"name":"Korean Central TV",image:"https://alchetron.com/cdn/korean-central-television-6cb3b1b4-609c-40a9-8f85-93c56eca61f-resize-750.jpeg","url": "https://www.nettvpro.live/en/play.php?aid=5501"},
@@ -133,8 +131,6 @@
 {"name":"TVWorkNet",image:"https://live-tv-channels.org/pt-data/uploads/logo/kr-tv-work-net-8165.jpg","url": "http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8"},
 
 {"name":"SBS GOLF",image:"https://docs.google.com/uc?export=download&id=1QKYGQ6zRS6GxbNu8Yc0XCltCEepGHE3T","url": "http://sbss.love.sky-media.tk/index.php?id=S05"},
-
-{"name":"K+",image:"https://www.useetv.com/pimages/tvposter/k+.png","url": "https://my.odtv.uk:443/9186897972/454523/152"},
 
 {"name":"ONE",image:"https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png","url": "http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8"},
 
