@@ -26,10 +26,6 @@
 
 {"name":"Pluto TV Biography",image:"https://pbs.twimg.com/media/EUImmB2XgAMsUy1.jpg","url": "http://player.teleon.tv/us/channel/pluto-tv-biography-uk"},
 
-{"name":"TRUE EXPLORE SCI",image:"https://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png","url": "https://wacth.tv/tv-player/true-explore-sci.html"},
-
-{"name":"TRUE EXPLORE LIFE",image:"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png&w=320&h=240","url": "https://wacth.tv/tv-player/true-life.html"},
-
 {"name":"Cold Case Files",image:"https://upload.wikimedia.org/wikipedia/en/7/7e/Coldcasefiles.jpg","url": "http://player.teleon.tv/us/channel/cold-case-files-us"},
 
 {"name":"Docs Channel",image:"https://image.roku.com/developer_channels/prod/37e07bd99ce064e4927f75ae22de3a6b9d2189374624cdded839ba5976e25931.png","url": "http://player.teleon.tv/us/channel/docs-channel-us"},
@@ -66,6 +62,13 @@
 
 {"name":"Smithsonian Channel",image:"https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png","url": "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8"},
 
-    
+{"name":"Skills+Thrills",image:"https://pbs.twimg.com/media/Ek8w8_QVMAAF6Kf.jpg","url": "https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8"},
+ 
+{"name":"Skills+Thrills 2",image:"https://pbs.twimg.com/media/Ek8w8_QVMAAF6Kf.jpg","url": "https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8"},
+
+{"name":"Skills+Thrills 3",image:"https://pbs.twimg.com/media/Ek8w8_QVMAAF6Kf.jpg","url": "https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8"},
+
+
+
 ]
 }
