@@ -110,5 +110,7 @@
 
 {"name":"Wadyan TV",image:"http://www.xn--72c4abacl8d8a5c1dfb5r2bk.com/image/button/tbm.png","url": "https://live.thaitvstream.com/play/wadyantv/index.m3u8"},
 
+{"name":"อีสาน TV",image:"http://www.xn--72c4abacl8d8a5c1dfb5r2bk.com/image/button/esantv.png","url": "http://www.xn--72c4abacl8d8a5c1dfb5r2bk.com/play.php?channel=esantv"},
+
 ]
 }
