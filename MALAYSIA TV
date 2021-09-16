@@ -18,7 +18,7 @@
 
 {"name":"TV9",image:"https://www.coolstreaming.us/img/ch/image5988773936.jpg","url": "http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8"},
 
-{"name":"NTV 7",image:"https://www.appcreator24.com/srv/imgs/seccs/9428039_ico.png","url": "http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8"},
+{"name":"NTV 7",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK4lz7sErHCd-uW0jMM2R3rPyYEG-keWdd8tqmIggDkzbb6oXSuOaRaP3agtBejyJLEdM&usqp=CAU","url": "http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8"},
 
 {"name":"DRAMA SANGAT",image:"https://raw.githubusercontent.com/angahjee1994/logo/master/drama sangat.png","url": "https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8"},
 
