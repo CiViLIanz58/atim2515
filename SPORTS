@@ -553,8 +553,8 @@
 {
 "name": "Bein Sports 2 TH",  
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",  
-"url": "https://www.ball8k.com/channel?ch=bein2",
-"referer": "https://www.ball8k.com/",
+"url": "https://we-play.live/watching/tv/bein-sports-2",
+"referer": "https://we-play.live/",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
