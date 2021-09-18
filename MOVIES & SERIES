@@ -340,8 +340,6 @@
 
 {"name": "REELZ","image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png" ,"url": "https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/1280x720_5000000/index.m3u8"},
 
-{"name": "PING","image": "https://docs.google.com/uc?export=download&id=15pABxVVc5XUriFGXVwtp6MadWSDQI8zW" ,"url": "http://916309128f3e.sn.mynetname.net:1935/aslive/warnertv/chunklist.m3u8"},
-
 {"name": "MOVIE 3","image": "https://docs.google.com/uc?export=download&id=1IdnrEw5CIzoZqyAz7wJvgICH5m9fVfSZ" ,"url": "http://203.159.95.172:8081/live/comedy1/playlist.m3u8"},
 
 {"name": "Pluto TV Sherlock","image": "https://advanced-television.com/wp-content/uploads/2020/05/Pluto-TV-Sherlock-e1590658322184.jpg" ,"url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c00abfed110009d97243/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"},
@@ -551,5 +549,7 @@
 {"name": "GOLDEN PLUS","image": "https://adictosalatele.com/logos/goldenplus.png" ,"url": "https://adictosalatele.com/canal-golden-plus-en-vivo-online-gratis/"},
 
 {"name": "GOLDEN EDGE","image": "https://adictosalatele.com/logos/goldenedge.png" ,"url": "https://adictosalatele.com/golden-edge-en-vivo-online-gratis/"},
+
+{"name": "FrightMare Theater","image": "https://i.vimeocdn.com/video/1072125858_295x166" ,"url": "https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8"},
 ]
 }
