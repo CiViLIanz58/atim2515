@@ -550,14 +550,7 @@
 "desktop": "true"
 },
 
-{
-"name": "Bein Sports 2 TH",  
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png",  
-"url": "https://we-play.live/watching/tv/bein-sports-2",
-"referer": "https://we-play.live/",
-"info": "TIM TV",
-"playInNatPlayer": "true"
-},
+{"name": "BEIN SPORT 2 TH","image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png","url": "http://203.159.95.172:8081/live/bein02/playlist.m3u8","referer": "","playInNatPlayer": "true"},
 
 {
 "name": "True Sports HD",
