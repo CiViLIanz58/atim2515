@@ -581,15 +581,7 @@
 "desktop": "true"
 },
 
-{
-"name": "True Sports HD 4",
-"image":"https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd4&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
+{"name": "TRUE SPORT HD 4","image": "https://www.dropbox.com/s/1jieyswcutdj4mg/lXaO61.png?dl=1","url":  "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8", "referer": "https://freetvdd.com/"},
 
 {
 "name": "True Sports 5",
