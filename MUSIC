@@ -233,276 +233,261 @@
 },
 
 {
+"name": "Channel V Asia",  
+"image": "https://mir-s3-cdn-cf.behance.net/projects/404/6348447.546c15d0864b1.jpg",  
+"url": "https://cdn6.goprimetime.info/feed/202105171329/LC14/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
+{
 "name": "Today's Country",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=todayscountry",
+"url": "https://photocall.tv/v1tq/mc?ch=todayscountry",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Country Hits",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=countryhits",
+"url": "https://photocall.tv/v1tq/mc?ch=countryhits",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Pop Latino",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=poplatino",
+"url": "https://photocall.tv/v1tq/mc?ch=poplatino",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Musica Urbana",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=musicaurbana",
+"url": "https://photocall.tv/v1tq/mc?ch=musicaurbana",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Tropicales",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=tropicales",
+"url": "https://photocall.tv/v1tq/mc?ch=tropicales",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Mexicana",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=mexicana",
+"url": "https://photocall.tv/v1tq/mc?ch=mexicana",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Alternative",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=alternative",
+"url": "https://photocall.tv/v1tq/mc?ch=alternative",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Hit List",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=hitlist",
+"url": "https://photocall.tv/v1tq/mc?ch=hitlist",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Pop Hits",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=pophits",
+"url": "https://photocall.tv/v1tq/mc?ch=pophits",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Pop & Country",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=popncountry",
+"url": "https://photocall.tv/v1tq/mc?ch=popncountry",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Music Choice Max",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=mc_max",
+"url": "https://photocall.tv/v1tq/mc?ch=mc_max",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Dance/EDM",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=dance",
+"url": "https://photocall.tv/v1tq/mc?ch=dance",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Y2K",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=y2k",
+"url": "https://photocall.tv/v1tq/mc?ch=y2k",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "90s",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=90s",
+"url": "https://photocall.tv/v1tq/mc?ch=90s",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "80s",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=80s",
+"url": "https://photocall.tv/v1tq/mc?ch=80s",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Soft Rock",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=softrock",
+"url": "https://photocall.tv/v1tq/mc?ch=softrock",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Hiphop-R&B",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=hiphopnrnb",
+"url": "https://photocall.tv/v1tq/mc?ch=hiphopnrnb",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "RAP",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=rap",
+"url": "https://photocall.tv/v1tq/mc?ch=rap",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
-"name": "R&B Soul",
+"name": "R&B-Soul",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=rnbsoul",
+"url": "https://photocall.tv/v1tq/mc?ch=rnbsoul",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Throwback Jamz",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=throwbackjamz",
+"url": "https://photocall.tv/v1tq/mc?ch=throwbackjamz",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "RAP2K",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=rap2k",
+"url": "https://photocall.tv/v1tq/mc?ch=rap2k",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Rock",
 "image":"https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=rock",
+"url": "https://photocall.tv/v1tq/mc?ch=rock",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Kidz Only",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=kidzonly",
+"url": "https://photocall.tv/v1tq/mc?ch=kidzonly",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "KIDZ BOP",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=kidzbop",
+"url": "https://photocall.tv/v1tq/mc?ch=kidzbop",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Learn & Play",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=learnnplay",
+"url": "https://photocall.tv/v1tq/mc?ch=learnnplay",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Family Hits",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=familyhits",
+"url": "https://photocall.tv/v1tq/mc?ch=familyhits",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Toddler Tunes",
 "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "https://photocall.tv/b1ts/mc?ch=toddlertunes",
+"url": "https://photocall.tv/v1tq/mc?ch=toddlertunes",
 "referer": "http://photocall.tv/",
 "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
 "info": "TIM TV",
 "playInNatPlayer": "true"
 },
+]
+}
+
 
 
     
-]
-}
+
