@@ -74,6 +74,26 @@
 
 {"name":"Spark Tv",image:"https://i.ytimg.com/vi/wA7D0MBqymc/maxresdefault.jpg","url": "https://sparktv-samsunguk.amagi.tv/playlist.m3u8"},
 
+{
+"name": "True Explore Wild",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-expwild&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "TIM TV",
+"desktop": "true"
+},
+
+{
+"name": "True Explore SCI",
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F76f8506f-b775-4a6f-ba79-752ecb8ee516.png&w=320&h=240",
+"url": "https://www.doofootball.com/dootv/live/truesci#main_dootv",
+"referer": "https://www.doofootball.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"info": "TIM TV",
+"playInNatPlayer": "true"
+},
+
 
 
 ]
