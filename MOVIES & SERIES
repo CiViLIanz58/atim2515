@@ -553,5 +553,9 @@
 {"name": "Spydar TV","image": "https://image.roku.com/developer_channels/prod/71ab9ad5191ecb197dddaf62c5aca47db20cf006bed09c46e17c347e7ba63349.png" ,"url": "https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8"},
 
 {"name": "MEDIANEWS","image": "https://docs.google.com/uc?export=download&id=1X-XoDk4gvLyY95F-sKtgHDy-lj7M5jjc" ,"url": "https://live1.thaitvstream.com/play/medianews/index.m3u8"},
+
+{"name": "AlbFilm 1","image": "https://tvmak.com/img/tv/albfilmtv.png" ,"url": "https://t2.tvmak.com/tv/ALBFILMTV1.m3u8"},
+
+{"name": "AlbFilm 2","image": "https://tvmak.com/img/tv/albfilmtv.png" ,"url": "https://t2.tvmak.com/tv/ALBFILMTV2.m3u8"},
 ]
 }
