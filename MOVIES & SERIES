@@ -557,5 +557,7 @@
 {"name": "AlbFilm 1","image": "https://tvmak.com/img/tv/albfilmtv.png" ,"url": "https://t2.tvmak.com/tv/ALBFILMTV1.m3u8"},
 
 {"name": "AlbFilm 2","image": "https://tvmak.com/img/tv/albfilmtv.png" ,"url": "https://t2.tvmak.com/tv/ALBFILMTV2.m3u8"},
+
+{"name": "Celestial Movies","image": "https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg" ,"url": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8"},
 ]
 }
