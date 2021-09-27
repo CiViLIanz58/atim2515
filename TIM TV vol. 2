@@ -4,9 +4,11 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/850118320/suria_ch_400x400.png" group-title="SINGAPORE", Suria Singpore
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/850118320/suria_ch_400x400.png" group-title="SINGAPORE", Suria Singpore
+https://www.coolstreaming.us/channelnew/54666/TVASAHI.html
 
-
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/850118320/suria_ch_400x400.png" group-title="SINGAPORE", Suria Singpore
+https://www.coolstreaming.us/channelnew/61407/TvTokyo.html
 
 
 
