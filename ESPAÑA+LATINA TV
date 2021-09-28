@@ -8,89 +8,132 @@
 		"stations":[
     
     
-{"name":"TVE 1",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png","url": "https://adictosalatele.com/TV/espana/tve1/"},
+{"name":"TVE 1",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png","url": "https://telefullenvivo.com/ver-canal-la-1-tve1-online-en-directo/"},
 
-{"name":"Antena 3",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/250px-Antena_3_%282017%29.svg.png","url": "https://adictosalatele.com/TV/espana/antena3/"},
+{"name":"Antena 3",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/250px-Antena_3_%282017%29.svg.png","url": "https://telefullenvivo.com/ver-canal-antena-3-online-en-directo/"},
 
-{"name":"LA CUATRO",image:"https://adictosalatele.com/logos/la4.png","url": "https://adictosalatele.com/la-cuatro-en-directo-online-gratis/"},
+{"name":"LA CUATRO",image:"https://adictosalatele.com/logos/la4.png","url": "https://telefullenvivo.com/ver-canal-la-cuatro-online-en-directo/"},
 
-{"name":"TELECINCO",image:"https://adictosalatele.com/logos/la5.png","url": "https://adictosalatele.com/telecinco-en-directo-online-gratis/"},
+{"name":"TELECINCO",image:"https://adictosalatele.com/logos/la5.png","url": "https://telefullenvivo.com/ver-canal-telecinco-online-en-directo/"},
 
-{"name":"LA SEXTA",image:"https://adictosalatele.com/logos/la6.png","url": "https://adictosalatele.com/la-sexta-en-directo-online-gratis/"},
+{"name":"LA SEXTA",image:"https://adictosalatele.com/logos/la6.png","url": "https://telefullenvivo.com/ver-canal-la-sexta-online-en-directo/"},
 
-{"name":"MEGA",image:"https://adictosalatele.com/logos/mega.png","url": "https://adictosalatele.com/mega-en-directo-online-gratis/"},
+{"name":"MEGA",image:"https://adictosalatele.com/logos/mega.png","url": "https://telefullenvivo.com/ver-canal-mega-online-en-directo/"},
 
-{"name":"FDF",image:"https://adictosalatele.com/logos/fdf.png","url": "https://adictosalatele.com/fdf-en-directo-online-gratis/"},
+{"name":"FDF",image:"https://adictosalatele.com/logos/fdf.png","url": "https://telefullenvivo.com/ver-canal-fdf-online-en-directo/"},
 
-{"name":"TELEMADRID",image:"https://adictosalatele.com/logos/telemadrid.png","url": "https://adictosalatele.com/telemadrid-en-directo-online-gratis/"},
+{"name":"TELEMADRID",image:"https://adictosalatele.com/logos/telemadrid.png","url": "https://telefullenvivo.com/ver-canal-telemadrid-online-en-directo/"},
 
-{"name":"canal #0 PLUS",image:"https://adictosalatele.com/logos/canal0.png","url": "https://adictosalatele.com/canal-0-plus-en-directo-online-gratis/"},
+{"name":"canal #0 PLUS",image:"https://adictosalatele.com/logos/canal0.png","url": "https://telefullenvivo.com/ver-canal-0-online-en-directo/"},
 
-{"name":"movistar ESTRENOS",image:"https://adictosalatele.com/logos/movistarestrenos.png","url": "https://adictosalatele.com/movistar-estrenos-en-directo-online-gratis/"},
+{"name":"movistar ESTRENOS",image:"https://adictosalatele.com/logos/movistarestrenos.png","url": "https://telefullenvivo.com/ver-canal-estrenos-online-en-directo/"},
 
-{"name":"movistar ACCION",image:"https://adictosalatele.com/logos/movistaraccion.png","url": "https://adictosalatele.com/movistar-accion-en-directo-online-gratis/"},
+{"name":"movistar ACCION",image:"https://adictosalatele.com/logos/movistaraccion.png","url": "https://telefullenvivo.com/ver-canal-accion-online-en-directo/"},
 
-{"name":"movistar DRAMA",image:"https://adictosalatele.com/logos/movistardrama.png","url": "https://adictosalatele.com/movistar-drama-en-directo-online-gratis/"},
+{"name":"movistar DRAMA",image:"https://adictosalatele.com/logos/movistardrama.png","url": "https://telefullenvivo.com/ver-canal-drama-online-en-directo/"},
 
-{"name":"movistar COMEDIA",image:"https://adictosalatele.com/logos/movistarcomedia.png","url": "https://adictosalatele.com/movistar-comedia-en-directo-online-gratis/"},
+{"name":"movistar COMEDIA",image:"https://adictosalatele.com/logos/movistarcomedia.png","url": "https://telefullenvivo.com/ver-canal-comedia-online-en-directo/"},
 
-{"name":"movistar SERIES",image:"https://adictosalatele.com/logos/movistarseries.png","url": "https://adictosalatele.com/movistar-series-en-directo-online-gratis/"},
+{"name":"movistar SERIES",image:"https://adictosalatele.com/logos/movistarseries.png","url": "https://telefullenvivo.com/ver-canal-series-online-en-directo/"},
 
-{"name":"TOROS",image:"https://adictosalatele.com/logos/toros.png","url": "https://adictosalatele.com/canal-toros-en-directo-online-gratis/"},
+{"name":"TOROS",image:"https://adictosalatele.com/logos/toros.png","url": "https://telefullenvivo.com/ver-canal-toros-online-en-directo/"},
 
-{"name":"FOX",image:"https://adictosalatele.com/logos/fox.png","url": "https://adictosalatele.com/fox-espana-en-directo-online-gratis/"},
+{"name":"FOX",image:"https://adictosalatele.com/logos/fox.png","url": "https://telefullenvivo.com/ver-canal-fox-online-en-directo/"},
 
-{"name":"AXN",image:"https://adictosalatele.com/logos/axn.png","url": "https://adictosalatele.com/axn-en-directo-online-gratis/"},
+{"name":"AXN",image:"https://adictosalatele.com/logos/axn.png","url": "https://telefullenvivo.com/ver-canal-axn-online-en-directo/"},
 
-{"name":"TNT",image:"https://adictosalatele.com/logos/tnt.png","url": "https://adictosalatele.com/tnt-en-directo-online-gratis/"},
+{"name":"TNT",image:"https://adictosalatele.com/logos/tnt.png","url": "https://telefullenvivo.com/ver-canal-tnt-online-en-directo/"},
 
-{"name":"AMC",image:"https://adictosalatele.com/logos/amc.png","url": "https://adictosalatele.com/amc-en-directo-online-gratis/"},
+{"name":"AMC",image:"https://adictosalatele.com/logos/amc.png","url": "https://telefullenvivo.com/ver-canal-amc-online-en-directo/"},
 
-{"name":"SYFY",image:"https://adictosalatele.com/logos/syfy.png","url": "https://adictosalatele.com/syfy-en-directo-online-gratis/"},
+{"name":"SYFY",image:"https://adictosalatele.com/logos/syfy.png","url": "https://telefullenvivo.com/ver-canal-syfy-online-en-directo/"},
 
-{"name":"TELEFE",image:"https://adictosalatele.com/logos/telefe.png","url": "https://adictosalatele.com/telefe-en-vivo-online/"},
+{"name":"TELEFE",image:"https://adictosalatele.com/logos/telefe.png","url": "https://telefullenvivo.com/ver-canal-telefe-en-vivo-online/"},
 
-{"name":"EL TRECE",image:"https://adictosalatele.com/logos/eltrece.png","url": "https://adictosalatele.com/el-trece-argentina-en-vivo-online/"},
+{"name":"EL TRECE",image:"https://adictosalatele.com/logos/eltrece.png","url": "https://telefullenvivo.com/ver-canal-eltrece-en-vivo-online/"},
 
-{"name":"AMERICA TV",image:"https://adictosalatele.com/logos/america2.png","url": "https://adictosalatele.com/america-2-tv-en-vivo-online/"},
+{"name":"AMERICA TV",image:"https://adictosalatele.com/logos/america2.png","url": "https://telefullenvivo.com/ver-canal-america-en-vivo-online/"},
 
-{"name":"TV PUBLICA argentina",image:"http://live-tv-channels.org/pt-data/uploads/logo/ar-canal-10-tv-publica.jpg","url": "https://adictosalatele.com/tv-publica-argentina-en-vivo-online/"},
+{"name":"TV PUBLICA argentina",image:"http://live-tv-channels.org/pt-data/uploads/logo/ar-canal-10-tv-publica.jpg","url": "https://telefullenvivo.com/ver-canal-tv-publica-en-vivo-online/"},
 
-{"name":"C5N",image:"https://adictosalatele.com/logos/c5n.png","url": "https://adictosalatele.com/canal-c5n-argentina-en-vivo-online/"},
+{"name":"C5N",image:"https://adictosalatele.com/logos/c5n.png","url": "https://telefullenvivo.com/ver-canal-c5n-noticias-en-vivo-online/"},
 
-{"name":"el NUEVE",image:"https://adictosalatele.com/logos/canalnueve.png","url": "https://adictosalatele.com/canal-9-argentina-en-vivo-online/"},
+{"name":"el NUEVE",image:"https://adictosalatele.com/logos/canalnueve.png","url": "https://telefullenvivo.com/ver-canal-9-en-vivo-online/"},
 
-{"name":"DCINE Ñ online y",image:"https://adictosalatele.com/logos/dcinen.png","url": "https://adictosalatele.com/dcine-n-online-y-en-directo-gratis/"},
+{"name":"DCINE Ñ online y",image:"https://adictosalatele.com/logos/dcinen.png","url": "https://telefullenvivo.com/ver-canal-cine-spain-online-en-directo/"},
 
-{"name":"CANAL 26",image:"https://adictosalatele.com/logos/canal26.png","url": "https://adictosalatele.com/canal-26-en-vivo-online/"},
+{"name":"CANAL 26",image:"https://adictosalatele.com/logos/canal26.png","url": "https://telefullenvivo.com/ver-canal-26-en-vivo-online/"},
 
-{"name":"CRONICA TV",image:"https://adictosalatele.com/logos/cronicatv.png","url": "https://adictosalatele.com/cronica-tv-argentina-en-vivo-online/"},
+{"name":"CRONICA TV",image:"https://adictosalatele.com/logos/cronicatv.png","url": "https://telefullenvivo.com/ver-canal-cronicatv-en-vivo-online/"},
 
-{"name":"Ciudad magazine",image:"https://adictosalatele.com/logos/ciudadmagazine.png","url": "https://adictosalatele.com/ciudad-magazine-en-vivo/"},
+{"name":"Ciudad magazine",image:"https://adictosalatele.com/logos/ciudadmagazine.png","url": "https://telefullenvivo.com/ver-canal-magazine-en-vivo-online/"},
 
-{"name":"CARACOL TV",image:"https://adictosalatele.com/logos/caracoltv.png","url": "https://adictosalatele.com/caracol-tv-en-vivo-online-gratis/"},
+{"name":"CARACOL TV",image:"https://adictosalatele.com/logos/caracoltv.png","url": "https://telefullenvivo.com/ver-canal-caracoltv-en-vivo-online/"},
 
-{"name":"TELEVISA DEL BAJIO",image:"https://adictosalatele.com/logos/televisabajio.png","url": "https://adictosalatele.com/televisa-del-bajio-en-vivo-online-gratis/"},
+{"name":"VTV",image:"https://telefullenvivo.com/logos/vtv.png","url": "https://telefullenvivo.com/ver-canal-tn-todo-noticias-en-vivo-online/"},
 
-{"name":"CANAL 5 TELEVISA",image:"https://adictosalatele.com/logos/canal5televisa.png","url": "https://adictosalatele.com/canal-5-televisa-en-vivo-online/"},
+{"name":"CANAL 5 TELEVISA",image:"https://adictosalatele.com/logos/canal5televisa.png","url": "https://telefullenvivo.com/ver-canal-5-en-vivo-online/"},
 
-{"name":"AZTECA",image:"https://adictosalatele.com/logos/azteca.png","url": "https://adictosalatele.com/canal-azteca-en-vivo-online/"},
+{"name":"AZTECA",image:"https://adictosalatele.com/logos/azteca.png","url": "https://telefullenvivo.com/ver-canal-azteca-uno-en-vivo-online/"},
 
-{"name":"AZTECA SIETE",image:"https://adictosalatele.com/logos/azteca7.png","url": "https://adictosalatele.com/azteca-siete-en-vivo-online-gratis/"},
+{"name":"AZTECA SIETE",image:"https://adictosalatele.com/logos/azteca7.png","url": "https://telefullenvivo.com/ver-canal-azteca-siete-en-vivo-online/"},
 
-{"name":"AZTECA MAS",image:"https://adictosalatele.com/logos/aztecamas.png","url": "https://adictosalatele.com/azteca-mas-en-vivo-online-gratis/"},
+{"name":"Dark",image:"https://telefullenvivo.com/logos/dark.png","url": "https://telefullenvivo.com/ver-canal-dark-online-en-directo/"},
 
-{"name":"AZTECA CINEMA",image:"https://adictosalatele.com/logos/aztecacinema.png","url": "https://adictosalatele.com/azteca-cinema-en-vivo-online-gratis/"},
+{"name":"Cinemax",image:"https://telefullenvivo.com/logos/cinemax.png","url": "https://telefullenvivo.com/ver-canal-cinemax-en-vivo-online/"},
 
-{"name":"AZTECA MUNDO",image:"https://adictosalatele.com/logos/aztecamundo.png","url": "https://adictosalatele.com/azteca-mundo-en-vivo-online-gratis/"},
+{"name":"Cinecanal",image:"https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg","url": "https://telefullenvivo.com/ver-canal-cinecanal-en-vivo-online/"},
 
-{"name":"AZTECA CORAZON",image:"https://adictosalatele.com/logos/aztecacorazon.png","url": "https://adictosalatele.com/azteca-corazon-en-vivo-online-gratis/"},
+{"name":"TNT Series",image:"https://telefullenvivo.com/logos/tntseries.png","url": "https://telefullenvivo.com/ver-canal-tnt-series-en-vivo-online/"},
 
-{"name":"TLNOVELAS",image:"https://adictosalatele.com/logos/telenovelas.png","url": "https://adictosalatele.com/telenovelas-en-vivo-online/"},
+{"name":"TLNOVELAS",image:"https://adictosalatele.com/logos/telenovelas.png","url": "https://telefullenvivo.com/ver-canal-tlenovelas-en-vivo-online/"},
 
-{"name":"las ESTRELLAS",image:"https://adictosalatele.com/logos/canalestrellas.png","url": "https://adictosalatele.com/canal-de-las-estrellas-en-vivo-online/"},
+{"name":"las ESTRELLAS",image:"https://adictosalatele.com/logos/canalestrellas.png","url": "https://telefullenvivo.com/ver-canal-las-estrellas-en-vivo-online/"},
 
-{"name":"Gran Hermano Vip Cam 1",image:"https://adictosalatele.com/logos/ghvip.png","url": "https://adictosalatele.com/gran-hermano-vip-cam-1-plus-en-directo-online-gratis/"},
-    
+{"name":"TCM",image:"https://telefullenvivo.com/logos/tcmlatino.png","url": "https://telefullenvivo.com/ver-canal-tcm-en-vivo-online/"},
+
+{"name":"FXM",image:"https://telefullenvivo.com/logos/fxm.png","url": "https://telefullenvivo.com/ver-canal-fxm-en-vivo-online/"},
+
+{"name":"FX",image:"https://telefullenvivo.com/logos/fx.png","url": "https://telefullenvivo.com/ver-canal-fx-en-vivo-online/"},
+
+{"name":"Space",image:"https://telefullenvivo.com/logos/space.png","url": "https://telefullenvivo.com/ver-canal-space-en-vivo-online/"},
+
+{"name":"Comedy Central",image:"https://telefullenvivo.com/logos/comedycentrallatino.png","url": "https://telefullenvivo.com/ver-canal-comedy-central-en-vivo-online/"},
+
+{"name":"Paramount Network",image:"https://telefullenvivo.com/logos/paramountlatino.png","url": "https://telefullenvivo.com/ver-canal-paramount-channel-en-vivo-online/"},
+
+{"name":"Sony Channel",image:"https://telefullenvivo.com/logos/sony.png","url": "https://telefullenvivo.com/ver-canal-sony-en-vivo-online/"},
+
+{"name":"TBS",image:"https://telefullenvivo.com/logos/tbs.png","url": "https://telefullenvivo.com/ver-canal-tbs-en-vivo-online/"},
+
+{"name":"Studio Universal",image:"https://telefullenvivo.com/logos/studiouniversal.png","url": "https://telefullenvivo.com/ver-canal-studio-universal-en-vivo-online/"},
+
+{"name":"Universal TV",image:"https://telefullenvivo.com/logos/universalchannel.png","url": "https://telefullenvivo.com/ver-canal-universal-channel-en-vivo-online/"},
+
+{"name":"Warner Channel",image:"https://telefullenvivo.com/logos/warner.png","url": "https://telefullenvivo.com/ver-canal-warner-en-vivo-online/"},
+
+{"name":"Distrito Comedia",image:"https://telefullenvivo.com/logos/distritocomedia.png","url": "https://telefullenvivo.com/ver-canal-distrito-comedia-en-vivo-online/"},
+
+{"name":"Cartoon Network",image:"https://telefullenvivo.com/logos/cartoonnetwork.png","url": "https://telefullenvivo.com/ver-canal-cartoon-network-en-vivo-online/"},
+
+{"name":"Natgeo Kids",image:"https://telefullenvivo.com/logos/natgeokids.png","url": "https://telefullenvivo.com/ver-canal-natgeo-kids-en-vivo-online/"},
+
+{"name":"Disney Junior",image:"https://telefullenvivo.com/logos/disneyjunior.png","url": "https://telefullenvivo.com/ver-canal-disney-junior-en-vivo-online/"},
+
+{"name":"Disney XD",image:"https://telefullenvivo.com/logos/disneyxd.png","url": "https://telefullenvivo.com/ver-canal-disney-xd-en-vivo-online/"},
+
+{"name":"Disney Channel",image:"https://telefullenvivo.com/logos/disneychannel.png","url": "https://telefullenvivo.com/ver-canal-disney-channel-en-vivo-online/"},
+
+{"name":"Nick",image:"https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png","url": "https://telefullenvivo.com/ver-canal-nick-en-vivo-online/"},
+
+{"name":"NickMusic",image:"https://telefullenvivo.com/logos/nickmusic.png","url": "https://telefullenvivo.com/ver-canal-nickmusic-en-vivo-online/"},
+
+{"name":"BabyFirst",image:"https://telefullenvivo.com/logos/babyfirst.png","url": "https://telefullenvivo.com/ver-canal-babyfirst-en-vivo-online/"},
+
+{"name":"Tooncast",image:"https://telefullenvivo.com/logos/tooncast.png","url": "https://telefullenvivo.com/ver-canal-tooncast-en-vivo-online/"},
+
+{"name":"Boomerang",image:"https://telefullenvivo.com/logos/boomerang.png","url": "https://telefullenvivo.com/ver-canal-boomerang-en-vivo-online/"},
+
+{"name":"Pakapaka",image:"https://telefullenvivo.com/logos/pakapaka.png","url": "https://telefullenvivo.com/ver-canal-paka-paka-en-vivo-online/"},
 ]
 }
