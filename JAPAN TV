@@ -71,5 +71,7 @@
 {"name":"TV Asahi",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png","url": "https://aqstream.com/jp/tva/TV-Asahi"},
 
 {"name":"TV Tokyo",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png","url": "https://aqstream.com/jp/tvt/TV-Tokyo"},
+
+{"name":"Japanet Channel DX",image:"https://i.pinimg.com/originals/38/67/54/386754f03df2c7099bdf01a54f7f306f.jpg","url": "https://aqstream.com/jp/tvt/TV-Tokyo"},
 ]
 }
