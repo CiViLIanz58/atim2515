@@ -540,88 +540,25 @@
 
 {"name":"FIGHT SPORTS",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoSg6cQI7LyqzVtnlYGAjjwcNiKp-1bT2E8r_5AouspCfbJUYQdM-Zmb20TFVWcGBS5wA&usqp=CAU","url": "https://www.we-play.live/watching/tv/fight-sports"},
 
-{
-"name": "Bein Sports 1 TH",
-"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
+{"name": "BEIN SPORT 1 TH","image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png","url": "https://we-play.live/watching/tv/bein-sports-1"},
 
 {"name": "BEIN SPORT 2 TH","image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png","url": "http://203.159.95.172:8081/live/bein02/playlist.m3u8","referer": "","playInNatPlayer": "true"},
 
-{
-"name": "True Sports HD",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",
-"url": "https://www.ball8k.com/channel?ch=truesporthd",
-"referer": "https://www.ball8k.com/",
-"info": "TIM TV",
-"playInNatPlayer": "true"
-},
+{"name": "True Sports HD 1","image": "https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png","url": "https://www.doomovie-hd.com/?r=tv_view&id=22"},
 
-{
-"name": "True Sports HD 2",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd2&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
+{"name": "True Sports HD 2","image": "https://youdooball.com/wp-content/uploads/2020/06/TrueSport-HD2-320.png","url": "https://we-play.live/watching/tv/true-sports-hd-2"},
 
-{
-"name": "True Sports HD 3",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport3&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
+{"name": "True Sports HD 3","image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd3.jpg","url": "https://www.we-play.live/watching/tv/true-sports-hd-3"},
 
-{"name": "TRUE SPORT HD 4","image": "https://www.dropbox.com/s/1jieyswcutdj4mg/lXaO61.png?dl=1","url":  "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8", "referer": "https://freetvdd.com/"},
+{"name": "True Sports HD 4","image": "https://www.dropbox.com/s/1jieyswcutdj4mg/lXaO61.png?dl=1","url":  "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8", "referer": "https://freetvdd.com/"},
 
-{
-"name": "True Sports 5",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsport5&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
+{"name": "True Sports 5","image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_original.png","url": "https://we-play.live/watching/tv/true-sports-5"},
 
-{
-"name": "True Sports 7",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-tsport7&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
+{"name": "True Sports 7","image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png","url": "https://we-play.live/watching/tv/true-sports-7"},
 
-{
-"name": "NBA TV",
-"image": "https://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-nba&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
+{"name": "NBA TV","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png","url": "https://we-play.live/watching/tv/nba-tv"},
 
-{
-"name": "Golf Channel 2",
-"image": "https://overseer.blackboxsys.net/images/png/hd-golf2.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-golf2&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
+{"name": "Golf Channel Thailand HD 2","image": "https://cms.dmpcdn.com/livetv/2021/04/09/eb739450-9917-11eb-8b27-db7c51a78b67_original.png","url": "https://we-play.live/watching/tv/golf-channel-thailand-hd2"},
 
 {
 "name": "Arena Sport 1",  
