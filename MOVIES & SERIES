@@ -515,5 +515,7 @@
 {"name": "Pluto TV Movies","image": "https://www.jordanharbinger.com/wp-content/uploads/2021/08/pluto-tv.png" ,"url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0a1f73654db655a9274428/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d0a1f73654db655a9274428&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=372611e5-6b4b-4a3f-9491-368034dfa39e&terminate=false&userId="},
 
 {"name": "Pluto TV Movies England","image": "https://www.jordanharbinger.com/wp-content/uploads/2021/08/pluto-tv.png" ,"url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId="},
+
+{"name": "Cinemax Action","image": "https://ia903107.us.archive.org/34/items/ActionMax/action%20max.png" ,"url": "http://streamstat.net/videoplayer.cgi?sid=172484337&ext=.m3u8"},
 ]
 }
