@@ -540,11 +540,11 @@
 
 {"name":"FIGHT SPORTS",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoSg6cQI7LyqzVtnlYGAjjwcNiKp-1bT2E8r_5AouspCfbJUYQdM-Zmb20TFVWcGBS5wA&usqp=CAU","url": "https://www.we-play.live/watching/tv/fight-sports"},
 
-{"name": "BEIN SPORT 1 TH","image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png","url": "https://we-play.live/watching/tv/bein-sports-1"},
+{"name": "BEIN SPORT 1 TH","image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1077.png","url": "https://www.liveballsod.com/tv-online/ch026b/"},
 
 {"name": "BEIN SPORT 2 TH","image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1078.png","url": "http://203.159.95.172:8081/live/bein02/playlist.m3u8","referer": "","playInNatPlayer": "true"},
 
-{"name": "True Sports HD 1","image": "https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png","url": "https://www.doomovie-hd.com/?r=tv_view&id=22"},
+{"name": "True Sports HD 1","image": "https://www.dropbox.com/s/k31srjznm7gwcdq/lXXCCE.png?dl=1","url": "https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8", "referer": "https://freetvdd.com/", "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
 
 {"name": "True Sports HD 2","image": "https://youdooball.com/wp-content/uploads/2020/06/TrueSport-HD2-320.png","url": "https://we-play.live/watching/tv/true-sports-hd-2"},
 
@@ -552,9 +552,9 @@
 
 {"name": "True Sports HD 4","image": "https://www.dropbox.com/s/1jieyswcutdj4mg/lXaO61.png?dl=1","url":  "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8", "referer": "https://freetvdd.com/"},
 
-{"name": "True Sports 5","image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_original.png","url": "https://we-play.live/watching/tv/true-sports-5"},
+{"name": "True Sports 5","image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_original.png","url": "https://www.liveballsod.com/tv-online/ch039/"},
 
-{"name": "True Sports 7","image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png","url": "https://we-play.live/watching/tv/true-sports-7"},
+{"name": "True Sports 7","image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png","url": "https://www.liveballsod.com/tv-online/ch041/"},
 
 {"name": "NBA TV","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png","url": "https://we-play.live/watching/tv/nba-tv"},
 
