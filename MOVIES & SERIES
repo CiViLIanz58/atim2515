@@ -370,16 +370,6 @@
 
 {"name": "STAR MOVIES","image": "https://docs.google.com/uc?export=download&id=1DxHeGeqvVJqPb-ZOrtkLNVvvw_BAjhJg" ,"url": "http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8"},
 
-{
-"name": "True Movie Hits",  
-"image": "https://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",  
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-moviehits&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
-
 {"name": "FOX ไทย","image": "http://2.bp.blogspot.com/-tE0IdJbqL7k/VcA5Ar3bBfI/AAAAAAAABIQ/4IDtCrOTa9w/s640/Untitled-11.jpg" ,"url": "https://we-play.live/watching/tv/fox-thai"},
 
 {"name": "HBO Hits","image": "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,"url": "https://www.we-play.live/watching/tv/hbo-hits"},
@@ -390,27 +380,9 @@
 
 {"name": "HITS MOVIES","image": "https://www.pngkey.com/png/full/303-3038868_the-60s-to-90s-hits.png" ,"url": "https://we-play.live/watching/tv/hits-movies"},
 
-{
-"name": "True Film HD",  
-"image": "https://wacth.officebk.co/uploads/tv_image/true-film-hd-bk2gdt2o7xnj.png",  
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
+{"name": "True Film HD","image": "https://we-play.live/uploads/posters/-poster1602704752.jpeg" ,"url": "https://www.doofree88.com/live/film-hd"},
 
 {"name": "Paramount","image": "https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" ,"url": "https://we-play.live/watching/tv/paramount-channel"},
-
-{
-"name": "TVB By True",
-"image": "https://cms.dmpcdn.com/livetv/2019/04/23/08f0470b-4f2f-4459-a6cc-0006e97887b7_320.png",
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-tvb&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
 
 {"name": "Warner TV","image": "https://variety.com/wp-content/uploads/2014/04/warnertv-logo.jpg?w=1000" ,"url": "https://we-play.live/watching/tv/warner-tv"},
 
@@ -424,37 +396,15 @@
 
 {"name": "THRILL","image": "https://pbs.twimg.com/profile_images/611838002206146560/UQS0dlPO.jpg" ,"url": "http://50.7.161.82:8278/streams/d/thrill_pye/playlist.m3u8"},
 
-{"name": "FOX Life","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1280px-Fox_life_logo.svg.png" ,"url": "https://we-play.live/watching/tv/fox-life"},
-
 {"name": "AND","image": "https://docs.google.com/uc?export=download&id=1WvH-4-AhUbApkJmKaQm8tbBZrfij0YCW" ,"url": "https://live.thaitvstream.com/play/andtv/index.m3u8"},
 
 {"name": "MONO29","image": "https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png" ,"url": "https://we-play.live/watching/tv/mono29"},
 
 {"name": "HBO Asia","image": "https://variety.com/wp-content/uploads/2019/11/hbo-logo.jpg?w=681&h=383&crop=1" ,"url": "https://we-play.live/watching/tv/hbo-hd"},
 
-{"name": "True Asian Series","image": "https://www.we-play.live/uploads/posters/-poster1602704645.jpeg" ,"url": "https://we-play.live/watching/tv/true-asian-series-hd"},
-
 {"name": "Cinemax","image": "https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg" ,"url": "https://we-play.live/watching/tv/cinemax"},
 
-{
-"name": "True Film HD2",  
-"image": "https://wacth.officebk.co/uploads/tv_image/true-film-hd2.png",  
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
-
-{
-"name": "True Series",  
-"image": "https://wacth.officebk.co/uploads/tv_image/true-series-1shsz3dbbp36.png",  
-"url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"info": "TIM TV",
-"desktop": "true"
-},
+{"name": "True Film HD 2","image": "https://wacth.officebk.co/uploads/tv_image/true-film-hd2.png" ,"url": "https://www.doofree88.com/live/film-hd-2"},
 
 {"name":"XING KONG","image": "https://img2.pngio.com/xing-kong-wikipedia-xing-kong-png-1200_454.png","url": "https://cdn6.goprimetime.info/feed/202105171329/LC13/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
