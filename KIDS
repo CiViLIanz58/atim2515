@@ -130,6 +130,8 @@
 
 {"name":"DreamsWorks",image:"https://static.wikia.nocookie.net/logopedia/images/b/bf/DreamWorks_Animation_2016.svg/revision/latest/scale-to-width-down/250?cb=20201205013126","url": "https://we-play.live/watching/tv/dreamworks"},
 
-{"name":"Nick Jr. (Thai)",image:"https://www.groundedreason.com/wp-content/uploads/2021/04/nick_jr-1024x576.png","url": "https://www.we-play.live/watching/tv/nickelodeon"},    
+{"name":"Nick Jr. (Thai)",image:"https://www.groundedreason.com/wp-content/uploads/2021/04/nick_jr-1024x576.png","url": "https://www.we-play.live/watching/tv/nickelodeon"},
+
+{"name":"Cartoon Network",image:"https://www.paho.org/sites/default/files/styles/max_650x650/public/2020-09/cartoon-network-1500-2_0_0.jpg?itok=Tci6lftu","url": "https://we-play.live/watching/tv/cartoon-network"},
 ]
 }
