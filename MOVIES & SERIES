@@ -24,7 +24,7 @@
 
 {"name": "BOO","image": "https://www.rapidtvnews.com/images/2018/05/Boo-horror-Channel_-_3_May_2018.jpg","url": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"},
 
-{"name":"True Chinese More","image": "https://cms.dmpcdn.com/livetv/2021/09/28/52605e70-2007-11ec-8e02-8583191306a2_webp_320.png","url": "https://www.doofree88.com/live/fox-movies-premium-th"},
+{"name":"True Chinese More","image": "https://cms.dmpcdn.com/livetv/2021/09/28/52605e70-2007-11ec-8e02-8583191306a2_webp_320.png","url": "https://we-play.live/watching/tv/true-chinese-more"},
 
 {"name": "Star Chinese Movies","image": "https://static.wikia.nocookie.net/logopedia/images/f/ff/200x200_22star_chinese_movies.jpg/revision/latest/scale-to-width-down/250?cb=20121006081214" ,"url": "https://we-play.live/watching/tv/star-chinese-movies"},
 
@@ -518,8 +518,6 @@
 
 {"name": "Cinemax Action","image": "https://ia903107.us.archive.org/34/items/ActionMax/action%20max.png" ,"url": "http://streamstat.net/videoplayer.cgi?sid=172484337&ext=.m3u8"},
 
-{"name": "True Korean More","image": "https://cms.dmpcdn.com/livetv/2021/09/28/d446d890-2009-11ec-9629-7dc4459cd94d_webp_original.png" ,"url": "https://www.doofree88.com/live/fox-family-movies"},
 
-{"name": "True Asian More","image": "https://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_320.png" ,"url": "https://we-play.live/watching/tv/true-asian-series-hd"},
 ]
 }
