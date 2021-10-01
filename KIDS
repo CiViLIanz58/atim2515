@@ -44,7 +44,7 @@
 
 {"name":"TOON GOGGLES",image:"https://images-na.ssl-images-amazon.com/images/I/81j8DgLstPL.png","url": "https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8"},
 
-{"name":"NICK JR",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png","url": "https://we-play.live/watching/tv/nickelodeon"},
+{"name":"NICK JR. (US)",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png","url": "https://we-play.live/watching/tv/nickelodeon"},
 
 {"name":"Supertoons TV",image:"https://supertoons.bg/wp-content/uploads/2021/03/Landing-Page-Image-2021-1200x675.png","url": "https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8"},
 
@@ -130,6 +130,6 @@
 
 {"name":"DreamsWorks",image:"https://static.wikia.nocookie.net/logopedia/images/b/bf/DreamWorks_Animation_2016.svg/revision/latest/scale-to-width-down/250?cb=20201205013126","url": "https://we-play.live/watching/tv/dreamworks"},
 
-    
+{"name":"Nick Jr. (Thai)",image:"https://www.groundedreason.com/wp-content/uploads/2021/04/nick_jr-1024x576.png","url": "https://www.we-play.live/watching/tv/nickelodeon"},    
 ]
 }
