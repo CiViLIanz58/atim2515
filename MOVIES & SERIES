@@ -192,8 +192,6 @@
 
 {"name": "Classique TV","image": "https://ipgo.xyz/tv/classique/imagens/logo_classiqueTV_site.png" ,"url": "http://stmv2.srvstm.com/classique/classique/playlist.m3u8"},
 
-{"name": "DUST","image": "https://image.xumo.com/v1/channels/channel/9999292/300x300.png?type=smartCast_channelTile" ,"url": "https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8"},
-
 {"name": "DUSTx","image": "https://variety.com/wp-content/uploads/2018/08/dustx-logo.jpg" ,"url": "https://dust.samsung.wurl.com/manifest/1200.m3u8"},
 
 {"name": "Fear This","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4fnpvUXphOUkeptxqmd58WN2_pEY6OgdTBoC7uY51oHgY3JA3Pwp2JqPuWFKPx2lmNjs&usqp=CAU" ,"url": "https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8"},
