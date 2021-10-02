@@ -10,8 +10,6 @@
     
 {"name":"ROCK ENTERTAINMENT",image:"https://cms.dmpcdn.com/livetv/2021/08/31/0952f6d0-0a7b-11ec-8f49-f3b4e134aaf5_320.png","url": "https://we-play.live/watching/tv/rock-entertainment"},
 
-{"name":"Lifetime (US)",image:"https://i.pinimg.com/originals/ed/ed/a6/ededa6b1e5d4e85eb3138036396f81a3.png","url": "https://www.olweb.tv/lifetime-usa"},
-
 {"name":"AXN",image:"https://tvinfo.in/wp-content/uploads/2021/01/axn.png","url": "https://we-play.live/watching/tv/axn-hd"},
 
 {"name":"Pluto TV Celebrity",image:"https://pbs.twimg.com/media/EM1d5Y5U4AEX--z.jpg","url": "http://player.teleon.tv/us/channel/pluto-tv-celebrity-us"},
@@ -44,15 +42,13 @@
 
 {"name":"PopStar! TV",image:"https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/8f/94/47/8f944798-8d0f-8568-75f7-c5a1b694c583/source/512x512bb.jpg","url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8"},
 
-{"name":"Deal or No Deal",image:"https://pbs.twimg.com/media/EddkMOnUYAAQPRZ.png","url": "http://player.teleon.tv/us/channel/deal-or-no-deal-us"},
-
 {"name":"Epic Misses & Mayhem",image:"https://image.roku.com/developer_channels/prod/7a2d82edad3eaaccb4ad2334ceec89666e302740c6089cdcba69ff4bad7a1bfb.png","url": "http://player.teleon.tv/us/channel/epic-misses-and-mayhem-us"},
 
 {"name":"Estrella TV",image:"https://www.digitaltveurope.com/files/2020/12/Estrella-Logo-TV1.jpg","url": "http://player.teleon.tv/us/channel/estrella-tv-us"},
 
 {"name":"ET Live",image:"https://static.wikia.nocookie.net/logopedia/images/6/6f/41Yy7b-A5eL.png/revision/latest/scale-to-width-down/200?cb=20210103052248","url": "http://player.teleon.tv/us/channel/et-live-us"},
 
-{"name":"FailArmy",image:"https://www.oln.ca/wp-content/uploads/2015/02/all-shows-fail-army.jpg","url": "http://player.teleon.tv/us/channel/failarmy-us"},
+{"name":"FailArmy",image:"https://www.oln.ca/wp-content/uploads/2015/02/all-shows-fail-army.jpg","url": "https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8"},
 
 {"name":"Fear Factor",image:"https://pbs.twimg.com/media/ENtQlvZWkAAkOTH.jpg","url": "http://player.teleon.tv/us/channel/fear-factor-us"},
 
@@ -60,7 +56,7 @@
 
 {"name":"Game Show Central",image:"https://origin-www.gameshownetwork.com/storage/app/media/2020/gameshowcentral/Game_Show_Central.png","url": "http://player.teleon.tv/us/channel/game-show-central-us"},
 
-{"name":"Glewed TV",image:"https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/4a/23/25/4a23251b-65da-474b-f6e3-3c0a9b12c009/App_Icon-marketing.lsr/1024x1024bb.jpg","url": "http://player.teleon.tv/us/channel/glewed-tv-us"},
+{"name":"Glewed TV",image:"https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/4a/23/25/4a23251b-65da-474b-f6e3-3c0a9b12c009/App_Icon-marketing.lsr/1024x1024bb.jpg","url": "https://glewedtv-3.vizio.wurl.com/manifest/playlist.m3u8"},
 
 {"name":"Humor Mill",image:"https://i.vimeocdn.com/channel/31411_980?mh=250","url": "http://player.teleon.tv/us/channel/humor-mill-us"},
 
@@ -79,8 +75,6 @@
 {"name":"Bang Showbiz",image:"https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F58681613c950715c12779bf6f9cb4e5634e612e386ae5542c044b5a3d6040836.png","url": "https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8"},
 
 {"name":"Decentric Media",image:"https://media-exp1.licdn.com/dms/image/C560BAQFi6Q92l-lxvA/company-logo_200_200/0?e=2159024400&v=beta&t=WXzA_T8tLfCNXfW3CFbkmEI6EaU9gvbyxYHHFE-6oVw","url": "https://linear-68.frequency.stream/dist/localnow/68/hls/master/playlist.m3u8"},
-
-{"name":"Humanity",image:"https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/08/humanity_base.png?resize=300%2C194&ssl=1","url": "https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8"},
 
 {"name":"Infomercials Adult Swim 24/7",image:"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/38857b17f83ecd138e91f0a5f0fc7483c9da41174db71cd5c8b560ce37a6e527._RI_V_TTW_.jpg","url": "https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8"},
 
@@ -110,8 +104,6 @@
 
 {"name":"MBC 1 USA",image:"https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png","url": "https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8"},
 
-{"name":"MBC 2",image:"https://upload.wikimedia.org//wikipedia/en/thumb/0/03/MBC_2_HD_logo.png/220px-MBC_2_HD_logo.png","url": "https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8"},
-
 {"name":"MBC 3",image:"https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg","url": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8"},
 
 {"name":"MBC 3 EUR",image:"https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg","url": "https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8"},
@@ -138,7 +130,7 @@
 
 {"name":"Motorcyclist",image:"https://image.roku.com/developer_channels/prod/0a85e89c3f3773d288a137ef68eda6909978b7260f98f5fcdc0728741ddc270d.png","url": "http://player.teleon.tv/us/channel/motorcyclist-us"},
 
-{"name":"Nosey",image:"https://media.unreel.me/prod/nosey/general/050d549e-cb09-435d-b040-d8b58ee711ea","url": "http://player.teleon.tv/us/channel/nosey-us"},
+{"name":"Nosey",image:"https://media.unreel.me/prod/nosey/general/050d549e-cb09-435d-b040-d8b58ee711ea","url": "https://nosey-realnosey-1.vizio.wurl.com/manifest/playlist.m3u8"},
 
 {"name":"the pet collective",image:"https://s3-us-west-1.amazonaws.com/jukinmedia-web-resources/images/press/petcollectivearticle.jpg","url": "https://www.nettvpro.live/en/play.php?aid=5084"},
 
@@ -185,8 +177,6 @@
 {"name":"Pluto TV Secret Dealers",image:"https://thetechzone.online/wp-content/uploads/2021/04/Classic-Anime-Garfield-Tuning-and-VH1-Classics-channels-May-Pluto.jpg","url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc0af6784d10007d8ad42/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 "},
 
-{"name":"Youth Success",image:"http://youthsuccesstv.com/wp-content/uploads/2019/07/YouthSuccessTVNetwork.jpg","url": "https://simultv.s.llnwi.net/o060/YouthSuccess/interlink.m3u8"},
-
 {"name":"DW English",image:"https://www.dw.com/cssi/dwlogo-print.gif","url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
 
 {"name":"HAUNT TV",image:"https://pbs.twimg.com/profile_images/1325839687215362048/B53Ca9Am_400x400.jpg","url": "https://haunttv-roku.amagi.tv/playlist.m3u8"},
@@ -205,7 +195,7 @@
 
 {"name":"True ID Station",image:"https://www.9tana.com/wp-content/uploads/2019/08/idstation.jpg","url": "https://we-play.live/watching/tv/id-station"},
 
-{"name":"Lifetime (Thai)",image:"https://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png","url": "https://we-play.live/watching/tv/lifetime"},
+{"name":"Lifetime",image:"https://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png","url": "https://we-play.live/watching/tv/lifetime"},
 
 
     
