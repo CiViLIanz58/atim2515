@@ -80,7 +80,7 @@
 
 {"name":"NAT TV",image:"https://live-tv-channels.org/pt-data/uploads/logo/us-nat-tv-4161-300x225.jpg","url": "https://live-tv-channels.org/livetv/us-nat-tv.html"},
 
-{"name":"บุญนิยม ทีวี",image:"https://yt3.ggpht.com/ytc/AAUvwnh0gL2Zd0zhRifTbQGKanrsL7DHgMNc9MDplJMv=s176-c-k-c0x00ffffff-no-rj-mo","url": "http://live.boonniyom.tv:1935/live/bntvhd/playlist.m3u8"},
+{"name":"บุญนิยม ทีวี",image:"https://yt3.ggpht.com/ytc/AAUvwnh0gL2Zd0zhRifTbQGKanrsL7DHgMNc9MDplJMv=s176-c-k-c0x00ffffff-no-rj-mo","url": "https://www.boonniyom.tv/"},
 
 {"name":"Brian TV",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0MZLi649n-VeTFyT-czq_vJPOq0b5_KlxkMxNEh675TiNHZMvgFEesv0GQ1so54bH0Y&usqp=CAU","url": "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8"},
 
@@ -102,7 +102,7 @@
 
 {"name":"WARP TV",image:"https://docs.google.com/uc?export=download&id=1SycdjzALgFNW5YdoakD5CFAXFkN7zgCH","url": "http://st.livestations.tv/playlist_warptv.m3u8"},
 
-{"name":"จ๊ะทิงจา","image":"https://cms.dmpcdn.com/livetv/2020/06/23/eb45de90-b54f-11ea-8fac-236a281cd6c5_320.png","url":"https://tv.trueid.net/embed/jatingjatv?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name":"จ๊ะทิงจา","image":"https://cms.dmpcdn.com/livetv/2020/06/23/eb45de90-b54f-11ea-8fac-236a281cd6c5_320.png","url":"https://www.youtube.com/watch?v=BjJHHZ-__sU&list=PLQmIxFGYiWmkSJue1H4nXPHEucS-eEDqL"},
 
 {"name":"ข่าวชัด TV",image:"http://www.xn--72c4abacl8d8a5c1dfb5r2bk.com/image/button/khaochadtv.png","url": "https://live1.thaitvstream.com/play/khaochadtv/index.m3u8"},
 
