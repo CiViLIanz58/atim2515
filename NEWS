@@ -16,7 +16,7 @@
 
 {"name":"CNN",image:"https://deadline.com/wp-content/uploads/2020/09/CNN-Logo.jpg?w=1000","url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"},
 
-{"name":"VOICE TV",image:"https://yt3.ggpht.com/ytc/AAUvwniZOsjMBK_TZs0hbTpLZ-aiLa1NPbAuF9szViacWHs=s900-c-k-c0x00ffffff-no-rj","url": "https://voicetv.co.th/watch"},
+{"name":"VOICE TV",image:"https://yt3.ggpht.com/ytc/AAUvwniZOsjMBK_TZs0hbTpLZ-aiLa1NPbAuF9szViacWHs=s900-c-k-c0x00ffffff-no-rj","url": "https://www.voicetv.co.th/live"},
 
 {"name":"Aljazeera",image:"https://i.pinimg.com/originals/11/6e/d8/116ed80f298c8ee40551e9291a2273f6.png","url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"},
 
@@ -34,7 +34,7 @@
 
 {"name":"Global News",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1200px-Global_News.svg.png","url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"},
 
-{"name":"Fox News",image:"https://variety.com/wp-content/uploads/2018/03/fox-news-logo.jpg?w=681&h=383&crop=1","url": "https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8"},
+{"name":"Fox News",image:"https://variety.com/wp-content/uploads/2018/03/fox-news-logo.jpg?w=681&h=383&crop=1","url": "https://ustvgo.tv/fox-news-live-streaming-free/"},
 
 {"name":"America's Voice News",image:"https://image.roku.com/developer_channels/prod/2bd7e2ab91767e23580b8d5bcbee3e4ddb124351f26a053c78bb4bdd74584b29.png","url": "http://player.teleon.tv/us/channel/americas-voice-us"},
 
@@ -96,13 +96,13 @@
 
 {"name":"Black Enterprise",image:"https://a.jsrdn.com/hls/22927/black-enterprise/thumbv_20210113_193911.jpg","url": "https://www.distro.tv/live/black-enterprise"},
 
-{"name":"VOA English",image:"https://d2v9ipibika81v.cloudfront.net/uploads/sites/210/voa-750.jpg","url": "https://www.nettvpro.live/en/play.php?aid=1643"},
+{"name":"VOA Live",image:"https://d2v9ipibika81v.cloudfront.net/uploads/sites/210/voa-750.jpg","url": "https://www.voanews.com/live/video/126"},
 
 {"name":"Yahoo News",image:"https://www.accesspartnership.com/cms/wp-content/uploads/2020/10/yahoo-news-logo.jpg","url": "https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8"},
 
 {"name":"ausbiz TV",image:"https://mumbrella.com.au/wp-content/uploads/2020/03/Ausbiz-logo-2-1.jpg","url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8"},
 
-{"name":"WeatherSpy",image:"https://v.fastcdn.co/u/ce0680fc/52012155-0-WeatherSpy-Avatar4.jpg","url": "https://jukin-weatherspy-1.plex.wurl.com/manifest/playlist.m3u8"},
+{"name":"WeatherSpy",image:"https://v.fastcdn.co/u/ce0680fc/52012155-0-WeatherSpy-Avatar4.jpg","url": "https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8"},
 
 
 
