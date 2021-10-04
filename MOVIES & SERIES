@@ -354,8 +354,6 @@
 
 {"name":"XING KONG","image": "https://img2.pngio.com/xing-kong-wikipedia-xing-kong-png-1200_454.png","url": "https://cdn6.goprimetime.info/feed/202105171329/LC13/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
 
-{"name": "Hi-Def 1","image": "https://we-play.live/uploads/posters/-poster1602704680.jpeg" ,"url": "https://we-play.live/watching/tv/hidef-1"},
-
 {"name": "Pluto TV Terror","image": "https://blog.tivo.com/wp-content/uploads/2020/08/terror-on-tivo-plus-1-1024x576.jpg" ,"url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6fc3&deviceDNT=0&deviceModel=0"},
 
 {"name": "Pluto TV Horror","image": "https://blog.tivo.com/wp-content/uploads/2020/08/featuredimage-8-1024x576.jpg" ,"url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=dfce&deviceDNT=0&deviceModel=0"},
@@ -449,8 +447,6 @@
 {"name": "AlbFilm 1","image": "https://tvmak.com/img/tv/albfilmtv.png" ,"url": "https://t2.tvmak.com/tv/ALBFILMTV1.m3u8"},
 
 {"name": "AlbFilm 2","image": "https://tvmak.com/img/tv/albfilmtv.png" ,"url": "https://t2.tvmak.com/tv/ALBFILMTV2.m3u8"},
-
-{"name": "Celestial Movies","image": "https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg" ,"url": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8"},
 
 {"name": "Film 1","image": "https://seeklogo.com/images/F/film-1-logo-695EDEB9B6-seeklogo.com.png" ,"url": "http://159.69.58.154/film1/film1tv.m3u8"},
 
