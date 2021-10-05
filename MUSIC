@@ -26,8 +26,6 @@
 
 {"name":"Pluto TV MTV Unplugged",image:"https://www.4kfilme.de/wp-content/uploads/2021/02/MTV-Unplugged-324x160.jpg","url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"},
 
-{"name":"Channel V",image:"https://simoneheng.com/wp-content/uploads/2019/10/Channel-V-International.jpg","url": "https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8"},
-
 {"name":"Retro Plus 2",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrwRHnu9wjSQdGSYmunIBkJVfRubfqf9VPQ&usqp=CAU","url": "https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8"},
 
 {"name":"Sexy Kpop TV",image:"https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png","url": "https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8"},
@@ -63,8 +61,6 @@
 {"name":"Classica",image:"http://cdn.teleon.tv/logo/classica-us.png","url": "http://player.teleon.tv/us/channel/classica-us"},
 
 {"name":"CMT Equal Play",image:"https://www.cmtequalplay.com/wp-content/uploads/2020/02/fb-og-image.jpg","url": "http://player.teleon.tv/us/channel/cmt-equal-play-us"},
-
-{"name":"Latido Music",image:"https://www.creativecontentwire.com/wp-content/uploads/2019/06/Latidologo.jpg","url": "http://player.teleon.tv/us/channel/latido-music-us"},
 
 {"name":"Live Music Replay",image:"https://img1.wsimg.com/isteam/ip/57a25962-ba5c-4687-8a11-8c013d15f036/LivemusicReplay.jpg/:/rs=w:1280","url": "http://player.teleon.tv/us/channel/live-music-replay-us"},
 
@@ -122,7 +118,7 @@
 
 {"name":"OCKO STAR TV",image:"https://live-tv-channels.org/pt-data/uploads/logo/cz-ocko-star-6827.jpg","url": "http://infoua.biz/en/tvchannels/music/43"},
 
-{"name":"PORTAL FOXMIX",image:"http://www.portalfoxmix.cl/radioenvivo/images/recta-pfm-tv.png","url": "http://infoua.biz/en/tvchannels/music/166"},
+{"name":"PORTAL FOXMIX",image:"http://www.portalfoxmix.cl/radioenvivo/images/recta-pfm-tv.png","url": "https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8"},
 
 {"name":"1HD MUSIC TELEVISION",image:"https://it.live-tv-channels.org/pt-data/uploads/logo/ru-1hd-music-6104.jpg","url": "http://infoua.biz/en/tvchannels/music/352"},
 
@@ -146,8 +142,6 @@
 
 {"name":"RADIO CAPITAL TV",image:"https://www.capital.it/wp-content/themes/network-capital/img/logo_capital_1024x1024.png","url": "http://infoua.biz/en/tvchannels/music/420"},
 
-{"name":"Stingray Djazz",image:"https://upload.wikimedia.org/wikipedia/commons/1/14/Stingray_Djazz.png","url": "https://stirr.ott-channels.stingray.com/djazz/master.m3u8"},
-
 {"name":"COUNTRY MUSIC ENTERTAINMENT",image:"https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2021-02/country-music-entertainment-255px.jpg?itok=YGTfos8x","url": "https://www.countrymusicentertainment.com/watch-live"},
 
 {"name":"MTV Love",image:"https://www.itizaps.net/zapper/logo/b/mtv-love.png","url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=8ad1&deviceDNT=0&deviceModel=0"},
@@ -165,8 +159,6 @@
 {"name":"Zapping Music",image:"http://tv-online.cl/zapping-music-en-vivo.jpg?210107074116","url": "https://www.nettvpro.live/en/play.php?aid=10624"},
 
 {"name":"ท็อปไลน์ทีวี",image:"https://img.discogs.com/e2xrTZ252SwHykQt3yNRhfLPwzM=/fit-in/600x478/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/L-760860-1416055901-2641.jpeg.jpg","url": "http://toplinetv.com/"},
-
-{"name":"MTV Hits Europe",image:"https://i.imgur.com/PN1wjtJ.jpeg","url": "http://188.40.68.167/russia/mtv_hits/playlist.m3u8"},
 
 {"name":"MusicTop",image:"https://www.diario26.com/images/musictop_logo.png?3","url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"},
 
