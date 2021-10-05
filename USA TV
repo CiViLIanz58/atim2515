@@ -16,15 +16,13 @@
 
 {"name":"Atlanta Channel",image:"https://image.roku.com/developer_channels/prod/04108b0d177afdddd43e321db231eeeb22addc8e37665b2c29e15800ad3b69a1.png","url": "http://player.teleon.tv/us/channel/atlanta-channel"},
 
-{"name":"AWE Plus",image:"https://a.jsrdn.com/hls/22866/awe-encore/thumbh_20210113_005834.jpg","url": "http://player.teleon.tv/us/channel/awe-plus-us"},
-
 {"name":"Catholic TV",image:"https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png","url": "http://player.teleon.tv/us/channel/catholic-tv"},
 
 {"name":"CBN Family",image:"https://www.cbn.com/partners/video/img/cbn-partners-og.jpg?v=1","url": "http://player.teleon.tv/us/channel/cbn-family-us"},
 
 {"name":"Court TV",image:"https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png","url": "http://player.teleon.tv/us/channel/court-tv-us"},
 
-{"name":"Crime 360",image:"https://pbs.twimg.com/media/Ek8w8-KUYAAhciV.jpg","url": "http://player.teleon.tv/us/channel/crime-360-us"},
+{"name":"Crime 360",image:"https://pbs.twimg.com/media/Ek8w8-KUYAAhciV.jpg","url": "https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8"},
 
 {"name":"Divorce Court",image:"https://www.pngkey.com/png/detail/200-2006981_57e-divorce-court-logo.png","url": "http://player.teleon.tv/us/channel/divorce-court-us"},
 
@@ -40,7 +38,7 @@
 
 {"name":"Johnny Carson TV",image:"https://shoutfactorytvlive.com/userFiles/uploads/JCARTV/JCARTV_Logo.png","url": "http://player.teleon.tv/us/channel/johnny-carson-tv-us"},
 
-{"name":"Judge Faith",image:"https://storage.googleapis.com/btvwp-uploads/2017/12/30e46cbf-judgefaith_showimage.png","url": "http://player.teleon.tv/us/channel/judge-faith-us"},
+{"name":"Judge Faith",image:"https://storage.googleapis.com/btvwp-uploads/2017/12/30e46cbf-judgefaith_showimage.png","url": "https://judge-faith-1.vizio.wurl.com/manifest/playlist.m3u8"},
 
 {"name":"Judge Karen's Court",image:"https://static.wikia.nocookie.net/logopedia/images/2/23/Judge_Karen.jpg/revision/latest?cb=20150109000720","url": "http://player.teleon.tv/us/channel/judge-karens-court-us"},
 
@@ -98,9 +96,7 @@
 
 {"name":"PeopleTV",image:"https://poster.starhubgo.com/Linear_channels2/440_1920x1080_HTV.png","url": "https://www.nettvpro.live/en/play.php?aid=9552"},
 
-{"name":"Court TV Mystery",image:"https://www.marathonventures.com/images/portfolio/escape_i.jpg","url": "https://www.nettvpro.live/en/play.php?aid=9851"},
-
-{"name":"Z Living",image:"https://cdn.tvpassport.com/image/station/240x135/zlivingtv.png","url": "https://www.nettvpro.live/en/play.php?aid=7866"},
+{"name":"Court TV Mystery",image:"https://www.marathonventures.com/images/portfolio/escape_i.jpg","url": "https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8"},
 
 {"name":"Youtoo America",image:"https://www.pressrelease.com/files/8c/fc/c77e07b44591af48c053840ab391.jpg","url": "https://thegateway.app/YouToo/CueTones/playlist.m3u8"},
 
