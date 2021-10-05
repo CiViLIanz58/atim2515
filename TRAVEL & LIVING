@@ -12,8 +12,6 @@
 
 {"name":"FOX Soul",image:"https://image.roku.com/developer_channels/prod/98de6b5d6ae0e4caa4a60be5686d23f56632a857e6315cca0cb7a6387cda51e4.png","url": "http://fox-foxsoul-roku.amagi.tv/playlist.m3u8"},
 
-{"name":"Adventure TV",image:"http://cdn.teleon.tv/logo/adventure-tv-us.png","url": "http://player.teleon.tv/us/channel/adventure-tv-us"},
-
 {"name":"Antiques Roadshow UK",image:"https://static.wikia.nocookie.net/familyguyfanon/images/1/1c/Antique%27s_Roadshow.jpg/revision/latest?cb=20191215055245","url": "http://player.teleon.tv/us/channel/antiques-roadshow-uk-us"},
 
 {"name":"BBC Home",image:"https://pbs.twimg.com/media/EsHAoO_VcAEQCMp.jpg","url": "http://player.teleon.tv/us/channel/bbc-home-us"},
@@ -22,13 +20,13 @@
 
 {"name":"HGTV",image:"https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png","url": "https://ustvgo.tv/hgtv-live-streaming-free/"},
 
-{"name":"Outdoor Channel",image:"https://seeklogo.com/images/O/outdoor-channel-logo-60FA601E68-seeklogo.com.png","url": "https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8"},
+{"name":"Outdoor Channel",image:"https://seeklogo.com/images/O/outdoor-channel-logo-60FA601E68-seeklogo.com.png","url": "https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8"},
 
 {"name":"Pluto TV Backcountry",image:"https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur","url": "http://player.teleon.tv/us/channel/pluto-tv-backcountry-us"},
 
 {"name":"Pluto TV Best Life",image:"https://pbs.twimg.com/media/EgW8aJYVAAMmBvo.jpg","url": "http://player.teleon.tv/us/channel/pluto-tv-best-life-us"},
 
-{"name":"The Design Network",image:"https://vhx.imgix.net/thedesignnetwork1/assets/e1435809-0f59-4777-9a60-9b9353bfab74-26f68a54.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280","url": "https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8"},
+{"name":"The Design Network",image:"https://vhx.imgix.net/thedesignnetwork1/assets/e1435809-0f59-4777-9a60-9b9353bfab74-26f68a54.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280","url": "https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8"},
 
 {"name":"Harley Davidson TV",image:"https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true","url": "https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8"},
 
@@ -38,7 +36,7 @@
 
 {"name":"Hunt Channel",image:"https://images-na.ssl-images-amazon.com/images/I/91LRFA6-1BL.jpg","url": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8"},
 
-{"name":"The Boat Show",image:"https://d14c63magvk61v.cloudfront.net/hls/22706/the-boat-show/poster_20200129_002936.jpg","url": "https://vitor-theboatshow-1.plex.wurl.com/manifest/playlist.m3u8"},
+{"name":"The Boat Show",image:"https://d14c63magvk61v.cloudfront.net/hls/22706/the-boat-show/poster_20200129_002936.jpg","url": "https://a.jsrdn.com/broadcast/256ccf645e/+0000/c.m3u8"},
 
 {"name":"This Old House",image:"https://diy.sndimg.com/content/dam/images/diy/editorial/shows/this-old-house/ThisOldHouse_4x3.jpg.rend.hgtvcom.616.462.suffix/1602872159468.jpeg","url": "https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8"},
 
@@ -54,8 +52,6 @@
 
 {"name":"Dogs 24/7",image:"https://i.ytimg.com/vi/nOEDPQ1BjxA/maxresdefault.jpg","url": "http://player.teleon.tv/us/channel/dogs-247-us"},
 
-{"name":"Electric Now",image:"https://play-lh.googleusercontent.com/X87fItjezrBdy-rMHv-T0Q03QIBa_oHDUQfH6uz4ARVhAuk_13kKuVxe_jwH2rBF1Aw","url": "http://player.teleon.tv/us/channel/electric-now-us"},
-
 {"name":"Forests Live",image:"https://scx2.b-cdn.net/gfx/news/hires/2011/423palminrainforestcrop(main).jpg","url": "http://player.teleon.tv/us/channel/forests-live-us"},
 
 {"name":"Lakes Live",image:"https://media.california.com/media/_versions/articles/best_lakes_to_live_on_in_california__4272x2848___v1222x580.jpg","url": "http://player.teleon.tv/us/channel/lakes-live-us"},
@@ -64,7 +60,7 @@
 
 {"name":"Little Baby Bum",image:"https://www.westendtheatre.com/wp-content/uploads/2019/07/LBB-2019q3.jpg","url": "http://player.teleon.tv/us/channel/little-baby-bum-us"},
 
-{"name":"Lively Place",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcv6hioK7x0ybzCO5qoFfz_07WgjHOVwr-Qpe8dAWDDwfX8Ad9kV9yIB4rBVoI2MPDe8&usqp=CAU","url": "http://player.teleon.tv/us/channel/lively-place-us"},
+{"name":"Lively Place",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcv6hioK7x0ybzCO5qoFfz_07WgjHOVwr-Qpe8dAWDDwfX8Ad9kV9yIB4rBVoI2MPDe8&usqp=CAU","url": "https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8"},
 
 {"name":"Loupe",image:"https://images-na.ssl-images-amazon.com/images/I/91JUvf8-9RL.png","url": "http://player.teleon.tv/us/channel/loupe-us"},
 
@@ -116,11 +112,7 @@
 
 {"name":"TastyTrade TV",image:"https://tastytradepublicmedia.s3.amazonaws.com/assets/logos/tt-logo-original-05e5dd25021223dff0203915ecdc9375.png","url": "https://www.nettvpro.live/en/play.php?aid=7854"},
 
-{"name":"GoUSA TV",image:"https://www.thebrandusa.com/sites/default/files/news/images/gousa-tv%20.jpg","url": "https://www.nettvpro.live/en/play.php?aid=9971"},
-
 {"name":"Chic Magazine TV",image:"https://www.chicmagazine.com.mx/bundles/appcamusassets/images/chic_monograma.jpg","url": "https://www.nettvpro.live/en/play.php?aid=10616"},
-
-{"name":"Unearth",image:"https://tvscorecards.com/wp-content/uploads/2017/03/unearthrfd-e1572471719570-wpcf_668x400.jpg","url": "https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8"},
 
 {"name":"Pluto TV People are Awesome",image:"https://www.tubefilter.com/wp-content/uploads/2017/08/people-are-awesome.jpg","url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e54169f4b9b25000994a303/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"},
 
