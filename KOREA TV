@@ -12,8 +12,6 @@
 
 {"name":"ARIRANG Korea",image:"https://www.omnitv.ca/wp-content/uploads/2013/11/628_arirangkorea.jpg","url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8"},
 
-{"name":"SBS",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png","url": "https://www.nettv.live/Asia/Korea/4821.html"},
-
 {"name":"EBS 1",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9HHrrqn52ZKV8Okr2EeRfQE_V7O9nuynP4etxLFJdnB89U4VRBCTJCdpbyMUJeStxSLw&usqp=CAU","url": "http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8"},
 
 {"name":"EBS 2",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/1200px-EBS_2TV_Logo.svg.png","url": "http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8"},
