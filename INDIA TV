@@ -31,6 +31,24 @@
 {"name":"DD Sports",image:"https://static.wikia.nocookie.net/logopedia/images/8/82/Watch-DD-Sports-TV-Live-Online.jpeg/revision/latest?cb=20160805130411","url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"},
 
 {"name":"Steelbird Music",image:"https://i.ytimg.com/vi/xzDqVQObyYw/maxresdefault.jpg","url": "http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8"},
+
+{"name":"ABP NEWS",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-AFqdt2K_dzMattk5HCUFAg-Iux_mv_Rx-TnlIVfQxSIMhKcloNxXDbLv_lPw73pMjkI&usqp=CAU","url": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8"},
+
+{"name":"AAJ TAK TEZ",image:"https://cdn-radiotime-logos.tunein.com/s222044d.png","url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"},
+
+{"name":"SONY SAB",image:"https://i.postimg.cc/Xq4SbbCF/4867316278001.png","url": "https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8"},
+
+{"name":"Sony Entertainment",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SET_Asia_logo.svg/210px-SET_Asia_logo.svg.png","url": "https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8"},
+
+{"name":"Zee Cinema UK",image:"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png","url": "https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8"},
+
+{"name":"Zee Magic",image:"https://upload.wikimedia.org/wikipedia/commons/4/40/ZEEMagicLogo.jpg","url": "https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8"},
+
+{"name":"Zee5 Romance",image:"https://s3images.zee5.com/wp-content/uploads/sites/7/2020/08/Zee5-Logo_v02-2.jpg","url": "https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8"},
+
+{"name":"ZeeBioskop",image:"https://i.imgur.com/CdXieB6.png","url": "http://210.210.155.35/qwr9ew/s/s32/index.m3u8"},
+
+{"name":"BFlix Movies",image:"https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430","url": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8"},
     
 ]
 }
