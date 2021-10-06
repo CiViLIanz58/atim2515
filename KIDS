@@ -119,5 +119,7 @@
 {"name":"Nick Jr.",image:"https://www.groundedreason.com/wp-content/uploads/2021/04/nick_jr-1024x576.png","url": "https://www.we-play.live/watching/tv/nickelodeon"},
 
 {"name":"Cartoon Network",image:"https://www.paho.org/sites/default/files/styles/max_650x650/public/2020-09/cartoon-network-1500-2_0_0.jpg?itok=Tci6lftu","url": "https://we-play.live/watching/tv/cartoon-network"},
+
+{"name":"Baby TV",image:"http://epg.51zmt.top:8000/tb1/gt/BabyTV.png","url": "http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8"},
 ]
 }
