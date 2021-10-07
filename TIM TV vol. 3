@@ -1,7 +1,25 @@
+#EXTM3U
+ 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13",Galaxy
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png",Galaxy Premium
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0
 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png",SBS
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://kmug.co.kr/data/file/design/data_design_%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2015_04_29_%EC%98%A4%ED%9B%84_4.45.20.png",SBS PLUS
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png",SBS STAR
+https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/South_Korea_film_clapperboard.svg/480px-South_Korea_film_clapperboard.svg.png",New K-Movies
+https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.pinimg.com/originals/08/32/9c/08329c12f37cd67e04dfbbc7d7698b8a.jpg",JTBC
+http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://docs.google.com/uc?export=download&id=1QKYGQ6zRS6GxbNu8Yc0XCltCEepGHE3T",SBS GOLF
+http://sbss.love.sky-media.tk/index.php?id=S05
