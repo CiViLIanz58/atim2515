@@ -49,6 +49,8 @@
 {"name":"ZeeBioskop",image:"https://i.imgur.com/CdXieB6.png","url": "http://210.210.155.35/qwr9ew/s/s32/index.m3u8"},
 
 {"name":"BFlix Movies",image:"https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430","url": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8"},
+
+{"name":"WOWCinemaOne",image:"https://dthorder.com/wp-content/uploads/channel/hindi-movies/wow-cinema-one.gif","url": "https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8"},
     
 ]
 }
