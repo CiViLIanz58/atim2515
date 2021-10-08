@@ -34,7 +34,25 @@
 
 {"name":"唯心電視",image:"http://epg.51zmt.top:8000/tb1/gt/weixin.png","url": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"},
 
+{"name":"爱尔达体育1",image:"http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png","url": "rtmp://59.124.75.153/sat/md011"},
 
+{"name":"爱尔达体育2",image:"http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png","url": "rtmp://59.124.75.153/sat/md031"},
+
+{"name":"爱尔达体育3",image:"http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png","url": "rtmp://59.124.75.153/sat/md051"},
+
+{"name":"纬来体育台",image:"http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png","url": "rtmp://59.124.75.153/sat/tv721"},
+
+{"name":"ELEVEN1",image:"https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk.jpg","url": "rtmp://59.124.75.153:1935/sat/tv731"},
+
+{"name":"ELEVEN2",image:"http://epg.51zmt.top:8000/tb1/gt/elevensports2.png","url": "rtmp://59.124.75.153:1935/sat/tv741"},
+
+{"name":"新视觉",image:"http://epg.51zmt.top:8000/tb1/qt/xinshijue.png","url": "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8"},
+
+{"name":"劲爆体育",image:"http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg","url": "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8"},
+
+{"name":"魅力足球",image:"http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png","url": "http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8"},
+
+{"name":"Sportcast Tennis Channel",image:"https://www.tvchinese.net/uploads/tv/sportcast3.jpg","url": "rtmp://59.124.75.153/sat/md021"},
     
 ]
 }
