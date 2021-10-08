@@ -109,6 +109,8 @@
 {"name":"辽宁卫视 HD",image:"http://epg.51zmt.top:8000/tb1/ws/liaoning.png","url": "http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8"},
 
 {"name":"黑龙江卫视 HD",image:"http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png","url": "http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8"},
+
+{"name":"冬奥纪实",image:"http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png","url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8"},
     
 ]
 }
