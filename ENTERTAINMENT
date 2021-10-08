@@ -8,13 +8,13 @@
 		"stations":[
     
     
-{"name":"ROCK ENTERTAINMENT",image:"https://cms.dmpcdn.com/livetv/2021/08/31/0952f6d0-0a7b-11ec-8f49-f3b4e134aaf5_320.png","url": "https://we-play.live/watching/tv/rock-entertainment"},
+{"name":"ROCK ENTERTAINMENT",image:"https://cms.dmpcdn.com/livetv/2021/08/31/0952f6d0-0a7b-11ec-8f49-f3b4e134aaf5_320.png","url": "http://210.210.155.35/session.e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/02.m3u8"},
 
 {"name":"AXN",image:"https://tvinfo.in/wp-content/uploads/2021/01/axn.png","url": "https://we-play.live/watching/tv/axn-hd"},
 
 {"name":"Pluto TV Celebrity",image:"https://pbs.twimg.com/media/EM1d5Y5U4AEX--z.jpg","url": "http://player.teleon.tv/us/channel/pluto-tv-celebrity-us"},
 
-{"name":"Rock Extreme",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rock_Extreme.png/1200px-Rock_Extreme.png","url": "https://we-play.live/watching/tv/rock-extreme"},
+{"name":"Rock Extreme",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rock_Extreme.png/1200px-Rock_Extreme.png","url": "http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8"},
 
 {"name":"AFV Family",image:"http://cdn.teleon.tv/logo/afv-family-us.png","url": "http://player.teleon.tv/us/channel/afv-family-us"},
 
