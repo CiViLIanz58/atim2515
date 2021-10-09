@@ -467,5 +467,9 @@
 {"name": "CCM","image": "https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" ,"url": "http://210.210.155.35/qwr9ew/s/s31/index.m3u8"},
 
 {"name": "Celestial Movies","image": "https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg" ,"url": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8"},
+
+{"name": "Hits","image": "https://cms.cignal.tv/Upload/Images/Hits.png" ,"url": "https://we-play.live/watching/tv/hits"},
+
+{"name": "Fox Life","image": "https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ffoxlife_1200.png" ,"url": "http://37.99.5.234/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8"},
 ]
 }
