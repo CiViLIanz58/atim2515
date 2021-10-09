@@ -18,13 +18,7 @@
 
 {"name":"BBC Earth",image:"https://lh3.googleusercontent.com/S2aGpd9ML5O_GiUQusd4ssSWO8YH51HQx_ArcKxEwvLSHdDd7EU5D5n1QgOt8o09EptA","url": "https://www.doofree88.com/live/bbc-earth"},
 
-{
-        "name": "True Explore Wild",
-        "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240",
-       "url": "https://tv.trueid.net/embed/true-explore-wild?autoplay=yes&nopageview=yes",
-   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-   "desktop": "true"
-},
+{"name":"National Geographic Abu Dhabi",image:"https://upload.wikimedia.org/wikipedia/commons/f/fc/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png","url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8"},
 
 {"name":"ทรูปลูกปัญญา",image:"http://www.trueplookpanya.com/new/cutcenter/re/600/400/2013-hash_thumbnail-1373-25373/thumbnail_141253732961.png","url": "http://www.trueplookpanya.com/new/tv_live/"},
 
@@ -71,6 +65,8 @@
 {"name":"Spark Tv",image:"https://i.ytimg.com/vi/wA7D0MBqymc/maxresdefault.jpg","url": "https://sparktv-samsunguk.amagi.tv/playlist.m3u8"},
 
 {"name":"Amazing Discoveries TV",image:"https://image.roku.com/developer_channels/prod/5da3658a31ea9d21cbfabd6e32c5568e7d7fe4d9238d231782d27cb78600e187.png","url": "http://streamstat.net/videoplayer.cgi?sid=116370345&ext=.m3u8"},
+
+{"name":"National Geographic Wild Russia",image:"https://download.logo.wine/logo/Nat_Geo_Wild/Nat_Geo_Wild-Logo.wine.png","url": "https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8"},
 
 ]
 }
