@@ -16,9 +16,15 @@
 
 {"name":"History",image:"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_247.png?itok=uDhBoR91","url": "https://we-play.live/watching/tv/history-hd"},
 
-{"name":"National Geographic",image:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png","url": "https://we-play.live/watching/tv/national-geographic"},
+{"name":"BBC Earth",image:"https://lh3.googleusercontent.com/S2aGpd9ML5O_GiUQusd4ssSWO8YH51HQx_ArcKxEwvLSHdDd7EU5D5n1QgOt8o09EptA","url": "https://www.doofree88.com/live/bbc-earth"},
 
-{"name":"Nat Geo Wild",image:"https://i.pinimg.com/originals/0e/1b/89/0e1b89a4f2fa743ddf63c661eac2d2c3.jpg","url": "https://we-play.live/watching/tv/nat-geo-wild"},
+{
+        "name": "True Explore Wild",
+        "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240",
+       "url": "https://tv.trueid.net/embed/true-explore-wild?autoplay=yes&nopageview=yes",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+   "desktop": "true"
+},
 
 {"name":"ทรูปลูกปัญญา",image:"http://www.trueplookpanya.com/new/cutcenter/re/600/400/2013-hash_thumbnail-1373-25373/thumbnail_141253732961.png","url": "http://www.trueplookpanya.com/new/tv_live/"},
 
